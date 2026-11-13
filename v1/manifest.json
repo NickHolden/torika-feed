@@ -1,6 +1,6 @@
 {
  "schema": 1,
- "built": "2026-11-13T18:37:54Z",
+ "built": "2026-11-13T18:51:51Z",
  "sections": {
   "raids": {
    "file": "raids.json",
@@ -39,7 +39,7 @@
   },
   "events": {
    "file": "events.json",
-   "hash": "sha256-6cd991efded174d2bb069ed82db5209fc0cd1a2c4fcf64e24c0fd5d0ad5135e8",
+   "hash": "sha256-faa27614d8335faf2f5556031862e1f649ba4615a29524a24f22ed5a2a31428d",
    "count": 48,
    "lastGood": "2026-11-13",
    "stale": false

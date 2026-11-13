@@ -17,13 +17,16 @@
    "venueOffset": null,
    "bonuses": [],
    "times": [],
+   "notes": [],
+   "daily": null,
+   "promoCodes": [],
    "encounters": [],
    "research": [],
    "sources": [
     {
      "name": "LeekDuck",
      "url": "https://leekduck.com/events/gbl-twilight-trails_great-league-mega-edition_ultra-league-mega-edition_master-league-mega-edition-split-3/",
-     "read": "2026-11-13T18:37:54Z"
+     "read": "2026-11-13T18:51:51Z"
     }
    ],
    "listed": true
@@ -69,6 +72,18 @@
      ]
     }
    ],
+   "notes": [
+    {
+     "title": "Wild",
+     "text": "These Pokémon will appear more often in the wild at the event venue."
+    },
+    {
+     "title": "Wild",
+     "text": "You may also encounter these rarer Pokémon."
+    }
+   ],
+   "daily": null,
+   "promoCodes": [],
    "encounters": [
     {
      "group": "Wild",
@@ -181,7 +196,7 @@
     {
      "name": "LeekDuck",
      "url": "https://leekduck.com/events/pokemon-night-out-london-2026/",
-     "read": "2026-11-13T18:37:54Z"
+     "read": "2026-11-13T18:51:51Z"
     }
    ],
    "listed": true
@@ -354,6 +369,18 @@
      ]
     }
    ],
+   "notes": [
+    {
+     "title": "Wild",
+     "text": "The following Pokémon will appear more frequently in the wild, along with other event-themed Pokémon."
+    },
+    {
+     "title": "Max Battles",
+     "text": "The following Dynamax Pokémon will appear in Max Battles. Pokémon appearing in five-star Max Battles will also be featured in Max Battles from 6:00 p.m. to 7:00 p.m. local time for one day each on the following schedule."
+    }
+   ],
+   "daily": null,
+   "promoCodes": [],
    "encounters": [
     {
      "group": "Wild",
@@ -770,7 +797,7 @@
     {
      "name": "LeekDuck",
      "url": "https://leekduck.com/events/into-the-wild-2026/",
-     "read": "2026-11-13T18:37:54Z"
+     "read": "2026-11-13T18:51:51Z"
     }
    ],
    "listed": true
@@ -797,6 +824,9 @@
    "venueOffset": null,
    "bonuses": [],
    "times": [],
+   "notes": [],
+   "daily": null,
+   "promoCodes": [],
    "encounters": [
     {
      "group": "Raids",
@@ -819,7 +849,7 @@
     {
      "name": "LeekDuck",
      "url": "https://leekduck.com/events/zacian-crowned-sword-zamazenta-crowned-shield-in-5-star-raid-battles-november-2026/",
-     "read": "2026-11-13T18:37:54Z"
+     "read": "2026-11-13T18:51:51Z"
     }
    ],
    "listed": true
@@ -1070,6 +1100,34 @@
      ]
     }
    ],
+   "notes": [
+    {
+     "title": "Solid as Steel Hour",
+     "text": "Steel- and Dragon-themed encounters rotate hourly from 10:00 a.m. to 6:00 p.m. on both event days."
+    },
+    {
+     "title": "Mighty Pokémon",
+     "text": "Mighty Pokémon are more likely to have high Attack, Defense, and HP ratings and be XL or XXL. They are harder to catch, and some may be Shiny. GO Safari Balls improve your chances of catching them."
+    },
+    {
+     "title": "Mighty Pokémon",
+     "text": "The wild mighty Pokémon lineup changes each day."
+    },
+    {
+     "title": "Incense Encounters",
+     "text": "All Trainers can attract these mighty Pokémon on both event days. These encounters exclude Daily Adventure Incense."
+    },
+    {
+     "title": "Ticket Holder Incense Encounters",
+     "text": "Ticket holders can also attract the following Unown on both days."
+    },
+    {
+     "title": "Ticket Holder Incense Encounters",
+     "text": "Lucky ticket holders may also encounter these mighty Legendary Pokémon from Incense:"
+    }
+   ],
+   "daily": null,
+   "promoCodes": [],
    "encounters": [
     {
      "group": "Solid as Steel Hour",
@@ -1542,7 +1600,7 @@
     {
      "name": "LeekDuck",
      "url": "https://leekduck.com/events/pokemon-go-wild-area-2026-global/",
-     "read": "2026-11-13T18:37:54Z"
+     "read": "2026-11-13T18:51:51Z"
     }
    ],
    "listed": true
@@ -1569,13 +1627,16 @@
    "venueOffset": null,
    "bonuses": [],
    "times": [],
+   "notes": [],
+   "daily": null,
+   "promoCodes": [],
    "encounters": [],
    "research": [],
    "sources": [
     {
      "name": "LeekDuck",
      "url": "https://leekduck.com/events/go-wild-area-gigantamax-machamp-power-up-timed-research/",
-     "read": "2026-11-13T18:37:54Z"
+     "read": "2026-11-13T18:51:51Z"
     }
    ],
    "listed": true
@@ -1602,13 +1663,16 @@
    "venueOffset": null,
    "bonuses": [],
    "times": [],
+   "notes": [],
+   "daily": null,
+   "promoCodes": [],
    "encounters": [],
    "research": [],
    "sources": [
     {
      "name": "LeekDuck",
      "url": "https://leekduck.com/events/max-mondays-2026-11-16/",
-     "read": "2026-11-13T18:37:54Z"
+     "read": "2026-11-13T18:51:51Z"
     }
    ],
    "listed": true
@@ -1635,13 +1699,16 @@
    "venueOffset": null,
    "bonuses": [],
    "times": [],
+   "notes": [],
+   "daily": null,
+   "promoCodes": [],
    "encounters": [],
    "research": [],
    "sources": [
     {
      "name": "LeekDuck",
      "url": "https://leekduck.com/events/gbl-twilight-trails_great-league_ultra-league-mega-edition_2026-go-laic-cup/",
-     "read": "2026-11-13T18:37:54Z"
+     "read": "2026-11-13T18:51:51Z"
     }
    ],
    "listed": true
@@ -1668,13 +1735,16 @@
    "venueOffset": null,
    "bonuses": [],
    "times": [],
+   "notes": [],
+   "daily": null,
+   "promoCodes": [],
    "encounters": [],
    "research": [],
    "sources": [
     {
      "name": "LeekDuck",
      "url": "https://leekduck.com/events/raidhour20261118/",
-     "read": "2026-11-13T18:37:54Z"
+     "read": "2026-11-13T18:51:51Z"
     }
    ],
    "listed": true
@@ -1710,6 +1780,14 @@
     }
    ],
    "times": [],
+   "notes": [
+    {
+     "title": "Wild",
+     "text": "The following Pokémon will appear more frequently in the wild."
+    }
+   ],
+   "daily": null,
+   "promoCodes": [],
    "encounters": [
     {
      "group": "Wild",
@@ -1737,7 +1815,7 @@
     {
      "name": "LeekDuck",
      "url": "https://leekduck.com/events/pokemonspotlighthour2026-11-19/",
-     "read": "2026-11-13T18:37:54Z"
+     "read": "2026-11-13T18:51:51Z"
     }
    ],
    "listed": true
@@ -1803,6 +1881,18 @@
      ]
     }
    ],
+   "notes": [
+    {
+     "title": "Wild Encounters",
+     "text": "You may encounter Minior in its Meteor Form in the wild during the event. You’ll receive 1,000 Stardust for catching Minior."
+    },
+    {
+     "title": "Wild Encounters",
+     "text": "Minior encounters are more likely from 5:00 p.m. to 9:00 p.m. local time each day."
+    }
+   ],
+   "daily": null,
+   "promoCodes": [],
    "encounters": [
     {
      "group": "Wild Encounters",
@@ -1822,7 +1912,7 @@
     {
      "name": "LeekDuck",
      "url": "https://leekduck.com/events/minior-showers-leonids-2026/",
-     "read": "2026-11-13T18:37:54Z"
+     "read": "2026-11-13T18:51:51Z"
     }
    ],
    "listed": true
@@ -1862,6 +1952,9 @@
     }
    ],
    "times": [],
+   "notes": [],
+   "daily": null,
+   "promoCodes": [],
    "encounters": [
     {
      "group": "Max Battles",
@@ -1881,7 +1974,7 @@
     {
      "name": "LeekDuck",
      "url": "https://leekduck.com/events/eternamax-eternatus-max-battles-2026/",
-     "read": "2026-11-13T18:37:54Z"
+     "read": "2026-11-13T18:51:51Z"
     }
    ],
    "listed": true
@@ -1928,6 +2021,14 @@
     }
    ],
    "times": [],
+   "notes": [
+    {
+     "title": "Wild",
+     "text": "Pawniard will appear more frequently in the wild. If you’re lucky, you might encounter a Shiny one or one that has a Special Background!"
+    }
+   ],
+   "daily": null,
+   "promoCodes": [],
    "encounters": [
     {
      "group": "Wild",
@@ -2220,7 +2321,7 @@
     {
      "name": "LeekDuck",
      "url": "https://leekduck.com/events/november-communityday2026/",
-     "read": "2026-11-13T18:37:54Z"
+     "read": "2026-11-13T18:51:51Z"
     }
    ],
    "listed": true
@@ -2259,13 +2360,25 @@
     }
    ],
    "times": [],
+   "notes": [
+    {
+     "title": "Wild",
+     "text": "Event-themed Pokémon will appear in the wild, including any Pokémon that has debuted in Dynamax Max Battles, excluding Legendary and Mythical Pokémon."
+    },
+    {
+     "title": "Max Battles",
+     "text": "All Dynamax Pokémon that have previously appeared in Pokémon GO may appear in Max Battles during the event, excluding Legendary and Mythical Pokémon."
+    }
+   ],
+   "daily": null,
+   "promoCodes": [],
    "encounters": [],
    "research": [],
    "sources": [
     {
      "name": "LeekDuck",
      "url": "https://leekduck.com/events/dynamax-trails-2026/",
-     "read": "2026-11-13T18:37:54Z"
+     "read": "2026-11-13T18:51:51Z"
     }
    ],
    "listed": true
@@ -2292,13 +2405,16 @@
    "venueOffset": null,
    "bonuses": [],
    "times": [],
+   "notes": [],
+   "daily": null,
+   "promoCodes": [],
    "encounters": [],
    "research": [],
    "sources": [
     {
      "name": "LeekDuck",
      "url": "https://leekduck.com/events/max-mondays-2026-11-23/",
-     "read": "2026-11-13T18:37:54Z"
+     "read": "2026-11-13T18:51:51Z"
     }
    ],
    "listed": true
@@ -2325,6 +2441,9 @@
    "venueOffset": null,
    "bonuses": [],
    "times": [],
+   "notes": [],
+   "daily": null,
+   "promoCodes": [],
    "encounters": [
     {
      "group": "Raids",
@@ -2347,7 +2466,7 @@
     {
      "name": "LeekDuck",
      "url": "https://leekduck.com/events/cresselia-darkrai-in-5-star-raid-battles-november-2026/",
-     "read": "2026-11-13T18:37:54Z"
+     "read": "2026-11-13T18:51:51Z"
     }
    ],
    "listed": true
@@ -2374,6 +2493,9 @@
    "venueOffset": null,
    "bonuses": [],
    "times": [],
+   "notes": [],
+   "daily": null,
+   "promoCodes": [],
    "encounters": [
     {
      "group": "Raids",
@@ -2391,7 +2513,7 @@
     {
      "name": "LeekDuck",
      "url": "https://leekduck.com/events/mega-banette-in-mega-raids-november-2026/",
-     "read": "2026-11-13T18:37:54Z"
+     "read": "2026-11-13T18:51:51Z"
     }
    ],
    "listed": true
@@ -2418,13 +2540,16 @@
    "venueOffset": null,
    "bonuses": [],
    "times": [],
+   "notes": [],
+   "daily": null,
+   "promoCodes": [],
    "encounters": [],
    "research": [],
    "sources": [
     {
      "name": "LeekDuck",
      "url": "https://leekduck.com/events/gbl-twilight-trails_ultra-league_master-league-mega-edition_2026-go-laic-cup/",
-     "read": "2026-11-13T18:37:54Z"
+     "read": "2026-11-13T18:51:51Z"
     }
    ],
    "listed": true
@@ -2451,13 +2576,16 @@
    "venueOffset": null,
    "bonuses": [],
    "times": [],
+   "notes": [],
+   "daily": null,
+   "promoCodes": [],
    "encounters": [],
    "research": [],
    "sources": [
     {
      "name": "LeekDuck",
      "url": "https://leekduck.com/events/raidhour20261125/",
-     "read": "2026-11-13T18:37:54Z"
+     "read": "2026-11-13T18:51:51Z"
     }
    ],
    "listed": true
@@ -2493,6 +2621,14 @@
     }
    ],
    "times": [],
+   "notes": [
+    {
+     "title": "Wild",
+     "text": "The following Pokémon will appear more frequently in the wild."
+    }
+   ],
+   "daily": null,
+   "promoCodes": [],
    "encounters": [
     {
      "group": "Wild",
@@ -2510,7 +2646,7 @@
     {
      "name": "LeekDuck",
      "url": "https://leekduck.com/events/pokemonspotlighthour2026-11-26/",
-     "read": "2026-11-13T18:37:54Z"
+     "read": "2026-11-13T18:51:51Z"
     }
    ],
    "listed": true
@@ -2579,6 +2715,9 @@
      ]
     }
    ],
+   "notes": [],
+   "daily": null,
+   "promoCodes": [],
    "encounters": [
     {
      "group": "Mega Raids",
@@ -2596,7 +2735,7 @@
     {
      "name": "LeekDuck",
      "url": "https://leekduck.com/events/clefable-super-mega-raid-day-2026/",
-     "read": "2026-11-13T18:37:54Z"
+     "read": "2026-11-13T18:51:51Z"
     }
    ],
    "listed": true
@@ -2652,6 +2791,22 @@
     }
    ],
    "times": [],
+   "notes": [
+    {
+     "title": "Wild",
+     "text": "The following Pokémon will appear in the wild, along with other event-themed Pokémon."
+    },
+    {
+     "title": "Wild",
+     "text": "If you’re lucky, you might also encounter Rockruff!"
+    },
+    {
+     "title": "Wild",
+     "text": "Staryu and Elgyem have an increased chance of being Shiny during the event."
+    }
+   ],
+   "daily": null,
+   "promoCodes": [],
    "encounters": [
     {
      "group": "Wild",
@@ -2734,7 +2889,7 @@
     {
      "name": "LeekDuck",
      "url": "https://leekduck.com/events/twilight-wishes-2026/",
-     "read": "2026-11-13T18:37:54Z"
+     "read": "2026-11-13T18:51:51Z"
     }
    ],
    "listed": true
@@ -2761,13 +2916,16 @@
    "venueOffset": null,
    "bonuses": [],
    "times": [],
+   "notes": [],
+   "daily": null,
+   "promoCodes": [],
    "encounters": [],
    "research": [],
    "sources": [
     {
      "name": "LeekDuck",
      "url": "https://leekduck.com/events/max-mondays-2026-11-30/",
-     "read": "2026-11-13T18:37:54Z"
+     "read": "2026-11-13T18:51:51Z"
     }
    ],
    "listed": true
@@ -2828,13 +2986,110 @@
     }
    ],
    "times": [],
+   "notes": [],
+   "daily": {
+    "note": "Throughout Twilight Trails, different days of the week will include a Daily Discovery experience. These will be active between 12:00 a.m. and 11:59 p.m. local time unless otherwise stated. Daily Discoveries may change as Scopely Explore experiments with how to make the best experience. Please note: Daily Discoveries will not be available during the week of global GO Fest, GO Wild Area, and GO Tour events. Daily Discoveries will not take place from November 9 through November 15, 2026.",
+    "days": [
+     {
+      "day": "Sunday",
+      "dayOfWeek": 0,
+      "bonuses": [
+       {
+        "title": "Scenic Sunday",
+        "items": [
+         "More Pokémon will appear in the wild!",
+         "More Pokémon will appear while following a Route. Incense will attract even more Pokémon on Routes.",
+         "Reduced distance to earn Buddy Candy while exploring Routes with your Buddy Pokémon.",
+         "Encounter Mateo up to three times each day while on a Route."
+        ]
+       }
+      ],
+      "footnote": null
+     },
+     {
+      "day": "Monday",
+      "dayOfWeek": 1,
+      "bonuses": [
+       {
+        "title": "Max Monday",
+        "items": [
+         "One guaranteed Rare Candy XL for winning in-person Max Battles.",
+         "Power Spots will refresh more frequently.",
+         "Additional Power Spots will be active on Mondays compared to the rest of the week.",
+         "Max Battles will rotate to feature different Dynamax Pokémon."
+        ]
+       }
+      ],
+      "footnote": "Max Battles will be available between 6:00 a.m. and 9:00 p.m. local time. Power Spot availability will be limited outside of Max Mondays and Max Battle Days."
+     },
+     {
+      "day": "Tuesday",
+      "dayOfWeek": 2,
+      "bonuses": [
+       {
+        "title": "Showcase Tuesday",
+        "items": [
+         "Trainers can enter up to five PokéStop Showcases.",
+         "More PokéStops may have PokéStop Showcases."
+        ]
+       }
+      ],
+      "footnote": null
+     },
+     {
+      "day": "Wednesday",
+      "dayOfWeek": 3,
+      "bonuses": [
+       {
+        "title": "Raid Hour",
+        "items": [
+         "One Rare Candy XL for completing in-person Raid Battles.",
+         "Raid Bosses for five-star raids and Mega Raids will rotate at the start of the day each week.",
+         "Raid Hours will continue to feature the five-star Raid Boss between 6:00 p.m. and 7:00 p.m. local time."
+        ]
+       }
+      ],
+      "footnote": null
+     },
+     {
+      "day": "Thursday",
+      "dayOfWeek": 4,
+      "bonuses": [
+       {
+        "title": "GO Battle Thursdays and Spotlight Hour",
+        "items": [
+         "Spotlight Hour will return from 6:00 p.m. to 7:00 p.m. local time."
+        ]
+       }
+      ],
+      "footnote": null
+     },
+     {
+      "day": "Friday",
+      "dayOfWeek": 5,
+      "bonuses": [
+       {
+        "title": "Friendship Friday",
+        "items": [
+         "Up to two additional Special Trades.",
+         "Increased chance of Lucky Trade for any trade.",
+         "Trades will require 20% less Stardust.",
+         "Two guaranteed Candy XL from trades (Trainers level 31+)."
+        ]
+       }
+      ],
+      "footnote": "These bonuses only apply to in-person trades."
+     }
+    ]
+   },
+   "promoCodes": [],
    "encounters": [],
    "research": [],
    "sources": [
     {
      "name": "LeekDuck",
      "url": "https://leekduck.com/events/season-24-twilight-trails/",
-     "read": "2026-11-13T18:37:54Z"
+     "read": "2026-11-13T18:51:51Z"
     }
    ],
    "listed": true
@@ -2861,13 +3116,16 @@
    "venueOffset": null,
    "bonuses": [],
    "times": [],
+   "notes": [],
+   "daily": null,
+   "promoCodes": [],
    "encounters": [],
    "research": [],
    "sources": [
     {
      "name": "LeekDuck",
      "url": "https://leekduck.com/events/go-pass-november-2026/",
-     "read": "2026-11-13T18:37:54Z"
+     "read": "2026-11-13T18:51:51Z"
     }
    ],
    "listed": true
@@ -2894,13 +3152,16 @@
    "venueOffset": null,
    "bonuses": [],
    "times": [],
+   "notes": [],
+   "daily": null,
+   "promoCodes": [],
    "encounters": [],
    "research": [],
    "sources": [
     {
      "name": "LeekDuck",
      "url": "https://leekduck.com/events/gbl-twilight-trails_master-league_mega-catch-cup-great-league-edition/",
-     "read": "2026-11-13T18:37:54Z"
+     "read": "2026-11-13T18:51:51Z"
     }
    ],
    "listed": true
@@ -2927,6 +3188,9 @@
    "venueOffset": null,
    "bonuses": [],
    "times": [],
+   "notes": [],
+   "daily": null,
+   "promoCodes": [],
    "encounters": [
     {
      "group": "Raids",
@@ -2944,7 +3208,7 @@
     {
      "name": "LeekDuck",
      "url": "https://leekduck.com/events/shadow-tornadus-incarnate-forme-in-shadow-raids-november-16-2026/",
-     "read": "2026-11-13T18:37:54Z"
+     "read": "2026-11-13T18:51:51Z"
     }
    ],
    "listed": true
@@ -2971,6 +3235,9 @@
    "venueOffset": null,
    "bonuses": [],
    "times": [],
+   "notes": [],
+   "daily": null,
+   "promoCodes": [],
    "encounters": [
     {
      "group": "Raids",
@@ -3003,7 +3270,7 @@
     {
      "name": "LeekDuck",
      "url": "https://leekduck.com/events/deoxys-normal-defense-attack-speed-formes-in-5-star-raid-battles-november-2026/",
-     "read": "2026-11-13T18:37:54Z"
+     "read": "2026-11-13T18:51:51Z"
     }
    ],
    "listed": true
@@ -3030,6 +3297,9 @@
    "venueOffset": null,
    "bonuses": [],
    "times": [],
+   "notes": [],
+   "daily": null,
+   "promoCodes": [],
    "encounters": [
     {
      "group": "Raids",
@@ -3047,7 +3317,7 @@
     {
      "name": "LeekDuck",
      "url": "https://leekduck.com/events/mega-metagross-in-mega-raids-november-2026/",
-     "read": "2026-11-13T18:37:54Z"
+     "read": "2026-11-13T18:51:51Z"
     }
    ],
    "listed": true
@@ -3074,13 +3344,16 @@
    "venueOffset": null,
    "bonuses": [],
    "times": [],
+   "notes": [],
+   "daily": null,
+   "promoCodes": [],
    "encounters": [],
    "research": [],
    "sources": [
     {
      "name": "LeekDuck",
      "url": "https://leekduck.com/events/max-battle-day-december-2026/",
-     "read": "2026-11-13T18:37:54Z"
+     "read": "2026-11-13T18:51:51Z"
     }
    ],
    "listed": true
@@ -3107,13 +3380,16 @@
    "venueOffset": null,
    "bonuses": [],
    "times": [],
+   "notes": [],
+   "daily": null,
+   "promoCodes": [],
    "encounters": [],
    "research": [],
    "sources": [
     {
      "name": "LeekDuck",
      "url": "https://leekduck.com/events/december-communityday2026/",
-     "read": "2026-11-13T18:37:54Z"
+     "read": "2026-11-13T18:51:51Z"
     }
    ],
    "listed": true
@@ -3179,6 +3455,18 @@
      ]
     }
    ],
+   "notes": [
+    {
+     "title": "Wild Encounters",
+     "text": "You may encounter Minior in its Meteor Form in the wild during the event. You’ll receive 1,000 Stardust for catching Minior."
+    },
+    {
+     "title": "Wild Encounters",
+     "text": "Minior encounters are more likely from 5:00 p.m. to 9:00 p.m. local time each day."
+    }
+   ],
+   "daily": null,
+   "promoCodes": [],
    "encounters": [
     {
      "group": "Wild Encounters",
@@ -3198,7 +3486,7 @@
     {
      "name": "LeekDuck",
      "url": "https://leekduck.com/events/minior-showers-geminids-2026/",
-     "read": "2026-11-13T18:37:54Z"
+     "read": "2026-11-13T18:51:51Z"
     }
    ],
    "listed": true
@@ -3225,13 +3513,16 @@
    "venueOffset": null,
    "bonuses": [],
    "times": [],
+   "notes": [],
+   "daily": null,
+   "promoCodes": [],
    "encounters": [],
    "research": [],
    "sources": [
     {
      "name": "LeekDuck",
      "url": "https://leekduck.com/events/raid-day-december-2026/",
-     "read": "2026-11-13T18:37:54Z"
+     "read": "2026-11-13T18:51:51Z"
     }
    ],
    "listed": true
@@ -3258,13 +3549,16 @@
    "venueOffset": null,
    "bonuses": [],
    "times": [],
+   "notes": [],
+   "daily": null,
+   "promoCodes": [],
    "encounters": [],
    "research": [],
    "sources": [
     {
      "name": "LeekDuck",
      "url": "https://leekduck.com/events/hatch-day-december-2026/",
-     "read": "2026-11-13T18:37:54Z"
+     "read": "2026-11-13T18:51:51Z"
     }
    ],
    "listed": true
@@ -3291,13 +3585,16 @@
    "venueOffset": null,
    "bonuses": [],
    "times": [],
+   "notes": [],
+   "daily": null,
+   "promoCodes": [],
    "encounters": [],
    "research": [],
    "sources": [
     {
      "name": "LeekDuck",
      "url": "https://leekduck.com/events/january-communitydayclassic2027/",
-     "read": "2026-11-13T18:37:54Z"
+     "read": "2026-11-13T18:51:51Z"
     }
    ],
    "listed": true
@@ -3324,13 +3621,16 @@
    "venueOffset": null,
    "bonuses": [],
    "times": [],
+   "notes": [],
+   "daily": null,
+   "promoCodes": [],
    "encounters": [],
    "research": [],
    "sources": [
     {
      "name": "LeekDuck",
      "url": "https://leekduck.com/events/super-mega-raid-day-january-2027/",
-     "read": "2026-11-13T18:37:54Z"
+     "read": "2026-11-13T18:51:51Z"
     }
    ],
    "listed": true
@@ -3357,13 +3657,18 @@
    "venueOffset": null,
    "bonuses": [],
    "times": [],
+   "notes": [],
+   "daily": null,
+   "promoCodes": [
+    "ADIDASxPOKEMON"
+   ],
    "encounters": [],
    "research": [],
    "sources": [
     {
      "name": "LeekDuck",
      "url": "https://leekduck.com/events/pokemon-x-adidas-2026/",
-     "read": "2026-11-13T18:37:54Z"
+     "read": "2026-11-13T18:51:51Z"
     }
    ],
    "listed": true
@@ -3390,13 +3695,16 @@
    "venueOffset": null,
    "bonuses": [],
    "times": [],
+   "notes": [],
+   "daily": null,
+   "promoCodes": [],
    "encounters": [],
    "research": [],
    "sources": [
     {
      "name": "LeekDuck",
      "url": "https://leekduck.com/events/january-communityday2027/",
-     "read": "2026-11-13T18:37:54Z"
+     "read": "2026-11-13T18:51:51Z"
     }
    ],
    "listed": true
@@ -3423,13 +3731,16 @@
    "venueOffset": null,
    "bonuses": [],
    "times": [],
+   "notes": [],
+   "daily": null,
+   "promoCodes": [],
    "encounters": [],
    "research": [],
    "sources": [
     {
      "name": "LeekDuck",
      "url": "https://leekduck.com/events/max-battle-day-january-2027/",
-     "read": "2026-11-13T18:37:54Z"
+     "read": "2026-11-13T18:51:51Z"
     }
    ],
    "listed": true
@@ -3456,13 +3767,16 @@
    "venueOffset": null,
    "bonuses": [],
    "times": [],
+   "notes": [],
+   "daily": null,
+   "promoCodes": [],
    "encounters": [],
    "research": [],
    "sources": [
     {
      "name": "LeekDuck",
      "url": "https://leekduck.com/events/super-mega-raid-day-january-30-2027/",
-     "read": "2026-11-13T18:37:54Z"
+     "read": "2026-11-13T18:51:51Z"
     }
    ],
    "listed": true
@@ -3489,13 +3803,16 @@
    "venueOffset": null,
    "bonuses": [],
    "times": [],
+   "notes": [],
+   "daily": null,
+   "promoCodes": [],
    "encounters": [],
    "research": [],
    "sources": [
     {
      "name": "LeekDuck",
      "url": "https://leekduck.com/events/february-communityday2027/",
-     "read": "2026-11-13T18:37:54Z"
+     "read": "2026-11-13T18:51:51Z"
     }
    ],
    "listed": true
@@ -3522,13 +3839,16 @@
    "venueOffset": null,
    "bonuses": [],
    "times": [],
+   "notes": [],
+   "daily": null,
+   "promoCodes": [],
    "encounters": [],
    "research": [],
    "sources": [
     {
      "name": "LeekDuck",
      "url": "https://leekduck.com/events/raid-day-february-2027/",
-     "read": "2026-11-13T18:37:54Z"
+     "read": "2026-11-13T18:51:51Z"
     }
    ],
    "listed": true
@@ -3556,13 +3876,16 @@
    "venueOffset": "+08:00",
    "bonuses": [],
    "times": [],
+   "notes": [],
+   "daily": null,
+   "promoCodes": [],
    "encounters": [],
    "research": [],
    "sources": [
     {
      "name": "LeekDuck",
      "url": "https://leekduck.com/events/pokemon-go-tour-alola-kaohsiung-2027/",
-     "read": "2026-11-13T18:37:54Z"
+     "read": "2026-11-13T18:51:51Z"
     }
    ],
    "listed": true
@@ -3590,13 +3913,16 @@
    "venueOffset": "-08:00",
    "bonuses": [],
    "times": [],
+   "notes": [],
+   "daily": null,
+   "promoCodes": [],
    "encounters": [],
    "research": [],
    "sources": [
     {
      "name": "LeekDuck",
      "url": "https://leekduck.com/events/pokemon-go-tour-alola-los-angeles-2027/",
-     "read": "2026-11-13T18:37:54Z"
+     "read": "2026-11-13T18:51:51Z"
     }
    ],
    "listed": true
@@ -3623,13 +3949,16 @@
    "venueOffset": null,
    "bonuses": [],
    "times": [],
+   "notes": [],
+   "daily": null,
+   "promoCodes": [],
    "encounters": [],
    "research": [],
    "sources": [
     {
      "name": "LeekDuck",
      "url": "https://leekduck.com/events/pokemon-go-tour-alola-global-2027/",
-     "read": "2026-11-13T18:37:54Z"
+     "read": "2026-11-13T18:51:51Z"
     }
    ],
    "listed": true
@@ -3695,6 +4024,18 @@
      ]
     }
    ],
+   "notes": [
+    {
+     "title": "Wild Encounters",
+     "text": "You may encounter Minior in its Meteor Form in the wild during the event. You’ll receive 1,000 Stardust for catching Minior."
+    },
+    {
+     "title": "Wild Encounters",
+     "text": "Minior encounters are more likely from 5:00 p.m. to 9:00 p.m. local time each day."
+    }
+   ],
+   "daily": null,
+   "promoCodes": [],
    "encounters": [
     {
      "group": "Wild Encounters",
@@ -3714,7 +4055,7 @@
     {
      "name": "LeekDuck",
      "url": "https://leekduck.com/events/minior-showers-eta-aquariids-2027/",
-     "read": "2026-11-13T18:37:54Z"
+     "read": "2026-11-13T18:51:51Z"
     }
    ],
    "listed": true
@@ -3780,6 +4121,18 @@
      ]
     }
    ],
+   "notes": [
+    {
+     "title": "Wild Encounters",
+     "text": "You may encounter Minior in its Meteor Form in the wild during the event. You’ll receive 1,000 Stardust for catching Minior."
+    },
+    {
+     "title": "Wild Encounters",
+     "text": "Minior encounters are more likely from 5:00 p.m. to 9:00 p.m. local time each day."
+    }
+   ],
+   "daily": null,
+   "promoCodes": [],
    "encounters": [
     {
      "group": "Wild Encounters",
@@ -3799,7 +4152,7 @@
     {
      "name": "LeekDuck",
      "url": "https://leekduck.com/events/minior-showers-southern-delta-aquariids-2027/",
-     "read": "2026-11-13T18:37:54Z"
+     "read": "2026-11-13T18:51:51Z"
     }
    ],
    "listed": true
@@ -3865,6 +4218,18 @@
      ]
     }
    ],
+   "notes": [
+    {
+     "title": "Wild Encounters",
+     "text": "You may encounter Minior in its Meteor Form in the wild during the event. You’ll receive 1,000 Stardust for catching Minior."
+    },
+    {
+     "title": "Wild Encounters",
+     "text": "Minior encounters are more likely from 5:00 p.m. to 9:00 p.m. local time each day."
+    }
+   ],
+   "daily": null,
+   "promoCodes": [],
    "encounters": [
     {
      "group": "Wild Encounters",
@@ -3884,7 +4249,7 @@
     {
      "name": "LeekDuck",
      "url": "https://leekduck.com/events/minior-showers-perseids-2027/",
-     "read": "2026-11-13T18:37:54Z"
+     "read": "2026-11-13T18:51:51Z"
     }
    ],
    "listed": true
