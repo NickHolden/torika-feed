@@ -1,0 +1,1096 @@
+{
+ "eggs": [
+  {
+   "slug": "bulbasaur",
+   "name": "Bulbasaur",
+   "shiny": true,
+   "distance": "1 km",
+   "adventureSync": false,
+   "giftExchange": false,
+   "regional": false,
+   "cp": {
+    "min": 637,
+    "max": 637
+   },
+   "rarity": 4
+  },
+  {
+   "slug": "charmander",
+   "name": "Charmander",
+   "shiny": true,
+   "distance": "1 km",
+   "adventureSync": false,
+   "giftExchange": false,
+   "regional": false,
+   "cp": {
+    "min": 560,
+    "max": 560
+   },
+   "rarity": 4
+  },
+  {
+   "slug": "squirtle",
+   "name": "Squirtle",
+   "shiny": true,
+   "distance": "1 km",
+   "adventureSync": false,
+   "giftExchange": false,
+   "regional": false,
+   "cp": {
+    "min": 540,
+    "max": 540
+   },
+   "rarity": 4
+  },
+  {
+   "slug": "chikorita",
+   "name": "Chikorita",
+   "shiny": true,
+   "distance": "1 km",
+   "adventureSync": false,
+   "giftExchange": false,
+   "regional": false,
+   "cp": {
+    "min": 534,
+    "max": 534
+   },
+   "rarity": 4
+  },
+  {
+   "slug": "cyndaquil",
+   "name": "Cyndaquil",
+   "shiny": true,
+   "distance": "1 km",
+   "adventureSync": false,
+   "giftExchange": false,
+   "regional": false,
+   "cp": {
+    "min": 560,
+    "max": 560
+   },
+   "rarity": 4
+  },
+  {
+   "slug": "totodile",
+   "name": "Totodile",
+   "shiny": true,
+   "distance": "1 km",
+   "adventureSync": false,
+   "giftExchange": false,
+   "regional": false,
+   "cp": {
+    "min": 646,
+    "max": 646
+   },
+   "rarity": 4
+  },
+  {
+   "slug": "treecko",
+   "name": "Treecko",
+   "shiny": true,
+   "distance": "1 km",
+   "adventureSync": false,
+   "giftExchange": false,
+   "regional": false,
+   "cp": {
+    "min": 601,
+    "max": 601
+   },
+   "rarity": 4
+  },
+  {
+   "slug": "torchic",
+   "name": "Torchic",
+   "shiny": true,
+   "distance": "1 km",
+   "adventureSync": false,
+   "giftExchange": false,
+   "regional": false,
+   "cp": {
+    "min": 624,
+    "max": 624
+   },
+   "rarity": 4
+  },
+  {
+   "slug": "mudkip",
+   "name": "Mudkip",
+   "shiny": true,
+   "distance": "1 km",
+   "adventureSync": false,
+   "giftExchange": false,
+   "regional": false,
+   "cp": {
+    "min": 644,
+    "max": 644
+   },
+   "rarity": 4
+  },
+  {
+   "slug": "turtwig",
+   "name": "Turtwig",
+   "shiny": true,
+   "distance": "1 km",
+   "adventureSync": false,
+   "giftExchange": false,
+   "regional": false,
+   "cp": {
+    "min": 678,
+    "max": 678
+   },
+   "rarity": 4
+  },
+  {
+   "slug": "chimchar",
+   "name": "Chimchar",
+   "shiny": true,
+   "distance": "1 km",
+   "adventureSync": false,
+   "giftExchange": false,
+   "regional": false,
+   "cp": {
+    "min": 547,
+    "max": 547
+   },
+   "rarity": 4
+  },
+  {
+   "slug": "piplup",
+   "name": "Piplup",
+   "shiny": true,
+   "distance": "1 km",
+   "adventureSync": false,
+   "giftExchange": false,
+   "regional": false,
+   "cp": {
+    "min": 614,
+    "max": 614
+   },
+   "rarity": 4
+  },
+  {
+   "slug": "snivy",
+   "name": "Snivy",
+   "shiny": true,
+   "distance": "1 km",
+   "adventureSync": false,
+   "giftExchange": false,
+   "regional": false,
+   "cp": {
+    "min": 485,
+    "max": 485
+   },
+   "rarity": 4
+  },
+  {
+   "slug": "tepig",
+   "name": "Tepig",
+   "shiny": true,
+   "distance": "1 km",
+   "adventureSync": false,
+   "giftExchange": false,
+   "regional": false,
+   "cp": {
+    "min": 618,
+    "max": 618
+   },
+   "rarity": 4
+  },
+  {
+   "slug": "oshawott",
+   "name": "Oshawott",
+   "shiny": true,
+   "distance": "1 km",
+   "adventureSync": false,
+   "giftExchange": false,
+   "regional": false,
+   "cp": {
+    "min": 597,
+    "max": 597
+   },
+   "rarity": 4
+  },
+  {
+   "slug": "chespin",
+   "name": "Chespin",
+   "shiny": true,
+   "distance": "1 km",
+   "adventureSync": false,
+   "giftExchange": false,
+   "regional": false,
+   "cp": {
+    "min": 626,
+    "max": 626
+   },
+   "rarity": 4
+  },
+  {
+   "slug": "fennekin",
+   "name": "Fennekin",
+   "shiny": true,
+   "distance": "1 km",
+   "adventureSync": false,
+   "giftExchange": false,
+   "regional": false,
+   "cp": {
+    "min": 587,
+    "max": 587
+   },
+   "rarity": 4
+  },
+  {
+   "slug": "froakie",
+   "name": "Froakie",
+   "shiny": true,
+   "distance": "1 km",
+   "adventureSync": false,
+   "giftExchange": false,
+   "regional": false,
+   "cp": {
+    "min": 567,
+    "max": 567
+   },
+   "rarity": 4
+  },
+  {
+   "slug": "rowlet",
+   "name": "Rowlet",
+   "shiny": true,
+   "distance": "1 km",
+   "adventureSync": false,
+   "giftExchange": false,
+   "regional": false,
+   "cp": {
+    "min": 604,
+    "max": 604
+   },
+   "rarity": 4
+  },
+  {
+   "slug": "litten",
+   "name": "Litten",
+   "shiny": true,
+   "distance": "1 km",
+   "adventureSync": false,
+   "giftExchange": false,
+   "regional": false,
+   "cp": {
+    "min": 591,
+    "max": 591
+   },
+   "rarity": 4
+  },
+  {
+   "slug": "popplio",
+   "name": "Popplio",
+   "shiny": true,
+   "distance": "1 km",
+   "adventureSync": false,
+   "giftExchange": false,
+   "regional": false,
+   "cp": {
+    "min": 645,
+    "max": 645
+   },
+   "rarity": 4
+  },
+  {
+   "slug": "grookey",
+   "name": "Grookey",
+   "shiny": true,
+   "distance": "1 km",
+   "adventureSync": false,
+   "giftExchange": false,
+   "regional": false,
+   "cp": {
+    "min": 620,
+    "max": 620
+   },
+   "rarity": 4
+  },
+  {
+   "slug": "scorbunny",
+   "name": "Scorbunny",
+   "shiny": true,
+   "distance": "1 km",
+   "adventureSync": false,
+   "giftExchange": false,
+   "regional": false,
+   "cp": {
+    "min": 627,
+    "max": 627
+   },
+   "rarity": 4
+  },
+  {
+   "slug": "sobble",
+   "name": "Sobble",
+   "shiny": false,
+   "distance": "1 km",
+   "adventureSync": false,
+   "giftExchange": false,
+   "regional": false,
+   "cp": {
+    "min": 627,
+    "max": 627
+   },
+   "rarity": 4
+  },
+  {
+   "slug": "sprigatito",
+   "name": "Sprigatito",
+   "shiny": true,
+   "distance": "1 km",
+   "adventureSync": false,
+   "giftExchange": false,
+   "regional": false,
+   "cp": {
+    "min": 579,
+    "max": 579
+   },
+   "rarity": 4
+  },
+  {
+   "slug": "fuecoco",
+   "name": "Fuecoco",
+   "shiny": true,
+   "distance": "1 km",
+   "adventureSync": false,
+   "giftExchange": false,
+   "regional": false,
+   "cp": {
+    "min": 644,
+    "max": 644
+   },
+   "rarity": 4
+  },
+  {
+   "slug": "quaxly",
+   "name": "Quaxly",
+   "shiny": true,
+   "distance": "1 km",
+   "adventureSync": false,
+   "giftExchange": false,
+   "regional": false,
+   "cp": {
+    "min": 614,
+    "max": 614
+   },
+   "rarity": 4
+  },
+  {
+   "slug": "pichu",
+   "name": "Pichu",
+   "shiny": true,
+   "distance": "2 km",
+   "adventureSync": false,
+   "giftExchange": false,
+   "regional": false,
+   "cp": {
+    "min": 270,
+    "max": 270
+   },
+   "rarity": 1
+  },
+  {
+   "slug": "togepi",
+   "name": "Togepi",
+   "shiny": true,
+   "distance": "2 km",
+   "adventureSync": false,
+   "giftExchange": false,
+   "regional": false,
+   "cp": {
+    "min": 375,
+    "max": 375
+   },
+   "rarity": 1
+  },
+  {
+   "slug": "elekid",
+   "name": "Elekid",
+   "shiny": true,
+   "distance": "2 km",
+   "adventureSync": false,
+   "giftExchange": false,
+   "regional": false,
+   "cp": {
+    "min": 689,
+    "max": 689
+   },
+   "rarity": 1
+  },
+  {
+   "slug": "magby",
+   "name": "Magby",
+   "shiny": true,
+   "distance": "2 km",
+   "adventureSync": false,
+   "giftExchange": false,
+   "regional": false,
+   "cp": {
+    "min": 756,
+    "max": 756
+   },
+   "rarity": 1
+  },
+  {
+   "slug": "azurill",
+   "name": "Azurill",
+   "shiny": true,
+   "distance": "2 km",
+   "adventureSync": false,
+   "giftExchange": false,
+   "regional": false,
+   "cp": {
+    "min": 208,
+    "max": 208
+   },
+   "rarity": 1
+  },
+  {
+   "slug": "tadbulb",
+   "name": "Tadbulb",
+   "shiny": true,
+   "distance": "2 km",
+   "adventureSync": false,
+   "giftExchange": false,
+   "regional": false,
+   "cp": {
+    "min": 520,
+    "max": 520
+   },
+   "rarity": 1
+  },
+  {
+   "slug": "larvesta",
+   "name": "Larvesta",
+   "shiny": true,
+   "distance": "2 km",
+   "adventureSync": false,
+   "giftExchange": false,
+   "regional": false,
+   "cp": {
+    "min": 855,
+    "max": 855
+   },
+   "rarity": 5
+  },
+  {
+   "slug": "snom",
+   "name": "Snom",
+   "shiny": true,
+   "distance": "5 km",
+   "adventureSync": false,
+   "giftExchange": false,
+   "regional": false,
+   "cp": {
+    "min": 302,
+    "max": 302
+   },
+   "rarity": 1
+  },
+  {
+   "slug": "fidough",
+   "name": "Fidough",
+   "shiny": true,
+   "distance": "5 km",
+   "adventureSync": false,
+   "giftExchange": false,
+   "regional": false,
+   "cp": {
+    "min": 563,
+    "max": 563
+   },
+   "rarity": 1
+  },
+  {
+   "slug": "munchlax",
+   "name": "Munchlax",
+   "shiny": true,
+   "distance": "5 km",
+   "adventureSync": false,
+   "giftExchange": false,
+   "regional": false,
+   "cp": {
+    "min": 1081,
+    "max": 1081
+   },
+   "rarity": 1
+  },
+  {
+   "slug": "sizzlipede",
+   "name": "Sizzlipede",
+   "shiny": true,
+   "distance": "5 km",
+   "adventureSync": false,
+   "giftExchange": false,
+   "regional": false,
+   "cp": {
+    "min": 599,
+    "max": 599
+   },
+   "rarity": 1
+  },
+  {
+   "slug": "maschiff",
+   "name": "Maschiff",
+   "shiny": false,
+   "distance": "5 km",
+   "adventureSync": false,
+   "giftExchange": false,
+   "regional": false,
+   "cp": {
+    "min": 799,
+    "max": 799
+   },
+   "rarity": 1
+  },
+  {
+   "slug": "mime-jr",
+   "name": "Mime Jr.",
+   "shiny": true,
+   "distance": "5 km",
+   "adventureSync": false,
+   "giftExchange": false,
+   "regional": false,
+   "cp": {
+    "min": 626,
+    "max": 626
+   },
+   "rarity": 1
+  },
+  {
+   "slug": "indeedee",
+   "name": "Indeedee",
+   "shiny": true,
+   "distance": "5 km",
+   "adventureSync": false,
+   "giftExchange": false,
+   "regional": false,
+   "cp": {
+    "min": 1396,
+    "max": 1396
+   },
+   "rarity": 2
+  },
+  {
+   "slug": "indeedee-female",
+   "name": "Indeedee Female",
+   "shiny": true,
+   "distance": "5 km",
+   "adventureSync": false,
+   "giftExchange": false,
+   "regional": false,
+   "cp": {
+    "min": 1370,
+    "max": 1370
+   },
+   "rarity": 2
+  },
+  {
+   "slug": "larvesta",
+   "name": "Larvesta",
+   "shiny": true,
+   "distance": "5 km",
+   "adventureSync": false,
+   "giftExchange": false,
+   "regional": false,
+   "cp": {
+    "min": 855,
+    "max": 855
+   },
+   "rarity": 5
+  },
+  {
+   "slug": "chingling",
+   "name": "Chingling",
+   "shiny": true,
+   "distance": "5 km",
+   "adventureSync": true,
+   "giftExchange": false,
+   "regional": false,
+   "cp": {
+    "min": 574,
+    "max": 574
+   },
+   "rarity": 1
+  },
+  {
+   "slug": "happiny",
+   "name": "Happiny",
+   "shiny": true,
+   "distance": "5 km",
+   "adventureSync": true,
+   "giftExchange": false,
+   "regional": false,
+   "cp": {
+    "min": 212,
+    "max": 212
+   },
+   "rarity": 1
+  },
+  {
+   "slug": "budew",
+   "name": "Budew",
+   "shiny": true,
+   "distance": "5 km",
+   "adventureSync": true,
+   "giftExchange": false,
+   "regional": false,
+   "cp": {
+    "min": 489,
+    "max": 489
+   },
+   "rarity": 1
+  },
+  {
+   "slug": "sableye",
+   "name": "Sableye",
+   "shiny": true,
+   "distance": "5 km",
+   "adventureSync": true,
+   "giftExchange": false,
+   "regional": false,
+   "cp": {
+    "min": 843,
+    "max": 843
+   },
+   "rarity": 1
+  },
+  {
+   "slug": "tyrogue",
+   "name": "Tyrogue",
+   "shiny": true,
+   "distance": "5 km",
+   "adventureSync": true,
+   "giftExchange": false,
+   "regional": false,
+   "cp": {
+    "min": 281,
+    "max": 281
+   },
+   "rarity": 1
+  },
+  {
+   "slug": "meowth-galarian",
+   "name": "Galarian Meowth",
+   "shiny": true,
+   "distance": "7 km",
+   "adventureSync": false,
+   "giftExchange": false,
+   "regional": false,
+   "cp": {
+    "min": 591,
+    "max": 591
+   },
+   "rarity": 1
+  },
+  {
+   "slug": "darumaka-galarian",
+   "name": "Galarian Darumaka",
+   "shiny": true,
+   "distance": "7 km",
+   "adventureSync": false,
+   "giftExchange": false,
+   "regional": false,
+   "cp": {
+    "min": 823,
+    "max": 823
+   },
+   "rarity": 1
+  },
+  {
+   "slug": "corsola-galarian",
+   "name": "Galarian Corsola",
+   "shiny": true,
+   "distance": "7 km",
+   "adventureSync": false,
+   "giftExchange": false,
+   "regional": false,
+   "cp": {
+    "min": 855,
+    "max": 855
+   },
+   "rarity": 1
+  },
+  {
+   "slug": "zigzagoon-galarian",
+   "name": "Galarian Zigzagoon",
+   "shiny": true,
+   "distance": "7 km",
+   "adventureSync": false,
+   "giftExchange": false,
+   "regional": false,
+   "cp": {
+    "min": 290,
+    "max": 290
+   },
+   "rarity": 1
+  },
+  {
+   "slug": "stunfisk-galarian",
+   "name": "Galarian Stunfisk",
+   "shiny": true,
+   "distance": "7 km",
+   "adventureSync": false,
+   "giftExchange": false,
+   "regional": false,
+   "cp": {
+    "min": 1235,
+    "max": 1235
+   },
+   "rarity": 1
+  },
+  {
+   "slug": "geodude-alola",
+   "name": "Alolan Geodude",
+   "shiny": true,
+   "distance": "7 km",
+   "adventureSync": false,
+   "giftExchange": false,
+   "regional": false,
+   "cp": {
+    "min": 739,
+    "max": 739
+   },
+   "rarity": 1
+  },
+  {
+   "slug": "diglett-alola",
+   "name": "Alolan Diglett",
+   "shiny": true,
+   "distance": "7 km",
+   "adventureSync": false,
+   "giftExchange": false,
+   "regional": false,
+   "cp": {
+    "min": 389,
+    "max": 389
+   },
+   "rarity": 1
+  },
+  {
+   "slug": "sneasel-hisuian",
+   "name": "Hisuian Sneasel",
+   "shiny": true,
+   "distance": "7 km",
+   "adventureSync": false,
+   "giftExchange": true,
+   "regional": false,
+   "cp": {
+    "min": 1172,
+    "max": 1172
+   },
+   "rarity": 1
+  },
+  {
+   "slug": "corsola-galarian",
+   "name": "Galarian Corsola",
+   "shiny": true,
+   "distance": "7 km",
+   "adventureSync": false,
+   "giftExchange": true,
+   "regional": false,
+   "cp": {
+    "min": 855,
+    "max": 855
+   },
+   "rarity": 1
+  },
+  {
+   "slug": "basculin-white-striped",
+   "name": "Basculin White Striped",
+   "shiny": true,
+   "distance": "7 km",
+   "adventureSync": false,
+   "giftExchange": true,
+   "regional": false,
+   "cp": {
+    "min": 1194,
+    "max": 1194
+   },
+   "rarity": 1
+  },
+  {
+   "slug": "growlithe-hisuian",
+   "name": "Hisuian Growlithe",
+   "shiny": true,
+   "distance": "7 km",
+   "adventureSync": false,
+   "giftExchange": true,
+   "regional": false,
+   "cp": {
+    "min": 755,
+    "max": 755
+   },
+   "rarity": 1
+  },
+  {
+   "slug": "slowpoke-galarian",
+   "name": "Galarian Slowpoke",
+   "shiny": true,
+   "distance": "7 km",
+   "adventureSync": false,
+   "giftExchange": true,
+   "regional": false,
+   "cp": {
+    "min": 700,
+    "max": 700
+   },
+   "rarity": 1
+  },
+  {
+   "slug": "charcadet",
+   "name": "Charcadet",
+   "shiny": true,
+   "distance": "10 km",
+   "adventureSync": false,
+   "giftExchange": false,
+   "regional": false,
+   "cp": {
+    "min": 418,
+    "max": 418
+   },
+   "rarity": 1
+  },
+  {
+   "slug": "tinkatink",
+   "name": "Tinkatink",
+   "shiny": true,
+   "distance": "10 km",
+   "adventureSync": false,
+   "giftExchange": false,
+   "regional": false,
+   "cp": {
+    "min": 491,
+    "max": 491
+   },
+   "rarity": 1
+  },
+  {
+   "slug": "honedge",
+   "name": "Honedge",
+   "shiny": true,
+   "distance": "10 km",
+   "adventureSync": false,
+   "giftExchange": false,
+   "regional": false,
+   "cp": {
+    "min": 794,
+    "max": 794
+   },
+   "rarity": 1
+  },
+  {
+   "slug": "frigibax",
+   "name": "Frigibax",
+   "shiny": true,
+   "distance": "10 km",
+   "adventureSync": false,
+   "giftExchange": false,
+   "regional": false,
+   "cp": {
+    "min": 712,
+    "max": 712
+   },
+   "rarity": 1
+  },
+  {
+   "slug": "impidimp",
+   "name": "Impidimp",
+   "shiny": true,
+   "distance": "10 km",
+   "adventureSync": false,
+   "giftExchange": false,
+   "regional": false,
+   "cp": {
+    "min": 461,
+    "max": 461
+   },
+   "rarity": 1
+  },
+  {
+   "slug": "dratini",
+   "name": "Dratini",
+   "shiny": true,
+   "distance": "10 km",
+   "adventureSync": false,
+   "giftExchange": false,
+   "regional": false,
+   "cp": {
+    "min": 574,
+    "max": 574
+   },
+   "rarity": 1
+  },
+  {
+   "slug": "larvesta",
+   "name": "Larvesta",
+   "shiny": true,
+   "distance": "10 km",
+   "adventureSync": false,
+   "giftExchange": false,
+   "regional": false,
+   "cp": {
+    "min": 855,
+    "max": 855
+   },
+   "rarity": 5
+  },
+  {
+   "slug": "gible",
+   "name": "Gible",
+   "shiny": true,
+   "distance": "10 km",
+   "adventureSync": true,
+   "giftExchange": false,
+   "regional": false,
+   "cp": {
+    "min": 635,
+    "max": 635
+   },
+   "rarity": 1
+  },
+  {
+   "slug": "toxel",
+   "name": "Toxel",
+   "shiny": true,
+   "distance": "10 km",
+   "adventureSync": true,
+   "giftExchange": false,
+   "regional": false,
+   "cp": {
+    "min": 415,
+    "max": 415
+   },
+   "rarity": 1
+  },
+  {
+   "slug": "druddigon",
+   "name": "Druddigon",
+   "shiny": true,
+   "distance": "10 km",
+   "adventureSync": true,
+   "giftExchange": false,
+   "regional": false,
+   "cp": {
+    "min": 1561,
+    "max": 1561
+   },
+   "rarity": 1
+  },
+  {
+   "slug": "bagon",
+   "name": "Bagon",
+   "shiny": true,
+   "distance": "10 km",
+   "adventureSync": true,
+   "giftExchange": false,
+   "regional": false,
+   "cp": {
+    "min": 660,
+    "max": 660
+   },
+   "rarity": 1
+  },
+  {
+   "slug": "drampa",
+   "name": "Drampa",
+   "shiny": true,
+   "distance": "10 km",
+   "adventureSync": true,
+   "giftExchange": false,
+   "regional": false,
+   "cp": {
+    "min": 1665,
+    "max": 1665
+   },
+   "rarity": 1
+  },
+  {
+   "slug": "sandile",
+   "name": "Sandile",
+   "shiny": true,
+   "distance": "12 km",
+   "adventureSync": false,
+   "giftExchange": false,
+   "regional": false,
+   "cp": {
+    "min": 592,
+    "max": 592
+   },
+   "rarity": 1
+  },
+  {
+   "slug": "vullaby",
+   "name": "Vullaby",
+   "shiny": true,
+   "distance": "12 km",
+   "adventureSync": false,
+   "giftExchange": false,
+   "regional": false,
+   "cp": {
+    "min": 726,
+    "max": 726
+   },
+   "rarity": 1
+  },
+  {
+   "slug": "shroodle",
+   "name": "Shroodle",
+   "shiny": true,
+   "distance": "12 km",
+   "adventureSync": false,
+   "giftExchange": false,
+   "regional": false,
+   "cp": {
+    "min": 531,
+    "max": 531
+   },
+   "rarity": 1
+  },
+  {
+   "slug": "pancham",
+   "name": "Pancham",
+   "shiny": true,
+   "distance": "12 km",
+   "adventureSync": false,
+   "giftExchange": false,
+   "regional": false,
+   "cp": {
+    "min": 850,
+    "max": 850
+   },
+   "rarity": 1
+  },
+  {
+   "slug": "salandit",
+   "name": "Salandit",
+   "shiny": true,
+   "distance": "12 km",
+   "adventureSync": false,
+   "giftExchange": false,
+   "regional": false,
+   "cp": {
+    "min": 641,
+    "max": 641
+   },
+   "rarity": 1
+  },
+  {
+   "slug": "varoom",
+   "name": "Varoom",
+   "shiny": true,
+   "distance": "12 km",
+   "adventureSync": false,
+   "giftExchange": false,
+   "regional": false,
+   "cp": {
+    "min": 650,
+    "max": 650
+   },
+   "rarity": 1
+  }
+ ]
+}

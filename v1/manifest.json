@@ -1,11 +1,11 @@
 {
  "schema": 1,
- "built": "2026-11-13T15:31:52Z",
+ "built": "2026-11-13T18:37:54Z",
  "sections": {
   "raids": {
    "file": "raids.json",
-   "hash": "sha256-c81fd651da0b5ef21cebbe0f2ccca7b40c07b600cfb706bc10b3bde34557a66e",
-   "count": 76,
+   "hash": "sha256-e14962aece14fbec6b7e39e98123158f22612666e609a3d7cdd8c8940848eca7",
+   "count": 78,
    "lastGood": "2026-11-13",
    "stale": false
   },
@@ -13,6 +13,34 @@
    "file": "research.json",
    "hash": "sha256-f6c235f5529ae217436fb524c1572c03a2761432b377d796df13e80ec417cc9c",
    "count": 65,
+   "lastGood": "2026-11-13",
+   "stale": false
+  },
+  "shinies": {
+   "file": "shinies.json",
+   "hash": "sha256-cb6ddb6a7ffb86cd2af14bc274f719c93b6e121b767ec2bdb0c96e62f865730f",
+   "count": 1485,
+   "lastGood": "2026-11-13",
+   "stale": false
+  },
+  "eggs": {
+   "file": "eggs.json",
+   "hash": "sha256-dd17f1e599d67349de2ca3d4095aae84c4f579df66471bff4cbe9258da194309",
+   "count": 78,
+   "lastGood": "2026-11-13",
+   "stale": false
+  },
+  "rocket": {
+   "file": "rocket.json",
+   "hash": "sha256-e1660f0986d2bbf09209728d529e4d71d10cb10c993a4c256da6e4ae49f39b96",
+   "count": 26,
+   "lastGood": "2026-11-13",
+   "stale": false
+  },
+  "events": {
+   "file": "events.json",
+   "hash": "sha256-6cd991efded174d2bb069ed82db5209fc0cd1a2c4fcf64e24c0fd5d0ad5135e8",
+   "count": 48,
    "lastGood": "2026-11-13",
    "stale": false
   }

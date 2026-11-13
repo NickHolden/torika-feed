@@ -761,6 +761,19 @@
    "tier": 5,
    "bosses": [
     {
+     "slug": "dialga",
+     "name": "Dialga",
+     "gigantamax": false,
+     "start": {
+      "time": "2026-11-14T05:00:00",
+      "kind": "local"
+     },
+     "end": {
+      "time": "2026-11-14T20:00:00",
+      "kind": "local"
+     }
+    },
+    {
      "slug": "latias",
      "name": "Latias",
      "gigantamax": false,
@@ -783,6 +796,24 @@
      },
      "end": {
       "time": "2026-11-13T21:00:00",
+      "kind": "local"
+     }
+    }
+   ]
+  },
+  {
+   "tier": 6,
+   "bosses": [
+    {
+     "slug": "duraludon-gigantamax",
+     "name": "Gigantamax Duraludon",
+     "gigantamax": true,
+     "start": {
+      "time": "2026-11-14T05:00:00",
+      "kind": "local"
+     },
+     "end": {
+      "time": "2026-11-15T20:00:00",
       "kind": "local"
      }
     }

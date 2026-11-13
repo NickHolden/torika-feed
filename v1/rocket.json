@@ -1,0 +1,2400 @@
+{
+ "lineups": [
+  {
+   "name": "Giovanni",
+   "title": "Team GO Rocket Boss",
+   "type": null,
+   "slots": [
+    [
+     {
+      "slug": "persian",
+      "name": "Persian",
+      "shiny": false,
+      "types": [
+       "normal"
+      ],
+      "encounter": false
+     }
+    ],
+    [
+     {
+      "slug": "kangaskhan",
+      "name": "Kangaskhan",
+      "shiny": false,
+      "types": [
+       "normal"
+      ],
+      "encounter": false
+     },
+     {
+      "slug": "rhyperior",
+      "name": "Rhyperior",
+      "shiny": false,
+      "types": [
+       "ground",
+       "rock"
+      ],
+      "encounter": false
+     },
+     {
+      "slug": "machamp",
+      "name": "Machamp",
+      "shiny": false,
+      "types": [
+       "fighting"
+      ],
+      "encounter": false
+     }
+    ],
+    [
+     {
+      "slug": "zekrom",
+      "name": "Zekrom",
+      "shiny": true,
+      "types": [
+       "dragon",
+       "electric"
+      ],
+      "encounter": true
+     }
+    ]
+   ]
+  },
+  {
+   "name": "Cliff",
+   "title": "Team GO Rocket Leader",
+   "type": null,
+   "slots": [
+    [
+     {
+      "slug": "cubone",
+      "name": "Cubone",
+      "shiny": true,
+      "types": [
+       "ground"
+      ],
+      "encounter": true
+     }
+    ],
+    [
+     {
+      "slug": "snorlax",
+      "name": "Snorlax",
+      "shiny": false,
+      "types": [
+       "normal"
+      ],
+      "encounter": false
+     },
+     {
+      "slug": "golurk",
+      "name": "Golurk",
+      "shiny": false,
+      "types": [
+       "ground",
+       "ghost"
+      ],
+      "encounter": false
+     },
+     {
+      "slug": "weezing-galarian",
+      "name": "Galarian Weezing",
+      "shiny": false,
+      "types": [
+       "poison",
+       "fairy"
+      ],
+      "encounter": false
+     }
+    ],
+    [
+     {
+      "slug": "tyranitar",
+      "name": "Tyranitar",
+      "shiny": false,
+      "types": [
+       "rock",
+       "dark"
+      ],
+      "encounter": false
+     },
+     {
+      "slug": "camerupt",
+      "name": "Camerupt",
+      "shiny": false,
+      "types": [
+       "fire",
+       "ground"
+      ],
+      "encounter": false
+     },
+     {
+      "slug": "gallade",
+      "name": "Gallade",
+      "shiny": false,
+      "types": [
+       "psychic",
+       "fighting"
+      ],
+      "encounter": false
+     }
+    ]
+   ]
+  },
+  {
+   "name": "Arlo",
+   "title": "Team GO Rocket Leader",
+   "type": null,
+   "slots": [
+    [
+     {
+      "slug": "grimer-alola",
+      "name": "Alolan Grimer",
+      "shiny": true,
+      "types": [
+       "poison",
+       "dark"
+      ],
+      "encounter": true
+     }
+    ],
+    [
+     {
+      "slug": "steelix",
+      "name": "Steelix",
+      "shiny": false,
+      "types": [
+       "steel",
+       "ground"
+      ],
+      "encounter": false
+     },
+     {
+      "slug": "golurk",
+      "name": "Golurk",
+      "shiny": false,
+      "types": [
+       "ground",
+       "ghost"
+      ],
+      "encounter": false
+     },
+     {
+      "slug": "slowbro",
+      "name": "Slowbro",
+      "shiny": false,
+      "types": [
+       "water",
+       "psychic"
+      ],
+      "encounter": false
+     }
+    ],
+    [
+     {
+      "slug": "alakazam",
+      "name": "Alakazam",
+      "shiny": false,
+      "types": [
+       "psychic"
+      ],
+      "encounter": false
+     },
+     {
+      "slug": "charizard",
+      "name": "Charizard",
+      "shiny": false,
+      "types": [
+       "fire",
+       "flying"
+      ],
+      "encounter": false
+     },
+     {
+      "slug": "scizor",
+      "name": "Scizor",
+      "shiny": false,
+      "types": [
+       "bug",
+       "steel"
+      ],
+      "encounter": false
+     }
+    ]
+   ]
+  },
+  {
+   "name": "Sierra",
+   "title": "Team GO Rocket Leader",
+   "type": null,
+   "slots": [
+    [
+     {
+      "slug": "pancham",
+      "name": "Pancham",
+      "shiny": true,
+      "types": [
+       "fighting"
+      ],
+      "encounter": true
+     }
+    ],
+    [
+     {
+      "slug": "blastoise",
+      "name": "Blastoise",
+      "shiny": false,
+      "types": [
+       "water"
+      ],
+      "encounter": false
+     },
+     {
+      "slug": "flygon",
+      "name": "Flygon",
+      "shiny": false,
+      "types": [
+       "ground",
+       "dragon"
+      ],
+      "encounter": false
+     },
+     {
+      "slug": "ferrothorn",
+      "name": "Ferrothorn",
+      "shiny": false,
+      "types": [
+       "grass",
+       "steel"
+      ],
+      "encounter": false
+     }
+    ],
+    [
+     {
+      "slug": "milotic",
+      "name": "Milotic",
+      "shiny": false,
+      "types": [
+       "water"
+      ],
+      "encounter": false
+     },
+     {
+      "slug": "houndoom",
+      "name": "Houndoom",
+      "shiny": false,
+      "types": [
+       "dark",
+       "fire"
+      ],
+      "encounter": false
+     },
+     {
+      "slug": "steelix",
+      "name": "Steelix",
+      "shiny": false,
+      "types": [
+       "steel",
+       "ground"
+      ],
+      "encounter": false
+     }
+    ]
+   ]
+  },
+  {
+   "name": "Normal-type Male Grunt",
+   "title": "Team GO Rocket Grunt",
+   "type": "normal",
+   "slots": [
+    [
+     {
+      "slug": "teddiursa",
+      "name": "Teddiursa",
+      "shiny": true,
+      "types": [
+       "normal"
+      ],
+      "encounter": true
+     },
+     {
+      "slug": "hoothoot",
+      "name": "Hoothoot",
+      "shiny": true,
+      "types": [
+       "normal",
+       "flying"
+      ],
+      "encounter": true
+     },
+     {
+      "slug": "porygon",
+      "name": "Porygon",
+      "shiny": true,
+      "types": [
+       "normal"
+      ],
+      "encounter": true
+     }
+    ],
+    [
+     {
+      "slug": "loudred",
+      "name": "Loudred",
+      "shiny": true,
+      "types": [
+       "normal"
+      ],
+      "encounter": true
+     },
+     {
+      "slug": "stufful",
+      "name": "Stufful",
+      "shiny": true,
+      "types": [
+       "normal",
+       "fighting"
+      ],
+      "encounter": true
+     },
+     {
+      "slug": "starly",
+      "name": "Starly",
+      "shiny": true,
+      "types": [
+       "normal",
+       "flying"
+      ],
+      "encounter": true
+     }
+    ],
+    [
+     {
+      "slug": "ursaring",
+      "name": "Ursaring",
+      "shiny": false,
+      "types": [
+       "normal"
+      ],
+      "encounter": false
+     },
+     {
+      "slug": "swellow",
+      "name": "Swellow",
+      "shiny": false,
+      "types": [
+       "normal",
+       "flying"
+      ],
+      "encounter": false
+     },
+     {
+      "slug": "kangaskhan",
+      "name": "Kangaskhan",
+      "shiny": false,
+      "types": [
+       "normal"
+      ],
+      "encounter": false
+     }
+    ]
+   ]
+  },
+  {
+   "name": "Fire-type Female Grunt",
+   "title": "Team GO Rocket Grunt",
+   "type": "fire",
+   "slots": [
+    [
+     {
+      "slug": "litwick",
+      "name": "Litwick",
+      "shiny": true,
+      "types": [
+       "ghost",
+       "fire"
+      ],
+      "encounter": true
+     },
+     {
+      "slug": "ponyta",
+      "name": "Ponyta",
+      "shiny": true,
+      "types": [
+       "fire"
+      ],
+      "encounter": true
+     },
+     {
+      "slug": "torchic",
+      "name": "Torchic",
+      "shiny": true,
+      "types": [
+       "fire"
+      ],
+      "encounter": true
+     }
+    ],
+    [
+     {
+      "slug": "magmar",
+      "name": "Magmar",
+      "shiny": false,
+      "types": [
+       "fire"
+      ],
+      "encounter": false
+     },
+     {
+      "slug": "blaziken",
+      "name": "Blaziken",
+      "shiny": false,
+      "types": [
+       "fire",
+       "fighting"
+      ],
+      "encounter": false
+     },
+     {
+      "slug": "camerupt",
+      "name": "Camerupt",
+      "shiny": false,
+      "types": [
+       "fire",
+       "ground"
+      ],
+      "encounter": false
+     }
+    ],
+    [
+     {
+      "slug": "darmanitan-standard",
+      "name": "Darmanitan Standard",
+      "shiny": false,
+      "types": [
+       "fire"
+      ],
+      "encounter": false
+     },
+     {
+      "slug": "delphox",
+      "name": "Delphox",
+      "shiny": false,
+      "types": [
+       "fire",
+       "psychic"
+      ],
+      "encounter": false
+     },
+     {
+      "slug": "magmortar",
+      "name": "Magmortar",
+      "shiny": false,
+      "types": [
+       "fire"
+      ],
+      "encounter": false
+     }
+    ]
+   ]
+  },
+  {
+   "name": "Water-type Female Grunt",
+   "title": "Team GO Rocket Grunt",
+   "type": "water",
+   "slots": [
+    [
+     {
+      "slug": "mudkip",
+      "name": "Mudkip",
+      "shiny": true,
+      "types": [
+       "water"
+      ],
+      "encounter": true
+     },
+     {
+      "slug": "tentacool",
+      "name": "Tentacool",
+      "shiny": true,
+      "types": [
+       "water",
+       "poison"
+      ],
+      "encounter": true
+     },
+     {
+      "slug": "krabby",
+      "name": "Krabby",
+      "shiny": true,
+      "types": [
+       "water"
+      ],
+      "encounter": true
+     }
+    ],
+    [
+     {
+      "slug": "dewpider",
+      "name": "Dewpider",
+      "shiny": false,
+      "types": [
+       "water",
+       "bug"
+      ],
+      "encounter": false
+     },
+     {
+      "slug": "swampert",
+      "name": "Swampert",
+      "shiny": false,
+      "types": [
+       "water",
+       "ground"
+      ],
+      "encounter": false
+     },
+     {
+      "slug": "sharpedo",
+      "name": "Sharpedo",
+      "shiny": false,
+      "types": [
+       "water",
+       "dark"
+      ],
+      "encounter": false
+     }
+    ],
+    [
+     {
+      "slug": "walrein",
+      "name": "Walrein",
+      "shiny": false,
+      "types": [
+       "ice",
+       "water"
+      ],
+      "encounter": false
+     },
+     {
+      "slug": "greninja",
+      "name": "Greninja",
+      "shiny": false,
+      "types": [
+       "water",
+       "dark"
+      ],
+      "encounter": false
+     },
+     {
+      "slug": "tentacruel",
+      "name": "Tentacruel",
+      "shiny": false,
+      "types": [
+       "water",
+       "poison"
+      ],
+      "encounter": false
+     }
+    ]
+   ]
+  },
+  {
+   "name": "Water-type Male Grunt",
+   "title": "Team GO Rocket Grunt",
+   "type": "water",
+   "slots": [
+    [
+     {
+      "slug": "magikarp",
+      "name": "Magikarp",
+      "shiny": true,
+      "types": [
+       "water"
+      ],
+      "encounter": true
+     },
+     {
+      "slug": "feebas",
+      "name": "Feebas",
+      "shiny": true,
+      "types": [
+       "water"
+      ],
+      "encounter": true
+     }
+    ],
+    [
+     {
+      "slug": "magikarp",
+      "name": "Magikarp",
+      "shiny": true,
+      "types": [
+       "water"
+      ],
+      "encounter": true
+     }
+    ],
+    [
+     {
+      "slug": "magikarp",
+      "name": "Magikarp",
+      "shiny": false,
+      "types": [
+       "water"
+      ],
+      "encounter": false
+     },
+     {
+      "slug": "gyarados",
+      "name": "Gyarados",
+      "shiny": false,
+      "types": [
+       "water",
+       "flying"
+      ],
+      "encounter": false
+     }
+    ]
+   ]
+  },
+  {
+   "name": "Electric-type Female Grunt",
+   "title": "Team GO Rocket Grunt",
+   "type": "electric",
+   "slots": [
+    [
+     {
+      "slug": "voltorb",
+      "name": "Voltorb",
+      "shiny": true,
+      "types": [
+       "electric"
+      ],
+      "encounter": true
+     },
+     {
+      "slug": "shinx",
+      "name": "Shinx",
+      "shiny": true,
+      "types": [
+       "electric"
+      ],
+      "encounter": true
+     },
+     {
+      "slug": "helioptile",
+      "name": "Helioptile",
+      "shiny": true,
+      "types": [
+       "electric",
+       "normal"
+      ],
+      "encounter": true
+     }
+    ],
+    [
+     {
+      "slug": "electabuzz",
+      "name": "Electabuzz",
+      "shiny": true,
+      "types": [
+       "electric"
+      ],
+      "encounter": true
+     },
+     {
+      "slug": "magnemite",
+      "name": "Magnemite",
+      "shiny": true,
+      "types": [
+       "electric",
+       "steel"
+      ],
+      "encounter": true
+     },
+     {
+      "slug": "geodude-alola",
+      "name": "Alolan Geodude",
+      "shiny": true,
+      "types": [
+       "rock",
+       "electric"
+      ],
+      "encounter": true
+     }
+    ],
+    [
+     {
+      "slug": "luxray",
+      "name": "Luxray",
+      "shiny": false,
+      "types": [
+       "electric"
+      ],
+      "encounter": false
+     },
+     {
+      "slug": "ampharos",
+      "name": "Ampharos",
+      "shiny": false,
+      "types": [
+       "electric"
+      ],
+      "encounter": false
+     },
+     {
+      "slug": "galvantula",
+      "name": "Galvantula",
+      "shiny": false,
+      "types": [
+       "bug",
+       "electric"
+      ],
+      "encounter": false
+     }
+    ]
+   ]
+  },
+  {
+   "name": "Grass-type Male Grunt",
+   "title": "Team GO Rocket Grunt",
+   "type": "grass",
+   "slots": [
+    [
+     {
+      "slug": "phantump",
+      "name": "Phantump",
+      "shiny": true,
+      "types": [
+       "ghost",
+       "grass"
+      ],
+      "encounter": true
+     },
+     {
+      "slug": "fomantis",
+      "name": "Fomantis",
+      "shiny": true,
+      "types": [
+       "grass"
+      ],
+      "encounter": true
+     },
+     {
+      "slug": "tangela",
+      "name": "Tangela",
+      "shiny": true,
+      "types": [
+       "grass"
+      ],
+      "encounter": true
+     }
+    ],
+    [
+     {
+      "slug": "lileep",
+      "name": "Lileep",
+      "shiny": false,
+      "types": [
+       "rock",
+       "grass"
+      ],
+      "encounter": false
+     },
+     {
+      "slug": "sceptile",
+      "name": "Sceptile",
+      "shiny": false,
+      "types": [
+       "grass"
+      ],
+      "encounter": false
+     },
+     {
+      "slug": "morelull",
+      "name": "Morelull",
+      "shiny": false,
+      "types": [
+       "grass",
+       "fairy"
+      ],
+      "encounter": false
+     }
+    ],
+    [
+     {
+      "slug": "chesnaught",
+      "name": "Chesnaught",
+      "shiny": false,
+      "types": [
+       "grass",
+       "fighting"
+      ],
+      "encounter": false
+     },
+     {
+      "slug": "trevenant",
+      "name": "Trevenant",
+      "shiny": false,
+      "types": [
+       "ghost",
+       "grass"
+      ],
+      "encounter": false
+     },
+     {
+      "slug": "cradily",
+      "name": "Cradily",
+      "shiny": false,
+      "types": [
+       "rock",
+       "grass"
+      ],
+      "encounter": false
+     }
+    ]
+   ]
+  },
+  {
+   "name": "Ice-type Female Grunt",
+   "title": "Team GO Rocket Grunt",
+   "type": "ice",
+   "slots": [
+    [
+     {
+      "slug": "seel",
+      "name": "Seel",
+      "shiny": true,
+      "types": [
+       "water"
+      ],
+      "encounter": true
+     },
+     {
+      "slug": "delibird",
+      "name": "Delibird",
+      "shiny": true,
+      "types": [
+       "ice",
+       "flying"
+      ],
+      "encounter": true
+     },
+     {
+      "slug": "spheal",
+      "name": "Spheal",
+      "shiny": true,
+      "types": [
+       "ice",
+       "water"
+      ],
+      "encounter": true
+     }
+    ],
+    [
+     {
+      "slug": "sealeo",
+      "name": "Sealeo",
+      "shiny": false,
+      "types": [
+       "ice",
+       "water"
+      ],
+      "encounter": false
+     },
+     {
+      "slug": "froslass",
+      "name": "Froslass",
+      "shiny": false,
+      "types": [
+       "ice",
+       "ghost"
+      ],
+      "encounter": false
+     },
+     {
+      "slug": "ninetales-alola",
+      "name": "Alolan Ninetales",
+      "shiny": false,
+      "types": [
+       "ice",
+       "fairy"
+      ],
+      "encounter": false
+     }
+    ],
+    [
+     {
+      "slug": "aurorus",
+      "name": "Aurorus",
+      "shiny": false,
+      "types": [
+       "rock",
+       "ice"
+      ],
+      "encounter": false
+     },
+     {
+      "slug": "froslass",
+      "name": "Froslass",
+      "shiny": false,
+      "types": [
+       "ice",
+       "ghost"
+      ],
+      "encounter": false
+     },
+     {
+      "slug": "glalie",
+      "name": "Glalie",
+      "shiny": false,
+      "types": [
+       "ice"
+      ],
+      "encounter": false
+     }
+    ]
+   ]
+  },
+  {
+   "name": "Fighting-type Female Grunt",
+   "title": "Team GO Rocket Grunt",
+   "type": "fighting",
+   "slots": [
+    [
+     {
+      "slug": "timburr",
+      "name": "Timburr",
+      "shiny": true,
+      "types": [
+       "fighting"
+      ],
+      "encounter": true
+     },
+     {
+      "slug": "mankey",
+      "name": "Mankey",
+      "shiny": true,
+      "types": [
+       "fighting"
+      ],
+      "encounter": true
+     },
+     {
+      "slug": "makuhita",
+      "name": "Makuhita",
+      "shiny": true,
+      "types": [
+       "fighting"
+      ],
+      "encounter": true
+     }
+    ],
+    [
+     {
+      "slug": "hitmontop",
+      "name": "Hitmontop",
+      "shiny": true,
+      "types": [
+       "fighting"
+      ],
+      "encounter": true
+     },
+     {
+      "slug": "hitmonlee",
+      "name": "Hitmonlee",
+      "shiny": true,
+      "types": [
+       "fighting"
+      ],
+      "encounter": true
+     },
+     {
+      "slug": "hitmonchan",
+      "name": "Hitmonchan",
+      "shiny": true,
+      "types": [
+       "fighting"
+      ],
+      "encounter": true
+     }
+    ],
+    [
+     {
+      "slug": "conkeldurr",
+      "name": "Conkeldurr",
+      "shiny": false,
+      "types": [
+       "fighting"
+      ],
+      "encounter": false
+     },
+     {
+      "slug": "annihilape",
+      "name": "Annihilape",
+      "shiny": false,
+      "types": [
+       "fighting",
+       "ghost"
+      ],
+      "encounter": false
+     },
+     {
+      "slug": "infernape",
+      "name": "Infernape",
+      "shiny": false,
+      "types": [
+       "fire",
+       "fighting"
+      ],
+      "encounter": false
+     }
+    ]
+   ]
+  },
+  {
+   "name": "Poison-type Female Grunt",
+   "title": "Team GO Rocket Grunt",
+   "type": "poison",
+   "slots": [
+    [
+     {
+      "slug": "oddish",
+      "name": "Oddish",
+      "shiny": true,
+      "types": [
+       "grass",
+       "poison"
+      ],
+      "encounter": true
+     },
+     {
+      "slug": "zubat",
+      "name": "Zubat",
+      "shiny": true,
+      "types": [
+       "poison",
+       "flying"
+      ],
+      "encounter": true
+     },
+     {
+      "slug": "qwilfish",
+      "name": "Qwilfish",
+      "shiny": true,
+      "types": [
+       "water",
+       "poison"
+      ],
+      "encounter": true
+     }
+    ],
+    [
+     {
+      "slug": "weezing-galarian",
+      "name": "Galarian Weezing",
+      "shiny": true,
+      "types": [
+       "poison",
+       "fairy"
+      ],
+      "encounter": true
+     },
+     {
+      "slug": "nidorino",
+      "name": "Nidorino",
+      "shiny": true,
+      "types": [
+       "poison"
+      ],
+      "encounter": true
+     },
+     {
+      "slug": "nidorina",
+      "name": "Nidorina",
+      "shiny": true,
+      "types": [
+       "poison"
+      ],
+      "encounter": true
+     }
+    ],
+    [
+     {
+      "slug": "weezing",
+      "name": "Weezing",
+      "shiny": false,
+      "types": [
+       "poison"
+      ],
+      "encounter": false
+     },
+     {
+      "slug": "toxicroak",
+      "name": "Toxicroak",
+      "shiny": false,
+      "types": [
+       "poison",
+       "fighting"
+      ],
+      "encounter": false
+     },
+     {
+      "slug": "amoonguss",
+      "name": "Amoonguss",
+      "shiny": false,
+      "types": [
+       "grass",
+       "poison"
+      ],
+      "encounter": false
+     }
+    ]
+   ]
+  },
+  {
+   "name": "Ground-type Male Grunt",
+   "title": "Team GO Rocket Grunt",
+   "type": "ground",
+   "slots": [
+    [
+     {
+      "slug": "rhyhorn",
+      "name": "Rhyhorn",
+      "shiny": true,
+      "types": [
+       "ground",
+       "rock"
+      ],
+      "encounter": true
+     },
+     {
+      "slug": "gligar",
+      "name": "Gligar",
+      "shiny": true,
+      "types": [
+       "ground",
+       "flying"
+      ],
+      "encounter": true
+     },
+     {
+      "slug": "trapinch",
+      "name": "Trapinch",
+      "shiny": true,
+      "types": [
+       "ground"
+      ],
+      "encounter": true
+     }
+    ],
+    [
+     {
+      "slug": "gligar",
+      "name": "Gligar",
+      "shiny": true,
+      "types": [
+       "ground",
+       "flying"
+      ],
+      "encounter": true
+     },
+     {
+      "slug": "claydol",
+      "name": "Claydol",
+      "shiny": true,
+      "types": [
+       "ground",
+       "psychic"
+      ],
+      "encounter": true
+     },
+     {
+      "slug": "vibrava",
+      "name": "Vibrava",
+      "shiny": true,
+      "types": [
+       "ground",
+       "dragon"
+      ],
+      "encounter": true
+     }
+    ],
+    [
+     {
+      "slug": "golurk",
+      "name": "Golurk",
+      "shiny": false,
+      "types": [
+       "ground",
+       "ghost"
+      ],
+      "encounter": false
+     },
+     {
+      "slug": "hippowdon",
+      "name": "Hippowdon",
+      "shiny": false,
+      "types": [
+       "ground"
+      ],
+      "encounter": false
+     },
+     {
+      "slug": "flygon",
+      "name": "Flygon",
+      "shiny": false,
+      "types": [
+       "ground",
+       "dragon"
+      ],
+      "encounter": false
+     }
+    ]
+   ]
+  },
+  {
+   "name": "Flying-type Female Grunt",
+   "title": "Team GO Rocket Grunt",
+   "type": "flying",
+   "slots": [
+    [
+     {
+      "slug": "taillow",
+      "name": "Taillow",
+      "shiny": true,
+      "types": [
+       "normal",
+       "flying"
+      ],
+      "encounter": true
+     },
+     {
+      "slug": "rookidee",
+      "name": "Rookidee",
+      "shiny": true,
+      "types": [
+       "flying"
+      ],
+      "encounter": true
+     },
+     {
+      "slug": "swablu",
+      "name": "Swablu",
+      "shiny": true,
+      "types": [
+       "normal",
+       "flying"
+      ],
+      "encounter": true
+     }
+    ],
+    [
+     {
+      "slug": "scyther",
+      "name": "Scyther",
+      "shiny": true,
+      "types": [
+       "bug",
+       "flying"
+      ],
+      "encounter": true
+     },
+     {
+      "slug": "zubat",
+      "name": "Zubat",
+      "shiny": true,
+      "types": [
+       "poison",
+       "flying"
+      ],
+      "encounter": true
+     },
+     {
+      "slug": "gligar",
+      "name": "Gligar",
+      "shiny": true,
+      "types": [
+       "ground",
+       "flying"
+      ],
+      "encounter": true
+     }
+    ],
+    [
+     {
+      "slug": "dragonite",
+      "name": "Dragonite",
+      "shiny": false,
+      "types": [
+       "dragon",
+       "flying"
+      ],
+      "encounter": false
+     },
+     {
+      "slug": "toucannon",
+      "name": "Toucannon",
+      "shiny": false,
+      "types": [
+       "normal",
+       "flying"
+      ],
+      "encounter": false
+     },
+     {
+      "slug": "swanna",
+      "name": "Swanna",
+      "shiny": false,
+      "types": [
+       "water",
+       "flying"
+      ],
+      "encounter": false
+     }
+    ]
+   ]
+  },
+  {
+   "name": "Psychic-type Male Grunt",
+   "title": "Team GO Rocket Grunt",
+   "type": "psychic",
+   "slots": [
+    [
+     {
+      "slug": "wobbuffet",
+      "name": "Wobbuffet",
+      "shiny": true,
+      "types": [
+       "psychic"
+      ],
+      "encounter": true
+     },
+     {
+      "slug": "ralts",
+      "name": "Ralts",
+      "shiny": true,
+      "types": [
+       "psychic",
+       "fairy"
+      ],
+      "encounter": true
+     },
+     {
+      "slug": "drowzee",
+      "name": "Drowzee",
+      "shiny": true,
+      "types": [
+       "psychic"
+      ],
+      "encounter": true
+     }
+    ],
+    [
+     {
+      "slug": "drowzee",
+      "name": "Drowzee",
+      "shiny": true,
+      "types": [
+       "psychic"
+      ],
+      "encounter": true
+     },
+     {
+      "slug": "duosion",
+      "name": "Duosion",
+      "shiny": true,
+      "types": [
+       "psychic"
+      ],
+      "encounter": true
+     },
+     {
+      "slug": "wobbuffet",
+      "name": "Wobbuffet",
+      "shiny": true,
+      "types": [
+       "psychic"
+      ],
+      "encounter": true
+     }
+    ],
+    [
+     {
+      "slug": "gallade",
+      "name": "Gallade",
+      "shiny": false,
+      "types": [
+       "psychic",
+       "fighting"
+      ],
+      "encounter": false
+     },
+     {
+      "slug": "malamar",
+      "name": "Malamar",
+      "shiny": false,
+      "types": [
+       "dark",
+       "psychic"
+      ],
+      "encounter": false
+     },
+     {
+      "slug": "reuniclus",
+      "name": "Reuniclus",
+      "shiny": false,
+      "types": [
+       "psychic"
+      ],
+      "encounter": false
+     }
+    ]
+   ]
+  },
+  {
+   "name": "Bug-type Male Grunt",
+   "title": "Team GO Rocket Grunt",
+   "type": "bug",
+   "slots": [
+    [
+     {
+      "slug": "venonat",
+      "name": "Venonat",
+      "shiny": true,
+      "types": [
+       "bug",
+       "poison"
+      ],
+      "encounter": true
+     },
+     {
+      "slug": "weedle",
+      "name": "Weedle",
+      "shiny": true,
+      "types": [
+       "bug",
+       "poison"
+      ],
+      "encounter": true
+     },
+     {
+      "slug": "wimpod",
+      "name": "Wimpod",
+      "shiny": true,
+      "types": [
+       "bug",
+       "water"
+      ],
+      "encounter": true
+     }
+    ],
+    [
+     {
+      "slug": "pinsir",
+      "name": "Pinsir",
+      "shiny": true,
+      "types": [
+       "bug"
+      ],
+      "encounter": true
+     },
+     {
+      "slug": "anorith",
+      "name": "Anorith",
+      "shiny": true,
+      "types": [
+       "rock",
+       "bug"
+      ],
+      "encounter": true
+     },
+     {
+      "slug": "dewpider",
+      "name": "Dewpider",
+      "shiny": true,
+      "types": [
+       "water",
+       "bug"
+      ],
+      "encounter": true
+     }
+    ],
+    [
+     {
+      "slug": "scizor",
+      "name": "Scizor",
+      "shiny": false,
+      "types": [
+       "bug",
+       "steel"
+      ],
+      "encounter": false
+     },
+     {
+      "slug": "scolipede",
+      "name": "Scolipede",
+      "shiny": false,
+      "types": [
+       "bug",
+       "poison"
+      ],
+      "encounter": false
+     },
+     {
+      "slug": "vikavolt",
+      "name": "Vikavolt",
+      "shiny": false,
+      "types": [
+       "bug",
+       "electric"
+      ],
+      "encounter": false
+     }
+    ]
+   ]
+  },
+  {
+   "name": "Rock-type Male Grunt",
+   "title": "Team GO Rocket Grunt",
+   "type": "rock",
+   "slots": [
+    [
+     {
+      "slug": "onix",
+      "name": "Onix",
+      "shiny": true,
+      "types": [
+       "rock",
+       "ground"
+      ],
+      "encounter": true
+     },
+     {
+      "slug": "kabuto",
+      "name": "Kabuto",
+      "shiny": true,
+      "types": [
+       "rock",
+       "water"
+      ],
+      "encounter": true
+     },
+     {
+      "slug": "cranidos",
+      "name": "Cranidos",
+      "shiny": true,
+      "types": [
+       "rock"
+      ],
+      "encounter": true
+     }
+    ],
+    [
+     {
+      "slug": "shieldon",
+      "name": "Shieldon",
+      "shiny": true,
+      "types": [
+       "rock",
+       "steel"
+      ],
+      "encounter": true
+     },
+     {
+      "slug": "graveler",
+      "name": "Graveler",
+      "shiny": true,
+      "types": [
+       "rock",
+       "ground"
+      ],
+      "encounter": true
+     },
+     {
+      "slug": "cranidos",
+      "name": "Cranidos",
+      "shiny": true,
+      "types": [
+       "rock"
+      ],
+      "encounter": true
+     }
+    ],
+    [
+     {
+      "slug": "tyrantrum",
+      "name": "Tyrantrum",
+      "shiny": false,
+      "types": [
+       "rock",
+       "dragon"
+      ],
+      "encounter": false
+     },
+     {
+      "slug": "golem",
+      "name": "Golem",
+      "shiny": false,
+      "types": [
+       "rock",
+       "ground"
+      ],
+      "encounter": false
+     },
+     {
+      "slug": "aurorus",
+      "name": "Aurorus",
+      "shiny": false,
+      "types": [
+       "rock",
+       "ice"
+      ],
+      "encounter": false
+     }
+    ]
+   ]
+  },
+  {
+   "name": "Ghost-type Male Grunt",
+   "title": "Team GO Rocket Grunt",
+   "type": "ghost",
+   "slots": [
+    [
+     {
+      "slug": "duskull",
+      "name": "Duskull",
+      "shiny": true,
+      "types": [
+       "ghost"
+      ],
+      "encounter": true
+     },
+     {
+      "slug": "sandygast",
+      "name": "Sandygast",
+      "shiny": true,
+      "types": [
+       "ghost",
+       "ground"
+      ],
+      "encounter": true
+     },
+     {
+      "slug": "yamask",
+      "name": "Yamask",
+      "shiny": true,
+      "types": [
+       "ghost"
+      ],
+      "encounter": true
+     }
+    ],
+    [
+     {
+      "slug": "dusclops",
+      "name": "Dusclops",
+      "shiny": false,
+      "types": [
+       "ghost"
+      ],
+      "encounter": false
+     },
+     {
+      "slug": "sableye",
+      "name": "Sableye",
+      "shiny": false,
+      "types": [
+       "dark",
+       "ghost"
+      ],
+      "encounter": false
+     },
+     {
+      "slug": "cofagrigus",
+      "name": "Cofagrigus",
+      "shiny": false,
+      "types": [
+       "ghost"
+      ],
+      "encounter": false
+     }
+    ],
+    [
+     {
+      "slug": "gengar",
+      "name": "Gengar",
+      "shiny": false,
+      "types": [
+       "ghost",
+       "poison"
+      ],
+      "encounter": false
+     },
+     {
+      "slug": "froslass",
+      "name": "Froslass",
+      "shiny": false,
+      "types": [
+       "ice",
+       "ghost"
+      ],
+      "encounter": false
+     },
+     {
+      "slug": "cofagrigus",
+      "name": "Cofagrigus",
+      "shiny": false,
+      "types": [
+       "ghost"
+      ],
+      "encounter": false
+     }
+    ]
+   ]
+  },
+  {
+   "name": "Dragon-type Female Grunt",
+   "title": "Team GO Rocket Grunt",
+   "type": "dragon",
+   "slots": [
+    [
+     {
+      "slug": "noibat",
+      "name": "Noibat",
+      "shiny": true,
+      "types": [
+       "flying",
+       "dragon"
+      ],
+      "encounter": true
+     },
+     {
+      "slug": "deino",
+      "name": "Deino",
+      "shiny": true,
+      "types": [
+       "dark",
+       "dragon"
+      ],
+      "encounter": true
+     },
+     {
+      "slug": "axew",
+      "name": "Axew",
+      "shiny": true,
+      "types": [
+       "dragon"
+      ],
+      "encounter": true
+     }
+    ],
+    [
+     {
+      "slug": "exeggutor-alola",
+      "name": "Alolan Exeggutor",
+      "shiny": false,
+      "types": [
+       "grass",
+       "dragon"
+      ],
+      "encounter": false
+     },
+     {
+      "slug": "dragonair",
+      "name": "Dragonair",
+      "shiny": false,
+      "types": [
+       "dragon"
+      ],
+      "encounter": false
+     },
+     {
+      "slug": "gabite",
+      "name": "Gabite",
+      "shiny": false,
+      "types": [
+       "dragon",
+       "ground"
+      ],
+      "encounter": false
+     }
+    ],
+    [
+     {
+      "slug": "dragonite",
+      "name": "Dragonite",
+      "shiny": false,
+      "types": [
+       "dragon",
+       "flying"
+      ],
+      "encounter": false
+     },
+     {
+      "slug": "garchomp",
+      "name": "Garchomp",
+      "shiny": false,
+      "types": [
+       "dragon",
+       "ground"
+      ],
+      "encounter": false
+     },
+     {
+      "slug": "salamence",
+      "name": "Salamence",
+      "shiny": false,
+      "types": [
+       "dragon",
+       "flying"
+      ],
+      "encounter": false
+     }
+    ]
+   ]
+  },
+  {
+   "name": "Dark-type Female Grunt",
+   "title": "Team GO Rocket Grunt",
+   "type": "dark",
+   "slots": [
+    [
+     {
+      "slug": "carvanha",
+      "name": "Carvanha",
+      "shiny": true,
+      "types": [
+       "water",
+       "dark"
+      ],
+      "encounter": true
+     },
+     {
+      "slug": "poochyena",
+      "name": "Poochyena",
+      "shiny": true,
+      "types": [
+       "dark"
+      ],
+      "encounter": true
+     },
+     {
+      "slug": "rattata-alola",
+      "name": "Alolan Rattata",
+      "shiny": true,
+      "types": [
+       "dark",
+       "normal"
+      ],
+      "encounter": true
+     }
+    ],
+    [
+     {
+      "slug": "sneasel",
+      "name": "Sneasel",
+      "shiny": true,
+      "types": [
+       "dark",
+       "ice"
+      ],
+      "encounter": true
+     },
+     {
+      "slug": "houndour",
+      "name": "Houndour",
+      "shiny": true,
+      "types": [
+       "dark",
+       "fire"
+      ],
+      "encounter": true
+     },
+     {
+      "slug": "absol",
+      "name": "Absol",
+      "shiny": true,
+      "types": [
+       "dark"
+      ],
+      "encounter": true
+     }
+    ],
+    [
+     {
+      "slug": "liepard",
+      "name": "Liepard",
+      "shiny": false,
+      "types": [
+       "dark"
+      ],
+      "encounter": false
+     },
+     {
+      "slug": "hydreigon",
+      "name": "Hydreigon",
+      "shiny": false,
+      "types": [
+       "dark",
+       "dragon"
+      ],
+      "encounter": false
+     }
+    ]
+   ]
+  },
+  {
+   "name": "Steel-type Male Grunt",
+   "title": "Team GO Rocket Grunt",
+   "type": "steel",
+   "slots": [
+    [
+     {
+      "slug": "sandshrew-alola",
+      "name": "Alolan Sandshrew",
+      "shiny": true,
+      "types": [
+       "ice",
+       "steel"
+      ],
+      "encounter": true
+     },
+     {
+      "slug": "aron",
+      "name": "Aron",
+      "shiny": true,
+      "types": [
+       "steel",
+       "rock"
+      ],
+      "encounter": true
+     },
+     {
+      "slug": "beldum",
+      "name": "Beldum",
+      "shiny": true,
+      "types": [
+       "steel",
+       "psychic"
+      ],
+      "encounter": true
+     }
+    ],
+    [
+     {
+      "slug": "lairon",
+      "name": "Lairon",
+      "shiny": false,
+      "types": [
+       "steel",
+       "rock"
+      ],
+      "encounter": false
+     },
+     {
+      "slug": "skarmory",
+      "name": "Skarmory",
+      "shiny": false,
+      "types": [
+       "steel",
+       "flying"
+      ],
+      "encounter": false
+     },
+     {
+      "slug": "metang",
+      "name": "Metang",
+      "shiny": false,
+      "types": [
+       "steel",
+       "psychic"
+      ],
+      "encounter": false
+     }
+    ],
+    [
+     {
+      "slug": "aggron",
+      "name": "Aggron",
+      "shiny": false,
+      "types": [
+       "steel",
+       "rock"
+      ],
+      "encounter": false
+     },
+     {
+      "slug": "sandslash-alola",
+      "name": "Alolan Sandslash",
+      "shiny": false,
+      "types": [
+       "ice",
+       "steel"
+      ],
+      "encounter": false
+     },
+     {
+      "slug": "probopass",
+      "name": "Probopass",
+      "shiny": false,
+      "types": [
+       "rock",
+       "steel"
+      ],
+      "encounter": false
+     }
+    ]
+   ]
+  },
+  {
+   "name": "Fairy-type Female Grunt",
+   "title": "Team GO Rocket Grunt",
+   "type": "fairy",
+   "slots": [
+    [
+     {
+      "slug": "ralts",
+      "name": "Ralts",
+      "shiny": true,
+      "types": [
+       "psychic",
+       "fairy"
+      ],
+      "encounter": true
+     },
+     {
+      "slug": "snubbull",
+      "name": "Snubbull",
+      "shiny": true,
+      "types": [
+       "fairy"
+      ],
+      "encounter": true
+     },
+     {
+      "slug": "vulpix-alola",
+      "name": "Alolan Vulpix",
+      "shiny": true,
+      "types": [
+       "ice"
+      ],
+      "encounter": true
+     }
+    ],
+    [
+     {
+      "slug": "snubbull",
+      "name": "Snubbull",
+      "shiny": true,
+      "types": [
+       "fairy"
+      ],
+      "encounter": true
+     },
+     {
+      "slug": "weezing-galarian",
+      "name": "Galarian Weezing",
+      "shiny": true,
+      "types": [
+       "poison",
+       "fairy"
+      ],
+      "encounter": true
+     },
+     {
+      "slug": "kirlia",
+      "name": "Kirlia",
+      "shiny": true,
+      "types": [
+       "psychic",
+       "fairy"
+      ],
+      "encounter": true
+     }
+    ],
+    [
+     {
+      "slug": "ninetales-alola",
+      "name": "Alolan Ninetales",
+      "shiny": false,
+      "types": [
+       "ice",
+       "fairy"
+      ],
+      "encounter": false
+     },
+     {
+      "slug": "weezing-galarian",
+      "name": "Galarian Weezing",
+      "shiny": false,
+      "types": [
+       "poison",
+       "fairy"
+      ],
+      "encounter": false
+     },
+     {
+      "slug": "granbull",
+      "name": "Granbull",
+      "shiny": false,
+      "types": [
+       "fairy"
+      ],
+      "encounter": false
+     }
+    ]
+   ]
+  },
+  {
+   "name": "Male Grunt",
+   "title": "Team GO Rocket Grunt",
+   "type": null,
+   "slots": [
+    [
+     {
+      "slug": "bulbasaur",
+      "name": "Bulbasaur",
+      "shiny": true,
+      "types": [
+       "grass",
+       "poison"
+      ],
+      "encounter": true
+     },
+     {
+      "slug": "charmander",
+      "name": "Charmander",
+      "shiny": true,
+      "types": [
+       "fire"
+      ],
+      "encounter": true
+     },
+     {
+      "slug": "squirtle",
+      "name": "Squirtle",
+      "shiny": true,
+      "types": [
+       "water"
+      ],
+      "encounter": true
+     }
+    ],
+    [
+     {
+      "slug": "ivysaur",
+      "name": "Ivysaur",
+      "shiny": false,
+      "types": [
+       "grass",
+       "poison"
+      ],
+      "encounter": false
+     },
+     {
+      "slug": "charmeleon",
+      "name": "Charmeleon",
+      "shiny": false,
+      "types": [
+       "fire"
+      ],
+      "encounter": false
+     },
+     {
+      "slug": "wartortle",
+      "name": "Wartortle",
+      "shiny": false,
+      "types": [
+       "water"
+      ],
+      "encounter": false
+     }
+    ],
+    [
+     {
+      "slug": "venusaur",
+      "name": "Venusaur",
+      "shiny": false,
+      "types": [
+       "grass",
+       "poison"
+      ],
+      "encounter": false
+     },
+     {
+      "slug": "charizard",
+      "name": "Charizard",
+      "shiny": false,
+      "types": [
+       "fire",
+       "flying"
+      ],
+      "encounter": false
+     },
+     {
+      "slug": "blastoise",
+      "name": "Blastoise",
+      "shiny": false,
+      "types": [
+       "water"
+      ],
+      "encounter": false
+     }
+    ]
+   ]
+  },
+  {
+   "name": "Female Grunt",
+   "title": "Team GO Rocket Grunt",
+   "type": null,
+   "slots": [
+    [
+     {
+      "slug": "snorlax",
+      "name": "Snorlax",
+      "shiny": true,
+      "types": [
+       "normal"
+      ],
+      "encounter": true
+     },
+     {
+      "slug": "lapras",
+      "name": "Lapras",
+      "shiny": true,
+      "types": [
+       "water",
+       "ice"
+      ],
+      "encounter": true
+     }
+    ],
+    [
+     {
+      "slug": "poliwrath",
+      "name": "Poliwrath",
+      "shiny": false,
+      "types": [
+       "water",
+       "fighting"
+      ],
+      "encounter": false
+     },
+     {
+      "slug": "gardevoir",
+      "name": "Gardevoir",
+      "shiny": false,
+      "types": [
+       "psychic",
+       "fairy"
+      ],
+      "encounter": false
+     },
+     {
+      "slug": "snorlax",
+      "name": "Snorlax",
+      "shiny": false,
+      "types": [
+       "normal"
+      ],
+      "encounter": false
+     }
+    ],
+    [
+     {
+      "slug": "gyarados",
+      "name": "Gyarados",
+      "shiny": false,
+      "types": [
+       "water",
+       "flying"
+      ],
+      "encounter": false
+     },
+     {
+      "slug": "dragonite",
+      "name": "Dragonite",
+      "shiny": false,
+      "types": [
+       "dragon",
+       "flying"
+      ],
+      "encounter": false
+     },
+     {
+      "slug": "snorlax",
+      "name": "Snorlax",
+      "shiny": false,
+      "types": [
+       "normal"
+      ],
+      "encounter": false
+     }
+    ]
+   ]
+  },
+  {
+   "name": "Decoy Female Grunt",
+   "title": "Team GO Rocket Grunt",
+   "type": null,
+   "slots": [
+    [
+     {
+      "slug": "bellsprout",
+      "name": "Bellsprout",
+      "shiny": true,
+      "types": [
+       "grass",
+       "poison"
+      ],
+      "encounter": true
+     }
+    ],
+    [
+     {
+      "slug": "raticate",
+      "name": "Raticate",
+      "shiny": false,
+      "types": [
+       "normal"
+      ],
+      "encounter": false
+     },
+     {
+      "slug": "weepinbell",
+      "name": "Weepinbell",
+      "shiny": false,
+      "types": [
+       "grass",
+       "poison"
+      ],
+      "encounter": false
+     }
+    ],
+    [
+     {
+      "slug": "raticate",
+      "name": "Raticate",
+      "shiny": false,
+      "types": [
+       "normal"
+      ],
+      "encounter": false
+     },
+     {
+      "slug": "snorlax",
+      "name": "Snorlax",
+      "shiny": false,
+      "types": [
+       "normal"
+      ],
+      "encounter": false
+     }
+    ]
+   ]
+  }
+ ]
+}

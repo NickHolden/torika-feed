@@ -1,0 +1,61 @@
+{
+ "schema": 1,
+ "built": "2026-11-13T18:37:54Z",
+ "items": [
+  {
+   "id": "raids:tier-3:fce0a5bd3d8d",
+   "kind": "source-disagreement",
+   "held": false,
+   "origin": {
+    "id": "raids",
+    "title": "Current raid bosses",
+    "note": "LeekDuck against Pokebattler"
+   },
+   "field": "3-Star Raids",
+   "readings": [
+    {
+     "who": "LeekDuck",
+     "value": "Druddigon, Orthworm",
+     "url": "https://leekduck.com/raids/"
+    },
+    {
+     "who": "Pokebattler",
+     "value": "Druddigon, Machamp, Orthworm",
+     "url": "https://www.pokebattler.com/raids"
+    }
+   ],
+   "showing": 0,
+   "answerHint": "Boss names, separated by commas",
+   "section": "raids",
+   "firstSeen": "2026-11-13"
+  },
+  {
+   "id": "raids:tier-5:0118fd07c39b",
+   "kind": "source-disagreement",
+   "held": false,
+   "origin": {
+    "id": "raids",
+    "title": "Current raid bosses",
+    "note": "LeekDuck against Pokebattler"
+   },
+   "field": "5-Star Raids",
+   "readings": [
+    {
+     "who": "LeekDuck",
+     "value": "Zacian Crowned Sword, Zamazenta Crowned Shield",
+     "url": "https://leekduck.com/raids/"
+    },
+    {
+     "who": "Pokebattler",
+     "value": "Kyurem White, Zacian Crowned Sword, Zamazenta Crowned Shield, Zekrom",
+     "url": "https://www.pokebattler.com/raids"
+    }
+   ],
+   "showing": 0,
+   "answerHint": "Boss names, separated by commas",
+   "section": "raids",
+   "firstSeen": "2026-11-13"
+  }
+ ],
+ "applied": []
+}
