@@ -743,8 +743,16 @@
     {
      "slug": null,
      "name": "Toxtricity",
-     "unmatched": true,
-     "source": "TOXTRICITY",
+     "candidates": [
+      {
+       "slug": "toxtricity-amped",
+       "name": "Toxtricity Amped"
+      },
+      {
+       "slug": "toxtricity-low-key",
+       "name": "Toxtricity Low Key"
+      }
+     ],
      "gigantamax": false
     }
    ]
