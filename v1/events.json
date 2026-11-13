@@ -26,7 +26,7 @@
     {
      "name": "LeekDuck",
      "url": "https://leekduck.com/events/gbl-twilight-trails_great-league-mega-edition_ultra-league-mega-edition_master-league-mega-edition-split-3/",
-     "read": "2026-11-13T18:51:51Z"
+     "read": "2026-11-13T20:09:54Z"
     }
    ],
    "listed": true
@@ -196,10 +196,13 @@
     {
      "name": "LeekDuck",
      "url": "https://leekduck.com/events/pokemon-night-out-london-2026/",
-     "read": "2026-11-13T18:51:51Z"
+     "read": "2026-11-13T20:09:54Z"
     }
    ],
-   "listed": true
+   "listed": true,
+   "onsite": {
+    "missing": "events:e6648a8b.microsite:4f53cda18c2b"
+   }
   },
   {
    "id": "into-the-wild-2026",
@@ -797,7 +800,7 @@
     {
      "name": "LeekDuck",
      "url": "https://leekduck.com/events/into-the-wild-2026/",
-     "read": "2026-11-13T18:51:51Z"
+     "read": "2026-11-13T20:09:54Z"
     }
    ],
    "listed": true
@@ -849,7 +852,7 @@
     {
      "name": "LeekDuck",
      "url": "https://leekduck.com/events/zacian-crowned-sword-zamazenta-crowned-shield-in-5-star-raid-battles-november-2026/",
-     "read": "2026-11-13T18:51:51Z"
+     "read": "2026-11-13T20:09:54Z"
     }
    ],
    "listed": true
@@ -1600,7 +1603,7 @@
     {
      "name": "LeekDuck",
      "url": "https://leekduck.com/events/pokemon-go-wild-area-2026-global/",
-     "read": "2026-11-13T18:51:51Z"
+     "read": "2026-11-13T20:09:54Z"
     }
    ],
    "listed": true
@@ -1636,7 +1639,7 @@
     {
      "name": "LeekDuck",
      "url": "https://leekduck.com/events/go-wild-area-gigantamax-machamp-power-up-timed-research/",
-     "read": "2026-11-13T18:51:51Z"
+     "read": "2026-11-13T20:09:54Z"
     }
    ],
    "listed": true
@@ -1672,7 +1675,7 @@
     {
      "name": "LeekDuck",
      "url": "https://leekduck.com/events/max-mondays-2026-11-16/",
-     "read": "2026-11-13T18:51:51Z"
+     "read": "2026-11-13T20:09:54Z"
     }
    ],
    "listed": true
@@ -1708,7 +1711,7 @@
     {
      "name": "LeekDuck",
      "url": "https://leekduck.com/events/gbl-twilight-trails_great-league_ultra-league-mega-edition_2026-go-laic-cup/",
-     "read": "2026-11-13T18:51:51Z"
+     "read": "2026-11-13T20:09:54Z"
     }
    ],
    "listed": true
@@ -1744,7 +1747,7 @@
     {
      "name": "LeekDuck",
      "url": "https://leekduck.com/events/raidhour20261118/",
-     "read": "2026-11-13T18:51:51Z"
+     "read": "2026-11-13T20:09:54Z"
     }
    ],
    "listed": true
@@ -1815,7 +1818,7 @@
     {
      "name": "LeekDuck",
      "url": "https://leekduck.com/events/pokemonspotlighthour2026-11-19/",
-     "read": "2026-11-13T18:51:51Z"
+     "read": "2026-11-13T20:09:54Z"
     }
    ],
    "listed": true
@@ -1912,7 +1915,7 @@
     {
      "name": "LeekDuck",
      "url": "https://leekduck.com/events/minior-showers-leonids-2026/",
-     "read": "2026-11-13T18:51:51Z"
+     "read": "2026-11-13T20:09:54Z"
     }
    ],
    "listed": true
@@ -1974,7 +1977,7 @@
     {
      "name": "LeekDuck",
      "url": "https://leekduck.com/events/eternamax-eternatus-max-battles-2026/",
-     "read": "2026-11-13T18:51:51Z"
+     "read": "2026-11-13T20:09:54Z"
     }
    ],
    "listed": true
@@ -2321,7 +2324,7 @@
     {
      "name": "LeekDuck",
      "url": "https://leekduck.com/events/november-communityday2026/",
-     "read": "2026-11-13T18:51:51Z"
+     "read": "2026-11-13T20:09:54Z"
     }
    ],
    "listed": true
@@ -2378,7 +2381,7 @@
     {
      "name": "LeekDuck",
      "url": "https://leekduck.com/events/dynamax-trails-2026/",
-     "read": "2026-11-13T18:51:51Z"
+     "read": "2026-11-13T20:09:54Z"
     }
    ],
    "listed": true
@@ -2414,7 +2417,7 @@
     {
      "name": "LeekDuck",
      "url": "https://leekduck.com/events/max-mondays-2026-11-23/",
-     "read": "2026-11-13T18:51:51Z"
+     "read": "2026-11-13T20:09:54Z"
     }
    ],
    "listed": true
@@ -2466,7 +2469,7 @@
     {
      "name": "LeekDuck",
      "url": "https://leekduck.com/events/cresselia-darkrai-in-5-star-raid-battles-november-2026/",
-     "read": "2026-11-13T18:51:51Z"
+     "read": "2026-11-13T20:09:54Z"
     }
    ],
    "listed": true
@@ -2513,7 +2516,7 @@
     {
      "name": "LeekDuck",
      "url": "https://leekduck.com/events/mega-banette-in-mega-raids-november-2026/",
-     "read": "2026-11-13T18:51:51Z"
+     "read": "2026-11-13T20:09:54Z"
     }
    ],
    "listed": true
@@ -2549,7 +2552,7 @@
     {
      "name": "LeekDuck",
      "url": "https://leekduck.com/events/gbl-twilight-trails_ultra-league_master-league-mega-edition_2026-go-laic-cup/",
-     "read": "2026-11-13T18:51:51Z"
+     "read": "2026-11-13T20:09:54Z"
     }
    ],
    "listed": true
@@ -2585,7 +2588,7 @@
     {
      "name": "LeekDuck",
      "url": "https://leekduck.com/events/raidhour20261125/",
-     "read": "2026-11-13T18:51:51Z"
+     "read": "2026-11-13T20:09:54Z"
     }
    ],
    "listed": true
@@ -2646,7 +2649,7 @@
     {
      "name": "LeekDuck",
      "url": "https://leekduck.com/events/pokemonspotlighthour2026-11-26/",
-     "read": "2026-11-13T18:51:51Z"
+     "read": "2026-11-13T20:09:54Z"
     }
    ],
    "listed": true
@@ -2735,7 +2738,7 @@
     {
      "name": "LeekDuck",
      "url": "https://leekduck.com/events/clefable-super-mega-raid-day-2026/",
-     "read": "2026-11-13T18:51:51Z"
+     "read": "2026-11-13T20:09:54Z"
     }
    ],
    "listed": true
@@ -2889,7 +2892,7 @@
     {
      "name": "LeekDuck",
      "url": "https://leekduck.com/events/twilight-wishes-2026/",
-     "read": "2026-11-13T18:51:51Z"
+     "read": "2026-11-13T20:09:54Z"
     }
    ],
    "listed": true
@@ -2925,7 +2928,7 @@
     {
      "name": "LeekDuck",
      "url": "https://leekduck.com/events/max-mondays-2026-11-30/",
-     "read": "2026-11-13T18:51:51Z"
+     "read": "2026-11-13T20:09:54Z"
     }
    ],
    "listed": true
@@ -3089,7 +3092,7 @@
     {
      "name": "LeekDuck",
      "url": "https://leekduck.com/events/season-24-twilight-trails/",
-     "read": "2026-11-13T18:51:51Z"
+     "read": "2026-11-13T20:09:54Z"
     }
    ],
    "listed": true
@@ -3125,7 +3128,7 @@
     {
      "name": "LeekDuck",
      "url": "https://leekduck.com/events/go-pass-november-2026/",
-     "read": "2026-11-13T18:51:51Z"
+     "read": "2026-11-13T20:09:54Z"
     }
    ],
    "listed": true
@@ -3161,7 +3164,7 @@
     {
      "name": "LeekDuck",
      "url": "https://leekduck.com/events/gbl-twilight-trails_master-league_mega-catch-cup-great-league-edition/",
-     "read": "2026-11-13T18:51:51Z"
+     "read": "2026-11-13T20:09:54Z"
     }
    ],
    "listed": true
@@ -3208,7 +3211,7 @@
     {
      "name": "LeekDuck",
      "url": "https://leekduck.com/events/shadow-tornadus-incarnate-forme-in-shadow-raids-november-16-2026/",
-     "read": "2026-11-13T18:51:51Z"
+     "read": "2026-11-13T20:09:54Z"
     }
    ],
    "listed": true
@@ -3270,7 +3273,7 @@
     {
      "name": "LeekDuck",
      "url": "https://leekduck.com/events/deoxys-normal-defense-attack-speed-formes-in-5-star-raid-battles-november-2026/",
-     "read": "2026-11-13T18:51:51Z"
+     "read": "2026-11-13T20:09:54Z"
     }
    ],
    "listed": true
@@ -3317,7 +3320,7 @@
     {
      "name": "LeekDuck",
      "url": "https://leekduck.com/events/mega-metagross-in-mega-raids-november-2026/",
-     "read": "2026-11-13T18:51:51Z"
+     "read": "2026-11-13T20:09:54Z"
     }
    ],
    "listed": true
@@ -3353,7 +3356,7 @@
     {
      "name": "LeekDuck",
      "url": "https://leekduck.com/events/max-battle-day-december-2026/",
-     "read": "2026-11-13T18:51:51Z"
+     "read": "2026-11-13T20:09:54Z"
     }
    ],
    "listed": true
@@ -3389,7 +3392,7 @@
     {
      "name": "LeekDuck",
      "url": "https://leekduck.com/events/december-communityday2026/",
-     "read": "2026-11-13T18:51:51Z"
+     "read": "2026-11-13T20:09:54Z"
     }
    ],
    "listed": true
@@ -3486,7 +3489,7 @@
     {
      "name": "LeekDuck",
      "url": "https://leekduck.com/events/minior-showers-geminids-2026/",
-     "read": "2026-11-13T18:51:51Z"
+     "read": "2026-11-13T20:09:54Z"
     }
    ],
    "listed": true
@@ -3522,7 +3525,7 @@
     {
      "name": "LeekDuck",
      "url": "https://leekduck.com/events/raid-day-december-2026/",
-     "read": "2026-11-13T18:51:51Z"
+     "read": "2026-11-13T20:09:54Z"
     }
    ],
    "listed": true
@@ -3558,7 +3561,7 @@
     {
      "name": "LeekDuck",
      "url": "https://leekduck.com/events/hatch-day-december-2026/",
-     "read": "2026-11-13T18:51:51Z"
+     "read": "2026-11-13T20:09:54Z"
     }
    ],
    "listed": true
@@ -3594,7 +3597,7 @@
     {
      "name": "LeekDuck",
      "url": "https://leekduck.com/events/january-communitydayclassic2027/",
-     "read": "2026-11-13T18:51:51Z"
+     "read": "2026-11-13T20:09:54Z"
     }
    ],
    "listed": true
@@ -3630,7 +3633,7 @@
     {
      "name": "LeekDuck",
      "url": "https://leekduck.com/events/super-mega-raid-day-january-2027/",
-     "read": "2026-11-13T18:51:51Z"
+     "read": "2026-11-13T20:09:54Z"
     }
    ],
    "listed": true
@@ -3668,7 +3671,7 @@
     {
      "name": "LeekDuck",
      "url": "https://leekduck.com/events/pokemon-x-adidas-2026/",
-     "read": "2026-11-13T18:51:51Z"
+     "read": "2026-11-13T20:09:54Z"
     }
    ],
    "listed": true
@@ -3704,7 +3707,7 @@
     {
      "name": "LeekDuck",
      "url": "https://leekduck.com/events/january-communityday2027/",
-     "read": "2026-11-13T18:51:51Z"
+     "read": "2026-11-13T20:09:54Z"
     }
    ],
    "listed": true
@@ -3740,7 +3743,7 @@
     {
      "name": "LeekDuck",
      "url": "https://leekduck.com/events/max-battle-day-january-2027/",
-     "read": "2026-11-13T18:51:51Z"
+     "read": "2026-11-13T20:09:54Z"
     }
    ],
    "listed": true
@@ -3776,7 +3779,7 @@
     {
      "name": "LeekDuck",
      "url": "https://leekduck.com/events/super-mega-raid-day-january-30-2027/",
-     "read": "2026-11-13T18:51:51Z"
+     "read": "2026-11-13T20:09:54Z"
     }
    ],
    "listed": true
@@ -3812,7 +3815,7 @@
     {
      "name": "LeekDuck",
      "url": "https://leekduck.com/events/february-communityday2027/",
-     "read": "2026-11-13T18:51:51Z"
+     "read": "2026-11-13T20:09:54Z"
     }
    ],
    "listed": true
@@ -3848,7 +3851,7 @@
     {
      "name": "LeekDuck",
      "url": "https://leekduck.com/events/raid-day-february-2027/",
-     "read": "2026-11-13T18:51:51Z"
+     "read": "2026-11-13T20:09:54Z"
     }
    ],
    "listed": true
@@ -3885,10 +3888,13 @@
     {
      "name": "LeekDuck",
      "url": "https://leekduck.com/events/pokemon-go-tour-alola-kaohsiung-2027/",
-     "read": "2026-11-13T18:51:51Z"
+     "read": "2026-11-13T20:09:54Z"
     }
    ],
-   "listed": true
+   "listed": true,
+   "onsite": {
+    "missing": "events:ef532740.microsite:4f53cda18c2b"
+   }
   },
   {
    "id": "pokemon-go-tour-alola-los-angeles-2027",
@@ -3922,10 +3928,13 @@
     {
      "name": "LeekDuck",
      "url": "https://leekduck.com/events/pokemon-go-tour-alola-los-angeles-2027/",
-     "read": "2026-11-13T18:51:51Z"
+     "read": "2026-11-13T20:09:54Z"
     }
    ],
-   "listed": true
+   "listed": true,
+   "onsite": {
+    "missing": "events:979624b9.microsite:4f53cda18c2b"
+   }
   },
   {
    "id": "pokemon-go-tour-alola-global-2027",
@@ -3958,7 +3967,7 @@
     {
      "name": "LeekDuck",
      "url": "https://leekduck.com/events/pokemon-go-tour-alola-global-2027/",
-     "read": "2026-11-13T18:51:51Z"
+     "read": "2026-11-13T20:09:54Z"
     }
    ],
    "listed": true
@@ -4055,7 +4064,7 @@
     {
      "name": "LeekDuck",
      "url": "https://leekduck.com/events/minior-showers-eta-aquariids-2027/",
-     "read": "2026-11-13T18:51:51Z"
+     "read": "2026-11-13T20:09:54Z"
     }
    ],
    "listed": true
@@ -4152,7 +4161,7 @@
     {
      "name": "LeekDuck",
      "url": "https://leekduck.com/events/minior-showers-southern-delta-aquariids-2027/",
-     "read": "2026-11-13T18:51:51Z"
+     "read": "2026-11-13T20:09:54Z"
     }
    ],
    "listed": true
@@ -4249,7 +4258,7 @@
     {
      "name": "LeekDuck",
      "url": "https://leekduck.com/events/minior-showers-perseids-2027/",
-     "read": "2026-11-13T18:51:51Z"
+     "read": "2026-11-13T20:09:54Z"
     }
    ],
    "listed": true

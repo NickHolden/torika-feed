@@ -1,0 +1,14 @@
+{
+ "schema": 1,
+ "events": {
+  "pokemon-night-out-london-2026": {
+   "seen": {}
+  },
+  "pokemon-go-tour-alola-kaohsiung-2027": {
+   "seen": {}
+  },
+  "pokemon-go-tour-alola-los-angeles-2027": {
+   "seen": {}
+  }
+ }
+}

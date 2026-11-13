@@ -1,59 +1,53 @@
 {
  "schema": 1,
- "built": "2026-11-13T18:51:51Z",
+ "built": "2026-11-13T20:09:54Z",
  "items": [
   {
-   "id": "raids:tier-3:fce0a5bd3d8d",
-   "kind": "source-disagreement",
-   "held": false,
+   "id": "events:979624b9.microsite:4f53cda18c2b",
+   "kind": "missing-microsite",
+   "held": true,
    "origin": {
-    "id": "raids",
-    "title": "Current raid bosses",
-    "note": "LeekDuck against Pokebattler"
+    "id": "onsite:pokemon-go-tour-alola-los-angeles-2027",
+    "title": "Pokémon GO Tour: Alola - Los Angeles 2027",
+    "note": "Official microsite"
    },
-   "field": "3-Star Raids",
-   "readings": [
-    {
-     "who": "LeekDuck",
-     "value": "Druddigon, Orthworm",
-     "url": "https://leekduck.com/raids/"
-    },
-    {
-     "who": "Pokebattler",
-     "value": "Druddigon, Machamp, Orthworm",
-     "url": "https://www.pokebattler.com/raids"
-    }
-   ],
-   "showing": 0,
-   "answerHint": "Boss names, separated by commas",
-   "section": "raids",
+   "field": "Microsite address",
+   "readings": [],
+   "answerFormat": "url",
+   "answerHint": "https://pokemongo.com/en/…",
+   "section": "events",
    "firstSeen": "2026-11-13"
   },
   {
-   "id": "raids:tier-5:0118fd07c39b",
-   "kind": "source-disagreement",
-   "held": false,
+   "id": "events:e6648a8b.microsite:4f53cda18c2b",
+   "kind": "missing-microsite",
+   "held": true,
    "origin": {
-    "id": "raids",
-    "title": "Current raid bosses",
-    "note": "LeekDuck against Pokebattler"
+    "id": "onsite:pokemon-night-out-london-2026",
+    "title": "Pokémon Night Out 2026 - London",
+    "note": "Official microsite"
    },
-   "field": "5-Star Raids",
-   "readings": [
-    {
-     "who": "LeekDuck",
-     "value": "Zacian Crowned Sword, Zamazenta Crowned Shield",
-     "url": "https://leekduck.com/raids/"
-    },
-    {
-     "who": "Pokebattler",
-     "value": "Kyurem White, Zacian Crowned Sword, Zamazenta Crowned Shield, Zekrom",
-     "url": "https://www.pokebattler.com/raids"
-    }
-   ],
-   "showing": 0,
-   "answerHint": "Boss names, separated by commas",
-   "section": "raids",
+   "field": "Microsite address",
+   "readings": [],
+   "answerFormat": "url",
+   "answerHint": "https://pokemongo.com/en/…",
+   "section": "events",
+   "firstSeen": "2026-11-13"
+  },
+  {
+   "id": "events:ef532740.microsite:4f53cda18c2b",
+   "kind": "missing-microsite",
+   "held": true,
+   "origin": {
+    "id": "onsite:pokemon-go-tour-alola-kaohsiung-2027",
+    "title": "Pokémon GO Tour: Alola - Kaohsiung 2027",
+    "note": "Official microsite"
+   },
+   "field": "Microsite address",
+   "readings": [],
+   "answerFormat": "url",
+   "answerHint": "https://pokemongo.com/en/…",
+   "section": "events",
    "firstSeen": "2026-11-13"
   }
  ],
