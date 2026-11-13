@@ -1,0 +1,3727 @@
+{
+ "categories": [
+  {
+   "title": "Into the Wild 2026 Tasks",
+   "event": true,
+   "end": {
+    "time": "2026-11-13T20:00:00",
+    "kind": "local"
+   },
+   "tasks": [
+    {
+     "text": "Power up Steel-type Pokémon 5 times",
+     "rewards": [
+      {
+       "type": "encounter",
+       "shiny": true,
+       "cp": {
+        "min": 409,
+        "max": 443
+       },
+       "slug": "meowth-galarian",
+       "name": "Galarian Meowth"
+      },
+      {
+       "type": "encounter",
+       "shiny": true,
+       "cp": {
+        "min": 544,
+        "max": 583
+       },
+       "slug": "magnemite",
+       "name": "Magnemite"
+      },
+      {
+       "type": "encounter",
+       "shiny": true,
+       "cp": {
+        "min": 522,
+        "max": 560
+       },
+       "slug": "aron",
+       "name": "Aron"
+      },
+      {
+       "type": "encounter",
+       "shiny": true,
+       "cp": {
+        "min": 876,
+        "max": 926
+       },
+       "slug": "togedemaru",
+       "name": "Togedemaru"
+      }
+     ]
+    },
+    {
+     "text": "Power up Dragon-type Pokémon 5 times",
+     "rewards": [
+      {
+       "type": "encounter",
+       "shiny": true,
+       "cp": {
+        "min": 418,
+        "max": 452
+       },
+       "slug": "horsea",
+       "name": "Horsea"
+      },
+      {
+       "type": "encounter",
+       "shiny": true,
+       "cp": {
+        "min": 397,
+        "max": 430
+       },
+       "slug": "dratini",
+       "name": "Dratini"
+      },
+      {
+       "type": "encounter",
+       "shiny": true,
+       "cp": {
+        "min": 459,
+        "max": 495
+       },
+       "slug": "bagon",
+       "name": "Bagon"
+      },
+      {
+       "type": "encounter",
+       "shiny": true,
+       "cp": {
+        "min": 421,
+        "max": 455
+       },
+       "slug": "skrelp",
+       "name": "Skrelp"
+      }
+     ]
+    },
+    {
+     "text": "Win a raid",
+     "rewards": [
+      {
+       "type": "encounter",
+       "shiny": true,
+       "cp": {
+        "min": 1104,
+        "max": 1160
+       },
+       "slug": "scyther",
+       "name": "Scyther"
+      },
+      {
+       "type": "encounter",
+       "shiny": true,
+       "cp": {
+        "min": 397,
+        "max": 430
+       },
+       "slug": "dratini",
+       "name": "Dratini"
+      },
+      {
+       "type": "item",
+       "quantity": 2,
+       "name": "Rare Candy"
+      }
+     ]
+    },
+    {
+     "text": "Catch 10 Pokémon",
+     "rewards": [
+      {
+       "type": "encounter",
+       "shiny": true,
+       "cp": {
+        "min": 544,
+        "max": 583
+       },
+       "slug": "magnemite",
+       "name": "Magnemite"
+      },
+      {
+       "type": "encounter",
+       "shiny": true,
+       "cp": {
+        "min": 418,
+        "max": 452
+       },
+       "slug": "horsea",
+       "name": "Horsea"
+      },
+      {
+       "type": "encounter",
+       "shiny": true,
+       "cp": {
+        "min": 522,
+        "max": 560
+       },
+       "slug": "aron",
+       "name": "Aron"
+      },
+      {
+       "type": "encounter",
+       "shiny": true,
+       "cp": {
+        "min": 421,
+        "max": 455
+       },
+       "slug": "skrelp",
+       "name": "Skrelp"
+      }
+     ]
+    },
+    {
+     "text": "Win a Max Battle",
+     "rewards": [
+      {
+       "type": "encounter",
+       "shiny": true,
+       "cp": {
+        "min": 658,
+        "max": 700
+       },
+       "slug": "mawile",
+       "name": "Mawile"
+      },
+      {
+       "type": "encounter",
+       "shiny": true,
+       "cp": {
+        "min": 459,
+        "max": 495
+       },
+       "slug": "bagon",
+       "name": "Bagon"
+      }
+     ]
+    },
+    {
+     "text": "Catch a Dynamax Machop",
+     "rewards": [
+      {
+       "type": "resource",
+       "quantity": 25,
+       "name": "Machop Candy"
+      },
+      {
+       "type": "item",
+       "quantity": 5000,
+       "name": "Stardust"
+      }
+     ]
+    },
+    {
+     "text": "Catch a Dynamax Ralts",
+     "rewards": [
+      {
+       "type": "resource",
+       "quantity": 25,
+       "name": "Ralts Candy"
+      },
+      {
+       "type": "item",
+       "quantity": 5000,
+       "name": "Stardust"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "title": "Catching Tasks",
+   "event": false,
+   "end": null,
+   "tasks": [
+    {
+     "text": "Catch 7 Pokémon",
+     "rewards": [
+      {
+       "type": "encounter",
+       "shiny": true,
+       "cp": {
+        "min": 99,
+        "max": 117
+       },
+       "slug": "magikarp",
+       "name": "Magikarp"
+      },
+      {
+       "type": "encounter",
+       "shiny": true,
+       "cp": {
+        "min": 540,
+        "max": 579
+       },
+       "slug": "stufful",
+       "name": "Stufful"
+      },
+      {
+       "type": "encounter",
+       "shiny": true,
+       "cp": {
+        "min": 191,
+        "max": 215
+       },
+       "slug": "wimpod",
+       "name": "Wimpod"
+      }
+     ]
+    },
+    {
+     "text": "Catch a Dragon-type Pokémon",
+     "rewards": [
+      {
+       "type": "encounter",
+       "shiny": true,
+       "cp": {
+        "min": 397,
+        "max": 430
+       },
+       "slug": "dratini",
+       "name": "Dratini"
+      },
+      {
+       "type": "encounter",
+       "shiny": true,
+       "cp": {
+        "min": 459,
+        "max": 495
+       },
+       "slug": "bagon",
+       "name": "Bagon"
+      },
+      {
+       "type": "encounter",
+       "shiny": true,
+       "cp": {
+        "min": 547,
+        "max": 586
+       },
+       "slug": "axew",
+       "name": "Axew"
+      },
+      {
+       "type": "item",
+       "quantity": 2,
+       "name": "Golden Razz Berry"
+      },
+      {
+       "type": "item",
+       "quantity": 3,
+       "name": "Rare Candy"
+      },
+      {
+       "type": "item",
+       "quantity": 1500,
+       "name": "Stardust"
+      },
+      {
+       "type": "item",
+       "quantity": 10,
+       "name": "Ultra Ball"
+      }
+     ]
+    },
+    {
+     "text": "Catch a Ditto",
+     "rewards": [
+      {
+       "type": "item",
+       "quantity": 2,
+       "name": "Golden Razz Berry"
+      },
+      {
+       "type": "item",
+       "quantity": 3,
+       "name": "Rare Candy"
+      },
+      {
+       "type": "item",
+       "quantity": 1500,
+       "name": "Stardust"
+      },
+      {
+       "type": "item",
+       "quantity": 10,
+       "name": "Ultra Ball"
+      }
+     ]
+    },
+    {
+     "text": "Catch 7 different species of Pokémon",
+     "rewards": [
+      {
+       "type": "encounter",
+       "shiny": true,
+       "cp": {
+        "min": 439,
+        "max": 474
+       },
+       "slug": "psyduck",
+       "name": "Psyduck"
+      },
+      {
+       "type": "encounter",
+       "shiny": true,
+       "cp": {
+        "min": 877,
+        "max": 926
+       },
+       "slug": "seaking",
+       "name": "Seaking"
+      },
+      {
+       "type": "encounter",
+       "shiny": true,
+       "cp": {
+        "min": 172,
+        "max": 197
+       },
+       "slug": "marill",
+       "name": "Marill"
+      },
+      {
+       "type": "encounter",
+       "shiny": true,
+       "cp": {
+        "min": 530,
+        "max": 569
+       },
+       "slug": "teddiursa",
+       "name": "Teddiursa"
+      },
+      {
+       "type": "encounter",
+       "shiny": true,
+       "cp": {
+        "min": 476,
+        "max": 513
+       },
+       "slug": "lombre",
+       "name": "Lombre"
+      },
+      {
+       "type": "encounter",
+       "shiny": true,
+       "cp": {
+        "min": 457,
+        "max": 493
+       },
+       "slug": "stunky",
+       "name": "Stunky"
+      },
+      {
+       "type": "encounter",
+       "shiny": true,
+       "cp": {
+        "min": 744,
+        "max": 791
+       },
+       "slug": "liepard",
+       "name": "Liepard"
+      },
+      {
+       "type": "encounter",
+       "shiny": true,
+       "cp": {
+        "min": 576,
+        "max": 618
+       },
+       "slug": "darumaka",
+       "name": "Darumaka"
+      },
+      {
+       "type": "encounter",
+       "shiny": true,
+       "cp": {
+        "min": 431,
+        "max": 466
+       },
+       "slug": "clauncher",
+       "name": "Clauncher"
+      },
+      {
+       "type": "encounter",
+       "shiny": true,
+       "cp": {
+        "min": 743,
+        "max": 789
+       },
+       "slug": "dedenne",
+       "name": "Dedenne"
+      },
+      {
+       "type": "encounter",
+       "shiny": true,
+       "cp": {
+        "min": 349,
+        "max": 380
+       },
+       "slug": "cutiefly",
+       "name": "Cutiefly"
+      },
+      {
+       "type": "encounter",
+       "shiny": true,
+       "cp": {
+        "min": 335,
+        "max": 366
+       },
+       "slug": "smoliv",
+       "name": "Smoliv"
+      }
+     ]
+    },
+    {
+     "text": "Catch 10 Pokémon",
+     "rewards": [
+      {
+       "type": "item",
+       "quantity": 1,
+       "name": "Pinap Berry"
+      },
+      {
+       "type": "item",
+       "quantity": 5,
+       "name": "Poké Ball"
+      },
+      {
+       "type": "item",
+       "quantity": 3,
+       "name": "Razz Berry"
+      },
+      {
+       "type": "item",
+       "quantity": 200,
+       "name": "Stardust"
+      }
+     ]
+    },
+    {
+     "text": "Catch 10 Grass-type Pokémon",
+     "rewards": [
+      {
+       "type": "encounter",
+       "shiny": true,
+       "cp": {
+        "min": 148,
+        "max": 169
+       },
+       "slug": "sunkern",
+       "name": "Sunkern"
+      },
+      {
+       "type": "encounter",
+       "shiny": true,
+       "cp": {
+        "min": 230,
+        "max": 256
+       },
+       "slug": "seedot",
+       "name": "Seedot"
+      },
+      {
+       "type": "encounter",
+       "shiny": true,
+       "cp": {
+        "min": 316,
+        "max": 347
+       },
+       "slug": "shroomish",
+       "name": "Shroomish"
+      },
+      {
+       "type": "encounter",
+       "shiny": true,
+       "cp": {
+        "min": 407,
+        "max": 441
+       },
+       "slug": "petilil",
+       "name": "Petilil"
+      },
+      {
+       "type": "encounter",
+       "shiny": true,
+       "cp": {
+        "min": 498,
+        "max": 536
+       },
+       "slug": "skiddo",
+       "name": "Skiddo"
+      },
+      {
+       "type": "encounter",
+       "shiny": true,
+       "cp": {
+        "min": 335,
+        "max": 366
+       },
+       "slug": "smoliv",
+       "name": "Smoliv"
+      },
+      {
+       "type": "resource",
+       "quantity": 10,
+       "name": "Sceptile Mega Energy"
+      },
+      {
+       "type": "resource",
+       "quantity": 10,
+       "name": "Venusaur Mega Energy"
+      },
+      {
+       "type": "item",
+       "quantity": 5,
+       "name": "Great Ball"
+      },
+      {
+       "type": "item",
+       "quantity": 2,
+       "name": "Pinap Berry"
+      },
+      {
+       "type": "item",
+       "quantity": 6,
+       "name": "Razz Berry"
+      },
+      {
+       "type": "item",
+       "quantity": 500,
+       "name": "Stardust"
+      }
+     ]
+    },
+    {
+     "text": "Catch 10 Ghost-type Pokémon",
+     "rewards": [
+      {
+       "type": "encounter",
+       "shiny": true,
+       "cp": {
+        "min": 487,
+        "max": 527
+       },
+       "slug": "gastly",
+       "name": "Gastly"
+      },
+      {
+       "type": "encounter",
+       "shiny": true,
+       "cp": {
+        "min": 401,
+        "max": 436
+       },
+       "slug": "shuppet",
+       "name": "Shuppet"
+      },
+      {
+       "type": "encounter",
+       "shiny": true,
+       "cp": {
+        "min": 273,
+        "max": 302
+       },
+       "slug": "duskull",
+       "name": "Duskull"
+      },
+      {
+       "type": "encounter",
+       "shiny": true,
+       "cp": {
+        "min": 475,
+        "max": 513
+       },
+       "slug": "drifloon",
+       "name": "Drifloon"
+      },
+      {
+       "type": "encounter",
+       "shiny": true,
+       "cp": {
+        "min": 387,
+        "max": 420
+       },
+       "slug": "yamask",
+       "name": "Yamask"
+      },
+      {
+       "type": "encounter",
+       "shiny": true,
+       "cp": {
+        "min": 472,
+        "max": 509
+       },
+       "slug": "golett",
+       "name": "Golett"
+      }
+     ]
+    },
+    {
+     "text": "Catch 10 Dark-type Pokémon",
+     "rewards": [
+      {
+       "type": "encounter",
+       "shiny": true,
+       "cp": {
+        "min": 626,
+        "max": 669
+       },
+       "slug": "murkrow",
+       "name": "Murkrow"
+      },
+      {
+       "type": "encounter",
+       "shiny": true,
+       "cp": {
+        "min": 831,
+        "max": 879
+       },
+       "slug": "sneasel",
+       "name": "Sneasel"
+      },
+      {
+       "type": "encounter",
+       "shiny": true,
+       "cp": {
+        "min": 263,
+        "max": 290
+       },
+       "slug": "poochyena",
+       "name": "Poochyena"
+      },
+      {
+       "type": "encounter",
+       "shiny": true,
+       "cp": {
+        "min": 301,
+        "max": 330
+       },
+       "slug": "purrloin",
+       "name": "Purrloin"
+      },
+      {
+       "type": "encounter",
+       "shiny": true,
+       "cp": {
+        "min": 365,
+        "max": 397
+       },
+       "slug": "inkay",
+       "name": "Inkay"
+      },
+      {
+       "type": "encounter",
+       "shiny": true,
+       "cp": {
+        "min": 278,
+        "max": 306
+       },
+       "slug": "nickit",
+       "name": "Nickit"
+      }
+     ]
+    },
+    {
+     "text": "Catch 10 Fire-type Pokémon",
+     "rewards": [
+      {
+       "type": "resource",
+       "quantity": 10,
+       "name": "Blaziken Mega Energy"
+      },
+      {
+       "type": "resource",
+       "quantity": 10,
+       "name": "Charizard Mega Energy"
+      },
+      {
+       "type": "item",
+       "quantity": 5,
+       "name": "Great Ball"
+      },
+      {
+       "type": "item",
+       "quantity": 2,
+       "name": "Pinap Berry"
+      },
+      {
+       "type": "item",
+       "quantity": 6,
+       "name": "Razz Berry"
+      },
+      {
+       "type": "item",
+       "quantity": 500,
+       "name": "Stardust"
+      }
+     ]
+    },
+    {
+     "text": "Catch 10 Water-type Pokémon",
+     "rewards": [
+      {
+       "type": "resource",
+       "quantity": 10,
+       "name": "Blastoise Mega Energy"
+      },
+      {
+       "type": "resource",
+       "quantity": 10,
+       "name": "Swampert Mega Energy"
+      },
+      {
+       "type": "item",
+       "quantity": 5,
+       "name": "Great Ball"
+      },
+      {
+       "type": "item",
+       "quantity": 2,
+       "name": "Pinap Berry"
+      },
+      {
+       "type": "item",
+       "quantity": 6,
+       "name": "Razz Berry"
+      },
+      {
+       "type": "item",
+       "quantity": 500,
+       "name": "Stardust"
+      }
+     ]
+    },
+    {
+     "text": "Catch 10 Normal-type Pokémon",
+     "rewards": [
+      {
+       "type": "resource",
+       "quantity": 10,
+       "name": "Pidgeot Mega Energy"
+      },
+      {
+       "type": "item",
+       "quantity": 5,
+       "name": "Great Ball"
+      },
+      {
+       "type": "item",
+       "quantity": 2,
+       "name": "Pinap Berry"
+      },
+      {
+       "type": "item",
+       "quantity": 6,
+       "name": "Razz Berry"
+      },
+      {
+       "type": "item",
+       "quantity": 500,
+       "name": "Stardust"
+      }
+     ]
+    },
+    {
+     "text": "Catch 5 Pokémon with Weather Boost",
+     "rewards": [
+      {
+       "type": "encounter",
+       "shiny": true,
+       "cp": {
+        "min": 347,
+        "max": 378
+       },
+       "slug": "vulpix",
+       "name": "Vulpix"
+      },
+      {
+       "type": "encounter",
+       "shiny": true,
+       "cp": {
+        "min": 324,
+        "max": 355
+       },
+       "slug": "poliwag",
+       "name": "Poliwag"
+      },
+      {
+       "type": "encounter",
+       "shiny": true,
+       "cp": {
+        "min": 298,
+        "max": 328
+       },
+       "slug": "wingull",
+       "name": "Wingull"
+      },
+      {
+       "type": "encounter",
+       "shiny": true,
+       "cp": {
+        "min": 542,
+        "max": 582
+       },
+       "slug": "hippopotas",
+       "name": "Hippopotas"
+      },
+      {
+       "type": "encounter",
+       "shiny": true,
+       "cp": {
+        "min": 460,
+        "max": 497
+       },
+       "slug": "snover",
+       "name": "Snover"
+      },
+      {
+       "type": "encounter",
+       "shiny": true,
+       "cp": {
+        "min": 479,
+        "max": 516
+       },
+       "slug": "roggenrola",
+       "name": "Roggenrola"
+      },
+      {
+       "type": "encounter",
+       "shiny": true,
+       "cp": {
+        "min": 409,
+        "max": 443
+       },
+       "slug": "vanillite",
+       "name": "Vanillite"
+      },
+      {
+       "type": "item",
+       "quantity": 1,
+       "name": "Pinap Berry"
+      },
+      {
+       "type": "item",
+       "quantity": 5,
+       "name": "Poké Ball"
+      },
+      {
+       "type": "item",
+       "quantity": 3,
+       "name": "Razz Berry"
+      },
+      {
+       "type": "item",
+       "quantity": 200,
+       "name": "Stardust"
+      }
+     ]
+    },
+    {
+     "text": "Catch 10 Pokémon with Weather Boost",
+     "rewards": [
+      {
+       "type": "item",
+       "quantity": 5,
+       "name": "Great Ball"
+      },
+      {
+       "type": "item",
+       "quantity": 2,
+       "name": "Pinap Berry"
+      },
+      {
+       "type": "item",
+       "quantity": 6,
+       "name": "Razz Berry"
+      },
+      {
+       "type": "item",
+       "quantity": 500,
+       "name": "Stardust"
+      }
+     ]
+    },
+    {
+     "text": "Catch 25 Pokémon",
+     "rewards": [
+      {
+       "type": "item",
+       "quantity": 1,
+       "name": "Rare Candy"
+      }
+     ]
+    },
+    {
+     "text": "Catch 50 Pokémon",
+     "rewards": [
+      {
+       "type": "item",
+       "quantity": 1,
+       "name": "Poffin"
+      }
+     ]
+    },
+    {
+     "text": "Use 5 Berries to help catch Pokémon",
+     "rewards": [
+      {
+       "type": "item",
+       "quantity": 5,
+       "name": "Great Ball"
+      },
+      {
+       "type": "item",
+       "quantity": 2,
+       "name": "Pinap Berry"
+      },
+      {
+       "type": "item",
+       "quantity": 6,
+       "name": "Razz Berry"
+      },
+      {
+       "type": "item",
+       "quantity": 500,
+       "name": "Stardust"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "title": "Throwing Tasks",
+   "event": false,
+   "end": null,
+   "tasks": [
+    {
+     "text": "Make 10 Curveball Throws",
+     "rewards": [
+      {
+       "type": "encounter",
+       "shiny": true,
+       "cp": {
+        "min": 516,
+        "max": 554
+       },
+       "slug": "geodude-alola",
+       "name": "Alolan Geodude"
+      },
+      {
+       "type": "encounter",
+       "shiny": true,
+       "cp": {
+        "min": 949,
+        "max": 1000
+       },
+       "slug": "electabuzz",
+       "name": "Electabuzz"
+      },
+      {
+       "type": "encounter",
+       "shiny": true,
+       "cp": {
+        "min": 318,
+        "max": 350
+       },
+       "slug": "makuhita",
+       "name": "Makuhita"
+      },
+      {
+       "type": "encounter",
+       "shiny": true,
+       "cp": {
+        "min": 322,
+        "max": 353
+       },
+       "slug": "swablu",
+       "name": "Swablu"
+      },
+      {
+       "type": "encounter",
+       "shiny": true,
+       "cp": {
+        "min": 307,
+        "max": 337
+       },
+       "slug": "baltoy",
+       "name": "Baltoy"
+      },
+      {
+       "type": "encounter",
+       "shiny": true,
+       "cp": {
+        "min": 638,
+        "max": 682
+       },
+       "slug": "dusclops",
+       "name": "Dusclops"
+      },
+      {
+       "type": "encounter",
+       "shiny": true,
+       "cp": {
+        "min": 518,
+        "max": 556
+       },
+       "slug": "staravia",
+       "name": "Staravia"
+      },
+      {
+       "type": "encounter",
+       "shiny": true,
+       "cp": {
+        "min": 657,
+        "max": 700
+       },
+       "slug": "emolga",
+       "name": "Emolga"
+      },
+      {
+       "type": "encounter",
+       "shiny": true,
+       "cp": {
+        "min": 370,
+        "max": 403
+       },
+       "slug": "ferroseed",
+       "name": "Ferroseed"
+      },
+      {
+       "type": "encounter",
+       "shiny": true,
+       "cp": {
+        "min": 285,
+        "max": 314
+       },
+       "slug": "lechonk",
+       "name": "Lechonk"
+      }
+     ]
+    },
+    {
+     "text": "Make 10 Nice Throws",
+     "rewards": [
+      {
+       "type": "encounter",
+       "shiny": true,
+       "cp": {
+        "min": 973,
+        "max": 1026
+       },
+       "slug": "magmar",
+       "name": "Magmar"
+      },
+      {
+       "type": "encounter",
+       "shiny": true,
+       "cp": {
+        "min": 99,
+        "max": 117
+       },
+       "slug": "magikarp",
+       "name": "Magikarp"
+      },
+      {
+       "type": "encounter",
+       "shiny": true,
+       "cp": {
+        "min": 148,
+        "max": 169
+       },
+       "slug": "sunkern",
+       "name": "Sunkern"
+      },
+      {
+       "type": "encounter",
+       "shiny": true,
+       "cp": {
+        "min": 487,
+        "max": 526
+       },
+       "slug": "nuzleaf",
+       "name": "Nuzleaf"
+      },
+      {
+       "type": "encounter",
+       "shiny": true,
+       "cp": {
+        "min": 479,
+        "max": 516
+       },
+       "slug": "roggenrola",
+       "name": "Roggenrola"
+      },
+      {
+       "type": "encounter",
+       "shiny": true,
+       "cp": {
+        "min": 876,
+        "max": 926
+       },
+       "slug": "stunfisk-galarian",
+       "name": "Galarian Stunfisk"
+      },
+      {
+       "type": "encounter",
+       "shiny": true,
+       "cp": {
+        "min": 876,
+        "max": 926
+       },
+       "slug": "stunfisk",
+       "name": "Stunfisk"
+      },
+      {
+       "type": "encounter",
+       "shiny": true,
+       "cp": {
+        "min": 592,
+        "max": 633
+       },
+       "slug": "trumbeak",
+       "name": "Trumbeak"
+      },
+      {
+       "type": "encounter",
+       "shiny": true,
+       "cp": {
+        "min": 383,
+        "max": 416
+       },
+       "slug": "mareanie",
+       "name": "Mareanie"
+      },
+      {
+       "type": "encounter",
+       "shiny": true,
+       "cp": {
+        "min": 228,
+        "max": 253
+       },
+       "slug": "nymble",
+       "name": "Nymble"
+      }
+     ]
+    },
+    {
+     "text": "Make 2 Excellent Throws",
+     "rewards": [
+      {
+       "type": "encounter",
+       "shiny": true,
+       "cp": {
+        "min": 397,
+        "max": 430
+       },
+       "slug": "dratini",
+       "name": "Dratini"
+      }
+     ]
+    },
+    {
+     "text": "Make 2 Nice Curveball Throws in a row",
+     "rewards": [
+      {
+       "type": "item",
+       "quantity": 1,
+       "name": "Pinap Berry"
+      },
+      {
+       "type": "item",
+       "quantity": 5,
+       "name": "Poké Ball"
+      },
+      {
+       "type": "item",
+       "quantity": 3,
+       "name": "Razz Berry"
+      },
+      {
+       "type": "item",
+       "quantity": 200,
+       "name": "Stardust"
+      }
+     ]
+    },
+    {
+     "text": "Make 3 Excellent Throws in a row",
+     "rewards": [
+      {
+       "type": "encounter",
+       "shiny": true,
+       "cp": {
+        "min": 411,
+        "max": 445
+       },
+       "slug": "larvitar",
+       "name": "Larvitar"
+      },
+      {
+       "type": "encounter",
+       "shiny": true,
+       "cp": {
+        "min": 385,
+        "max": 418
+       },
+       "slug": "beldum",
+       "name": "Beldum"
+      },
+      {
+       "type": "encounter",
+       "shiny": true,
+       "cp": {
+        "min": 441,
+        "max": 477
+       },
+       "slug": "gible",
+       "name": "Gible"
+      }
+     ]
+    },
+    {
+     "text": "Make 3 Great Curveball Throws",
+     "rewards": [
+      {
+       "type": "item",
+       "quantity": 3,
+       "name": "Pinap Berry"
+      },
+      {
+       "type": "item",
+       "quantity": 10,
+       "name": "Poké Ball"
+      },
+      {
+       "type": "item",
+       "quantity": 1,
+       "name": "Rare Candy"
+      },
+      {
+       "type": "item",
+       "quantity": 9,
+       "name": "Razz Berry"
+      },
+      {
+       "type": "item",
+       "quantity": 1000,
+       "name": "Stardust"
+      },
+      {
+       "type": "item",
+       "quantity": 5,
+       "name": "Ultra Ball"
+      }
+     ]
+    },
+    {
+     "text": "Make 3 Great Curveball Throws in a row",
+     "rewards": [
+      {
+       "type": "item",
+       "quantity": 2,
+       "name": "Golden Razz Berry"
+      },
+      {
+       "type": "item",
+       "quantity": 3,
+       "name": "Rare Candy"
+      },
+      {
+       "type": "item",
+       "quantity": 1500,
+       "name": "Stardust"
+      },
+      {
+       "type": "item",
+       "quantity": 10,
+       "name": "Ultra Ball"
+      }
+     ]
+    },
+    {
+     "text": "Make 3 Great Throws",
+     "rewards": [
+      {
+       "type": "encounter",
+       "shiny": true,
+       "cp": {
+        "min": 620,
+        "max": 662
+       },
+       "slug": "omanyte",
+       "name": "Omanyte"
+      },
+      {
+       "type": "encounter",
+       "shiny": true,
+       "cp": {
+        "min": 548,
+        "max": 587
+       },
+       "slug": "kabuto",
+       "name": "Kabuto"
+      },
+      {
+       "type": "encounter",
+       "shiny": true,
+       "cp": {
+        "min": 507,
+        "max": 544
+       },
+       "slug": "clamperl",
+       "name": "Clamperl"
+      },
+      {
+       "type": "encounter",
+       "shiny": true,
+       "cp": {
+        "min": 554,
+        "max": 593
+       },
+       "slug": "elgyem",
+       "name": "Elgyem"
+      },
+      {
+       "type": "encounter",
+       "shiny": true,
+       "cp": {
+        "min": 373,
+        "max": 405
+       },
+       "slug": "binacle",
+       "name": "Binacle"
+      },
+      {
+       "type": "item",
+       "quantity": 1,
+       "name": "Pinap Berry"
+      },
+      {
+       "type": "item",
+       "quantity": 5,
+       "name": "Poké Ball"
+      },
+      {
+       "type": "item",
+       "quantity": 3,
+       "name": "Razz Berry"
+      },
+      {
+       "type": "item",
+       "quantity": 200,
+       "name": "Stardust"
+      }
+     ]
+    },
+    {
+     "text": "Make 3 Great Throws in a row",
+     "rewards": [
+      {
+       "type": "encounter",
+       "shiny": true,
+       "cp": {
+        "min": 515,
+        "max": 553
+       },
+       "slug": "lileep",
+       "name": "Lileep"
+      },
+      {
+       "type": "encounter",
+       "shiny": true,
+       "cp": {
+        "min": 613,
+        "max": 655
+       },
+       "slug": "anorith",
+       "name": "Anorith"
+      },
+      {
+       "type": "item",
+       "quantity": 3,
+       "name": "Pinap Berry"
+      },
+      {
+       "type": "item",
+       "quantity": 10,
+       "name": "Poké Ball"
+      },
+      {
+       "type": "item",
+       "quantity": 1,
+       "name": "Rare Candy"
+      },
+      {
+       "type": "item",
+       "quantity": 9,
+       "name": "Razz Berry"
+      },
+      {
+       "type": "item",
+       "quantity": 1000,
+       "name": "Stardust"
+      },
+      {
+       "type": "item",
+       "quantity": 5,
+       "name": "Ultra Ball"
+      }
+     ]
+    },
+    {
+     "text": "Make 3 Nice Throws in a row",
+     "rewards": [
+      {
+       "type": "item",
+       "quantity": 5,
+       "name": "Great Ball"
+      },
+      {
+       "type": "item",
+       "quantity": 2,
+       "name": "Pinap Berry"
+      },
+      {
+       "type": "item",
+       "quantity": 500,
+       "name": "Stardust"
+      },
+      {
+       "type": "item",
+       "quantity": 2,
+       "name": "Ultra Ball"
+      }
+     ]
+    },
+    {
+     "text": "Make 5 Curveball Throws in a row",
+     "rewards": [
+      {
+       "type": "item",
+       "quantity": 5,
+       "name": "Great Ball"
+      },
+      {
+       "type": "item",
+       "quantity": 2,
+       "name": "Pinap Berry"
+      },
+      {
+       "type": "item",
+       "quantity": 6,
+       "name": "Razz Berry"
+      },
+      {
+       "type": "item",
+       "quantity": 500,
+       "name": "Stardust"
+      }
+     ]
+    },
+    {
+     "text": "Make 5 Great Curveball Throws in a row",
+     "rewards": [
+      {
+       "type": "encounter",
+       "shiny": true,
+       "cp": {
+        "min": 486,
+        "max": 523
+       },
+       "slug": "spinda-04",
+       "name": "Spinda 04"
+      },
+      {
+       "type": "encounter",
+       "shiny": true,
+       "cp": {
+        "min": 486,
+        "max": 523
+       },
+       "slug": "spinda-05",
+       "name": "Spinda 05"
+      }
+     ]
+    },
+    {
+     "text": "Make 5 Nice Throws",
+     "rewards": [
+      {
+       "type": "encounter",
+       "shiny": true,
+       "cp": {
+        "min": 264,
+        "max": 292
+       },
+       "slug": "diglett-alola",
+       "name": "Alolan Diglett"
+      },
+      {
+       "type": "encounter",
+       "shiny": true,
+       "cp": {
+        "min": 262,
+        "max": 289
+       },
+       "slug": "diglett",
+       "name": "Diglett"
+      },
+      {
+       "type": "encounter",
+       "shiny": true,
+       "cp": {
+        "min": 871,
+        "max": 920
+       },
+       "slug": "sudowoodo",
+       "name": "Sudowoodo"
+      },
+      {
+       "type": "item",
+       "quantity": 1,
+       "name": "Pinap Berry"
+      },
+      {
+       "type": "item",
+       "quantity": 5,
+       "name": "Poké Ball"
+      },
+      {
+       "type": "item",
+       "quantity": 3,
+       "name": "Razz Berry"
+      },
+      {
+       "type": "item",
+       "quantity": 200,
+       "name": "Stardust"
+      }
+     ]
+    },
+    {
+     "text": "Make an Excellent Throw",
+     "rewards": [
+      {
+       "type": "item",
+       "quantity": 5,
+       "name": "Great Ball"
+      },
+      {
+       "type": "item",
+       "quantity": 2,
+       "name": "Pinap Berry"
+      },
+      {
+       "type": "item",
+       "quantity": 500,
+       "name": "Stardust"
+      },
+      {
+       "type": "item",
+       "quantity": 2,
+       "name": "Ultra Ball"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "title": "Battling Tasks",
+   "event": false,
+   "end": null,
+   "tasks": [
+    {
+     "text": "Battle in a raid",
+     "rewards": [
+      {
+       "type": "item",
+       "quantity": 1,
+       "name": "Rare Candy"
+      }
+     ]
+    },
+    {
+     "text": "Win a raid",
+     "rewards": [
+      {
+       "type": "encounter",
+       "shiny": true,
+       "cp": {
+        "min": 1076,
+        "max": 1131
+       },
+       "slug": "lapras",
+       "name": "Lapras"
+      },
+      {
+       "type": "encounter",
+       "shiny": true,
+       "cp": {
+        "min": 1275,
+        "max": 1335
+       },
+       "slug": "vaporeon",
+       "name": "Vaporeon"
+      },
+      {
+       "type": "encounter",
+       "shiny": true,
+       "cp": {
+        "min": 1180,
+        "max": 1238
+       },
+       "slug": "jolteon",
+       "name": "Jolteon"
+      },
+      {
+       "type": "encounter",
+       "shiny": true,
+       "cp": {
+        "min": 1239,
+        "max": 1298
+       },
+       "slug": "flareon",
+       "name": "Flareon"
+      },
+      {
+       "type": "encounter",
+       "shiny": true,
+       "cp": {
+        "min": 1320,
+        "max": 1382
+       },
+       "slug": "snorlax",
+       "name": "Snorlax"
+      },
+      {
+       "type": "encounter",
+       "shiny": true,
+       "cp": {
+        "min": 953,
+        "max": 1005
+       },
+       "slug": "piloswine",
+       "name": "Piloswine"
+      },
+      {
+       "type": "encounter",
+       "shiny": true,
+       "cp": {
+        "min": 690,
+        "max": 735
+       },
+       "slug": "sealeo",
+       "name": "Sealeo"
+      },
+      {
+       "type": "encounter",
+       "shiny": true,
+       "cp": {
+        "min": 694,
+        "max": 738
+       },
+       "slug": "metang",
+       "name": "Metang"
+      },
+      {
+       "type": "encounter",
+       "shiny": true,
+       "cp": {
+        "min": 595,
+        "max": 636
+       },
+       "slug": "luxio",
+       "name": "Luxio"
+      },
+      {
+       "type": "encounter",
+       "shiny": true,
+       "cp": {
+        "min": 757,
+        "max": 803
+       },
+       "slug": "gabite",
+       "name": "Gabite"
+      },
+      {
+       "type": "encounter",
+       "shiny": true,
+       "cp": {
+        "min": 688,
+        "max": 732
+       },
+       "slug": "lampent",
+       "name": "Lampent"
+      },
+      {
+       "type": "encounter",
+       "shiny": true,
+       "cp": {
+        "min": 589,
+        "max": 629
+       },
+       "slug": "fletchinder",
+       "name": "Fletchinder"
+      }
+     ]
+    },
+    {
+     "text": "Battle in 3 raids",
+     "rewards": [
+      {
+       "type": "item",
+       "quantity": 1,
+       "name": "Poffin"
+      }
+     ]
+    },
+    {
+     "text": "Win a three-star raid or higher",
+     "rewards": [
+      {
+       "type": "encounter",
+       "shiny": true,
+       "cp": {
+        "min": 597,
+        "max": 638
+       },
+       "slug": "tirtouga",
+       "name": "Tirtouga"
+      },
+      {
+       "type": "encounter",
+       "shiny": true,
+       "cp": {
+        "min": 741,
+        "max": 789
+       },
+       "slug": "archen",
+       "name": "Archen"
+      }
+     ]
+    },
+    {
+     "text": "Win 5 raids",
+     "rewards": [
+      {
+       "type": "encounter",
+       "shiny": true,
+       "cp": {
+        "min": 1233,
+        "max": 1292
+       },
+       "slug": "exeggutor-alola",
+       "name": "Alolan Exeggutor"
+      },
+      {
+       "type": "encounter",
+       "shiny": true,
+       "cp": {
+        "min": 741,
+        "max": 786
+       },
+       "slug": "marowak-alola",
+       "name": "Alolan Marowak"
+      },
+      {
+       "type": "encounter",
+       "shiny": true,
+       "cp": {
+        "min": 1136,
+        "max": 1193
+       },
+       "slug": "aerodactyl",
+       "name": "Aerodactyl"
+      }
+     ]
+    },
+    {
+     "text": "Win a Max Battle",
+     "rewards": [
+      {
+       "type": "item",
+       "quantity": 1000,
+       "name": "Stardust"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "title": "Exploring Tasks",
+   "event": false,
+   "end": null,
+   "tasks": [
+    {
+     "text": "Earn 10000 Stardust",
+     "rewards": [
+      {
+       "type": "item",
+       "quantity": 1,
+       "name": "Silver Pinap Berry"
+      }
+     ]
+    },
+    {
+     "text": "Earn 10000 XP",
+     "rewards": [
+      {
+       "type": "item",
+       "quantity": 1,
+       "name": "Golden Razz Berry"
+      }
+     ]
+    },
+    {
+     "text": "Explore 2 km",
+     "rewards": [
+      {
+       "type": "encounter",
+       "shiny": true,
+       "cp": {
+        "min": 495,
+        "max": 533
+       },
+       "slug": "growlithe",
+       "name": "Growlithe"
+      },
+      {
+       "type": "encounter",
+       "shiny": true,
+       "cp": {
+        "min": 683,
+        "max": 727
+       },
+       "slug": "ponyta-galarian",
+       "name": "Galarian Ponyta"
+      },
+      {
+       "type": "encounter",
+       "shiny": true,
+       "cp": {
+        "min": 683,
+        "max": 727
+       },
+       "slug": "ponyta",
+       "name": "Ponyta"
+      },
+      {
+       "type": "encounter",
+       "shiny": true,
+       "cp": {
+        "min": 487,
+        "max": 525
+       },
+       "slug": "slowpoke-galarian",
+       "name": "Galarian Slowpoke"
+      },
+      {
+       "type": "encounter",
+       "shiny": true,
+       "cp": {
+        "min": 487,
+        "max": 525
+       },
+       "slug": "slowpoke",
+       "name": "Slowpoke"
+      },
+      {
+       "type": "encounter",
+       "shiny": true,
+       "cp": {
+        "min": 1076,
+        "max": 1131
+       },
+       "slug": "lapras",
+       "name": "Lapras"
+      },
+      {
+       "type": "encounter",
+       "shiny": true,
+       "cp": {
+        "min": 491,
+        "max": 529
+       },
+       "slug": "houndour",
+       "name": "Houndour"
+      },
+      {
+       "type": "encounter",
+       "shiny": true,
+       "cp": {
+        "min": 380,
+        "max": 413
+       },
+       "slug": "electrike",
+       "name": "Electrike"
+      },
+      {
+       "type": "encounter",
+       "shiny": true,
+       "cp": {
+        "min": 584,
+        "max": 629
+       },
+       "slug": "wailmer",
+       "name": "Wailmer"
+      },
+      {
+       "type": "encounter",
+       "shiny": true,
+       "cp": {
+        "min": 636,
+        "max": 678
+       },
+       "slug": "herdier",
+       "name": "Herdier"
+      }
+     ]
+    },
+    {
+     "text": "Hatch an Egg",
+     "rewards": [
+      {
+       "type": "encounter",
+       "shiny": true,
+       "cp": {
+        "min": 741,
+        "max": 786
+       },
+       "slug": "marowak-alola",
+       "name": "Alolan Marowak"
+      },
+      {
+       "type": "encounter",
+       "shiny": true,
+       "cp": {
+        "min": 1104,
+        "max": 1160
+       },
+       "slug": "scyther",
+       "name": "Scyther"
+      },
+      {
+       "type": "encounter",
+       "shiny": true,
+       "cp": {
+        "min": 819,
+        "max": 867
+       },
+       "slug": "noctowl",
+       "name": "Noctowl"
+      },
+      {
+       "type": "encounter",
+       "shiny": true,
+       "cp": {
+        "min": 871,
+        "max": 920
+       },
+       "slug": "sudowoodo",
+       "name": "Sudowoodo"
+      },
+      {
+       "type": "encounter",
+       "shiny": true,
+       "cp": {
+        "min": 299,
+        "max": 329
+       },
+       "slug": "nincada",
+       "name": "Nincada"
+      },
+      {
+       "type": "encounter",
+       "shiny": true,
+       "cp": {
+        "min": 515,
+        "max": 553
+       },
+       "slug": "lileep",
+       "name": "Lileep"
+      },
+      {
+       "type": "encounter",
+       "shiny": true,
+       "cp": {
+        "min": 613,
+        "max": 655
+       },
+       "slug": "anorith",
+       "name": "Anorith"
+      },
+      {
+       "type": "encounter",
+       "shiny": true,
+       "cp": {
+        "min": 188,
+        "max": 212
+       },
+       "slug": "combee",
+       "name": "Combee"
+      },
+      {
+       "type": "encounter",
+       "shiny": true,
+       "cp": {
+        "min": 676,
+        "max": 721
+       },
+       "slug": "audino",
+       "name": "Audino"
+      },
+      {
+       "type": "encounter",
+       "shiny": true,
+       "cp": {
+        "min": 395,
+        "max": 428
+       },
+       "slug": "trubbish",
+       "name": "Trubbish"
+      },
+      {
+       "type": "encounter",
+       "shiny": true,
+       "cp": {
+        "min": 422,
+        "max": 458
+       },
+       "slug": "cubchoo",
+       "name": "Cubchoo"
+      },
+      {
+       "type": "encounter",
+       "shiny": true,
+       "cp": {
+        "min": 540,
+        "max": 579
+       },
+       "slug": "stufful",
+       "name": "Stufful"
+      },
+      {
+       "type": "encounter",
+       "shiny": true,
+       "cp": {
+        "min": 191,
+        "max": 215
+       },
+       "slug": "wimpod",
+       "name": "Wimpod"
+      },
+      {
+       "type": "encounter",
+       "shiny": true,
+       "cp": {
+        "min": 389,
+        "max": 422
+       },
+       "slug": "fidough",
+       "name": "Fidough"
+      }
+     ]
+    },
+    {
+     "text": "Hatch 2 Eggs",
+     "rewards": [
+      {
+       "type": "encounter",
+       "shiny": true,
+       "cp": {
+        "min": 831,
+        "max": 879
+       },
+       "slug": "sneasel",
+       "name": "Sneasel"
+      },
+      {
+       "type": "encounter",
+       "shiny": true,
+       "cp": {
+        "min": 658,
+        "max": 700
+       },
+       "slug": "mawile",
+       "name": "Mawile"
+      },
+      {
+       "type": "encounter",
+       "shiny": true,
+       "cp": {
+        "min": 99,
+        "max": 117
+       },
+       "slug": "feebas",
+       "name": "Feebas"
+      },
+      {
+       "type": "item",
+       "quantity": 1,
+       "name": "Rare Candy"
+      }
+     ]
+    },
+    {
+     "text": "Hatch 5 Eggs",
+     "rewards": [
+      {
+       "type": "item",
+       "quantity": 1,
+       "name": "Poffin"
+      }
+     ]
+    },
+    {
+     "text": "Spin 3 PokéStops or Gyms",
+     "rewards": [
+      {
+       "type": "encounter",
+       "shiny": true,
+       "cp": {
+        "min": 477,
+        "max": 514
+       },
+       "slug": "doduo",
+       "name": "Doduo"
+      },
+      {
+       "type": "encounter",
+       "shiny": true,
+       "cp": {
+        "min": 358,
+        "max": 391
+       },
+       "slug": "remoraid",
+       "name": "Remoraid"
+      },
+      {
+       "type": "encounter",
+       "shiny": true,
+       "cp": {
+        "min": 206,
+        "max": 231
+       },
+       "slug": "ralts",
+       "name": "Ralts"
+      },
+      {
+       "type": "encounter",
+       "shiny": true,
+       "cp": {
+        "min": 522,
+        "max": 560
+       },
+       "slug": "aron",
+       "name": "Aron"
+      },
+      {
+       "type": "item",
+       "quantity": 5,
+       "name": "Great Ball"
+      },
+      {
+       "type": "item",
+       "quantity": 2,
+       "name": "Pinap Berry"
+      },
+      {
+       "type": "item",
+       "quantity": 6,
+       "name": "Razz Berry"
+      },
+      {
+       "type": "item",
+       "quantity": 500,
+       "name": "Stardust"
+      }
+     ]
+    },
+    {
+     "text": "Spin 5 PokéStops",
+     "rewards": [
+      {
+       "type": "encounter",
+       "shiny": true,
+       "cp": {
+        "min": 516,
+        "max": 554
+       },
+       "slug": "sandshrew-alola",
+       "name": "Alolan Sandshrew"
+      },
+      {
+       "type": "encounter",
+       "shiny": true,
+       "cp": {
+        "min": 503,
+        "max": 540
+       },
+       "slug": "sandshrew",
+       "name": "Sandshrew"
+      },
+      {
+       "type": "encounter",
+       "shiny": true,
+       "cp": {
+        "min": 679,
+        "max": 724
+       },
+       "slug": "dunsparce",
+       "name": "Dunsparce"
+      },
+      {
+       "type": "encounter",
+       "shiny": true,
+       "cp": {
+        "min": 831,
+        "max": 879
+       },
+       "slug": "sneasel",
+       "name": "Sneasel"
+      },
+      {
+       "type": "encounter",
+       "shiny": true,
+       "cp": {
+        "min": 193,
+        "max": 218
+       },
+       "slug": "zigzagoon-galarian",
+       "name": "Galarian Zigzagoon"
+      },
+      {
+       "type": "encounter",
+       "shiny": true,
+       "cp": {
+        "min": 193,
+        "max": 218
+       },
+       "slug": "zigzagoon",
+       "name": "Zigzagoon"
+      },
+      {
+       "type": "encounter",
+       "shiny": true,
+       "cp": {
+        "min": 349,
+        "max": 380
+       },
+       "slug": "snorunt",
+       "name": "Snorunt"
+      },
+      {
+       "type": "encounter",
+       "shiny": true,
+       "cp": {
+        "min": 280,
+        "max": 309
+       },
+       "slug": "bidoof",
+       "name": "Bidoof"
+      },
+      {
+       "type": "encounter",
+       "shiny": true,
+       "cp": {
+        "min": 542,
+        "max": 582
+       },
+       "slug": "hippopotas",
+       "name": "Hippopotas"
+      },
+      {
+       "type": "encounter",
+       "shiny": true,
+       "cp": {
+        "min": 395,
+        "max": 428
+       },
+       "slug": "trubbish",
+       "name": "Trubbish"
+      },
+      {
+       "type": "encounter",
+       "shiny": true,
+       "cp": {
+        "min": 335,
+        "max": 367
+       },
+       "slug": "ducklett",
+       "name": "Ducklett"
+      },
+      {
+       "type": "encounter",
+       "shiny": true,
+       "cp": {
+        "min": 277,
+        "max": 306
+       },
+       "slug": "dewpider",
+       "name": "Dewpider"
+      },
+      {
+       "type": "encounter",
+       "shiny": true,
+       "cp": {
+        "min": 371,
+        "max": 404
+       },
+       "slug": "skwovet",
+       "name": "Skwovet"
+      },
+      {
+       "type": "encounter",
+       "shiny": false,
+       "cp": {
+        "min": 133,
+        "max": 153
+       },
+       "slug": "blipbug",
+       "name": "Blipbug"
+      },
+      {
+       "type": "encounter",
+       "shiny": false,
+       "cp": {
+        "min": 355,
+        "max": 387
+       },
+       "slug": "arrokuda",
+       "name": "Arrokuda"
+      },
+      {
+       "type": "encounter",
+       "shiny": false,
+       "cp": {
+        "min": 219,
+        "max": 244
+       },
+       "slug": "tarountula",
+       "name": "Tarountula"
+      },
+      {
+       "type": "encounter",
+       "shiny": false,
+       "cp": {
+        "min": 381,
+        "max": 414
+       },
+       "slug": "nacli",
+       "name": "Nacli"
+      }
+     ]
+    },
+    {
+     "text": "Spin 5 PokéStops or Gyms",
+     "rewards": [
+      {
+       "type": "encounter",
+       "shiny": true,
+       "cp": {
+        "min": 495,
+        "max": 533
+       },
+       "slug": "growlithe",
+       "name": "Growlithe"
+      },
+      {
+       "type": "encounter",
+       "shiny": true,
+       "cp": {
+        "min": 527,
+        "max": 566
+       },
+       "slug": "growlithe-hisuian",
+       "name": "Hisuian Growlithe"
+      },
+      {
+       "type": "encounter",
+       "shiny": true,
+       "cp": {
+        "min": 487,
+        "max": 525
+       },
+       "slug": "slowpoke-galarian",
+       "name": "Galarian Slowpoke"
+      },
+      {
+       "type": "encounter",
+       "shiny": true,
+       "cp": {
+        "min": 487,
+        "max": 525
+       },
+       "slug": "slowpoke",
+       "name": "Slowpoke"
+      }
+     ]
+    },
+    {
+     "text": "Take a snapshot of a wild Pokémon",
+     "rewards": [
+      {
+       "type": "encounter",
+       "shiny": true,
+       "cp": {
+        "min": 507,
+        "max": 546
+       },
+       "slug": "trapinch",
+       "name": "Trapinch"
+      },
+      {
+       "type": "encounter",
+       "shiny": true,
+       "cp": {
+        "min": 375,
+        "max": 408
+       },
+       "slug": "croagunk",
+       "name": "Croagunk"
+      },
+      {
+       "type": "encounter",
+       "shiny": true,
+       "cp": {
+        "min": 271,
+        "max": 300
+       },
+       "slug": "cottonee",
+       "name": "Cottonee"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "title": "Training Tasks",
+   "event": false,
+   "end": null,
+   "tasks": [
+    {
+     "text": "Evolve a Pokémon",
+     "rewards": [
+      {
+       "type": "encounter",
+       "shiny": true,
+       "cp": {
+        "min": 848,
+        "max": 897
+       },
+       "slug": "seadra",
+       "name": "Seadra"
+      },
+      {
+       "type": "encounter",
+       "shiny": true,
+       "cp": {
+        "min": 424,
+        "max": 459
+       },
+       "slug": "eevee",
+       "name": "Eevee"
+      },
+      {
+       "type": "encounter",
+       "shiny": true,
+       "cp": {
+        "min": 1203,
+        "max": 1262
+       },
+       "slug": "ursaring",
+       "name": "Ursaring"
+      },
+      {
+       "type": "encounter",
+       "shiny": true,
+       "cp": {
+        "min": 685,
+        "max": 729
+       },
+       "slug": "magcargo",
+       "name": "Magcargo"
+      },
+      {
+       "type": "encounter",
+       "shiny": true,
+       "cp": {
+        "min": 964,
+        "max": 1015
+       },
+       "slug": "grumpig",
+       "name": "Grumpig"
+      },
+      {
+       "type": "encounter",
+       "shiny": true,
+       "cp": {
+        "min": 454,
+        "max": 490
+       },
+       "slug": "whirlipede",
+       "name": "Whirlipede"
+      },
+      {
+       "type": "encounter",
+       "shiny": true,
+       "cp": {
+        "min": 691,
+        "max": 735
+       },
+       "slug": "eelektrik",
+       "name": "Eelektrik"
+      },
+      {
+       "type": "encounter",
+       "shiny": true,
+       "cp": {
+        "min": 605,
+        "max": 646
+       },
+       "slug": "diggersby",
+       "name": "Diggersby"
+      }
+     ]
+    },
+    {
+     "text": "Power up Pokémon 15 times",
+     "rewards": [
+      {
+       "type": "item",
+       "quantity": 3,
+       "name": "Rare Candy"
+      }
+     ]
+    },
+    {
+     "text": "Power up Pokémon 3 times",
+     "rewards": [
+      {
+       "type": "encounter",
+       "shiny": true,
+       "cp": {
+        "min": 442,
+        "max": 477
+       },
+       "slug": "bulbasaur",
+       "name": "Bulbasaur"
+      },
+      {
+       "type": "encounter",
+       "shiny": true,
+       "cp": {
+        "min": 387,
+        "max": 420
+       },
+       "slug": "charmander",
+       "name": "Charmander"
+      },
+      {
+       "type": "encounter",
+       "shiny": true,
+       "cp": {
+        "min": 372,
+        "max": 405
+       },
+       "slug": "squirtle",
+       "name": "Squirtle"
+      }
+     ]
+    },
+    {
+     "text": "Power up Pokémon 5 times",
+     "rewards": [
+      {
+       "type": "encounter",
+       "shiny": true,
+       "cp": {
+        "min": 333,
+        "max": 364
+       },
+       "slug": "snivy",
+       "name": "Snivy"
+      },
+      {
+       "type": "encounter",
+       "shiny": true,
+       "cp": {
+        "min": 428,
+        "max": 464
+       },
+       "slug": "tepig",
+       "name": "Tepig"
+      },
+      {
+       "type": "encounter",
+       "shiny": true,
+       "cp": {
+        "min": 413,
+        "max": 448
+       },
+       "slug": "oshawott",
+       "name": "Oshawott"
+      },
+      {
+       "type": "resource",
+       "quantity": 10,
+       "name": "Aggron Mega Energy"
+      },
+      {
+       "type": "resource",
+       "quantity": 10,
+       "name": "Beedrill Mega Energy"
+      },
+      {
+       "type": "resource",
+       "quantity": 10,
+       "name": "Blastoise Mega Energy"
+      },
+      {
+       "type": "resource",
+       "quantity": 10,
+       "name": "Charizard Mega Energy"
+      },
+      {
+       "type": "resource",
+       "quantity": 10,
+       "name": "Manectric Mega Energy"
+      },
+      {
+       "type": "resource",
+       "quantity": 10,
+       "name": "Pidgeot Mega Energy"
+      },
+      {
+       "type": "resource",
+       "quantity": 10,
+       "name": "Venusaur Mega Energy"
+      }
+     ]
+    },
+    {
+     "text": "Power up Pokémon 7 times",
+     "rewards": [
+      {
+       "type": "encounter",
+       "shiny": true,
+       "cp": {
+        "min": 418,
+        "max": 453
+       },
+       "slug": "rowlet",
+       "name": "Rowlet"
+      },
+      {
+       "type": "encounter",
+       "shiny": true,
+       "cp": {
+        "min": 409,
+        "max": 443
+       },
+       "slug": "litten",
+       "name": "Litten"
+      },
+      {
+       "type": "encounter",
+       "shiny": true,
+       "cp": {
+        "min": 448,
+        "max": 483
+       },
+       "slug": "popplio",
+       "name": "Popplio"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "title": "Buddy & Friendship Tasks",
+   "event": false,
+   "end": null,
+   "tasks": [
+    {
+     "text": "Earn 2 Candies walking with your buddy",
+     "rewards": [
+      {
+       "type": "encounter",
+       "shiny": true,
+       "cp": {
+        "min": 277,
+        "max": 310
+       },
+       "slug": "jigglypuff",
+       "name": "Jigglypuff"
+      },
+      {
+       "type": "encounter",
+       "shiny": true,
+       "cp": {
+        "min": 501,
+        "max": 539
+       },
+       "slug": "buneary",
+       "name": "Buneary"
+      },
+      {
+       "type": "encounter",
+       "shiny": true,
+       "cp": {
+        "min": 367,
+        "max": 400
+       },
+       "slug": "glameow",
+       "name": "Glameow"
+      },
+      {
+       "type": "encounter",
+       "shiny": true,
+       "cp": {
+        "min": 212,
+        "max": 237
+       },
+       "slug": "bunnelby",
+       "name": "Bunnelby"
+      },
+      {
+       "type": "encounter",
+       "shiny": true,
+       "cp": {
+        "min": 571,
+        "max": 611
+       },
+       "slug": "litleo",
+       "name": "Litleo"
+      },
+      {
+       "type": "encounter",
+       "shiny": true,
+       "cp": {
+        "min": 743,
+        "max": 789
+       },
+       "slug": "dedenne",
+       "name": "Dedenne"
+      }
+     ]
+    },
+    {
+     "text": "Earn 3 Candies walking with your buddy",
+     "rewards": [
+      {
+       "type": "encounter",
+       "shiny": true,
+       "cp": {
+        "min": 876,
+        "max": 926
+       },
+       "slug": "stunfisk-galarian",
+       "name": "Galarian Stunfisk"
+      },
+      {
+       "type": "encounter",
+       "shiny": true,
+       "cp": {
+        "min": 876,
+        "max": 926
+       },
+       "slug": "stunfisk",
+       "name": "Stunfisk"
+      }
+     ]
+    },
+    {
+     "text": "Send 3 Gifts and add a sticker to each",
+     "rewards": [
+      {
+       "type": "encounter",
+       "shiny": true,
+       "cp": {
+        "min": 458,
+        "max": 495
+       },
+       "slug": "clefairy",
+       "name": "Clefairy"
+      },
+      {
+       "type": "encounter",
+       "shiny": true,
+       "cp": {
+        "min": 277,
+        "max": 310
+       },
+       "slug": "jigglypuff",
+       "name": "Jigglypuff"
+      },
+      {
+       "type": "encounter",
+       "shiny": true,
+       "cp": {
+        "min": 424,
+        "max": 459
+       },
+       "slug": "eevee",
+       "name": "Eevee"
+      },
+      {
+       "type": "encounter",
+       "shiny": true,
+       "cp": {
+        "min": 688,
+        "max": 732
+       },
+       "slug": "togetic",
+       "name": "Togetic"
+      }
+     ]
+    },
+    {
+     "text": "Trade a Pokémon",
+     "rewards": [
+      {
+       "type": "encounter",
+       "shiny": true,
+       "cp": {
+        "min": 568,
+        "max": 608
+       },
+       "slug": "poliwhirl",
+       "name": "Poliwhirl"
+      },
+      {
+       "type": "encounter",
+       "shiny": true,
+       "cp": {
+        "min": 832,
+        "max": 882
+       },
+       "slug": "kadabra",
+       "name": "Kadabra"
+      },
+      {
+       "type": "encounter",
+       "shiny": true,
+       "cp": {
+        "min": 822,
+        "max": 870
+       },
+       "slug": "machoke",
+       "name": "Machoke"
+      },
+      {
+       "type": "encounter",
+       "shiny": true,
+       "cp": {
+        "min": 792,
+        "max": 841
+       },
+       "slug": "haunter",
+       "name": "Haunter"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "title": "Team GO Rocket Tasks",
+   "event": false,
+   "end": null,
+   "tasks": [
+    {
+     "text": "Defeat a Team GO Rocket Grunt",
+     "rewards": [
+      {
+       "type": "encounter",
+       "shiny": true,
+       "cp": {
+        "min": 777,
+        "max": 823
+       },
+       "slug": "arbok",
+       "name": "Arbok"
+      },
+      {
+       "type": "encounter",
+       "shiny": true,
+       "cp": {
+        "min": 292,
+        "max": 320
+       },
+       "slug": "meowth",
+       "name": "Meowth"
+      },
+      {
+       "type": "encounter",
+       "shiny": true,
+       "cp": {
+        "min": 932,
+        "max": 982
+       },
+       "slug": "weezing",
+       "name": "Weezing"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "title": "Sponsored Tasks",
+   "event": false,
+   "end": null,
+   "tasks": [
+    {
+     "text": "Catch 8 Pokémon",
+     "rewards": [
+      {
+       "type": "item",
+       "quantity": 1,
+       "name": "Rare Candy"
+      },
+      {
+       "type": "item",
+       "quantity": 1000,
+       "name": "Stardust"
+      }
+     ]
+    },
+    {
+     "text": "Send 3 Gifts to friends",
+     "rewards": [
+      {
+       "type": "item",
+       "quantity": 1,
+       "name": "Rare Candy"
+      },
+      {
+       "type": "item",
+       "quantity": 1000,
+       "name": "Stardust"
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "breakthrough": {
+  "season": "Season 24 · Twilight Trails",
+  "dates": "Sep 8 – Dec 1, 2026",
+  "encounters": [
+   {
+    "type": "encounter",
+    "shiny": true,
+    "cp": {
+     "min": 1166,
+     "max": 1166
+    },
+    "slug": "venusaur",
+    "name": "Venusaur"
+   },
+   {
+    "type": "encounter",
+    "shiny": true,
+    "cp": {
+     "min": 1238,
+     "max": 1238
+    },
+    "slug": "charizard",
+    "name": "Charizard"
+   },
+   {
+    "type": "encounter",
+    "shiny": true,
+    "cp": {
+     "min": 1057,
+     "max": 1057
+    },
+    "slug": "blastoise",
+    "name": "Blastoise"
+   },
+   {
+    "type": "encounter",
+    "shiny": true,
+    "cp": {
+     "min": 892,
+     "max": 892
+    },
+    "slug": "venomoth",
+    "name": "Venomoth"
+   },
+   {
+    "type": "encounter",
+    "shiny": true,
+    "cp": {
+     "min": 724,
+     "max": 724
+    },
+    "slug": "persian",
+    "name": "Persian"
+   },
+   {
+    "type": "encounter",
+    "shiny": true,
+    "cp": {
+     "min": 1050,
+     "max": 1050
+    },
+    "slug": "golduck",
+    "name": "Golduck"
+   },
+   {
+    "type": "encounter",
+    "shiny": true,
+    "cp": {
+     "min": 1298,
+     "max": 1298
+    },
+    "slug": "arcanine",
+    "name": "Arcanine"
+   },
+   {
+    "type": "encounter",
+    "shiny": true,
+    "cp": {
+     "min": 851,
+     "max": 851
+    },
+    "slug": "dewgong",
+    "name": "Dewgong"
+   },
+   {
+    "type": "encounter",
+    "shiny": true,
+    "cp": {
+     "min": 895,
+     "max": 895
+    },
+    "slug": "hypno",
+    "name": "Hypno"
+   },
+   {
+    "type": "encounter",
+    "shiny": true,
+    "cp": {
+     "min": 899,
+     "max": 899
+    },
+    "slug": "electrode",
+    "name": "Electrode"
+   },
+   {
+    "type": "encounter",
+    "shiny": true,
+    "cp": {
+     "min": 786,
+     "max": 786
+    },
+    "slug": "marowak",
+    "name": "Marowak"
+   },
+   {
+    "type": "encounter",
+    "shiny": true,
+    "cp": {
+     "min": 982,
+     "max": 982
+    },
+    "slug": "weezing",
+    "name": "Weezing"
+   },
+   {
+    "type": "encounter",
+    "shiny": true,
+    "cp": {
+     "min": 926,
+     "max": 926
+    },
+    "slug": "seaking",
+    "name": "Seaking"
+   },
+   {
+    "type": "encounter",
+    "shiny": true,
+    "cp": {
+     "min": 1107,
+     "max": 1107
+    },
+    "slug": "starmie",
+    "name": "Starmie"
+   },
+   {
+    "type": "encounter",
+    "shiny": true,
+    "cp": {
+     "min": 1194,
+     "max": 1194
+    },
+    "slug": "omastar",
+    "name": "Omastar"
+   },
+   {
+    "type": "encounter",
+    "shiny": true,
+    "cp": {
+     "min": 1162,
+     "max": 1162
+    },
+    "slug": "kabutops",
+    "name": "Kabutops"
+   },
+   {
+    "type": "encounter",
+    "shiny": true,
+    "cp": {
+     "min": 430,
+     "max": 430
+    },
+    "slug": "dratini",
+    "name": "Dratini"
+   },
+   {
+    "type": "encounter",
+    "shiny": true,
+    "cp": {
+     "min": 1625,
+     "max": 1625
+    },
+    "slug": "dragonite",
+    "name": "Dragonite"
+   },
+   {
+    "type": "encounter",
+    "shiny": true,
+    "cp": {
+     "min": 1033,
+     "max": 1033
+    },
+    "slug": "meganium",
+    "name": "Meganium"
+   },
+   {
+    "type": "encounter",
+    "shiny": true,
+    "cp": {
+     "min": 1238,
+     "max": 1238
+    },
+    "slug": "typhlosion",
+    "name": "Typhlosion"
+   },
+   {
+    "type": "encounter",
+    "shiny": true,
+    "cp": {
+     "min": 1224,
+     "max": 1224
+    },
+    "slug": "feraligatr",
+    "name": "Feraligatr"
+   },
+   {
+    "type": "encounter",
+    "shiny": true,
+    "cp": {
+     "min": 938,
+     "max": 938
+    },
+    "slug": "xatu",
+    "name": "Xatu"
+   },
+   {
+    "type": "encounter",
+    "shiny": true,
+    "cp": {
+     "min": 680,
+     "max": 680
+    },
+    "slug": "azumarill",
+    "name": "Azumarill"
+   },
+   {
+    "type": "encounter",
+    "shiny": true,
+    "cp": {
+     "min": 1262,
+     "max": 1262
+    },
+    "slug": "ursaring",
+    "name": "Ursaring"
+   },
+   {
+    "type": "encounter",
+    "shiny": true,
+    "cp": {
+     "min": 1291,
+     "max": 1291
+    },
+    "slug": "donphan",
+    "name": "Donphan"
+   },
+   {
+    "type": "encounter",
+    "shiny": true,
+    "cp": {
+     "min": 1182,
+     "max": 1182
+    },
+    "slug": "blissey",
+    "name": "Blissey"
+   },
+   {
+    "type": "encounter",
+    "shiny": true,
+    "cp": {
+     "min": 445,
+     "max": 445
+    },
+    "slug": "larvitar",
+    "name": "Larvitar"
+   },
+   {
+    "type": "encounter",
+    "shiny": true,
+    "cp": {
+     "min": 1181,
+     "max": 1181
+    },
+    "slug": "sceptile",
+    "name": "Sceptile"
+   },
+   {
+    "type": "encounter",
+    "shiny": true,
+    "cp": {
+     "min": 1220,
+     "max": 1220
+    },
+    "slug": "blaziken",
+    "name": "Blaziken"
+   },
+   {
+    "type": "encounter",
+    "shiny": true,
+    "cp": {
+     "min": 1274,
+     "max": 1274
+    },
+    "slug": "swampert",
+    "name": "Swampert"
+   },
+   {
+    "type": "encounter",
+    "shiny": true,
+    "cp": {
+     "min": 613,
+     "max": 613
+    },
+    "slug": "medicham",
+    "name": "Medicham"
+   },
+   {
+    "type": "encounter",
+    "shiny": true,
+    "cp": {
+     "min": 889,
+     "max": 889
+    },
+    "slug": "whiscash",
+    "name": "Whiscash"
+   },
+   {
+    "type": "encounter",
+    "shiny": true,
+    "cp": {
+     "min": 1060,
+     "max": 1060
+    },
+    "slug": "crawdaunt",
+    "name": "Crawdaunt"
+   },
+   {
+    "type": "encounter",
+    "shiny": true,
+    "cp": {
+     "min": 845,
+     "max": 845
+    },
+    "slug": "claydol",
+    "name": "Claydol"
+   },
+   {
+    "type": "encounter",
+    "shiny": true,
+    "cp": {
+     "min": 495,
+     "max": 495
+    },
+    "slug": "bagon",
+    "name": "Bagon"
+   },
+   {
+    "type": "encounter",
+    "shiny": true,
+    "cp": {
+     "min": 418,
+     "max": 418
+    },
+    "slug": "beldum",
+    "name": "Beldum"
+   },
+   {
+    "type": "encounter",
+    "shiny": true,
+    "cp": {
+     "min": 1257,
+     "max": 1257
+    },
+    "slug": "torterra",
+    "name": "Torterra"
+   },
+   {
+    "type": "encounter",
+    "shiny": true,
+    "cp": {
+     "min": 1150,
+     "max": 1150
+    },
+    "slug": "infernape",
+    "name": "Infernape"
+   },
+   {
+    "type": "encounter",
+    "shiny": true,
+    "cp": {
+     "min": 1243,
+     "max": 1243
+    },
+    "slug": "empoleon",
+    "name": "Empoleon"
+   },
+   {
+    "type": "encounter",
+    "shiny": true,
+    "cp": {
+     "min": 1066,
+     "max": 1066
+    },
+    "slug": "toxicroak",
+    "name": "Toxicroak"
+   },
+   {
+    "type": "encounter",
+    "shiny": true,
+    "cp": {
+     "min": 976,
+     "max": 976
+    },
+    "slug": "serperior",
+    "name": "Serperior"
+   },
+   {
+    "type": "encounter",
+    "shiny": true,
+    "cp": {
+     "min": 1278,
+     "max": 1278
+    },
+    "slug": "emboar",
+    "name": "Emboar"
+   },
+   {
+    "type": "encounter",
+    "shiny": true,
+    "cp": {
+     "min": 1211,
+     "max": 1211
+    },
+    "slug": "samurott",
+    "name": "Samurott"
+   },
+   {
+    "type": "encounter",
+    "shiny": true,
+    "cp": {
+     "min": 1390,
+     "max": 1390
+    },
+    "slug": "excadrill",
+    "name": "Excadrill"
+   },
+   {
+    "type": "encounter",
+    "shiny": true,
+    "cp": {
+     "min": 1106,
+     "max": 1106
+    },
+    "slug": "leavanny",
+    "name": "Leavanny"
+   },
+   {
+    "type": "encounter",
+    "shiny": true,
+    "cp": {
+     "min": 586,
+     "max": 586
+    },
+    "slug": "axew",
+    "name": "Axew"
+   },
+   {
+    "type": "encounter",
+    "shiny": true,
+    "cp": {
+     "min": 1303,
+     "max": 1303
+    },
+    "slug": "beartic",
+    "name": "Beartic"
+   },
+   {
+    "type": "encounter",
+    "shiny": true,
+    "cp": {
+     "min": 455,
+     "max": 455
+    },
+    "slug": "deino",
+    "name": "Deino"
+   },
+   {
+    "type": "encounter",
+    "shiny": true,
+    "cp": {
+     "min": 1266,
+     "max": 1266
+    },
+    "slug": "chesnaught",
+    "name": "Chesnaught"
+   },
+   {
+    "type": "encounter",
+    "shiny": true,
+    "cp": {
+     "min": 1311,
+     "max": 1311
+    },
+    "slug": "delphox",
+    "name": "Delphox"
+   },
+   {
+    "type": "encounter",
+    "shiny": true,
+    "cp": {
+     "min": 1137,
+     "max": 1137
+    },
+    "slug": "greninja",
+    "name": "Greninja"
+   },
+   {
+    "type": "encounter",
+    "shiny": true,
+    "cp": {
+     "min": 595,
+     "max": 595
+    },
+    "slug": "honedge",
+    "name": "Honedge"
+   },
+   {
+    "type": "encounter",
+    "shiny": true,
+    "cp": {
+     "min": 418,
+     "max": 418
+    },
+    "slug": "goomy",
+    "name": "Goomy"
+   },
+   {
+    "type": "encounter",
+    "shiny": true,
+    "cp": {
+     "min": 1189,
+     "max": 1189
+    },
+    "slug": "decidueye",
+    "name": "Decidueye"
+   },
+   {
+    "type": "encounter",
+    "shiny": true,
+    "cp": {
+     "min": 1284,
+     "max": 1284
+    },
+    "slug": "incineroar",
+    "name": "Incineroar"
+   },
+   {
+    "type": "encounter",
+    "shiny": true,
+    "cp": {
+     "min": 1371,
+     "max": 1371
+    },
+    "slug": "primarina",
+    "name": "Primarina"
+   },
+   {
+    "type": "encounter",
+    "shiny": true,
+    "cp": {
+     "min": 415,
+     "max": 415
+    },
+    "slug": "jangmo-o",
+    "name": "Jangmo-o"
+   },
+   {
+    "type": "encounter",
+    "shiny": true,
+    "cp": {
+     "min": 1424,
+     "max": 1424
+    },
+    "slug": "rillaboom",
+    "name": "Rillaboom"
+   },
+   {
+    "type": "encounter",
+    "shiny": true,
+    "cp": {
+     "min": 1293,
+     "max": 1293
+    },
+    "slug": "cinderace",
+    "name": "Cinderace"
+   },
+   {
+    "type": "encounter",
+    "shiny": true,
+    "cp": {
+     "min": 1270,
+     "max": 1270
+    },
+    "slug": "inteleon",
+    "name": "Inteleon"
+   },
+   {
+    "type": "encounter",
+    "shiny": false,
+    "cp": {
+     "min": 153,
+     "max": 153
+    },
+    "slug": "blipbug",
+    "name": "Blipbug"
+   },
+   {
+    "type": "encounter",
+    "shiny": false,
+    "cp": {
+     "min": 328,
+     "max": 328
+    },
+    "slug": "dreepy",
+    "name": "Dreepy"
+   },
+   {
+    "type": "encounter",
+    "shiny": true,
+    "cp": {
+     "min": 1210,
+     "max": 1210
+    },
+    "slug": "meowscarada",
+    "name": "Meowscarada"
+   },
+   {
+    "type": "encounter",
+    "shiny": true,
+    "cp": {
+     "min": 1297,
+     "max": 1297
+    },
+    "slug": "skeledirge",
+    "name": "Skeledirge"
+   },
+   {
+    "type": "encounter",
+    "shiny": true,
+    "cp": {
+     "min": 1293,
+     "max": 1293
+    },
+    "slug": "quaquaval",
+    "name": "Quaquaval"
+   },
+   {
+    "type": "encounter",
+    "shiny": false,
+    "cp": {
+     "min": 1030,
+     "max": 1030
+    },
+    "slug": "klawf",
+    "name": "Klawf"
+   },
+   {
+    "type": "encounter",
+    "shiny": true,
+    "cp": {
+     "min": 534,
+     "max": 534
+    },
+    "slug": "frigibax",
+    "name": "Frigibax"
+   }
+  ],
+  "items": [
+   {
+    "name": "XP",
+    "quantity": 2000
+   },
+   {
+    "name": "Stardust",
+    "quantity": 3000
+   }
+  ],
+  "oneOf": [
+   {
+    "name": "Poké Ball",
+    "quantity": 20
+   },
+   {
+    "name": "Ultra Ball",
+    "quantity": 5
+   },
+   {
+    "name": "Pinap Berry",
+    "quantity": 5
+   },
+   {
+    "name": "Rare Candy",
+    "quantity": 3
+   },
+   {
+    "name": "Sinnoh Stone",
+    "quantity": 1
+   },
+   {
+    "name": "Unova Stone",
+    "quantity": 1
+   },
+   {
+    "name": "Remote Raid Pass",
+    "quantity": 1
+   }
+  ],
+  "note": "* Must have fewer than three (3) Remote Raid Passes when claiming, otherwise you will get a Premium Battle Pass instead of a Remote Raid Pass."
+ }
+}

@@ -19,8 +19,8 @@
      "note": null,
      "bosses": [
       {
+       "slug": "druddigon",
        "name": "Druddigon",
-       "sprite": "pm621",
        "shiny": true,
        "types": [
         "Dragon"
@@ -38,8 +38,8 @@
        ]
       },
       {
+       "slug": "orthworm",
        "name": "Orthworm",
-       "sprite": "pm968",
        "shiny": false,
        "types": [
         "Steel"
@@ -64,8 +64,8 @@
      "note": "Raid Hours from 6:00 p.m. to 7:00 p.m. local time: Crowned Sword Zacian on Monday, November 9, and Crowned Shield Zamazenta on Tuesday, November 10. Defeat them to earn Crowned Sword Energy or Crowned Shield Energy.",
      "bosses": [
       {
-       "name": "Zacian (Crowned Sword)",
-       "sprite": "pm888.fCROWNED_SWORD",
+       "slug": "zacian-crowned-sword",
+       "name": "Zacian Crowned Sword",
        "shiny": true,
        "types": [
         "Fairy",
@@ -85,8 +85,8 @@
        ]
       },
       {
-       "name": "Zamazenta (Crowned Shield)",
-       "sprite": "pm889.fCROWNED_SHIELD",
+       "slug": "zamazenta-crowned-shield",
+       "name": "Zamazenta Crowned Shield",
        "shiny": true,
        "types": [
         "Fighting",
@@ -128,8 +128,8 @@
      "note": "Available from 10:00 a.m. to 6:00 p.m. local time on November 14 and 15.",
      "bosses": [
       {
-       "name": "Modern Jacket Machamp",
-       "sprite": "pm68.fWILDAREA_2026_01",
+       "slug": "machamp-modern-jacket",
+       "name": "Machamp Modern Jacket",
        "shiny": true,
        "types": [
         "Fighting"
@@ -154,8 +154,8 @@
      "note": "Saturday, November 14, from 10:00 a.m. to 6:00 p.m. local time. White Kyurem raids award Fusion Energy; encountered Kyurem may know Glaciate.",
      "bosses": [
       {
+       "slug": "zekrom",
        "name": "Zekrom",
-       "sprite": "pm644",
        "shiny": true,
        "types": [
         "Dragon",
@@ -175,8 +175,8 @@
        ]
       },
       {
-       "name": "Kyurem (White)",
-       "sprite": "pm646.fWHITE",
+       "slug": "kyurem-white",
+       "name": "Kyurem White",
        "shiny": true,
        "types": [
         "Dragon",
@@ -203,8 +203,8 @@
      "note": "Sunday, November 15, from 10:00 a.m. to 6:00 p.m. local time. Black Kyurem raids award Fusion Energy; encountered Kyurem may know Glaciate.",
      "bosses": [
       {
+       "slug": "reshiram",
        "name": "Reshiram",
-       "sprite": "pm643",
        "shiny": true,
        "types": [
         "Dragon",
@@ -224,8 +224,8 @@
        ]
       },
       {
-       "name": "Kyurem (Black)",
-       "sprite": "pm646.fBLACK",
+       "slug": "kyurem-black",
+       "name": "Kyurem Black",
        "shiny": true,
        "types": [
         "Dragon",
@@ -267,8 +267,8 @@
      "note": null,
      "bosses": [
       {
+       "slug": "larvitar-shadow",
        "name": "Shadow Larvitar",
-       "sprite": "pm246",
        "shiny": true,
        "types": [
         "Rock",
@@ -288,8 +288,8 @@
        ]
       },
       {
+       "slug": "mudkip-shadow",
        "name": "Shadow Mudkip",
-       "sprite": "pm258",
        "shiny": true,
        "types": [
         "Water"
@@ -307,8 +307,8 @@
        ]
       },
       {
+       "slug": "makuhita-shadow",
        "name": "Shadow Makuhita",
-       "sprite": "pm296",
        "shiny": true,
        "types": [
         "Fighting"
@@ -326,8 +326,8 @@
        ]
       },
       {
+       "slug": "cranidos-shadow",
        "name": "Shadow Cranidos",
-       "sprite": "pm408",
        "shiny": true,
        "types": [
         "Rock"
@@ -352,8 +352,8 @@
      "note": null,
      "bosses": [
       {
+       "slug": "poliwhirl-shadow",
        "name": "Shadow Poliwhirl",
-       "sprite": "pm61",
        "shiny": true,
        "types": [
         "Water"
@@ -371,8 +371,8 @@
        ]
       },
       {
+       "slug": "piloswine-shadow",
        "name": "Shadow Piloswine",
-       "sprite": "pm221",
        "shiny": true,
        "types": [
         "Ice",
@@ -392,8 +392,8 @@
        ]
       },
       {
+       "slug": "prinplup-shadow",
        "name": "Shadow Prinplup",
-       "sprite": "pm394",
        "shiny": true,
        "types": [
         "Water"
@@ -418,8 +418,8 @@
      "note": null,
      "bosses": [
       {
-       "name": "Shadow Tornadus (Incarnate)",
-       "sprite": "pm641.fINCARNATE",
+       "slug": "tornadus-incarnate-shadow",
+       "name": "Shadow Tornadus Incarnate",
        "shiny": true,
        "types": [
         "Flying"
@@ -446,183 +446,183 @@
    "tier": 1,
    "bosses": [
     {
+     "slug": "abra",
      "name": "Abra",
-     "sourceId": "ABRA",
      "gigantamax": false
     },
     {
+     "slug": "bounsweet",
      "name": "Bounsweet",
-     "sourceId": "BOUNSWEET",
      "gigantamax": false
     },
     {
+     "slug": "bulbasaur",
      "name": "Bulbasaur",
-     "sourceId": "BULBASAUR",
      "gigantamax": false
     },
     {
+     "slug": "caterpie",
      "name": "Caterpie",
-     "sourceId": "CATERPIE",
      "gigantamax": false
     },
     {
+     "slug": "charmander",
      "name": "Charmander",
-     "sourceId": "CHARMANDER",
      "gigantamax": false
     },
     {
+     "slug": "combee",
      "name": "Combee",
-     "sourceId": "COMBEE",
      "gigantamax": false
     },
     {
+     "slug": "cottonee",
      "name": "Cottonee",
-     "sourceId": "COTTONEE",
      "gigantamax": false
     },
     {
+     "slug": "drilbur",
      "name": "Drilbur",
-     "sourceId": "DRILBUR",
      "gigantamax": false
     },
     {
+     "slug": "espurr",
      "name": "Espurr",
-     "sourceId": "ESPURR",
      "gigantamax": false
     },
     {
+     "slug": "gastly",
      "name": "Gastly",
-     "sourceId": "GASTLY",
      "gigantamax": false
     },
     {
+     "slug": "grookey",
      "name": "Grookey",
-     "sourceId": "GROOKEY",
      "gigantamax": false
     },
     {
+     "slug": "growlithe",
      "name": "Growlithe",
-     "sourceId": "GROWLITHE",
      "gigantamax": false
     },
     {
+     "slug": "hatenna",
      "name": "Hatenna",
-     "sourceId": "HATENNA",
      "gigantamax": false
     },
     {
+     "slug": "hoothoot",
      "name": "Hoothoot",
-     "sourceId": "HOOTHOOT",
      "gigantamax": false
     },
     {
+     "slug": "inkay",
      "name": "Inkay",
-     "sourceId": "INKAY",
      "gigantamax": false
     },
     {
+     "slug": "kabuto",
      "name": "Kabuto",
-     "sourceId": "KABUTO",
      "gigantamax": false
     },
     {
+     "slug": "krabby",
      "name": "Krabby",
-     "sourceId": "KRABBY",
      "gigantamax": false
     },
     {
+     "slug": "magikarp",
      "name": "Magikarp",
-     "sourceId": "MAGIKARP",
      "gigantamax": false
     },
     {
+     "slug": "omanyte",
      "name": "Omanyte",
-     "sourceId": "OMANYTE",
      "gigantamax": false
     },
     {
+     "slug": "pidove",
      "name": "Pidove",
-     "sourceId": "PIDOVE",
      "gigantamax": false
     },
     {
+     "slug": "pikachu",
      "name": "Pikachu",
-     "sourceId": "PIKACHU",
      "gigantamax": false
     },
     {
+     "slug": "ralts",
      "name": "Ralts",
-     "sourceId": "RALTS",
      "gigantamax": false
     },
     {
+     "slug": "rhyhorn",
      "name": "Rhyhorn",
-     "sourceId": "RHYHORN",
      "gigantamax": false
     },
     {
+     "slug": "roggenrola",
      "name": "Roggenrola",
-     "sourceId": "ROGGENROLA",
      "gigantamax": false
     },
     {
+     "slug": "rookidee",
      "name": "Rookidee",
-     "sourceId": "ROOKIDEE",
      "gigantamax": false
     },
     {
+     "slug": "scorbunny",
      "name": "Scorbunny",
-     "sourceId": "SCORBUNNY",
      "gigantamax": false
     },
     {
+     "slug": "sizzlipede",
      "name": "Sizzlipede",
-     "sourceId": "SIZZLIPEDE",
      "gigantamax": false
     },
     {
+     "slug": "skwovet",
      "name": "Skwovet",
-     "sourceId": "SKWOVET",
      "gigantamax": false
     },
     {
+     "slug": "sneasel",
      "name": "Sneasel",
-     "sourceId": "SNEASEL",
      "gigantamax": false
     },
     {
+     "slug": "sobble",
      "name": "Sobble",
-     "sourceId": "SOBBLE",
      "gigantamax": false
     },
     {
+     "slug": "spheal",
      "name": "Spheal",
-     "sourceId": "SPHEAL",
      "gigantamax": false
     },
     {
+     "slug": "squirtle",
      "name": "Squirtle",
-     "sourceId": "SQUIRTLE",
      "gigantamax": false
     },
     {
+     "slug": "trapinch",
      "name": "Trapinch",
-     "sourceId": "TRAPINCH",
      "gigantamax": false
     },
     {
+     "slug": "trubbish",
      "name": "Trubbish",
-     "sourceId": "TRUBBISH",
      "gigantamax": false
     },
     {
+     "slug": "woobat",
      "name": "Woobat",
-     "sourceId": "WOOBAT",
      "gigantamax": false
     },
     {
+     "slug": "wooloo",
      "name": "Wooloo",
-     "sourceId": "WOOLOO",
      "gigantamax": false
     }
    ]
@@ -631,33 +631,33 @@
    "tier": 2,
    "bosses": [
     {
+     "slug": "darumaka",
      "name": "Darumaka",
-     "sourceId": "DARUMAKA",
      "gigantamax": false
     },
     {
+     "slug": "eevee",
      "name": "Eevee",
-     "sourceId": "EEVEE",
      "gigantamax": false
     },
     {
+     "slug": "feebas",
      "name": "Feebas",
-     "sourceId": "FEEBAS",
      "gigantamax": false
     },
     {
+     "slug": "machop",
      "name": "Machop",
-     "sourceId": "MACHOP",
      "gigantamax": false
     },
     {
+     "slug": "shuckle",
      "name": "Shuckle",
-     "sourceId": "SHUCKLE",
      "gigantamax": false
     },
     {
+     "slug": "wailmer",
      "name": "Wailmer",
-     "sourceId": "WAILMER",
      "gigantamax": false
     }
    ]
@@ -666,68 +666,68 @@
    "tier": 3,
    "bosses": [
     {
+     "slug": "beldum",
      "name": "Beldum",
-     "sourceId": "BELDUM",
      "gigantamax": false
     },
     {
+     "slug": "chansey",
      "name": "Chansey",
-     "sourceId": "CHANSEY",
      "gigantamax": false
     },
     {
+     "slug": "cryogonal",
      "name": "Cryogonal",
-     "sourceId": "CRYOGONAL",
      "gigantamax": false
     },
     {
+     "slug": "deino",
      "name": "Deino",
-     "sourceId": "DEINO",
      "gigantamax": false
     },
     {
+     "slug": "drampa",
      "name": "Drampa",
-     "sourceId": "DRAMPA",
      "gigantamax": false
     },
     {
+     "slug": "electabuzz",
      "name": "Electabuzz",
-     "sourceId": "ELECTABUZZ",
      "gigantamax": false
     },
     {
+     "slug": "falinks",
      "name": "Falinks",
-     "sourceId": "FALINKS",
      "gigantamax": false
     },
     {
+     "slug": "hitmonchan",
      "name": "Hitmonchan",
-     "sourceId": "HITMONCHAN",
      "gigantamax": false
     },
     {
+     "slug": "hitmonlee",
      "name": "Hitmonlee",
-     "sourceId": "HITMONLEE",
      "gigantamax": false
     },
     {
+     "slug": "hitmontop",
      "name": "Hitmontop",
-     "sourceId": "HITMONTOP",
      "gigantamax": false
     },
     {
+     "slug": "magmar",
      "name": "Magmar",
-     "sourceId": "MAGMAR",
      "gigantamax": false
     },
     {
+     "slug": "passimian",
      "name": "Passimian",
-     "sourceId": "PASSIMIAN",
      "gigantamax": false
     },
     {
+     "slug": "sableye",
      "name": "Sableye",
-     "sourceId": "SABLEYE",
      "gigantamax": false
     }
    ]
@@ -736,13 +736,15 @@
    "tier": 4,
    "bosses": [
     {
+     "slug": "duraludon",
      "name": "Duraludon",
-     "sourceId": "DURALUDON",
      "gigantamax": false
     },
     {
+     "slug": null,
      "name": "Toxtricity",
-     "sourceId": "TOXTRICITY",
+     "unmatched": true,
+     "source": "TOXTRICITY",
      "gigantamax": false
     }
    ]
@@ -751,8 +753,8 @@
    "tier": 5,
    "bosses": [
     {
+     "slug": "latias",
      "name": "Latias",
-     "sourceId": "LATIAS",
      "gigantamax": false,
      "start": {
       "time": "2026-11-13T06:00:00",
@@ -764,8 +766,8 @@
      }
     },
     {
+     "slug": "latios",
      "name": "Latios",
-     "sourceId": "LATIOS",
      "gigantamax": false,
      "start": {
       "time": "2026-11-13T06:00:00",
