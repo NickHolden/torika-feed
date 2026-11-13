@@ -1,0 +1,782 @@
+{
+ "rotations": [
+  {
+   "id": "into-the-wild-2026",
+   "title": "Into the Wild 2026 (Crowned Sword Zacian and Crowned Shield Zamazenta)",
+   "kind": "regular",
+   "start": {
+    "time": "2026-11-09T10:00:00",
+    "kind": "local"
+   },
+   "end": {
+    "time": "2026-11-13T20:00:00",
+    "kind": "local"
+   },
+   "tiers": [
+    {
+     "tier": "3",
+     "label": "3-Star Raids",
+     "note": null,
+     "bosses": [
+      {
+       "name": "Druddigon",
+       "sprite": "pm621",
+       "shiny": true,
+       "types": [
+        "Dragon"
+       ],
+       "cp": {
+        "min": 1487,
+        "max": 1561
+       },
+       "boostedCp": {
+        "min": 1859,
+        "max": 1951
+       },
+       "weather": [
+        "Windy"
+       ]
+      },
+      {
+       "name": "Orthworm",
+       "sprite": "pm968",
+       "shiny": false,
+       "types": [
+        "Steel"
+       ],
+       "cp": {
+        "min": 1245,
+        "max": 1313
+       },
+       "boostedCp": {
+        "min": 1557,
+        "max": 1642
+       },
+       "weather": [
+        "Snow"
+       ]
+      }
+     ]
+    },
+    {
+     "tier": "5",
+     "label": "5-Star Raids",
+     "note": "Raid Hours from 6:00 p.m. to 7:00 p.m. local time: Crowned Sword Zacian on Monday, November 9, and Crowned Shield Zamazenta on Tuesday, November 10. Defeat them to earn Crowned Sword Energy or Crowned Shield Energy.",
+     "bosses": [
+      {
+       "name": "Zacian (Crowned Sword)",
+       "sprite": "pm888.fCROWNED_SWORD",
+       "shiny": true,
+       "types": [
+        "Fairy",
+        "Steel"
+       ],
+       "cp": {
+        "min": 2100,
+        "max": 2188
+       },
+       "boostedCp": {
+        "min": 2625,
+        "max": 2735
+       },
+       "weather": [
+        "Cloudy",
+        "Snow"
+       ]
+      },
+      {
+       "name": "Zamazenta (Crowned Shield)",
+       "sprite": "pm889.fCROWNED_SHIELD",
+       "shiny": true,
+       "types": [
+        "Fighting",
+        "Steel"
+       ],
+       "cp": {
+        "min": 2100,
+        "max": 2188
+       },
+       "boostedCp": {
+        "min": 2625,
+        "max": 2735
+       },
+       "weather": [
+        "Cloudy",
+        "Snow"
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "pokemon-go-wild-area-2026-global",
+   "title": "Pokémon GO Wild Area 2026: Global",
+   "kind": "regular",
+   "start": {
+    "time": "2026-11-14T10:00:00",
+    "kind": "local"
+   },
+   "end": {
+    "time": "2026-11-15T18:00:00",
+    "kind": "local"
+   },
+   "tiers": [
+    {
+     "tier": "3",
+     "label": "3-Star Raids",
+     "note": "Available from 10:00 a.m. to 6:00 p.m. local time on November 14 and 15.",
+     "bosses": [
+      {
+       "name": "Modern Jacket Machamp",
+       "sprite": "pm68.fWILDAREA_2026_01",
+       "shiny": true,
+       "types": [
+        "Fighting"
+       ],
+       "cp": {
+        "min": 1667,
+        "max": 1746
+       },
+       "boostedCp": {
+        "min": 2084,
+        "max": 2183
+       },
+       "weather": [
+        "Cloudy"
+       ]
+      }
+     ]
+    },
+    {
+     "tier": "5",
+     "label": "5-Star Raids",
+     "note": "Saturday, November 14, from 10:00 a.m. to 6:00 p.m. local time. White Kyurem raids award Fusion Energy; encountered Kyurem may know Glaciate.",
+     "bosses": [
+      {
+       "name": "Zekrom",
+       "sprite": "pm644",
+       "shiny": true,
+       "types": [
+        "Dragon",
+        "Electric"
+       ],
+       "cp": {
+        "min": 2217,
+        "max": 2307
+       },
+       "boostedCp": {
+        "min": 2771,
+        "max": 2884
+       },
+       "weather": [
+        "Windy",
+        "Rainy"
+       ]
+      },
+      {
+       "name": "Kyurem (White)",
+       "sprite": "pm646.fWHITE",
+       "shiny": true,
+       "types": [
+        "Dragon",
+        "Ice"
+       ],
+       "cp": {
+        "min": 1957,
+        "max": 2042
+       },
+       "boostedCp": {
+        "min": 2446,
+        "max": 2553
+       },
+       "weather": [
+        "Windy",
+        "Snow"
+       ]
+      }
+     ]
+    },
+    {
+     "tier": "5",
+     "label": "5-Star Raids",
+     "note": "Sunday, November 15, from 10:00 a.m. to 6:00 p.m. local time. Black Kyurem raids award Fusion Energy; encountered Kyurem may know Glaciate.",
+     "bosses": [
+      {
+       "name": "Reshiram",
+       "sprite": "pm643",
+       "shiny": true,
+       "types": [
+        "Dragon",
+        "Fire"
+       ],
+       "cp": {
+        "min": 2217,
+        "max": 2307
+       },
+       "boostedCp": {
+        "min": 2771,
+        "max": 2884
+       },
+       "weather": [
+        "Windy",
+        "Sunny"
+       ]
+      },
+      {
+       "name": "Kyurem (Black)",
+       "sprite": "pm646.fBLACK",
+       "shiny": true,
+       "types": [
+        "Dragon",
+        "Ice"
+       ],
+       "cp": {
+        "min": 1957,
+        "max": 2042
+       },
+       "boostedCp": {
+        "min": 2446,
+        "max": 2553
+       },
+       "weather": [
+        "Windy",
+        "Snow"
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "shadow-tornadus-incarnate-november-december-2026",
+   "title": "Shadow Tornadus (Incarnate Forme) November–December 2026",
+   "kind": "shadow",
+   "start": {
+    "time": "2026-11-16T06:00:00",
+    "kind": "local"
+   },
+   "end": {
+    "time": "2026-12-01T20:00:00",
+    "kind": "local"
+   },
+   "tiers": [
+    {
+     "tier": "1",
+     "label": "1-Star Raids",
+     "note": null,
+     "bosses": [
+      {
+       "name": "Shadow Larvitar",
+       "sprite": "pm246",
+       "shiny": true,
+       "types": [
+        "Rock",
+        "Ground"
+       ],
+       "cp": {
+        "min": 513,
+        "max": 594
+       },
+       "boostedCp": {
+        "min": 642,
+        "max": 743
+       },
+       "weather": [
+        "Partly Cloudy",
+        "Sunny"
+       ]
+      },
+      {
+       "name": "Shadow Mudkip",
+       "sprite": "pm258",
+       "shiny": true,
+       "types": [
+        "Water"
+       ],
+       "cp": {
+        "min": 560,
+        "max": 644
+       },
+       "boostedCp": {
+        "min": 700,
+        "max": 805
+       },
+       "weather": [
+        "Rainy"
+       ]
+      },
+      {
+       "name": "Shadow Makuhita",
+       "sprite": "pm296",
+       "shiny": true,
+       "types": [
+        "Fighting"
+       ],
+       "cp": {
+        "min": 391,
+        "max": 467
+       },
+       "boostedCp": {
+        "min": 489,
+        "max": 583
+       },
+       "weather": [
+        "Cloudy"
+       ]
+      },
+      {
+       "name": "Shadow Cranidos",
+       "sprite": "pm408",
+       "shiny": true,
+       "types": [
+        "Rock"
+       ],
+       "cp": {
+        "min": 922,
+        "max": 1040
+       },
+       "boostedCp": {
+        "min": 1153,
+        "max": 1300
+       },
+       "weather": [
+        "Partly Cloudy"
+       ]
+      }
+     ]
+    },
+    {
+     "tier": "3",
+     "label": "3-Star Raids",
+     "note": null,
+     "bosses": [
+      {
+       "name": "Shadow Poliwhirl",
+       "sprite": "pm61",
+       "shiny": true,
+       "types": [
+        "Water"
+       ],
+       "cp": {
+        "min": 716,
+        "max": 811
+       },
+       "boostedCp": {
+        "min": 895,
+        "max": 1013
+       },
+       "weather": [
+        "Rainy"
+       ]
+      },
+      {
+       "name": "Shadow Piloswine",
+       "sprite": "pm221",
+       "shiny": true,
+       "types": [
+        "Ice",
+        "Ground"
+       ],
+       "cp": {
+        "min": 1217,
+        "max": 1340
+       },
+       "boostedCp": {
+        "min": 1521,
+        "max": 1675
+       },
+       "weather": [
+        "Snow",
+        "Sunny"
+       ]
+      },
+      {
+       "name": "Shadow Prinplup",
+       "sprite": "pm394",
+       "shiny": true,
+       "types": [
+        "Water"
+       ],
+       "cp": {
+        "min": 868,
+        "max": 972
+       },
+       "boostedCp": {
+        "min": 1086,
+        "max": 1215
+       },
+       "weather": [
+        "Rainy"
+       ]
+      }
+     ]
+    },
+    {
+     "tier": "5",
+     "label": "5-Star Raids",
+     "note": null,
+     "bosses": [
+      {
+       "name": "Shadow Tornadus (Incarnate)",
+       "sprite": "pm641.fINCARNATE",
+       "shiny": true,
+       "types": [
+        "Flying"
+       ],
+       "cp": {
+        "min": 1762,
+        "max": 1911
+       },
+       "boostedCp": {
+        "min": 2203,
+        "max": 2389
+       },
+       "weather": [
+        "Windy"
+       ]
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "max": [
+  {
+   "tier": 1,
+   "bosses": [
+    {
+     "name": "Abra",
+     "sourceId": "ABRA",
+     "gigantamax": false
+    },
+    {
+     "name": "Bounsweet",
+     "sourceId": "BOUNSWEET",
+     "gigantamax": false
+    },
+    {
+     "name": "Bulbasaur",
+     "sourceId": "BULBASAUR",
+     "gigantamax": false
+    },
+    {
+     "name": "Caterpie",
+     "sourceId": "CATERPIE",
+     "gigantamax": false
+    },
+    {
+     "name": "Charmander",
+     "sourceId": "CHARMANDER",
+     "gigantamax": false
+    },
+    {
+     "name": "Combee",
+     "sourceId": "COMBEE",
+     "gigantamax": false
+    },
+    {
+     "name": "Cottonee",
+     "sourceId": "COTTONEE",
+     "gigantamax": false
+    },
+    {
+     "name": "Drilbur",
+     "sourceId": "DRILBUR",
+     "gigantamax": false
+    },
+    {
+     "name": "Espurr",
+     "sourceId": "ESPURR",
+     "gigantamax": false
+    },
+    {
+     "name": "Gastly",
+     "sourceId": "GASTLY",
+     "gigantamax": false
+    },
+    {
+     "name": "Grookey",
+     "sourceId": "GROOKEY",
+     "gigantamax": false
+    },
+    {
+     "name": "Growlithe",
+     "sourceId": "GROWLITHE",
+     "gigantamax": false
+    },
+    {
+     "name": "Hatenna",
+     "sourceId": "HATENNA",
+     "gigantamax": false
+    },
+    {
+     "name": "Hoothoot",
+     "sourceId": "HOOTHOOT",
+     "gigantamax": false
+    },
+    {
+     "name": "Inkay",
+     "sourceId": "INKAY",
+     "gigantamax": false
+    },
+    {
+     "name": "Kabuto",
+     "sourceId": "KABUTO",
+     "gigantamax": false
+    },
+    {
+     "name": "Krabby",
+     "sourceId": "KRABBY",
+     "gigantamax": false
+    },
+    {
+     "name": "Magikarp",
+     "sourceId": "MAGIKARP",
+     "gigantamax": false
+    },
+    {
+     "name": "Omanyte",
+     "sourceId": "OMANYTE",
+     "gigantamax": false
+    },
+    {
+     "name": "Pidove",
+     "sourceId": "PIDOVE",
+     "gigantamax": false
+    },
+    {
+     "name": "Pikachu",
+     "sourceId": "PIKACHU",
+     "gigantamax": false
+    },
+    {
+     "name": "Ralts",
+     "sourceId": "RALTS",
+     "gigantamax": false
+    },
+    {
+     "name": "Rhyhorn",
+     "sourceId": "RHYHORN",
+     "gigantamax": false
+    },
+    {
+     "name": "Roggenrola",
+     "sourceId": "ROGGENROLA",
+     "gigantamax": false
+    },
+    {
+     "name": "Rookidee",
+     "sourceId": "ROOKIDEE",
+     "gigantamax": false
+    },
+    {
+     "name": "Scorbunny",
+     "sourceId": "SCORBUNNY",
+     "gigantamax": false
+    },
+    {
+     "name": "Sizzlipede",
+     "sourceId": "SIZZLIPEDE",
+     "gigantamax": false
+    },
+    {
+     "name": "Skwovet",
+     "sourceId": "SKWOVET",
+     "gigantamax": false
+    },
+    {
+     "name": "Sneasel",
+     "sourceId": "SNEASEL",
+     "gigantamax": false
+    },
+    {
+     "name": "Sobble",
+     "sourceId": "SOBBLE",
+     "gigantamax": false
+    },
+    {
+     "name": "Spheal",
+     "sourceId": "SPHEAL",
+     "gigantamax": false
+    },
+    {
+     "name": "Squirtle",
+     "sourceId": "SQUIRTLE",
+     "gigantamax": false
+    },
+    {
+     "name": "Trapinch",
+     "sourceId": "TRAPINCH",
+     "gigantamax": false
+    },
+    {
+     "name": "Trubbish",
+     "sourceId": "TRUBBISH",
+     "gigantamax": false
+    },
+    {
+     "name": "Woobat",
+     "sourceId": "WOOBAT",
+     "gigantamax": false
+    },
+    {
+     "name": "Wooloo",
+     "sourceId": "WOOLOO",
+     "gigantamax": false
+    }
+   ]
+  },
+  {
+   "tier": 2,
+   "bosses": [
+    {
+     "name": "Darumaka",
+     "sourceId": "DARUMAKA",
+     "gigantamax": false
+    },
+    {
+     "name": "Eevee",
+     "sourceId": "EEVEE",
+     "gigantamax": false
+    },
+    {
+     "name": "Feebas",
+     "sourceId": "FEEBAS",
+     "gigantamax": false
+    },
+    {
+     "name": "Machop",
+     "sourceId": "MACHOP",
+     "gigantamax": false
+    },
+    {
+     "name": "Shuckle",
+     "sourceId": "SHUCKLE",
+     "gigantamax": false
+    },
+    {
+     "name": "Wailmer",
+     "sourceId": "WAILMER",
+     "gigantamax": false
+    }
+   ]
+  },
+  {
+   "tier": 3,
+   "bosses": [
+    {
+     "name": "Beldum",
+     "sourceId": "BELDUM",
+     "gigantamax": false
+    },
+    {
+     "name": "Chansey",
+     "sourceId": "CHANSEY",
+     "gigantamax": false
+    },
+    {
+     "name": "Cryogonal",
+     "sourceId": "CRYOGONAL",
+     "gigantamax": false
+    },
+    {
+     "name": "Deino",
+     "sourceId": "DEINO",
+     "gigantamax": false
+    },
+    {
+     "name": "Drampa",
+     "sourceId": "DRAMPA",
+     "gigantamax": false
+    },
+    {
+     "name": "Electabuzz",
+     "sourceId": "ELECTABUZZ",
+     "gigantamax": false
+    },
+    {
+     "name": "Falinks",
+     "sourceId": "FALINKS",
+     "gigantamax": false
+    },
+    {
+     "name": "Hitmonchan",
+     "sourceId": "HITMONCHAN",
+     "gigantamax": false
+    },
+    {
+     "name": "Hitmonlee",
+     "sourceId": "HITMONLEE",
+     "gigantamax": false
+    },
+    {
+     "name": "Hitmontop",
+     "sourceId": "HITMONTOP",
+     "gigantamax": false
+    },
+    {
+     "name": "Magmar",
+     "sourceId": "MAGMAR",
+     "gigantamax": false
+    },
+    {
+     "name": "Passimian",
+     "sourceId": "PASSIMIAN",
+     "gigantamax": false
+    },
+    {
+     "name": "Sableye",
+     "sourceId": "SABLEYE",
+     "gigantamax": false
+    }
+   ]
+  },
+  {
+   "tier": 4,
+   "bosses": [
+    {
+     "name": "Duraludon",
+     "sourceId": "DURALUDON",
+     "gigantamax": false
+    },
+    {
+     "name": "Toxtricity",
+     "sourceId": "TOXTRICITY",
+     "gigantamax": false
+    }
+   ]
+  },
+  {
+   "tier": 5,
+   "bosses": [
+    {
+     "name": "Latias",
+     "sourceId": "LATIAS",
+     "gigantamax": false,
+     "start": {
+      "time": "2026-11-13T06:00:00",
+      "kind": "local"
+     },
+     "end": {
+      "time": "2026-11-13T21:00:00",
+      "kind": "local"
+     }
+    },
+    {
+     "name": "Latios",
+     "sourceId": "LATIOS",
+     "gigantamax": false,
+     "start": {
+      "time": "2026-11-13T06:00:00",
+      "kind": "local"
+     },
+     "end": {
+      "time": "2026-11-13T21:00:00",
+      "kind": "local"
+     }
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,13 @@
+{
+ "schema": 1,
+ "built": "2026-11-13T14:37:06Z",
+ "sections": {
+  "raids": {
+   "file": "raids.json",
+   "hash": "sha256-f7bd5f274280d082719b3f62e2966c47abf679f8c043fafe2bdccda220d35272",
+   "count": 76,
+   "lastGood": "2026-11-13",
+   "stale": false
+  }
+ }
+}
