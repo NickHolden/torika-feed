@@ -1,47 +1,54 @@
 {
  "schema": 1,
- "built": "2026-11-13T20:09:54Z",
+ "built": "2026-11-14T09:14:35Z",
  "sections": {
+  "catalog": {
+   "file": "catalog.json",
+   "hash": "sha256-5565b1faf968bb34f8e175629d1ee6bcfeafdab7066dc8117717934e3fa0acc4",
+   "count": 2684,
+   "lastGood": "2026-11-14",
+   "stale": false
+  },
   "raids": {
    "file": "raids.json",
-   "hash": "sha256-e14962aece14fbec6b7e39e98123158f22612666e609a3d7cdd8c8940848eca7",
-   "count": 78,
-   "lastGood": "2026-11-13",
+   "hash": "sha256-04302ddd1c4e4968f6e7f0752904ba06eb99b480ab0bfd3a0f26b5414cc1c57f",
+   "count": 72,
+   "lastGood": "2026-11-14",
    "stale": false
   },
   "research": {
    "file": "research.json",
-   "hash": "sha256-f6c235f5529ae217436fb524c1572c03a2761432b377d796df13e80ec417cc9c",
-   "count": 65,
-   "lastGood": "2026-11-13",
+   "hash": "sha256-3b8d135af87f60aa019aa567d6e1c8d3b0dae280a41f3e1e3dfc01eb8617a845",
+   "count": 76,
+   "lastGood": "2026-11-14",
    "stale": false
   },
   "shinies": {
    "file": "shinies.json",
    "hash": "sha256-cb6ddb6a7ffb86cd2af14bc274f719c93b6e121b767ec2bdb0c96e62f865730f",
    "count": 1485,
-   "lastGood": "2026-11-13",
+   "lastGood": "2026-11-14",
    "stale": false
   },
   "eggs": {
    "file": "eggs.json",
    "hash": "sha256-dd17f1e599d67349de2ca3d4095aae84c4f579df66471bff4cbe9258da194309",
    "count": 78,
-   "lastGood": "2026-11-13",
+   "lastGood": "2026-11-14",
    "stale": false
   },
   "rocket": {
    "file": "rocket.json",
    "hash": "sha256-e1660f0986d2bbf09209728d529e4d71d10cb10c993a4c256da6e4ae49f39b96",
    "count": 26,
-   "lastGood": "2026-11-13",
+   "lastGood": "2026-11-14",
    "stale": false
   },
   "events": {
    "file": "events.json",
-   "hash": "sha256-dc69eca3baf3a78ef16240bb455df31214b1b76b448720cf98dca9f2549fbbab",
-   "count": 48,
-   "lastGood": "2026-11-13",
+   "hash": "sha256-d138b9cb108add929186fecbb73fc7cfdcb702cccc3f5a80e55ccd8a92d2ddcc",
+   "count": 46,
+   "lastGood": "2026-11-14",
    "stale": false
   }
  }

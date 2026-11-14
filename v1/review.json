@@ -1,7 +1,153 @@
 {
  "schema": 1,
- "built": "2026-11-13T20:09:54Z",
+ "built": "2026-11-14T09:14:35Z",
  "items": [
+  {
+   "id": "catalog:add:background.lc-pokelid-gunma:4eed99243bbe",
+   "kind": "catalog-change",
+   "held": true,
+   "origin": {
+    "id": "catalog",
+    "title": "Catalog",
+    "note": "Dittobase import"
+   },
+   "field": "New background: Poké Lid Gunma",
+   "change": "add",
+   "entity": "background",
+   "card": {
+    "slug": "lc-pokelid-gunma",
+    "name": "Poké Lid Gunma",
+    "art": "art/172d404cda717b837f95816669b6fb87.jpg",
+    "kind": "LOCATION_CARD",
+    "detail": "2 Pokémon: Pikachu, Raichu",
+    "nameJa": "ポケふた群馬",
+    "nameJaAuto": true
+   },
+   "section": "catalog",
+   "firstSeen": "2026-11-14"
+  },
+  {
+   "id": "catalog:add:background.sb-wild-area-global-2026:4f7105c9f5c4",
+   "kind": "catalog-change",
+   "held": true,
+   "origin": {
+    "id": "catalog",
+    "title": "Catalog",
+    "note": "Dittobase import"
+   },
+   "field": "New background: Wild Area Global 2026",
+   "change": "add",
+   "entity": "background",
+   "card": {
+    "slug": "sb-wild-area-global-2026",
+    "name": "Wild Area Global 2026",
+    "art": "art/ece24c2225e0cc3c605d48204cabd9bf.jpg",
+    "kind": "SPECIAL_BACKGROUND",
+    "detail": "13 Pokémon: Dynamax Dialga, Gigantamax Duraludon, Kyurem, Dynamax Latias, Dynamax Latios, Machamp Modern Jacket, Dynamax Palkia, Dynamax Regidrago, Dynamax Registeel, Reshiram, Zacian (Hero of Many Battles), Zamazenta (Hero of Many Battles)…"
+   },
+   "section": "catalog",
+   "firstSeen": "2026-11-14"
+  },
+  {
+   "id": "catalog:remove:link.lc-wild-area-mexico-city-2026.dusclops-fall-2022:95e0b108d790",
+   "kind": "catalog-change",
+   "held": true,
+   "origin": {
+    "id": "catalog",
+    "title": "Catalog",
+    "note": "Dittobase import"
+   },
+   "field": "Removed: Cempasúchil Crown Dusclops on Wild Area Mexico City 2026",
+   "change": "remove",
+   "entity": "link",
+   "card": {
+    "slug": "lc-wild-area-mexico-city-2026::dusclops-fall-2022",
+    "name": "Cempasúchil Crown Dusclops · Wild Area Mexico City 2026",
+    "art": "art/3a32d790148a69839db246644644fe74.png",
+    "backgroundArt": "art/9b1c06bfc6a1f635d32864eccd9f3d4d.jpg"
+   },
+   "touches": {
+    "background": "lc-wild-area-mexico-city-2026",
+    "pokemon": "dusclops-fall-2022"
+   },
+   "section": "catalog",
+   "firstSeen": "2026-11-14"
+  },
+  {
+   "id": "catalog:remove:link.lc-wild-area-mexico-city-2026.dusknoir-fall-2022:f8810eca0b8a",
+   "kind": "catalog-change",
+   "held": true,
+   "origin": {
+    "id": "catalog",
+    "title": "Catalog",
+    "note": "Dittobase import"
+   },
+   "field": "Removed: Cempasúchil Crown Dusknoir on Wild Area Mexico City 2026",
+   "change": "remove",
+   "entity": "link",
+   "card": {
+    "slug": "lc-wild-area-mexico-city-2026::dusknoir-fall-2022",
+    "name": "Cempasúchil Crown Dusknoir · Wild Area Mexico City 2026",
+    "art": "art/bbc9554fdfc5d3f29cf94a20b7a8af0e.png",
+    "backgroundArt": "art/9b1c06bfc6a1f635d32864eccd9f3d4d.jpg"
+   },
+   "touches": {
+    "background": "lc-wild-area-mexico-city-2026",
+    "pokemon": "dusknoir-fall-2022"
+   },
+   "section": "catalog",
+   "firstSeen": "2026-11-14"
+  },
+  {
+   "id": "catalog:remove:link.lc-wild-area-mexico-city-2026.duskull-fall-2022:061787bd92b1",
+   "kind": "catalog-change",
+   "held": true,
+   "origin": {
+    "id": "catalog",
+    "title": "Catalog",
+    "note": "Dittobase import"
+   },
+   "field": "Removed: Cempasúchil Crown Duskull on Wild Area Mexico City 2026",
+   "change": "remove",
+   "entity": "link",
+   "card": {
+    "slug": "lc-wild-area-mexico-city-2026::duskull-fall-2022",
+    "name": "Cempasúchil Crown Duskull · Wild Area Mexico City 2026",
+    "art": "art/2b552fbb1a3c1054d73c1ecbe91ddcc2.png",
+    "backgroundArt": "art/9b1c06bfc6a1f635d32864eccd9f3d4d.jpg"
+   },
+   "touches": {
+    "background": "lc-wild-area-mexico-city-2026",
+    "pokemon": "duskull-fall-2022"
+   },
+   "section": "catalog",
+   "firstSeen": "2026-11-14"
+  },
+  {
+   "id": "catalog:remove:link.lc-wild-area-mexico-city-2026.gengar-gigantamax:006716bf82d5",
+   "kind": "catalog-change",
+   "held": true,
+   "origin": {
+    "id": "catalog",
+    "title": "Catalog",
+    "note": "Dittobase import"
+   },
+   "field": "Removed: Gigantamax Gengar on Wild Area Mexico City 2026",
+   "change": "remove",
+   "entity": "link",
+   "card": {
+    "slug": "lc-wild-area-mexico-city-2026::gengar-gigantamax",
+    "name": "Gigantamax Gengar · Wild Area Mexico City 2026",
+    "art": "art/adecdaed1c45a72013638737b50ca54b.png",
+    "backgroundArt": "art/9b1c06bfc6a1f635d32864eccd9f3d4d.jpg"
+   },
+   "touches": {
+    "background": "lc-wild-area-mexico-city-2026",
+    "pokemon": "gengar-gigantamax"
+   },
+   "section": "catalog",
+   "firstSeen": "2026-11-14"
+  },
   {
    "id": "events:979624b9.microsite:4f53cda18c2b",
    "kind": "missing-microsite",
@@ -9,22 +155,6 @@
    "origin": {
     "id": "onsite:pokemon-go-tour-alola-los-angeles-2027",
     "title": "Pokémon GO Tour: Alola - Los Angeles 2027",
-    "note": "Official microsite"
-   },
-   "field": "Microsite address",
-   "readings": [],
-   "answerFormat": "url",
-   "answerHint": "https://pokemongo.com/en/…",
-   "section": "events",
-   "firstSeen": "2026-11-13"
-  },
-  {
-   "id": "events:e6648a8b.microsite:4f53cda18c2b",
-   "kind": "missing-microsite",
-   "held": true,
-   "origin": {
-    "id": "onsite:pokemon-night-out-london-2026",
-    "title": "Pokémon Night Out 2026 - London",
     "note": "Official microsite"
    },
    "field": "Microsite address",
@@ -49,7 +179,665 @@
    "answerHint": "https://pokemongo.com/en/…",
    "section": "events",
    "firstSeen": "2026-11-13"
+  },
+  {
+   "id": "raids:tier-3:ef5cd45b7496",
+   "kind": "source-disagreement",
+   "held": false,
+   "origin": {
+    "id": "raids",
+    "title": "Current raid bosses",
+    "note": "LeekDuck against Pokebattler"
+   },
+   "field": "3-Star Raids",
+   "readings": [
+    {
+     "who": "LeekDuck",
+     "value": "Machamp Modern Jacket",
+     "url": "https://leekduck.com/raids/"
+    },
+    {
+     "who": "Pokebattler",
+     "value": "Druddigon, Machamp, Orthworm",
+     "url": "https://www.pokebattler.com/raids"
+    }
+   ],
+   "showing": 0,
+   "answerHint": "Boss names, separated by commas",
+   "section": "raids",
+   "firstSeen": "2026-11-14"
+  },
+  {
+   "id": "raids:tier-5:364efbe68346",
+   "kind": "source-disagreement",
+   "held": false,
+   "origin": {
+    "id": "raids",
+    "title": "Current raid bosses",
+    "note": "LeekDuck against Pokebattler"
+   },
+   "field": "5-Star Raids",
+   "readings": [
+    {
+     "who": "LeekDuck",
+     "value": "Zekrom, Kyurem White, Reshiram, Kyurem Black",
+     "url": "https://leekduck.com/raids/"
+    },
+    {
+     "who": "Pokebattler",
+     "value": "Kyurem White, Zacian Crowned Sword, Zamazenta Crowned Shield, Zekrom",
+     "url": "https://www.pokebattler.com/raids"
+    }
+   ],
+   "showing": 0,
+   "answerHint": "Boss names, separated by commas",
+   "section": "raids",
+   "firstSeen": "2026-11-14"
   }
  ],
- "applied": []
+ "applied": [
+  {
+   "id": "catalog:set:link.lc-wild-area-sendai-2026.tinkaton:13e4a35b4457",
+   "kind": "catalog-applied",
+   "origin": {
+    "id": "catalog",
+    "title": "Catalog",
+    "note": "Dittobase import"
+   },
+   "field": "Tinkaton on Wild Area Sendai 2026",
+   "what": "Tinkaton added to Wild Area Sendai 2026",
+   "source": "Dittobase",
+   "at": "2026-11-14",
+   "section": "catalog"
+  },
+  {
+   "id": "catalog:set:link.lc-wild-area-sendai-2026.sliggoo-hisuian:5367e53e9335",
+   "kind": "catalog-applied",
+   "origin": {
+    "id": "catalog",
+    "title": "Catalog",
+    "note": "Dittobase import"
+   },
+   "field": "Hisuian Sliggoo on Wild Area Sendai 2026",
+   "what": "Hisuian Sliggoo added to Wild Area Sendai 2026",
+   "source": "Dittobase",
+   "at": "2026-11-14",
+   "section": "catalog"
+  },
+  {
+   "id": "catalog:set:link.lc-wild-area-sendai-2026.scizor:a59bcef0fe83",
+   "kind": "catalog-applied",
+   "origin": {
+    "id": "catalog",
+    "title": "Catalog",
+    "note": "Dittobase import"
+   },
+   "field": "Scizor on Wild Area Sendai 2026",
+   "what": "Scizor added to Wild Area Sendai 2026",
+   "source": "Dittobase",
+   "at": "2026-11-14",
+   "section": "catalog"
+  },
+  {
+   "id": "catalog:set:link.lc-wild-area-sendai-2026.metagross:59d84cca602d",
+   "kind": "catalog-applied",
+   "origin": {
+    "id": "catalog",
+    "title": "Catalog",
+    "note": "Dittobase import"
+   },
+   "field": "Metagross on Wild Area Sendai 2026",
+   "what": "Metagross added to Wild Area Sendai 2026",
+   "source": "Dittobase",
+   "at": "2026-11-14",
+   "section": "catalog"
+  },
+  {
+   "id": "catalog:set:link.lc-wild-area-sendai-2026.magnezone:631fb14c1931",
+   "kind": "catalog-applied",
+   "origin": {
+    "id": "catalog",
+    "title": "Catalog",
+    "note": "Dittobase import"
+   },
+   "field": "Magnezone on Wild Area Sendai 2026",
+   "what": "Magnezone added to Wild Area Sendai 2026",
+   "source": "Dittobase",
+   "at": "2026-11-14",
+   "section": "catalog"
+  },
+  {
+   "id": "catalog:set:link.lc-wild-area-sendai-2026.lapras:5ee0c4de530a",
+   "kind": "catalog-applied",
+   "origin": {
+    "id": "catalog",
+    "title": "Catalog",
+    "note": "Dittobase import"
+   },
+   "field": "Lapras on Wild Area Sendai 2026",
+   "what": "Lapras added to Wild Area Sendai 2026",
+   "source": "Dittobase",
+   "at": "2026-11-14",
+   "section": "catalog"
+  },
+  {
+   "id": "catalog:set:link.lc-wild-area-sendai-2026.kommo-o:0f4d60e78929",
+   "kind": "catalog-applied",
+   "origin": {
+    "id": "catalog",
+    "title": "Catalog",
+    "note": "Dittobase import"
+   },
+   "field": "Kommo-o on Wild Area Sendai 2026",
+   "what": "Kommo-o added to Wild Area Sendai 2026",
+   "source": "Dittobase",
+   "at": "2026-11-14",
+   "section": "catalog"
+  },
+  {
+   "id": "catalog:set:link.lc-wild-area-sendai-2026.kingdra:60a0bd401461",
+   "kind": "catalog-applied",
+   "origin": {
+    "id": "catalog",
+    "title": "Catalog",
+    "note": "Dittobase import"
+   },
+   "field": "Kingdra on Wild Area Sendai 2026",
+   "what": "Kingdra added to Wild Area Sendai 2026",
+   "source": "Dittobase",
+   "at": "2026-11-14",
+   "section": "catalog"
+  },
+  {
+   "id": "catalog:set:link.lc-wild-area-sendai-2026.hydreigon:c8439673a537",
+   "kind": "catalog-applied",
+   "origin": {
+    "id": "catalog",
+    "title": "Catalog",
+    "note": "Dittobase import"
+   },
+   "field": "Hydreigon on Wild Area Sendai 2026",
+   "what": "Hydreigon added to Wild Area Sendai 2026",
+   "source": "Dittobase",
+   "at": "2026-11-14",
+   "section": "catalog"
+  },
+  {
+   "id": "catalog:set:link.lc-wild-area-sendai-2026.goodra-hisuian:d16510bdb756",
+   "kind": "catalog-applied",
+   "origin": {
+    "id": "catalog",
+    "title": "Catalog",
+    "note": "Dittobase import"
+   },
+   "field": "Hisuian Goodra on Wild Area Sendai 2026",
+   "what": "Hisuian Goodra added to Wild Area Sendai 2026",
+   "source": "Dittobase",
+   "at": "2026-11-14",
+   "section": "catalog"
+  },
+  {
+   "id": "catalog:set:link.lc-wild-area-sendai-2026.goodra:79616d4e9e7f",
+   "kind": "catalog-applied",
+   "origin": {
+    "id": "catalog",
+    "title": "Catalog",
+    "note": "Dittobase import"
+   },
+   "field": "Goodra on Wild Area Sendai 2026",
+   "what": "Goodra added to Wild Area Sendai 2026",
+   "source": "Dittobase",
+   "at": "2026-11-14",
+   "section": "catalog"
+  },
+  {
+   "id": "catalog:set:link.lc-wild-area-sendai-2026.flygon:fe21865bb206",
+   "kind": "catalog-applied",
+   "origin": {
+    "id": "catalog",
+    "title": "Catalog",
+    "note": "Dittobase import"
+   },
+   "field": "Flygon on Wild Area Sendai 2026",
+   "what": "Flygon added to Wild Area Sendai 2026",
+   "source": "Dittobase",
+   "at": "2026-11-14",
+   "section": "catalog"
+  },
+  {
+   "id": "catalog:set:link.lc-wild-area-sendai-2026.exeggutor-alola:337b21627583",
+   "kind": "catalog-applied",
+   "origin": {
+    "id": "catalog",
+    "title": "Catalog",
+    "note": "Dittobase import"
+   },
+   "field": "Alolan Exeggutor on Wild Area Sendai 2026",
+   "what": "Alolan Exeggutor added to Wild Area Sendai 2026",
+   "source": "Dittobase",
+   "at": "2026-11-14",
+   "section": "catalog"
+  },
+  {
+   "id": "catalog:set:link.lc-wild-area-sendai-2026.empoleon:2255a2d71c54",
+   "kind": "catalog-applied",
+   "origin": {
+    "id": "catalog",
+    "title": "Catalog",
+    "note": "Dittobase import"
+   },
+   "field": "Empoleon on Wild Area Sendai 2026",
+   "what": "Empoleon added to Wild Area Sendai 2026",
+   "source": "Dittobase",
+   "at": "2026-11-14",
+   "section": "catalog"
+  },
+  {
+   "id": "catalog:set:link.lc-wild-area-sendai-2026.bastiodon:c4353841ab24",
+   "kind": "catalog-applied",
+   "origin": {
+    "id": "catalog",
+    "title": "Catalog",
+    "note": "Dittobase import"
+   },
+   "field": "Bastiodon on Wild Area Sendai 2026",
+   "what": "Bastiodon added to Wild Area Sendai 2026",
+   "source": "Dittobase",
+   "at": "2026-11-14",
+   "section": "catalog"
+  },
+  {
+   "id": "catalog:set:link.lc-wild-area-mexico-city-2026.tinkaton:58ed67adc112",
+   "kind": "catalog-applied",
+   "origin": {
+    "id": "catalog",
+    "title": "Catalog",
+    "note": "Dittobase import"
+   },
+   "field": "Tinkaton on Wild Area Mexico City 2026",
+   "what": "Tinkaton added to Wild Area Mexico City 2026",
+   "source": "Dittobase",
+   "at": "2026-11-14",
+   "section": "catalog"
+  },
+  {
+   "id": "catalog:set:link.lc-wild-area-mexico-city-2026.sliggoo-hisuian:0fe2d45940ba",
+   "kind": "catalog-applied",
+   "origin": {
+    "id": "catalog",
+    "title": "Catalog",
+    "note": "Dittobase import"
+   },
+   "field": "Hisuian Sliggoo on Wild Area Mexico City 2026",
+   "what": "Hisuian Sliggoo added to Wild Area Mexico City 2026",
+   "source": "Dittobase",
+   "at": "2026-11-14",
+   "section": "catalog"
+  },
+  {
+   "id": "catalog:set:link.lc-wild-area-mexico-city-2026.scizor:7214f728015d",
+   "kind": "catalog-applied",
+   "origin": {
+    "id": "catalog",
+    "title": "Catalog",
+    "note": "Dittobase import"
+   },
+   "field": "Scizor on Wild Area Mexico City 2026",
+   "what": "Scizor added to Wild Area Mexico City 2026",
+   "source": "Dittobase",
+   "at": "2026-11-14",
+   "section": "catalog"
+  },
+  {
+   "id": "catalog:set:link.lc-wild-area-mexico-city-2026.metagross:c52b7a89f39d",
+   "kind": "catalog-applied",
+   "origin": {
+    "id": "catalog",
+    "title": "Catalog",
+    "note": "Dittobase import"
+   },
+   "field": "Metagross on Wild Area Mexico City 2026",
+   "what": "Metagross added to Wild Area Mexico City 2026",
+   "source": "Dittobase",
+   "at": "2026-11-14",
+   "section": "catalog"
+  },
+  {
+   "id": "catalog:set:link.lc-wild-area-mexico-city-2026.magnezone:0ba3b764b854",
+   "kind": "catalog-applied",
+   "origin": {
+    "id": "catalog",
+    "title": "Catalog",
+    "note": "Dittobase import"
+   },
+   "field": "Magnezone on Wild Area Mexico City 2026",
+   "what": "Magnezone added to Wild Area Mexico City 2026",
+   "source": "Dittobase",
+   "at": "2026-11-14",
+   "section": "catalog"
+  },
+  {
+   "id": "catalog:set:link.lc-wild-area-mexico-city-2026.kommo-o:99b1cc2575e5",
+   "kind": "catalog-applied",
+   "origin": {
+    "id": "catalog",
+    "title": "Catalog",
+    "note": "Dittobase import"
+   },
+   "field": "Kommo-o on Wild Area Mexico City 2026",
+   "what": "Kommo-o added to Wild Area Mexico City 2026",
+   "source": "Dittobase",
+   "at": "2026-11-14",
+   "section": "catalog"
+  },
+  {
+   "id": "catalog:set:link.lc-wild-area-mexico-city-2026.kingdra:fea3dd401939",
+   "kind": "catalog-applied",
+   "origin": {
+    "id": "catalog",
+    "title": "Catalog",
+    "note": "Dittobase import"
+   },
+   "field": "Kingdra on Wild Area Mexico City 2026",
+   "what": "Kingdra added to Wild Area Mexico City 2026",
+   "source": "Dittobase",
+   "at": "2026-11-14",
+   "section": "catalog"
+  },
+  {
+   "id": "catalog:set:link.lc-wild-area-mexico-city-2026.hydreigon:2151c8d32183",
+   "kind": "catalog-applied",
+   "origin": {
+    "id": "catalog",
+    "title": "Catalog",
+    "note": "Dittobase import"
+   },
+   "field": "Hydreigon on Wild Area Mexico City 2026",
+   "what": "Hydreigon added to Wild Area Mexico City 2026",
+   "source": "Dittobase",
+   "at": "2026-11-14",
+   "section": "catalog"
+  },
+  {
+   "id": "catalog:set:link.lc-wild-area-mexico-city-2026.hawlucha:40b1fd8ace95",
+   "kind": "catalog-applied",
+   "origin": {
+    "id": "catalog",
+    "title": "Catalog",
+    "note": "Dittobase import"
+   },
+   "field": "Hawlucha on Wild Area Mexico City 2026",
+   "what": "Hawlucha added to Wild Area Mexico City 2026",
+   "source": "Dittobase",
+   "at": "2026-11-14",
+   "section": "catalog"
+  },
+  {
+   "id": "catalog:set:link.lc-wild-area-mexico-city-2026.goodra-hisuian:f577e214e636",
+   "kind": "catalog-applied",
+   "origin": {
+    "id": "catalog",
+    "title": "Catalog",
+    "note": "Dittobase import"
+   },
+   "field": "Hisuian Goodra on Wild Area Mexico City 2026",
+   "what": "Hisuian Goodra added to Wild Area Mexico City 2026",
+   "source": "Dittobase",
+   "at": "2026-11-14",
+   "section": "catalog"
+  },
+  {
+   "id": "catalog:set:link.lc-wild-area-mexico-city-2026.goodra:a86b50b3da2b",
+   "kind": "catalog-applied",
+   "origin": {
+    "id": "catalog",
+    "title": "Catalog",
+    "note": "Dittobase import"
+   },
+   "field": "Goodra on Wild Area Mexico City 2026",
+   "what": "Goodra added to Wild Area Mexico City 2026",
+   "source": "Dittobase",
+   "at": "2026-11-14",
+   "section": "catalog"
+  },
+  {
+   "id": "catalog:set:link.lc-wild-area-mexico-city-2026.flygon:7832490bfff3",
+   "kind": "catalog-applied",
+   "origin": {
+    "id": "catalog",
+    "title": "Catalog",
+    "note": "Dittobase import"
+   },
+   "field": "Flygon on Wild Area Mexico City 2026",
+   "what": "Flygon added to Wild Area Mexico City 2026",
+   "source": "Dittobase",
+   "at": "2026-11-14",
+   "section": "catalog"
+  },
+  {
+   "id": "catalog:set:link.lc-wild-area-mexico-city-2026.exeggutor-alola:5a09d3ad6127",
+   "kind": "catalog-applied",
+   "origin": {
+    "id": "catalog",
+    "title": "Catalog",
+    "note": "Dittobase import"
+   },
+   "field": "Alolan Exeggutor on Wild Area Mexico City 2026",
+   "what": "Alolan Exeggutor added to Wild Area Mexico City 2026",
+   "source": "Dittobase",
+   "at": "2026-11-14",
+   "section": "catalog"
+  },
+  {
+   "id": "catalog:set:link.lc-wild-area-mexico-city-2026.empoleon:c1de793e0f73",
+   "kind": "catalog-applied",
+   "origin": {
+    "id": "catalog",
+    "title": "Catalog",
+    "note": "Dittobase import"
+   },
+   "field": "Empoleon on Wild Area Mexico City 2026",
+   "what": "Empoleon added to Wild Area Mexico City 2026",
+   "source": "Dittobase",
+   "at": "2026-11-14",
+   "section": "catalog"
+  },
+  {
+   "id": "catalog:set:link.lc-wild-area-mexico-city-2026.bastiodon:ca0aac55f62d",
+   "kind": "catalog-applied",
+   "origin": {
+    "id": "catalog",
+    "title": "Catalog",
+    "note": "Dittobase import"
+   },
+   "field": "Bastiodon on Wild Area Mexico City 2026",
+   "what": "Bastiodon added to Wild Area Mexico City 2026",
+   "source": "Dittobase",
+   "at": "2026-11-14",
+   "section": "catalog"
+  },
+  {
+   "id": "catalog:set:link.lc-city-safari-2023-mexico-city.gengar-gigantamax:28fa8b4cfe2e",
+   "kind": "catalog-applied",
+   "origin": {
+    "id": "catalog",
+    "title": "Catalog",
+    "note": "Dittobase import"
+   },
+   "field": "Gigantamax Gengar on City Safari 2023 Mexico City",
+   "what": "Gigantamax Gengar added to City Safari 2023 Mexico City",
+   "source": "Dittobase",
+   "at": "2026-11-14",
+   "section": "catalog"
+  },
+  {
+   "id": "catalog:set:link.lc-city-safari-2023-mexico-city.duskull-fall-2022:80ce98a2ac8f",
+   "kind": "catalog-applied",
+   "origin": {
+    "id": "catalog",
+    "title": "Catalog",
+    "note": "Dittobase import"
+   },
+   "field": "Cempasúchil Crown Duskull on City Safari 2023 Mexico City",
+   "what": "Cempasúchil Crown Duskull added to City Safari 2023 Mexico City",
+   "source": "Dittobase",
+   "at": "2026-11-14",
+   "section": "catalog"
+  },
+  {
+   "id": "catalog:set:link.lc-city-safari-2023-mexico-city.dusknoir-fall-2022:773f70729a8b",
+   "kind": "catalog-applied",
+   "origin": {
+    "id": "catalog",
+    "title": "Catalog",
+    "note": "Dittobase import"
+   },
+   "field": "Cempasúchil Crown Dusknoir on City Safari 2023 Mexico City",
+   "what": "Cempasúchil Crown Dusknoir added to City Safari 2023 Mexico City",
+   "source": "Dittobase",
+   "at": "2026-11-14",
+   "section": "catalog"
+  },
+  {
+   "id": "catalog:set:link.lc-city-safari-2023-mexico-city.dusclops-fall-2022:12a1ba77a1c6",
+   "kind": "catalog-applied",
+   "origin": {
+    "id": "catalog",
+    "title": "Catalog",
+    "note": "Dittobase import"
+   },
+   "field": "Cempasúchil Crown Dusclops on City Safari 2023 Mexico City",
+   "what": "Cempasúchil Crown Dusclops added to City Safari 2023 Mexico City",
+   "source": "Dittobase",
+   "at": "2026-11-14",
+   "section": "catalog"
+  },
+  {
+   "id": "catalog:set:pokemon.type-null:2fddc6e5596b",
+   "kind": "catalog-applied",
+   "origin": {
+    "id": "catalog",
+    "title": "Catalog",
+    "note": "Dittobase import"
+   },
+   "field": "Type: Null",
+   "what": "Type: Null: legendary no → yes",
+   "source": "Dittobase",
+   "at": "2026-11-14",
+   "section": "catalog"
+  },
+  {
+   "id": "catalog:set:pokemon.goodra-hisuian:d0e7e84fe678",
+   "kind": "catalog-applied",
+   "origin": {
+    "id": "catalog",
+    "title": "Catalog",
+    "note": "Dittobase import"
+   },
+   "field": "Hisuian Goodra",
+   "what": "Hisuian Goodra: released no → yes, shiny released no → yes",
+   "source": "Dittobase",
+   "at": "2026-11-14",
+   "section": "catalog"
+  },
+  {
+   "id": "catalog:set:pokemon.sliggoo-hisuian:904c3112bde2",
+   "kind": "catalog-applied",
+   "origin": {
+    "id": "catalog",
+    "title": "Catalog",
+    "note": "Dittobase import"
+   },
+   "field": "Hisuian Sliggoo",
+   "what": "Hisuian Sliggoo: released no → yes, shiny released no → yes",
+   "source": "Dittobase",
+   "at": "2026-11-14",
+   "section": "catalog"
+  },
+  {
+   "id": "catalog:set:pokemon.empoleon-shadow:1f143b195769",
+   "kind": "catalog-applied",
+   "origin": {
+    "id": "catalog",
+    "title": "Catalog",
+    "note": "Dittobase import"
+   },
+   "field": "Shadow Empoleon",
+   "what": "Shadow Empoleon: shiny released no → yes",
+   "source": "Dittobase",
+   "at": "2026-11-14",
+   "section": "catalog"
+  },
+  {
+   "id": "catalog:set:pokemon.prinplup-shadow:6b258af956c3",
+   "kind": "catalog-applied",
+   "origin": {
+    "id": "catalog",
+    "title": "Catalog",
+    "note": "Dittobase import"
+   },
+   "field": "Shadow Prinplup",
+   "what": "Shadow Prinplup: shiny released no → yes",
+   "source": "Dittobase",
+   "at": "2026-11-14",
+   "section": "catalog"
+  },
+  {
+   "id": "catalog:set:pokemon.latios-s:97fd46832992",
+   "kind": "catalog-applied",
+   "origin": {
+    "id": "catalog",
+    "title": "Catalog",
+    "note": "Dittobase import"
+   },
+   "field": "Latios S",
+   "what": "Apex Shadow Latios: name “Apex Shadow Latios” → “Latios S”",
+   "source": "Dittobase",
+   "at": "2026-11-14",
+   "section": "catalog"
+  },
+  {
+   "id": "catalog:set:pokemon.latias-s:5122770d15f0",
+   "kind": "catalog-applied",
+   "origin": {
+    "id": "catalog",
+    "title": "Catalog",
+    "note": "Dittobase import"
+   },
+   "field": "Latias S",
+   "what": "Apex Shadow Latias: name “Apex Shadow Latias” → “Latias S”",
+   "source": "Dittobase",
+   "at": "2026-11-14",
+   "section": "catalog"
+  },
+  {
+   "id": "catalog:set:pokemon.machamp-modern-jacket:29386ad19ec6",
+   "kind": "catalog-applied",
+   "origin": {
+    "id": "catalog",
+    "title": "Catalog",
+    "note": "Dittobase import"
+   },
+   "field": "Machamp Modern Jacket",
+   "what": "Machamp Modern Jacket: released no → yes, shiny released no → yes",
+   "source": "Dittobase",
+   "at": "2026-11-14",
+   "section": "catalog"
+  },
+  {
+   "id": "catalog:set:pokemon.clefable-mega:c668eb9a3f92",
+   "kind": "catalog-applied",
+   "origin": {
+    "id": "catalog",
+    "title": "Catalog",
+    "note": "Dittobase import"
+   },
+   "field": "Mega Clefable",
+   "what": "Mega Clefable: released no → yes, shiny released no → yes",
+   "source": "Dittobase",
+   "at": "2026-11-14",
+   "section": "catalog"
+  }
+ ],
+ "relied": {}
 }
