@@ -1,6 +1,6 @@
 {
  "schema": 1,
- "built": "2026-11-14T11:25:48Z",
+ "built": "2026-11-14T16:12:52Z",
  "items": [
   {
    "id": "catalog:label:background.lc-pokelid-gunma:dbe6f116e0eb",
@@ -840,7 +840,7 @@
    "firstSeen": "2026-11-14"
   },
   {
-   "id": "events:3a0dec74.rule.a7fd34:976dfff664c0",
+   "id": "events:3a0dec74.rule.a7fd34:e91a4c649019",
    "kind": "auto-read",
    "held": false,
    "origin": {
@@ -855,12 +855,12 @@
    "readings": [
     {
      "who": "Both models",
-     "value": "Ticket holders receive a Supply Balloon every hour during event hours. Each one gives 20 GO Safari Balls.",
-     "quote": "Ticket holders receive a Supply Balloon every hour during event hours. Each one gives 20 GO Safari Balls.",
+     "value": "Ticket holders receive a Supply Balloon every hour during event hours. Each one gives 15 GO Safari Balls.",
+     "quote": "Ticket holders receive a Supply Balloon every hour during event hours. Each one gives 15 GO Safari Balls.",
      "url": "https://leekduck.com/events/pokemon-go-wild-area-2026-global/"
     }
    ],
-   "value": "Ticket holders receive a Supply Balloon every hour during event hours. Each one gives 20 GO Safari Balls.",
+   "value": "Ticket holders receive a Supply Balloon every hour during event hours. Each one gives 15 GO Safari Balls.",
    "section": "events",
    "firstSeen": "2026-11-14"
   },
@@ -1040,7 +1040,7 @@
    "firstSeen": "2026-11-14"
   },
   {
-   "id": "events:67a0e0de.debut.pokemon:1b8b0b357f6a",
+   "id": "events:67a0e0de.debut.pokemon:95c0d5ccf9fb",
    "kind": "model-disagreement",
    "held": true,
    "origin": {
@@ -1055,8 +1055,7 @@
    "readings": [
     {
      "who": "Claude",
-     "value": "Minior",
-     "quote": "Minior (Yellow Core) will make its Pokémon GO debut during the Leonids meteor shower, beginning November 14, 2026, at 5:00 p.m. local time!",
+     "value": "none",
      "url": "https://leekduck.com/events/minior-showers-leonids-2026/"
     },
     {
@@ -1095,7 +1094,7 @@
    "firstSeen": "2026-11-14"
   },
   {
-   "id": "events:67a0e0de.rule.4b2754:e45fb3d57fdb",
+   "id": "events:67a0e0de.rule.4b2754:a7ecf56ebe46",
    "kind": "auto-read",
    "held": false,
    "origin": {
@@ -1110,12 +1109,12 @@
    "readings": [
     {
      "who": "Both models",
-     "value": "Minior begins battles in its Meteor Form. When its health drops below 50%, it changes form and exposes its core.",
-     "quote": "Minior begins battles in its Meteor Form. When its health drops below 50%, it changes form and exposes its core.",
+     "value": "Initially, Minior will only be able to change forms when battling Team GO Rocket, team leaders, or in the GO Battle League.",
+     "quote": "Initially, Minior will only be able to change forms when battling Team GO Rocket, team leaders, or in the GO Battle League.",
      "url": "https://leekduck.com/events/minior-showers-leonids-2026/"
     }
    ],
-   "value": "Minior begins battles in its Meteor Form. When its health drops below 50%, it changes form and exposes its core.",
+   "value": "Initially, Minior will only be able to change forms when battling Team GO Rocket, team leaders, or in the GO Battle League.",
    "section": "events",
    "firstSeen": "2026-11-14"
   },
@@ -1145,7 +1144,7 @@
    "firstSeen": "2026-11-14"
   },
   {
-   "id": "events:67a0e0de.rule.be0375:aa43d11c360e",
+   "id": "events:67a0e0de.rule.be0375:0340d633a467",
    "kind": "model-disagreement",
    "held": true,
    "origin": {
@@ -1165,8 +1164,8 @@
     },
     {
      "who": "GPT",
-     "value": "Minior (Green Core) is reportedly also available in the wild during the Leonids.",
-     "quote": "Minior (Green Core) is reportedly also available in the wild during the Leonids.",
+     "value": "Minior has seven different core colors: Red, Orange, Yellow, Green, Blue, Indigo, and Violet. A different core color will debut during each of the six meteor showers listed below. During the Geminids, one core color will debut in the Northern Hemisphere and another in the Southern Hemisphere.",
+     "quote": "Minior has seven different core colors: Red, Orange, Yellow, Green, Blue, Indigo, and Violet. A different core color will debut during each of the six meteor showers listed below. During the Geminids, one core color will debut in the Northern Hemisphere and another in the Southern Hemisphere.",
      "url": "https://leekduck.com/events/minior-showers-leonids-2026/"
     }
    ],
