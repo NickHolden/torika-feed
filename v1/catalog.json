@@ -90454,6 +90454,198 @@
    ]
   },
   {
+   "id": "sb-wild-area-global-2026",
+   "name": "Wild Area Global 2026",
+   "type": "SPECIAL_BACKGROUND",
+   "image": "art/ece24c2225e0cc3c605d48204cabd9bf.jpg",
+   "nameJa": "Pokémon GO Wild Area: グローバル 2026",
+   "nameJaAuto": true,
+   "pokemon": [
+    {
+     "pokemon": "dialga-dynamax",
+     "canBeShiny": true,
+     "evolvedOnly": false,
+     "events": [
+      {
+       "name": "Pokémon GO Wild Area: Global",
+       "start": "2026-11-14T15:00:00.000Z",
+       "end": "2026-11-15T23:00:00.000Z",
+       "shiny": true,
+       "evolved": false
+      }
+     ]
+    },
+    {
+     "pokemon": "duraludon-gigantamax",
+     "canBeShiny": true,
+     "evolvedOnly": false,
+     "events": [
+      {
+       "name": "Pokémon GO Wild Area: Global",
+       "start": "2026-11-14T15:00:00.000Z",
+       "end": "2026-11-15T23:00:00.000Z",
+       "shiny": true,
+       "evolved": false
+      }
+     ]
+    },
+    {
+     "pokemon": "kyurem",
+     "canBeShiny": true,
+     "evolvedOnly": false,
+     "events": [
+      {
+       "name": "Pokémon GO Wild Area: Global",
+       "start": "2026-11-14T15:00:00.000Z",
+       "end": "2026-11-15T23:00:00.000Z",
+       "shiny": true,
+       "evolved": false
+      }
+     ]
+    },
+    {
+     "pokemon": "latias-dynamax",
+     "canBeShiny": true,
+     "evolvedOnly": false,
+     "events": [
+      {
+       "name": "Into the Wild",
+       "start": "2026-11-09T15:00:00.000Z",
+       "end": "2026-11-14T01:00:00.000Z",
+       "shiny": true,
+       "evolved": false
+      }
+     ]
+    },
+    {
+     "pokemon": "latios-dynamax",
+     "canBeShiny": true,
+     "evolvedOnly": false,
+     "events": [
+      {
+       "name": "Into the Wild",
+       "start": "2026-11-09T15:00:00.000Z",
+       "end": "2026-11-14T01:00:00.000Z",
+       "shiny": true,
+       "evolved": false
+      }
+     ]
+    },
+    {
+     "pokemon": "machamp-modern-jacket",
+     "canBeShiny": true,
+     "evolvedOnly": false,
+     "events": [
+      {
+       "name": "Pokémon GO Wild Area: Global",
+       "start": "2026-11-14T15:00:00.000Z",
+       "end": "2026-11-15T23:00:00.000Z",
+       "shiny": true,
+       "evolved": false
+      }
+     ]
+    },
+    {
+     "pokemon": "palkia-dynamax",
+     "canBeShiny": true,
+     "evolvedOnly": false,
+     "events": [
+      {
+       "name": "Pokémon GO Wild Area: Global",
+       "start": "2026-11-14T15:00:00.000Z",
+       "end": "2026-11-15T23:00:00.000Z",
+       "shiny": true,
+       "evolved": false
+      }
+     ]
+    },
+    {
+     "pokemon": "regidrago-dynamax",
+     "canBeShiny": true,
+     "evolvedOnly": false,
+     "events": [
+      {
+       "name": "Into the Wild",
+       "start": "2026-11-09T15:00:00.000Z",
+       "end": "2026-11-14T01:00:00.000Z",
+       "shiny": true,
+       "evolved": false
+      }
+     ]
+    },
+    {
+     "pokemon": "registeel-dynamax",
+     "canBeShiny": true,
+     "evolvedOnly": false,
+     "events": [
+      {
+       "name": "Into the Wild",
+       "start": "2026-11-09T15:00:00.000Z",
+       "end": "2026-11-14T01:00:00.000Z",
+       "shiny": true,
+       "evolved": false
+      }
+     ]
+    },
+    {
+     "pokemon": "reshiram",
+     "canBeShiny": true,
+     "evolvedOnly": false,
+     "events": [
+      {
+       "name": "Pokémon GO Wild Area: Global",
+       "start": "2026-11-14T15:00:00.000Z",
+       "end": "2026-11-15T23:00:00.000Z",
+       "shiny": true,
+       "evolved": false
+      }
+     ]
+    },
+    {
+     "pokemon": "zacian",
+     "canBeShiny": true,
+     "evolvedOnly": false,
+     "events": [
+      {
+       "name": "Into the Wild",
+       "start": "2026-11-09T15:00:00.000Z",
+       "end": "2026-11-14T01:00:00.000Z",
+       "shiny": true,
+       "evolved": false
+      }
+     ]
+    },
+    {
+     "pokemon": "zamazenta",
+     "canBeShiny": true,
+     "evolvedOnly": false,
+     "events": [
+      {
+       "name": "Into the Wild",
+       "start": "2026-11-09T15:00:00.000Z",
+       "end": "2026-11-14T01:00:00.000Z",
+       "shiny": true,
+       "evolved": false
+      }
+     ]
+    },
+    {
+     "pokemon": "zekrom",
+     "canBeShiny": true,
+     "evolvedOnly": false,
+     "events": [
+      {
+       "name": "Pokémon GO Wild Area: Global",
+       "start": "2026-11-14T15:00:00.000Z",
+       "end": "2026-11-15T23:00:00.000Z",
+       "shiny": true,
+       "evolved": false
+      }
+     ]
+    }
+   ]
+  },
+  {
    "id": "sb-zacian-go-fest-2025",
    "name": "Zacian GO Fest 2025",
    "type": "SPECIAL_BACKGROUND",

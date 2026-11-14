@@ -14977,7 +14977,9 @@
    "path": "art/b2749a86c23babb7fa48c79742399787.png"
   }
  },
- "via": {},
+ "via": {
+  "background:sb-wild-area-global-2026": "catalog:add:background.sb-wild-area-global-2026:4f7105c9f5c4"
+ },
  "retiredVia": {},
  "aliases": {},
  "kept": {},
@@ -15543,6 +15545,10 @@
  "labels": {
   "background:lc-pokelid-gunma": {
    "ja": "ポケふた群馬",
+   "who": "Claude"
+  },
+  "background:sb-wild-area-global-2026": {
+   "ja": "Pokémon GO Wild Area: グローバル 2026",
    "who": "Claude"
   }
  }

@@ -1,5 +1,12 @@
 {
  "schema": 1,
- "built": "2026-11-14T09:14:35Z",
- "decisions": []
+ "built": "2026-11-14T10:04:44Z",
+ "decisions": [
+  {
+   "itemId": "catalog:add:background.sb-wild-area-global-2026:4f7105c9f5c4",
+   "action": "approve",
+   "value": null,
+   "decidedAt": "2026-11-14T10:01:26.388Z"
+  }
+ ]
 }

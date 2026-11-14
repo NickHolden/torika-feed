@@ -597,7 +597,7 @@
     {
      "name": "LeekDuck",
      "url": "https://leekduck.com/events/into-the-wild-2026/",
-     "read": "2026-11-14T09:14:35Z"
+     "read": "2026-11-14T10:04:44Z"
     }
    ],
    "listed": true
@@ -649,7 +649,7 @@
     {
      "name": "LeekDuck",
      "url": "https://leekduck.com/events/zacian-crowned-sword-zamazenta-crowned-shield-in-5-star-raid-battles-november-2026/",
-     "read": "2026-11-14T09:14:35Z"
+     "read": "2026-11-14T10:04:44Z"
     }
    ],
    "listed": true
@@ -1400,7 +1400,7 @@
     {
      "name": "LeekDuck",
      "url": "https://leekduck.com/events/pokemon-go-wild-area-2026-global/",
-     "read": "2026-11-14T09:14:35Z"
+     "read": "2026-11-14T10:04:44Z"
     }
    ],
    "listed": true
@@ -1436,7 +1436,7 @@
     {
      "name": "LeekDuck",
      "url": "https://leekduck.com/events/go-wild-area-gigantamax-machamp-power-up-timed-research/",
-     "read": "2026-11-14T09:14:35Z"
+     "read": "2026-11-14T10:04:44Z"
     }
    ],
    "listed": true
@@ -1472,7 +1472,7 @@
     {
      "name": "LeekDuck",
      "url": "https://leekduck.com/events/max-mondays-2026-11-16/",
-     "read": "2026-11-14T09:14:35Z"
+     "read": "2026-11-14T10:04:44Z"
     }
    ],
    "listed": true
@@ -1508,7 +1508,7 @@
     {
      "name": "LeekDuck",
      "url": "https://leekduck.com/events/gbl-twilight-trails_great-league_ultra-league-mega-edition_2026-go-laic-cup/",
-     "read": "2026-11-14T09:14:35Z"
+     "read": "2026-11-14T10:04:44Z"
     }
    ],
    "listed": true
@@ -1544,7 +1544,7 @@
     {
      "name": "LeekDuck",
      "url": "https://leekduck.com/events/raidhour20261118/",
-     "read": "2026-11-14T09:14:35Z"
+     "read": "2026-11-14T10:04:44Z"
     }
    ],
    "listed": true
@@ -1615,7 +1615,7 @@
     {
      "name": "LeekDuck",
      "url": "https://leekduck.com/events/pokemonspotlighthour2026-11-19/",
-     "read": "2026-11-14T09:14:35Z"
+     "read": "2026-11-14T10:04:44Z"
     }
    ],
    "listed": true
@@ -1712,7 +1712,7 @@
     {
      "name": "LeekDuck",
      "url": "https://leekduck.com/events/minior-showers-leonids-2026/",
-     "read": "2026-11-14T09:14:35Z"
+     "read": "2026-11-14T10:04:44Z"
     }
    ],
    "listed": true
@@ -1774,7 +1774,7 @@
     {
      "name": "LeekDuck",
      "url": "https://leekduck.com/events/eternamax-eternatus-max-battles-2026/",
-     "read": "2026-11-14T09:14:35Z"
+     "read": "2026-11-14T10:04:44Z"
     }
    ],
    "listed": true
@@ -2121,7 +2121,7 @@
     {
      "name": "LeekDuck",
      "url": "https://leekduck.com/events/november-communityday2026/",
-     "read": "2026-11-14T09:14:35Z"
+     "read": "2026-11-14T10:04:44Z"
     }
    ],
    "listed": true
@@ -2172,13 +2172,309 @@
    ],
    "daily": null,
    "promoCodes": [],
-   "encounters": [],
+   "encounters": [
+    {
+     "group": "Max Battles",
+     "pokemon": [
+      {
+       "slug": "bulbasaur-dynamax",
+       "name": "Dynamax Bulbasaur",
+       "shiny": true
+      },
+      {
+       "slug": "charmander-dynamax",
+       "name": "Dynamax Charmander",
+       "shiny": true
+      },
+      {
+       "slug": "squirtle-dynamax",
+       "name": "Dynamax Squirtle",
+       "shiny": true
+      },
+      {
+       "slug": "caterpie-dynamax",
+       "name": "Dynamax Caterpie",
+       "shiny": true
+      },
+      {
+       "slug": "pikachu-dynamax",
+       "name": "Dynamax Pikachu",
+       "shiny": true
+      },
+      {
+       "slug": "growlithe-dynamax",
+       "name": "Dynamax Growlithe",
+       "shiny": true
+      },
+      {
+       "slug": "abra-dynamax",
+       "name": "Dynamax Abra",
+       "shiny": true
+      },
+      {
+       "slug": "machop-dynamax",
+       "name": "Dynamax Machop",
+       "shiny": true
+      },
+      {
+       "slug": "gastly-dynamax",
+       "name": "Dynamax Gastly",
+       "shiny": true
+      },
+      {
+       "slug": "krabby-dynamax",
+       "name": "Dynamax Krabby",
+       "shiny": true
+      },
+      {
+       "slug": "hitmonlee-dynamax",
+       "name": "Dynamax Hitmonlee",
+       "shiny": true
+      },
+      {
+       "slug": "hitmonchan-dynamax",
+       "name": "Dynamax Hitmonchan",
+       "shiny": true
+      },
+      {
+       "slug": "rhyhorn-dynamax",
+       "name": "Dynamax Rhyhorn",
+       "shiny": true
+      },
+      {
+       "slug": "chansey-dynamax",
+       "name": "Dynamax Chansey",
+       "shiny": true
+      },
+      {
+       "slug": "electabuzz-dynamax",
+       "name": "Dynamax Electabuzz",
+       "shiny": true
+      },
+      {
+       "slug": "magmar-dynamax",
+       "name": "Dynamax Magmar",
+       "shiny": true
+      },
+      {
+       "slug": "magikarp-dynamax",
+       "name": "Dynamax Magikarp",
+       "shiny": true
+      },
+      {
+       "slug": "eevee-dynamax",
+       "name": "Dynamax Eevee",
+       "shiny": true
+      },
+      {
+       "slug": "omanyte-dynamax",
+       "name": "Dynamax Omanyte",
+       "shiny": true
+      },
+      {
+       "slug": "kabuto-dynamax",
+       "name": "Dynamax Kabuto",
+       "shiny": true
+      },
+      {
+       "slug": "hoothoot-dynamax",
+       "name": "Dynamax Hoothoot",
+       "shiny": true
+      },
+      {
+       "slug": "shuckle-dynamax",
+       "name": "Dynamax Shuckle",
+       "shiny": true
+      },
+      {
+       "slug": "sneasel-dynamax",
+       "name": "Dynamax Sneasel",
+       "shiny": true
+      },
+      {
+       "slug": "hitmontop-dynamax",
+       "name": "Dynamax Hitmontop",
+       "shiny": true
+      },
+      {
+       "slug": "ralts-dynamax",
+       "name": "Dynamax Ralts",
+       "shiny": true
+      },
+      {
+       "slug": "sableye-dynamax",
+       "name": "Dynamax Sableye",
+       "shiny": true
+      },
+      {
+       "slug": "wailmer-dynamax",
+       "name": "Dynamax Wailmer",
+       "shiny": true
+      },
+      {
+       "slug": "trapinch-dynamax",
+       "name": "Dynamax Trapinch",
+       "shiny": true
+      },
+      {
+       "slug": "feebas-dynamax",
+       "name": "Dynamax Feebas",
+       "shiny": true
+      },
+      {
+       "slug": "spheal-dynamax",
+       "name": "Dynamax Spheal",
+       "shiny": true
+      },
+      {
+       "slug": "beldum-dynamax",
+       "name": "Dynamax Beldum",
+       "shiny": true
+      },
+      {
+       "slug": "combee-dynamax",
+       "name": "Dynamax Combee",
+       "shiny": true
+      },
+      {
+       "slug": "pidove-dynamax",
+       "name": "Dynamax Pidove",
+       "shiny": true
+      },
+      {
+       "slug": "roggenrola-dynamax",
+       "name": "Dynamax Roggenrola",
+       "shiny": true
+      },
+      {
+       "slug": "woobat-dynamax",
+       "name": "Dynamax Woobat",
+       "shiny": true
+      },
+      {
+       "slug": "drilbur-dynamax",
+       "name": "Dynamax Drilbur",
+       "shiny": true
+      },
+      {
+       "slug": "excadrill-dynamax",
+       "name": "Dynamax Excadrill",
+       "shiny": true
+      },
+      {
+       "slug": "cottonee-dynamax",
+       "name": "Dynamax Cottonee",
+       "shiny": true
+      },
+      {
+       "slug": "darumaka-dynamax",
+       "name": "Dynamax Darumaka",
+       "shiny": true
+      },
+      {
+       "slug": "trubbish-dynamax",
+       "name": "Dynamax Trubbish",
+       "shiny": true
+      },
+      {
+       "slug": "cryogonal-dynamax",
+       "name": "Dynamax Cryogonal",
+       "shiny": true
+      },
+      {
+       "slug": "deino-dynamax",
+       "name": "Dynamax Deino",
+       "shiny": true
+      },
+      {
+       "slug": "inkay-dynamax",
+       "name": "Dynamax Inkay",
+       "shiny": true
+      },
+      {
+       "slug": "bounsweet",
+       "name": "Bounsweet",
+       "shiny": true
+      },
+      {
+       "slug": "passimian",
+       "name": "Passimian",
+       "shiny": true
+      },
+      {
+       "slug": "drampa",
+       "name": "Drampa",
+       "shiny": true
+      },
+      {
+       "slug": "grookey",
+       "name": "Grookey",
+       "shiny": true
+      },
+      {
+       "slug": "scorbunny",
+       "name": "Scorbunny",
+       "shiny": true
+      },
+      {
+       "slug": "sobble",
+       "name": "Sobble",
+       "shiny": true
+      },
+      {
+       "slug": "skwovet",
+       "name": "Skwovet",
+       "shiny": true
+      },
+      {
+       "slug": "rookidee",
+       "name": "Rookidee",
+       "shiny": true
+      },
+      {
+       "slug": "wooloo",
+       "name": "Wooloo",
+       "shiny": true
+      },
+      {
+       "slug": "toxtricity-amped",
+       "name": "Toxtricity Amped",
+       "shiny": true
+      },
+      {
+       "slug": "toxtricity-low-key",
+       "name": "Toxtricity Low Key",
+       "shiny": true
+      },
+      {
+       "slug": "sizzlipede",
+       "name": "Sizzlipede",
+       "shiny": true
+      },
+      {
+       "slug": "hatenna",
+       "name": "Hatenna",
+       "shiny": true
+      },
+      {
+       "slug": "falinks",
+       "name": "Falinks",
+       "shiny": true
+      },
+      {
+       "slug": "duraludon",
+       "name": "Duraludon",
+       "shiny": true
+      }
+     ]
+    }
+   ],
    "research": [],
    "sources": [
     {
      "name": "LeekDuck",
      "url": "https://leekduck.com/events/dynamax-trails-2026/",
-     "read": "2026-11-14T09:14:35Z"
+     "read": "2026-11-14T10:04:44Z"
     }
    ],
    "listed": true
@@ -2214,7 +2510,7 @@
     {
      "name": "LeekDuck",
      "url": "https://leekduck.com/events/max-mondays-2026-11-23/",
-     "read": "2026-11-14T09:14:35Z"
+     "read": "2026-11-14T10:04:44Z"
     }
    ],
    "listed": true
@@ -2266,7 +2562,7 @@
     {
      "name": "LeekDuck",
      "url": "https://leekduck.com/events/cresselia-darkrai-in-5-star-raid-battles-november-2026/",
-     "read": "2026-11-14T09:14:35Z"
+     "read": "2026-11-14T10:04:44Z"
     }
    ],
    "listed": true
@@ -2313,7 +2609,7 @@
     {
      "name": "LeekDuck",
      "url": "https://leekduck.com/events/mega-banette-in-mega-raids-november-2026/",
-     "read": "2026-11-14T09:14:35Z"
+     "read": "2026-11-14T10:04:44Z"
     }
    ],
    "listed": true
@@ -2349,7 +2645,7 @@
     {
      "name": "LeekDuck",
      "url": "https://leekduck.com/events/gbl-twilight-trails_ultra-league_master-league-mega-edition_2026-go-laic-cup/",
-     "read": "2026-11-14T09:14:35Z"
+     "read": "2026-11-14T10:04:44Z"
     }
    ],
    "listed": true
@@ -2385,7 +2681,7 @@
     {
      "name": "LeekDuck",
      "url": "https://leekduck.com/events/raidhour20261125/",
-     "read": "2026-11-14T09:14:35Z"
+     "read": "2026-11-14T10:04:44Z"
     }
    ],
    "listed": true
@@ -2446,7 +2742,7 @@
     {
      "name": "LeekDuck",
      "url": "https://leekduck.com/events/pokemonspotlighthour2026-11-26/",
-     "read": "2026-11-14T09:14:35Z"
+     "read": "2026-11-14T10:04:44Z"
     }
    ],
    "listed": true
@@ -2535,7 +2831,7 @@
     {
      "name": "LeekDuck",
      "url": "https://leekduck.com/events/clefable-super-mega-raid-day-2026/",
-     "read": "2026-11-14T09:14:35Z"
+     "read": "2026-11-14T10:04:44Z"
     }
    ],
    "listed": true
@@ -2689,7 +2985,7 @@
     {
      "name": "LeekDuck",
      "url": "https://leekduck.com/events/twilight-wishes-2026/",
-     "read": "2026-11-14T09:14:35Z"
+     "read": "2026-11-14T10:04:44Z"
     }
    ],
    "listed": true
@@ -2725,7 +3021,7 @@
     {
      "name": "LeekDuck",
      "url": "https://leekduck.com/events/max-mondays-2026-11-30/",
-     "read": "2026-11-14T09:14:35Z"
+     "read": "2026-11-14T10:04:44Z"
     }
    ],
    "listed": true
@@ -2889,7 +3185,7 @@
     {
      "name": "LeekDuck",
      "url": "https://leekduck.com/events/season-24-twilight-trails/",
-     "read": "2026-11-14T09:14:35Z"
+     "read": "2026-11-14T10:04:44Z"
     }
    ],
    "listed": true
@@ -2925,7 +3221,7 @@
     {
      "name": "LeekDuck",
      "url": "https://leekduck.com/events/go-pass-november-2026/",
-     "read": "2026-11-14T09:14:35Z"
+     "read": "2026-11-14T10:04:44Z"
     }
    ],
    "listed": true
@@ -2961,7 +3257,7 @@
     {
      "name": "LeekDuck",
      "url": "https://leekduck.com/events/gbl-twilight-trails_master-league_mega-catch-cup-great-league-edition/",
-     "read": "2026-11-14T09:14:35Z"
+     "read": "2026-11-14T10:04:44Z"
     }
    ],
    "listed": true
@@ -3008,7 +3304,7 @@
     {
      "name": "LeekDuck",
      "url": "https://leekduck.com/events/shadow-tornadus-incarnate-forme-in-shadow-raids-november-16-2026/",
-     "read": "2026-11-14T09:14:35Z"
+     "read": "2026-11-14T10:04:44Z"
     }
    ],
    "listed": true
@@ -3070,7 +3366,7 @@
     {
      "name": "LeekDuck",
      "url": "https://leekduck.com/events/deoxys-normal-defense-attack-speed-formes-in-5-star-raid-battles-november-2026/",
-     "read": "2026-11-14T09:14:35Z"
+     "read": "2026-11-14T10:04:44Z"
     }
    ],
    "listed": true
@@ -3117,7 +3413,7 @@
     {
      "name": "LeekDuck",
      "url": "https://leekduck.com/events/mega-metagross-in-mega-raids-november-2026/",
-     "read": "2026-11-14T09:14:35Z"
+     "read": "2026-11-14T10:04:44Z"
     }
    ],
    "listed": true
@@ -3153,7 +3449,7 @@
     {
      "name": "LeekDuck",
      "url": "https://leekduck.com/events/max-battle-day-december-2026/",
-     "read": "2026-11-14T09:14:35Z"
+     "read": "2026-11-14T10:04:44Z"
     }
    ],
    "listed": true
@@ -3189,7 +3485,7 @@
     {
      "name": "LeekDuck",
      "url": "https://leekduck.com/events/december-communityday2026/",
-     "read": "2026-11-14T09:14:35Z"
+     "read": "2026-11-14T10:04:44Z"
     }
    ],
    "listed": true
@@ -3286,7 +3582,7 @@
     {
      "name": "LeekDuck",
      "url": "https://leekduck.com/events/minior-showers-geminids-2026/",
-     "read": "2026-11-14T09:14:35Z"
+     "read": "2026-11-14T10:04:44Z"
     }
    ],
    "listed": true
@@ -3322,7 +3618,7 @@
     {
      "name": "LeekDuck",
      "url": "https://leekduck.com/events/raid-day-december-2026/",
-     "read": "2026-11-14T09:14:35Z"
+     "read": "2026-11-14T10:04:44Z"
     }
    ],
    "listed": true
@@ -3358,7 +3654,7 @@
     {
      "name": "LeekDuck",
      "url": "https://leekduck.com/events/hatch-day-december-2026/",
-     "read": "2026-11-14T09:14:35Z"
+     "read": "2026-11-14T10:04:44Z"
     }
    ],
    "listed": true
@@ -3394,7 +3690,7 @@
     {
      "name": "LeekDuck",
      "url": "https://leekduck.com/events/january-communitydayclassic2027/",
-     "read": "2026-11-14T09:14:35Z"
+     "read": "2026-11-14T10:04:44Z"
     }
    ],
    "listed": true
@@ -3430,7 +3726,7 @@
     {
      "name": "LeekDuck",
      "url": "https://leekduck.com/events/super-mega-raid-day-january-2027/",
-     "read": "2026-11-14T09:14:35Z"
+     "read": "2026-11-14T10:04:44Z"
     }
    ],
    "listed": true
@@ -3468,7 +3764,7 @@
     {
      "name": "LeekDuck",
      "url": "https://leekduck.com/events/pokemon-x-adidas-2026/",
-     "read": "2026-11-14T09:14:35Z"
+     "read": "2026-11-14T10:04:44Z"
     }
    ],
    "listed": true
@@ -3504,7 +3800,7 @@
     {
      "name": "LeekDuck",
      "url": "https://leekduck.com/events/january-communityday2027/",
-     "read": "2026-11-14T09:14:35Z"
+     "read": "2026-11-14T10:04:44Z"
     }
    ],
    "listed": true
@@ -3540,7 +3836,7 @@
     {
      "name": "LeekDuck",
      "url": "https://leekduck.com/events/max-battle-day-january-2027/",
-     "read": "2026-11-14T09:14:35Z"
+     "read": "2026-11-14T10:04:44Z"
     }
    ],
    "listed": true
@@ -3576,7 +3872,7 @@
     {
      "name": "LeekDuck",
      "url": "https://leekduck.com/events/super-mega-raid-day-january-30-2027/",
-     "read": "2026-11-14T09:14:35Z"
+     "read": "2026-11-14T10:04:44Z"
     }
    ],
    "listed": true
@@ -3612,7 +3908,7 @@
     {
      "name": "LeekDuck",
      "url": "https://leekduck.com/events/february-communityday2027/",
-     "read": "2026-11-14T09:14:35Z"
+     "read": "2026-11-14T10:04:44Z"
     }
    ],
    "listed": true
@@ -3648,7 +3944,7 @@
     {
      "name": "LeekDuck",
      "url": "https://leekduck.com/events/raid-day-february-2027/",
-     "read": "2026-11-14T09:14:35Z"
+     "read": "2026-11-14T10:04:44Z"
     }
    ],
    "listed": true
@@ -3685,7 +3981,7 @@
     {
      "name": "LeekDuck",
      "url": "https://leekduck.com/events/pokemon-go-tour-alola-kaohsiung-2027/",
-     "read": "2026-11-14T09:14:35Z"
+     "read": "2026-11-14T10:04:44Z"
     }
    ],
    "listed": true,
@@ -3725,7 +4021,7 @@
     {
      "name": "LeekDuck",
      "url": "https://leekduck.com/events/pokemon-go-tour-alola-los-angeles-2027/",
-     "read": "2026-11-14T09:14:35Z"
+     "read": "2026-11-14T10:04:44Z"
     }
    ],
    "listed": true,
@@ -3764,7 +4060,7 @@
     {
      "name": "LeekDuck",
      "url": "https://leekduck.com/events/pokemon-go-tour-alola-global-2027/",
-     "read": "2026-11-14T09:14:35Z"
+     "read": "2026-11-14T10:04:44Z"
     }
    ],
    "listed": true
@@ -3861,7 +4157,7 @@
     {
      "name": "LeekDuck",
      "url": "https://leekduck.com/events/minior-showers-eta-aquariids-2027/",
-     "read": "2026-11-14T09:14:35Z"
+     "read": "2026-11-14T10:04:44Z"
     }
    ],
    "listed": true
@@ -3958,7 +4254,7 @@
     {
      "name": "LeekDuck",
      "url": "https://leekduck.com/events/minior-showers-southern-delta-aquariids-2027/",
-     "read": "2026-11-14T09:14:35Z"
+     "read": "2026-11-14T10:04:44Z"
     }
    ],
    "listed": true
@@ -4055,7 +4351,7 @@
     {
      "name": "LeekDuck",
      "url": "https://leekduck.com/events/minior-showers-perseids-2027/",
-     "read": "2026-11-14T09:14:35Z"
+     "read": "2026-11-14T10:04:44Z"
     }
    ],
    "listed": true

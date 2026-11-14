@@ -1,11 +1,11 @@
 {
  "schema": 1,
- "built": "2026-11-14T09:14:35Z",
+ "built": "2026-11-14T10:04:44Z",
  "sections": {
   "catalog": {
    "file": "catalog.json",
-   "hash": "sha256-5565b1faf968bb34f8e175629d1ee6bcfeafdab7066dc8117717934e3fa0acc4",
-   "count": 2684,
+   "hash": "sha256-a2dd1ea0a43331e3d63fe75ab666e29b8ed23a5df7d1999f213d3d6f2fa4c1e1",
+   "count": 2685,
    "lastGood": "2026-11-14",
    "stale": false
   },
@@ -46,7 +46,7 @@
   },
   "events": {
    "file": "events.json",
-   "hash": "sha256-d138b9cb108add929186fecbb73fc7cfdcb702cccc3f5a80e55ccd8a92d2ddcc",
+   "hash": "sha256-90941b0db0958fd50c0ee921abf0bfb5b30f3f4b3c4872f83b17c3354a642bee",
    "count": 46,
    "lastGood": "2026-11-14",
    "stale": false

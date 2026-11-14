@@ -1,6 +1,6 @@
 {
  "schema": 1,
- "built": "2026-11-14T09:14:35Z",
+ "built": "2026-11-14T10:04:44Z",
  "items": [
   {
    "id": "catalog:add:background.lc-pokelid-gunma:4eed99243bbe",
@@ -27,24 +27,22 @@
    "firstSeen": "2026-11-14"
   },
   {
-   "id": "catalog:add:background.sb-wild-area-global-2026:4f7105c9f5c4",
-   "kind": "catalog-change",
-   "held": true,
+   "id": "catalog:label:background.sb-wild-area-global-2026:569ac886c639",
+   "kind": "auto-read",
+   "held": false,
    "origin": {
     "id": "catalog",
     "title": "Catalog",
     "note": "Dittobase import"
    },
-   "field": "New background: Wild Area Global 2026",
-   "change": "add",
-   "entity": "background",
-   "card": {
-    "slug": "sb-wild-area-global-2026",
-    "name": "Wild Area Global 2026",
-    "art": "art/ece24c2225e0cc3c605d48204cabd9bf.jpg",
-    "kind": "SPECIAL_BACKGROUND",
-    "detail": "13 Pokémon: Dynamax Dialga, Gigantamax Duraludon, Kyurem, Dynamax Latias, Dynamax Latios, Machamp Modern Jacket, Dynamax Palkia, Dynamax Regidrago, Dynamax Registeel, Reshiram, Zacian (Hero of Many Battles), Zamazenta (Hero of Many Battles)…"
-   },
+   "field": "Japanese label: Wild Area Global 2026",
+   "value": "Pokémon GO Wild Area: グローバル 2026",
+   "readings": [
+    {
+     "who": "Claude",
+     "value": "Pokémon GO Wild Area: グローバル 2026"
+    }
+   ],
    "section": "catalog",
    "firstSeen": "2026-11-14"
   },
@@ -179,60 +177,6 @@
    "answerHint": "https://pokemongo.com/en/…",
    "section": "events",
    "firstSeen": "2026-11-13"
-  },
-  {
-   "id": "raids:tier-3:ef5cd45b7496",
-   "kind": "source-disagreement",
-   "held": false,
-   "origin": {
-    "id": "raids",
-    "title": "Current raid bosses",
-    "note": "LeekDuck against Pokebattler"
-   },
-   "field": "3-Star Raids",
-   "readings": [
-    {
-     "who": "LeekDuck",
-     "value": "Machamp Modern Jacket",
-     "url": "https://leekduck.com/raids/"
-    },
-    {
-     "who": "Pokebattler",
-     "value": "Druddigon, Machamp, Orthworm",
-     "url": "https://www.pokebattler.com/raids"
-    }
-   ],
-   "showing": 0,
-   "answerHint": "Boss names, separated by commas",
-   "section": "raids",
-   "firstSeen": "2026-11-14"
-  },
-  {
-   "id": "raids:tier-5:364efbe68346",
-   "kind": "source-disagreement",
-   "held": false,
-   "origin": {
-    "id": "raids",
-    "title": "Current raid bosses",
-    "note": "LeekDuck against Pokebattler"
-   },
-   "field": "5-Star Raids",
-   "readings": [
-    {
-     "who": "LeekDuck",
-     "value": "Zekrom, Kyurem White, Reshiram, Kyurem Black",
-     "url": "https://leekduck.com/raids/"
-    },
-    {
-     "who": "Pokebattler",
-     "value": "Kyurem White, Zacian Crowned Sword, Zamazenta Crowned Shield, Zekrom",
-     "url": "https://www.pokebattler.com/raids"
-    }
-   ],
-   "showing": 0,
-   "answerHint": "Boss names, separated by commas",
-   "section": "raids",
-   "firstSeen": "2026-11-14"
   }
  ],
  "applied": [
@@ -839,5 +783,9 @@
    "section": "catalog"
   }
  ],
- "relied": {}
+ "relied": {
+  "catalog": [
+   "catalog:add:background.sb-wild-area-global-2026:4f7105c9f5c4"
+  ]
+ }
 }
