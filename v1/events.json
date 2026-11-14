@@ -597,7 +597,7 @@
     {
      "name": "LeekDuck",
      "url": "https://leekduck.com/events/into-the-wild-2026/",
-     "read": "2026-11-14T11:04:16Z"
+     "read": "2026-11-14T11:25:48Z"
     }
    ],
    "listed": true,
@@ -741,7 +741,7 @@
     {
      "name": "LeekDuck",
      "url": "https://leekduck.com/events/zacian-crowned-sword-zamazenta-crowned-shield-in-5-star-raid-battles-november-2026/",
-     "read": "2026-11-14T11:04:16Z"
+     "read": "2026-11-14T11:25:48Z"
     }
    ],
    "listed": true,
@@ -1879,12 +1879,14 @@
         {
          "type": "item",
          "name": "Golden Razz Berry",
-         "quantity": 1
+         "quantity": 1,
+         "icon": "art/acd7a57acab21994428980ab293400c4.png"
         },
         {
          "type": "item",
          "name": "Silver Pinap Berry",
-         "quantity": 1
+         "quantity": 1,
+         "icon": "art/83d5a65337cea6bbb168a42195889922.png"
         }
        ]
       },
@@ -1991,22 +1993,26 @@
         {
          "type": "item",
          "name": "Great Ball",
-         "quantity": 3
+         "quantity": 3,
+         "icon": "art/1ce32fca389db1d8aa234c6a982f0725.png"
         },
         {
          "type": "item",
          "name": "Poké Ball",
-         "quantity": 5
+         "quantity": 5,
+         "icon": "art/ec10e1a5cc6faf5364bc40a98ff2798d.png"
         },
         {
          "type": "item",
          "name": "Stardust",
-         "quantity": 500
+         "quantity": 500,
+         "icon": "art/8091724025f7c21f1479111875b9a2b4.png"
         },
         {
          "type": "item",
          "name": "Ultra Ball",
-         "quantity": 2
+         "quantity": 2,
+         "icon": "art/d78b34b9a25cc6de363ffb231920b27c.png"
         }
        ]
       },
@@ -2174,12 +2180,14 @@
         {
          "type": "item",
          "name": "Golden Razz Berry",
-         "quantity": 1
+         "quantity": 1,
+         "icon": "art/acd7a57acab21994428980ab293400c4.png"
         },
         {
          "type": "item",
          "name": "Silver Pinap Berry",
-         "quantity": 1
+         "quantity": 1,
+         "icon": "art/83d5a65337cea6bbb168a42195889922.png"
         }
        ]
       },
@@ -2288,22 +2296,26 @@
         {
          "type": "item",
          "name": "Great Ball",
-         "quantity": 3
+         "quantity": 3,
+         "icon": "art/1ce32fca389db1d8aa234c6a982f0725.png"
         },
         {
          "type": "item",
          "name": "Poké Ball",
-         "quantity": 5
+         "quantity": 5,
+         "icon": "art/ec10e1a5cc6faf5364bc40a98ff2798d.png"
         },
         {
          "type": "item",
          "name": "Stardust",
-         "quantity": 500
+         "quantity": 500,
+         "icon": "art/8091724025f7c21f1479111875b9a2b4.png"
         },
         {
          "type": "item",
          "name": "Ultra Ball",
-         "quantity": 2
+         "quantity": 2,
+         "icon": "art/d78b34b9a25cc6de363ffb231920b27c.png"
         }
        ]
       },
@@ -2351,7 +2363,7 @@
     {
      "name": "LeekDuck",
      "url": "https://leekduck.com/events/pokemon-go-wild-area-2026-global/",
-     "read": "2026-11-14T11:04:16Z"
+     "read": "2026-11-14T11:25:48Z"
     }
    ],
    "listed": true,
@@ -2607,7 +2619,8 @@
         {
          "type": "item",
          "name": "Machop Candy",
-         "quantity": 110
+         "quantity": 110,
+         "icon": "art/6a268956e4afd032bc70403478fc2416.png"
         }
        ]
       },
@@ -2617,7 +2630,8 @@
         {
          "type": "item",
          "name": "Max Particle",
-         "quantity": 600
+         "quantity": 600,
+         "icon": "art/2be5c162dbc1d9dae30d27875aff9032.png"
         }
        ]
       },
@@ -2627,7 +2641,8 @@
         {
          "type": "item",
          "name": "Machop Candy XL",
-         "quantity": 45
+         "quantity": 45,
+         "icon": "art/fff1b272fcab9ba0cb8e4748576d96c7.png"
         }
        ]
       },
@@ -2637,7 +2652,8 @@
         {
          "type": "item",
          "name": "Max Particle",
-         "quantity": 800
+         "quantity": 800,
+         "icon": "art/2be5c162dbc1d9dae30d27875aff9032.png"
         }
        ]
       }
@@ -2646,12 +2662,14 @@
       {
        "type": "item",
        "name": "Stardust",
-       "quantity": 30000
+       "quantity": 30000,
+       "icon": "art/8091724025f7c21f1479111875b9a2b4.png"
       },
       {
        "type": "item",
        "name": "Ultra Ball",
-       "quantity": 10
+       "quantity": 10,
+       "icon": "art/d78b34b9a25cc6de363ffb231920b27c.png"
       }
      ],
      "from": "page"
@@ -2661,7 +2679,7 @@
     {
      "name": "LeekDuck",
      "url": "https://leekduck.com/events/go-wild-area-gigantamax-machamp-power-up-timed-research/",
-     "read": "2026-11-14T11:04:16Z"
+     "read": "2026-11-14T11:25:48Z"
     }
    ],
    "listed": true,
@@ -2707,7 +2725,7 @@
     {
      "name": "LeekDuck",
      "url": "https://leekduck.com/events/max-mondays-2026-11-16/",
-     "read": "2026-11-14T11:04:16Z"
+     "read": "2026-11-14T11:25:48Z"
     }
    ],
    "listed": true,
@@ -2769,7 +2787,7 @@
     {
      "name": "LeekDuck",
      "url": "https://leekduck.com/events/gbl-twilight-trails_great-league_ultra-league-mega-edition_2026-go-laic-cup/",
-     "read": "2026-11-14T11:04:16Z"
+     "read": "2026-11-14T11:25:48Z"
     }
    ],
    "listed": true,
@@ -2859,7 +2877,7 @@
     {
      "name": "LeekDuck",
      "url": "https://leekduck.com/events/raidhour20261118/",
-     "read": "2026-11-14T11:04:16Z"
+     "read": "2026-11-14T11:25:48Z"
     }
    ],
    "listed": true,
@@ -2936,7 +2954,7 @@
     {
      "name": "LeekDuck",
      "url": "https://leekduck.com/events/pokemonspotlighthour2026-11-19/",
-     "read": "2026-11-14T11:04:16Z"
+     "read": "2026-11-14T11:25:48Z"
     }
    ],
    "listed": true,
@@ -3043,7 +3061,7 @@
     {
      "name": "LeekDuck",
      "url": "https://leekduck.com/events/minior-showers-leonids-2026/",
-     "read": "2026-11-14T11:04:16Z"
+     "read": "2026-11-14T11:25:48Z"
     }
    ],
    "listed": true,
@@ -3143,7 +3161,7 @@
     {
      "name": "LeekDuck",
      "url": "https://leekduck.com/events/eternamax-eternatus-max-battles-2026/",
-     "read": "2026-11-14T11:04:16Z"
+     "read": "2026-11-14T11:25:48Z"
     }
    ],
    "listed": true,
@@ -3315,7 +3333,8 @@
        "rewards": [
         {
          "type": "item",
-         "name": "Ultra Ball ×20"
+         "name": "Ultra Ball ×20",
+         "icon": "art/d78b34b9a25cc6de363ffb231920b27c.png"
         }
        ]
       },
@@ -3324,7 +3343,8 @@
        "rewards": [
         {
          "type": "item",
-         "name": "Incubator ×1"
+         "name": "Incubator ×1",
+         "icon": "art/79a7af748683cd9f6cae0bef8edc7d4f.png"
         }
        ]
       },
@@ -3333,7 +3353,8 @@
        "rewards": [
         {
          "type": "item",
-         "name": "Incense ×1"
+         "name": "Incense ×1",
+         "icon": "art/56ce73ef57b341e5b4022d5472830220.png"
         }
        ]
       }
@@ -3347,11 +3368,13 @@
       },
       {
        "type": "item",
-       "name": "×50"
+       "name": "×50",
+       "icon": "art/7c26b451d3250ca83e16f73a50c2b719.png"
       },
       {
        "type": "item",
-       "name": "×5"
+       "name": "×5",
+       "icon": "art/ea38c81288fdc1c46275becef171d8df.png"
       }
      ]
     },
@@ -3398,7 +3421,8 @@
        "rewards": [
         {
          "type": "item",
-         "name": "Ultra Ball ×20"
+         "name": "Ultra Ball ×20",
+         "icon": "art/d78b34b9a25cc6de363ffb231920b27c.png"
         }
        ]
       },
@@ -3407,7 +3431,8 @@
        "rewards": [
         {
          "type": "item",
-         "name": "Charged TM ×1"
+         "name": "Charged TM ×1",
+         "icon": "art/98bf20ab2c0ccc3ca542a5d8389811be.png"
         }
        ]
       },
@@ -3416,7 +3441,8 @@
        "rewards": [
         {
          "type": "item",
-         "name": "Silver Pinap Berry ×3"
+         "name": "Silver Pinap Berry ×3",
+         "icon": "art/83d5a65337cea6bbb168a42195889922.png"
         }
        ]
       }
@@ -3430,11 +3456,13 @@
       },
       {
        "type": "item",
-       "name": "×7500"
+       "name": "×7500",
+       "icon": "art/8091724025f7c21f1479111875b9a2b4.png"
       },
       {
        "type": "item",
-       "name": "×3"
+       "name": "×3",
+       "icon": "art/31e9486f2c9cac50a3efadb5dde11d91.png"
       }
      ]
     },
@@ -3481,7 +3509,8 @@
        "rewards": [
         {
          "type": "item",
-         "name": "Ultra Ball ×20"
+         "name": "Ultra Ball ×20",
+         "icon": "art/d78b34b9a25cc6de363ffb231920b27c.png"
         }
        ]
       },
@@ -3490,7 +3519,8 @@
        "rewards": [
         {
          "type": "item",
-         "name": "Rocket Radar ×1"
+         "name": "Rocket Radar ×1",
+         "icon": "art/176c2164b53736fbb108223d91fb7a8d.png"
         }
        ]
       },
@@ -3499,7 +3529,8 @@
        "rewards": [
         {
          "type": "item",
-         "name": "Premium Battle Pass ×1"
+         "name": "Premium Battle Pass ×1",
+         "icon": "art/a27f0f6cda349182c32a440f00f5e804.png"
         }
        ]
       }
@@ -3513,11 +3544,13 @@
       },
       {
        "type": "item",
-       "name": "10000 XP"
+       "name": "10000 XP",
+       "icon": "art/efca27988f2eabe34c1ef03983f4e27d.png"
       },
       {
        "type": "item",
-       "name": "×1"
+       "name": "×1",
+       "icon": "art/c81f9c0ac238ee71c2c452d5b1c87b9e.png"
       }
      ]
     },
@@ -3542,22 +3575,26 @@
         {
          "type": "item",
          "name": "Great Ball",
-         "quantity": 5
+         "quantity": 5,
+         "icon": "art/1ce32fca389db1d8aa234c6a982f0725.png"
         },
         {
          "type": "item",
          "name": "Ultra Ball",
-         "quantity": 2
+         "quantity": 2,
+         "icon": "art/d78b34b9a25cc6de363ffb231920b27c.png"
         },
         {
          "type": "item",
          "name": "Pinap Berry",
-         "quantity": 2
+         "quantity": 2,
+         "icon": "art/506ecd9acd94449a27dfcc4129541eeb.png"
         },
         {
          "type": "item",
          "name": "Stardust",
-         "quantity": 500
+         "quantity": 500,
+         "icon": "art/8091724025f7c21f1479111875b9a2b4.png"
         }
        ]
       },
@@ -3600,7 +3637,7 @@
     {
      "name": "LeekDuck",
      "url": "https://leekduck.com/events/november-communityday2026/",
-     "read": "2026-11-14T11:04:16Z"
+     "read": "2026-11-14T11:25:48Z"
     }
    ],
    "listed": true,
@@ -4009,7 +4046,7 @@
     {
      "name": "LeekDuck",
      "url": "https://leekduck.com/events/dynamax-trails-2026/",
-     "read": "2026-11-14T11:04:16Z"
+     "read": "2026-11-14T11:25:48Z"
     }
    ],
    "listed": true,
@@ -4090,7 +4127,7 @@
     {
      "name": "LeekDuck",
      "url": "https://leekduck.com/events/max-mondays-2026-11-23/",
-     "read": "2026-11-14T11:04:16Z"
+     "read": "2026-11-14T11:25:48Z"
     }
    ],
    "listed": true,
@@ -4181,7 +4218,7 @@
     {
      "name": "LeekDuck",
      "url": "https://leekduck.com/events/cresselia-darkrai-in-5-star-raid-battles-november-2026/",
-     "read": "2026-11-14T11:04:16Z"
+     "read": "2026-11-14T11:25:48Z"
     }
    ],
    "listed": true,
@@ -4255,7 +4292,7 @@
     {
      "name": "LeekDuck",
      "url": "https://leekduck.com/events/mega-banette-in-mega-raids-november-2026/",
-     "read": "2026-11-14T11:04:16Z"
+     "read": "2026-11-14T11:25:48Z"
     }
    ],
    "listed": true,
@@ -4301,7 +4338,7 @@
     {
      "name": "LeekDuck",
      "url": "https://leekduck.com/events/gbl-twilight-trails_ultra-league_master-league-mega-edition_2026-go-laic-cup/",
-     "read": "2026-11-14T11:04:16Z"
+     "read": "2026-11-14T11:25:48Z"
     }
    ],
    "listed": true,
@@ -4395,7 +4432,7 @@
     {
      "name": "LeekDuck",
      "url": "https://leekduck.com/events/raidhour20261125/",
-     "read": "2026-11-14T11:04:16Z"
+     "read": "2026-11-14T11:25:48Z"
     }
    ],
    "listed": true,
@@ -4462,7 +4499,7 @@
     {
      "name": "LeekDuck",
      "url": "https://leekduck.com/events/pokemonspotlighthour2026-11-26/",
-     "read": "2026-11-14T11:04:16Z"
+     "read": "2026-11-14T11:25:48Z"
     }
    ],
    "listed": true,
@@ -4596,7 +4633,8 @@
         {
          "type": "item",
          "name": "Metagross Mega Energy",
-         "quantity": 300
+         "quantity": 300,
+         "icon": "art/d15406a96f668082f2b50b36e6b37e77.png"
         }
        ]
       },
@@ -4606,7 +4644,8 @@
         {
          "type": "item",
          "name": "Stardust",
-         "quantity": 5000
+         "quantity": 5000,
+         "icon": "art/8091724025f7c21f1479111875b9a2b4.png"
         }
        ]
       },
@@ -4616,7 +4655,8 @@
         {
          "type": "item",
          "name": "Charged TM",
-         "quantity": 3
+         "quantity": 3,
+         "icon": "art/98bf20ab2c0ccc3ca542a5d8389811be.png"
         }
        ]
       },
@@ -4626,7 +4666,8 @@
         {
          "type": "item",
          "name": "Beldum Candy XL",
-         "quantity": 10
+         "quantity": 10,
+         "icon": "art/0aa3c7f85034ea798e2cf165b880d8fd.png"
         }
        ]
       }
@@ -4635,7 +4676,8 @@
       {
        "type": "item",
        "name": "Premium Battle Pass",
-       "quantity": 1
+       "quantity": 1,
+       "icon": "art/a27f0f6cda349182c32a440f00f5e804.png"
       }
      ],
      "from": "page"
@@ -4645,7 +4687,7 @@
     {
      "name": "LeekDuck",
      "url": "https://leekduck.com/events/clefable-super-mega-raid-day-2026/",
-     "read": "2026-11-14T11:04:16Z"
+     "read": "2026-11-14T11:25:48Z"
     }
    ],
    "listed": true,
@@ -4851,7 +4893,7 @@
     {
      "name": "LeekDuck",
      "url": "https://leekduck.com/events/twilight-wishes-2026/",
-     "read": "2026-11-14T11:04:16Z"
+     "read": "2026-11-14T11:25:48Z"
     }
    ],
    "listed": true,
@@ -4927,7 +4969,7 @@
     {
      "name": "LeekDuck",
      "url": "https://leekduck.com/events/max-mondays-2026-11-30/",
-     "read": "2026-11-14T11:04:16Z"
+     "read": "2026-11-14T11:25:48Z"
     }
    ],
    "listed": true,
@@ -5292,7 +5334,7 @@
     {
      "name": "LeekDuck",
      "url": "https://leekduck.com/events/season-24-twilight-trails/",
-     "read": "2026-11-14T11:04:16Z"
+     "read": "2026-11-14T11:25:48Z"
     }
    ],
    "listed": true,
@@ -5438,7 +5480,7 @@
     {
      "name": "LeekDuck",
      "url": "https://leekduck.com/events/go-pass-november-2026/",
-     "read": "2026-11-14T11:04:16Z"
+     "read": "2026-11-14T11:25:48Z"
     }
    ],
    "listed": true,
@@ -5548,7 +5590,7 @@
     {
      "name": "LeekDuck",
      "url": "https://leekduck.com/events/gbl-twilight-trails_master-league_mega-catch-cup-great-league-edition/",
-     "read": "2026-11-14T11:04:16Z"
+     "read": "2026-11-14T11:25:48Z"
     }
    ],
    "listed": true,
@@ -5637,7 +5679,7 @@
     {
      "name": "LeekDuck",
      "url": "https://leekduck.com/events/shadow-tornadus-incarnate-forme-in-shadow-raids-november-16-2026/",
-     "read": "2026-11-14T11:04:16Z"
+     "read": "2026-11-14T11:25:48Z"
     }
    ],
    "listed": true,
@@ -5714,7 +5756,7 @@
     {
      "name": "LeekDuck",
      "url": "https://leekduck.com/events/deoxys-normal-defense-attack-speed-formes-in-5-star-raid-battles-november-2026/",
-     "read": "2026-11-14T11:04:16Z"
+     "read": "2026-11-14T11:25:48Z"
     }
    ],
    "listed": true,
@@ -5788,7 +5830,7 @@
     {
      "name": "LeekDuck",
      "url": "https://leekduck.com/events/mega-metagross-in-mega-raids-november-2026/",
-     "read": "2026-11-14T11:04:16Z"
+     "read": "2026-11-14T11:25:48Z"
     }
    ],
    "listed": true,
@@ -5834,7 +5876,7 @@
     {
      "name": "LeekDuck",
      "url": "https://leekduck.com/events/max-battle-day-december-2026/",
-     "read": "2026-11-14T11:04:16Z"
+     "read": "2026-11-14T11:25:48Z"
     }
    ],
    "listed": true,
@@ -5876,7 +5918,7 @@
     {
      "name": "LeekDuck",
      "url": "https://leekduck.com/events/december-communityday2026/",
-     "read": "2026-11-14T11:04:16Z"
+     "read": "2026-11-14T11:25:48Z"
     }
    ],
    "listed": true,
@@ -5979,7 +6021,7 @@
     {
      "name": "LeekDuck",
      "url": "https://leekduck.com/events/minior-showers-geminids-2026/",
-     "read": "2026-11-14T11:04:16Z"
+     "read": "2026-11-14T11:25:48Z"
     }
    ],
    "listed": true,
@@ -6061,7 +6103,7 @@
     {
      "name": "LeekDuck",
      "url": "https://leekduck.com/events/raid-day-december-2026/",
-     "read": "2026-11-14T11:04:16Z"
+     "read": "2026-11-14T11:25:48Z"
     }
    ],
    "listed": true,
@@ -6103,7 +6145,7 @@
     {
      "name": "LeekDuck",
      "url": "https://leekduck.com/events/hatch-day-december-2026/",
-     "read": "2026-11-14T11:04:16Z"
+     "read": "2026-11-14T11:25:48Z"
     }
    ],
    "listed": true,
@@ -6145,7 +6187,7 @@
     {
      "name": "LeekDuck",
      "url": "https://leekduck.com/events/january-communitydayclassic2027/",
-     "read": "2026-11-14T11:04:16Z"
+     "read": "2026-11-14T11:25:48Z"
     }
    ],
    "listed": true,
@@ -6187,7 +6229,7 @@
     {
      "name": "LeekDuck",
      "url": "https://leekduck.com/events/super-mega-raid-day-january-2027/",
-     "read": "2026-11-14T11:04:16Z"
+     "read": "2026-11-14T11:25:48Z"
     }
    ],
    "listed": true,
@@ -6253,7 +6295,8 @@
         {
          "type": "item",
          "name": "Razz Berry",
-         "quantity": 5
+         "quantity": 5,
+         "icon": "art/ef8ef5f4f21ff33c1385ad0902a48219.png"
         }
        ]
       },
@@ -6263,7 +6306,8 @@
         {
          "type": "item",
          "name": "Incense",
-         "quantity": 3
+         "quantity": 3,
+         "icon": "art/56ce73ef57b341e5b4022d5472830220.png"
         }
        ]
       },
@@ -6273,7 +6317,8 @@
         {
          "type": "item",
          "name": "Poké Ball",
-         "quantity": 30
+         "quantity": 30,
+         "icon": "art/ec10e1a5cc6faf5364bc40a98ff2798d.png"
         }
        ]
       }
@@ -6282,17 +6327,20 @@
       {
        "type": "item",
        "name": "adidas Pokémon Cap",
-       "quantity": 1
+       "quantity": 1,
+       "icon": "art/230369069091a0cbb59f645a10880559.png"
       },
       {
        "type": "item",
        "name": "XP",
-       "quantity": 1000
+       "quantity": 1000,
+       "icon": "art/efca27988f2eabe34c1ef03983f4e27d.png"
       },
       {
        "type": "item",
        "name": "Lucario Candy",
-       "quantity": 50
+       "quantity": 50,
+       "icon": "art/9cd4bf2047a2082e4f65176eab223fee.png"
       }
      ],
      "from": "page"
@@ -6308,7 +6356,8 @@
         {
          "type": "item",
          "name": "Pinap Berry",
-         "quantity": 15
+         "quantity": 15,
+         "icon": "art/506ecd9acd94449a27dfcc4129541eeb.png"
         }
        ]
       },
@@ -6318,7 +6367,8 @@
         {
          "type": "item",
          "name": "Hyper Potion",
-         "quantity": 10
+         "quantity": 10,
+         "icon": "art/69656a1b6534ce155f9f7df95d18c19d.png"
         }
        ]
       },
@@ -6328,7 +6378,8 @@
         {
          "type": "item",
          "name": "Great Ball",
-         "quantity": 20
+         "quantity": 20,
+         "icon": "art/1ce32fca389db1d8aa234c6a982f0725.png"
         }
        ]
       }
@@ -6337,17 +6388,20 @@
       {
        "type": "item",
        "name": "adidas Pokémon Jacket",
-       "quantity": 1
+       "quantity": 1,
+       "icon": "art/b42644e157abb4780048148b88daafa8.png"
       },
       {
        "type": "item",
        "name": "XP",
-       "quantity": 2000
+       "quantity": 2000,
+       "icon": "art/efca27988f2eabe34c1ef03983f4e27d.png"
       },
       {
        "type": "item",
        "name": "Stardust",
-       "quantity": 2000
+       "quantity": 2000,
+       "icon": "art/8091724025f7c21f1479111875b9a2b4.png"
       }
      ],
      "from": "page"
@@ -6366,7 +6420,8 @@
         {
          "type": "item",
          "name": "Lucario Mega Energy",
-         "quantity": 40
+         "quantity": 40,
+         "icon": "art/801962cc84e4094d5757d267f338fd9e.png"
         }
        ]
       },
@@ -6376,7 +6431,8 @@
         {
          "type": "item",
          "name": "Lucario Mega Energy",
-         "quantity": 40
+         "quantity": 40,
+         "icon": "art/801962cc84e4094d5757d267f338fd9e.png"
         }
        ]
       },
@@ -6386,7 +6442,8 @@
         {
          "type": "item",
          "name": "Lucario Mega Energy",
-         "quantity": 40
+         "quantity": 40,
+         "icon": "art/801962cc84e4094d5757d267f338fd9e.png"
         }
        ]
       },
@@ -6396,7 +6453,8 @@
         {
          "type": "item",
          "name": "Lucario Mega Energy",
-         "quantity": 40
+         "quantity": 40,
+         "icon": "art/801962cc84e4094d5757d267f338fd9e.png"
         }
        ]
       },
@@ -6406,7 +6464,8 @@
         {
          "type": "item",
          "name": "Lucario Mega Energy",
-         "quantity": 40
+         "quantity": 40,
+         "icon": "art/801962cc84e4094d5757d267f338fd9e.png"
         }
        ]
       }
@@ -6421,12 +6480,14 @@
       {
        "type": "item",
        "name": "XP",
-       "quantity": 3000
+       "quantity": 3000,
+       "icon": "art/efca27988f2eabe34c1ef03983f4e27d.png"
       },
       {
        "type": "item",
        "name": "Stardust",
-       "quantity": 3000
+       "quantity": 3000,
+       "icon": "art/8091724025f7c21f1479111875b9a2b4.png"
       }
      ],
      "from": "page"
@@ -6436,7 +6497,7 @@
     {
      "name": "LeekDuck",
      "url": "https://leekduck.com/events/pokemon-x-adidas-2026/",
-     "read": "2026-11-14T11:04:16Z"
+     "read": "2026-11-14T11:25:48Z"
     }
    ],
    "listed": true,
@@ -6504,7 +6565,7 @@
     {
      "name": "LeekDuck",
      "url": "https://leekduck.com/events/january-communityday2027/",
-     "read": "2026-11-14T11:04:16Z"
+     "read": "2026-11-14T11:25:48Z"
     }
    ],
    "listed": true,
@@ -6546,7 +6607,7 @@
     {
      "name": "LeekDuck",
      "url": "https://leekduck.com/events/max-battle-day-january-2027/",
-     "read": "2026-11-14T11:04:16Z"
+     "read": "2026-11-14T11:25:48Z"
     }
    ],
    "listed": true,
@@ -6588,7 +6649,7 @@
     {
      "name": "LeekDuck",
      "url": "https://leekduck.com/events/super-mega-raid-day-january-30-2027/",
-     "read": "2026-11-14T11:04:16Z"
+     "read": "2026-11-14T11:25:48Z"
     }
    ],
    "listed": true,
@@ -6630,7 +6691,7 @@
     {
      "name": "LeekDuck",
      "url": "https://leekduck.com/events/february-communityday2027/",
-     "read": "2026-11-14T11:04:16Z"
+     "read": "2026-11-14T11:25:48Z"
     }
    ],
    "listed": true,
@@ -6672,7 +6733,7 @@
     {
      "name": "LeekDuck",
      "url": "https://leekduck.com/events/raid-day-february-2027/",
-     "read": "2026-11-14T11:04:16Z"
+     "read": "2026-11-14T11:25:48Z"
     }
    ],
    "listed": true,
@@ -6715,7 +6776,7 @@
     {
      "name": "LeekDuck",
      "url": "https://leekduck.com/events/pokemon-go-tour-alola-kaohsiung-2027/",
-     "read": "2026-11-14T11:04:16Z"
+     "read": "2026-11-14T11:25:48Z"
     }
    ],
    "listed": true,
@@ -6785,7 +6846,7 @@
     {
      "name": "LeekDuck",
      "url": "https://leekduck.com/events/pokemon-go-tour-alola-los-angeles-2027/",
-     "read": "2026-11-14T11:04:16Z"
+     "read": "2026-11-14T11:25:48Z"
     }
    ],
    "listed": true,
@@ -6854,7 +6915,7 @@
     {
      "name": "LeekDuck",
      "url": "https://leekduck.com/events/pokemon-go-tour-alola-global-2027/",
-     "read": "2026-11-14T11:04:16Z"
+     "read": "2026-11-14T11:25:48Z"
     }
    ],
    "listed": true,
@@ -6981,7 +7042,7 @@
     {
      "name": "LeekDuck",
      "url": "https://leekduck.com/events/minior-showers-eta-aquariids-2027/",
-     "read": "2026-11-14T11:04:16Z"
+     "read": "2026-11-14T11:25:48Z"
     }
    ],
    "listed": true,
@@ -7124,7 +7185,7 @@
     {
      "name": "LeekDuck",
      "url": "https://leekduck.com/events/minior-showers-southern-delta-aquariids-2027/",
-     "read": "2026-11-14T11:04:16Z"
+     "read": "2026-11-14T11:25:48Z"
     }
    ],
    "listed": true,
@@ -7267,7 +7328,7 @@
     {
      "name": "LeekDuck",
      "url": "https://leekduck.com/events/minior-showers-perseids-2027/",
-     "read": "2026-11-14T11:04:16Z"
+     "read": "2026-11-14T11:25:48Z"
     }
    ],
    "listed": true,

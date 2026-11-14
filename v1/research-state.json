@@ -1,0 +1,100 @@
+{
+ "icons": {
+  "https://cdn.leekduck.com/assets/img/icons/xp.png": {
+   "etag": "\"5e8b40b19499a30fa9a45606aaec2787\"",
+   "path": "art/efca27988f2eabe34c1ef03983f4e27d.png"
+  },
+  "https://cdn.leekduck.com/assets/img/items/Golden Razz Berry.png": {
+   "etag": "\"e8d53e4a97ce61c90d471cf5e03b7f50\"",
+   "path": "art/acd7a57acab21994428980ab293400c4.png"
+  },
+  "https://cdn.leekduck.com/assets/img/items/Great Ball.png": {
+   "etag": "\"03b1d6b6683bd544fb8d3f9ffd8af558\"",
+   "path": "art/1ce32fca389db1d8aa234c6a982f0725.png"
+  },
+  "https://cdn.leekduck.com/assets/img/items/Pinap Berry.png": {
+   "etag": "\"f02feb671184aa3026f52153686cb55a\"",
+   "path": "art/506ecd9acd94449a27dfcc4129541eeb.png"
+  },
+  "https://cdn.leekduck.com/assets/img/items/Poffin.png": {
+   "etag": "\"befcf07c768614952639b969ca55f5f2\"",
+   "path": "art/8f8e1491ee1307ca8f51312505322724.png"
+  },
+  "https://cdn.leekduck.com/assets/img/items/Poke Ball.png": {
+   "etag": "\"04190467369a08fb887a0b767f4477f9\"",
+   "path": "art/ec10e1a5cc6faf5364bc40a98ff2798d.png"
+  },
+  "https://cdn.leekduck.com/assets/img/items/Rare Candy.png": {
+   "etag": "\"870f0c46846bd7b049eb02979cee0b9d\"",
+   "path": "art/31e9486f2c9cac50a3efadb5dde11d91.png"
+  },
+  "https://cdn.leekduck.com/assets/img/items/Razz Berry.png": {
+   "etag": "\"d26335ffd1d5d0318ca8e3447d6ae43e\"",
+   "path": "art/ef8ef5f4f21ff33c1385ad0902a48219.png"
+  },
+  "https://cdn.leekduck.com/assets/img/items/Remote Raid Pass.png": {
+   "etag": "\"36a6542461b0df55eda8dff0e8f53eaf\"",
+   "path": "art/fd59dccf7e36a4e3d7c50ded58e566b2.png"
+  },
+  "https://cdn.leekduck.com/assets/img/items/Silver Pinap Berry.png": {
+   "etag": "\"4084b7ee18831d69bfc1293a7b87041f\"",
+   "path": "art/83d5a65337cea6bbb168a42195889922.png"
+  },
+  "https://cdn.leekduck.com/assets/img/items/Sinnoh Stone.png": {
+   "etag": "\"49f567b7808499f10720c9f5269c432d\"",
+   "path": "art/5183c020f7b497f90fed949c92b3e828.png"
+  },
+  "https://cdn.leekduck.com/assets/img/items/Stardust.png": {
+   "etag": "\"a3909aa17bd0f163df1c1ddb2c741c4f\"",
+   "path": "art/8091724025f7c21f1479111875b9a2b4.png"
+  },
+  "https://cdn.leekduck.com/assets/img/items/Ultra Ball.png": {
+   "etag": "\"391dcb6b449f589fe2c2fa93c67a3b66\"",
+   "path": "art/d78b34b9a25cc6de363ffb231920b27c.png"
+  },
+  "https://cdn.leekduck.com/assets/img/items/Unova Stone.png": {
+   "etag": "\"ec6538939cc7c5a00116ab4440aa8db4\"",
+   "path": "art/04abba008d2b10baa48968df133f9a81.png"
+  },
+  "https://cdn.leekduck.com/assets/img/mega_energy/Aggron Mega Energy.png": {
+   "etag": "\"092b3de2afbd714171ae0a400caa0f07\"",
+   "path": "art/6998f2d8ce7e3a885a46e34a13f858f0.png"
+  },
+  "https://cdn.leekduck.com/assets/img/mega_energy/Beedrill Mega Energy.png": {
+   "etag": "\"2edf41ccc4827dcedd19079cfc3ac5d2\"",
+   "path": "art/5b6bc3ffdbd42a3a63022727b904fc75.png"
+  },
+  "https://cdn.leekduck.com/assets/img/mega_energy/Blastoise Mega Energy.png": {
+   "etag": "\"33040429b82ca05f7c2130daebe22584\"",
+   "path": "art/bcc5ffea7af12477bee7ad52f0385332.png"
+  },
+  "https://cdn.leekduck.com/assets/img/mega_energy/Blaziken Mega Energy.png": {
+   "etag": "\"54eb20a7378cc54f9feaf0c6db5ee701\"",
+   "path": "art/38a2ea1f3095f6b20244e6f77858bf33.png"
+  },
+  "https://cdn.leekduck.com/assets/img/mega_energy/Charizard Mega Energy.png": {
+   "etag": "\"439ff618802133505c677257ea7d74fe\"",
+   "path": "art/1afacdd9e42b4221e37e9d304b17c4e7.png"
+  },
+  "https://cdn.leekduck.com/assets/img/mega_energy/Manectric Mega Energy.png": {
+   "etag": "\"ca51b01688f8fc822c35528b18b1e8a7\"",
+   "path": "art/3b383e81e595322914190160ea4e4840.png"
+  },
+  "https://cdn.leekduck.com/assets/img/mega_energy/Pidgeot Mega Energy.png": {
+   "etag": "\"9888261e6cb70cfe0a70ee68380d5bcd\"",
+   "path": "art/841e05bd5a1242a81a90b57dbd9f97aa.png"
+  },
+  "https://cdn.leekduck.com/assets/img/mega_energy/Sceptile Mega Energy.png": {
+   "etag": "\"2ab9c1a42724459f275dd6c2b4a0bb6c\"",
+   "path": "art/38eff9dab9fe45c0953937cb517e9040.png"
+  },
+  "https://cdn.leekduck.com/assets/img/mega_energy/Swampert Mega Energy.png": {
+   "etag": "\"cb1366c293f9d22659d4ed5fcbb27785\"",
+   "path": "art/61d273af21fe983fa9ee0b8830483ee4.png"
+  },
+  "https://cdn.leekduck.com/assets/img/mega_energy/Venusaur Mega Energy.png": {
+   "etag": "\"14197644966b54c9eb09ae44d04ccea4\"",
+   "path": "art/9a47d8a85eb799f529a8589a510b5077.png"
+  }
+ }
+}

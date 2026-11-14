@@ -1,6 +1,6 @@
 {
  "schema": 1,
- "built": "2026-11-14T11:04:16Z",
+ "built": "2026-11-14T11:25:48Z",
  "sections": {
   "catalog": {
    "file": "catalog.json",
@@ -18,7 +18,7 @@
   },
   "research": {
    "file": "research.json",
-   "hash": "sha256-3b8d135af87f60aa019aa567d6e1c8d3b0dae280a41f3e1e3dfc01eb8617a845",
+   "hash": "sha256-ae898f657285085dcd22a3fdd79497c089324dbd7526a7adefc5b346544f1187",
    "count": 76,
    "lastGood": "2026-11-14",
    "stale": false
@@ -46,7 +46,7 @@
   },
   "events": {
    "file": "events.json",
-   "hash": "sha256-20609452957be120a30d5d24dbc09925b1ab7d6b1c2b200c12ad325778f46220",
+   "hash": "sha256-3ea6ecf61bb47c1acbf2b289627367529dc33904c6e3a611ae1a31b6d21d643c",
    "count": 46,
    "lastGood": "2026-11-14",
    "stale": false

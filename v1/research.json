@@ -129,12 +129,14 @@
       {
        "type": "item",
        "quantity": 1,
-       "name": "Golden Razz Berry"
+       "name": "Golden Razz Berry",
+       "icon": "art/acd7a57acab21994428980ab293400c4.png"
       },
       {
        "type": "item",
        "quantity": 1,
-       "name": "Silver Pinap Berry"
+       "name": "Silver Pinap Berry",
+       "icon": "art/83d5a65337cea6bbb168a42195889922.png"
       }
      ]
     },
@@ -239,22 +241,26 @@
       {
        "type": "item",
        "quantity": 3,
-       "name": "Great Ball"
+       "name": "Great Ball",
+       "icon": "art/1ce32fca389db1d8aa234c6a982f0725.png"
       },
       {
        "type": "item",
        "quantity": 5,
-       "name": "Poké Ball"
+       "name": "Poké Ball",
+       "icon": "art/ec10e1a5cc6faf5364bc40a98ff2798d.png"
       },
       {
        "type": "item",
        "quantity": 500,
-       "name": "Stardust"
+       "name": "Stardust",
+       "icon": "art/8091724025f7c21f1479111875b9a2b4.png"
       },
       {
        "type": "item",
        "quantity": 2,
-       "name": "Ultra Ball"
+       "name": "Ultra Ball",
+       "icon": "art/d78b34b9a25cc6de363ffb231920b27c.png"
       }
      ]
     },
@@ -424,12 +430,14 @@
       {
        "type": "item",
        "quantity": 1,
-       "name": "Golden Razz Berry"
+       "name": "Golden Razz Berry",
+       "icon": "art/acd7a57acab21994428980ab293400c4.png"
       },
       {
        "type": "item",
        "quantity": 1,
-       "name": "Silver Pinap Berry"
+       "name": "Silver Pinap Berry",
+       "icon": "art/83d5a65337cea6bbb168a42195889922.png"
       }
      ]
     },
@@ -534,22 +542,26 @@
       {
        "type": "item",
        "quantity": 3,
-       "name": "Great Ball"
+       "name": "Great Ball",
+       "icon": "art/1ce32fca389db1d8aa234c6a982f0725.png"
       },
       {
        "type": "item",
        "quantity": 5,
-       "name": "Poké Ball"
+       "name": "Poké Ball",
+       "icon": "art/ec10e1a5cc6faf5364bc40a98ff2798d.png"
       },
       {
        "type": "item",
        "quantity": 500,
-       "name": "Stardust"
+       "name": "Stardust",
+       "icon": "art/8091724025f7c21f1479111875b9a2b4.png"
       },
       {
        "type": "item",
        "quantity": 2,
-       "name": "Ultra Ball"
+       "name": "Ultra Ball",
+       "icon": "art/d78b34b9a25cc6de363ffb231920b27c.png"
       }
      ]
     },
@@ -666,22 +678,26 @@
       {
        "type": "item",
        "quantity": 2,
-       "name": "Golden Razz Berry"
+       "name": "Golden Razz Berry",
+       "icon": "art/acd7a57acab21994428980ab293400c4.png"
       },
       {
        "type": "item",
        "quantity": 3,
-       "name": "Rare Candy"
+       "name": "Rare Candy",
+       "icon": "art/31e9486f2c9cac50a3efadb5dde11d91.png"
       },
       {
        "type": "item",
        "quantity": 1500,
-       "name": "Stardust"
+       "name": "Stardust",
+       "icon": "art/8091724025f7c21f1479111875b9a2b4.png"
       },
       {
        "type": "item",
        "quantity": 10,
-       "name": "Ultra Ball"
+       "name": "Ultra Ball",
+       "icon": "art/d78b34b9a25cc6de363ffb231920b27c.png"
       }
      ]
     },
@@ -691,22 +707,26 @@
       {
        "type": "item",
        "quantity": 2,
-       "name": "Golden Razz Berry"
+       "name": "Golden Razz Berry",
+       "icon": "art/acd7a57acab21994428980ab293400c4.png"
       },
       {
        "type": "item",
        "quantity": 3,
-       "name": "Rare Candy"
+       "name": "Rare Candy",
+       "icon": "art/31e9486f2c9cac50a3efadb5dde11d91.png"
       },
       {
        "type": "item",
        "quantity": 1500,
-       "name": "Stardust"
+       "name": "Stardust",
+       "icon": "art/8091724025f7c21f1479111875b9a2b4.png"
       },
       {
        "type": "item",
        "quantity": 10,
-       "name": "Ultra Ball"
+       "name": "Ultra Ball",
+       "icon": "art/d78b34b9a25cc6de363ffb231920b27c.png"
       }
      ]
     },
@@ -841,22 +861,26 @@
       {
        "type": "item",
        "quantity": 1,
-       "name": "Pinap Berry"
+       "name": "Pinap Berry",
+       "icon": "art/506ecd9acd94449a27dfcc4129541eeb.png"
       },
       {
        "type": "item",
        "quantity": 5,
-       "name": "Poké Ball"
+       "name": "Poké Ball",
+       "icon": "art/ec10e1a5cc6faf5364bc40a98ff2798d.png"
       },
       {
        "type": "item",
        "quantity": 3,
-       "name": "Razz Berry"
+       "name": "Razz Berry",
+       "icon": "art/ef8ef5f4f21ff33c1385ad0902a48219.png"
       },
       {
        "type": "item",
        "quantity": 200,
-       "name": "Stardust"
+       "name": "Stardust",
+       "icon": "art/8091724025f7c21f1479111875b9a2b4.png"
       }
      ]
     },
@@ -926,32 +950,38 @@
       {
        "type": "resource",
        "quantity": 10,
-       "name": "Sceptile Mega Energy"
+       "name": "Sceptile Mega Energy",
+       "icon": "art/38eff9dab9fe45c0953937cb517e9040.png"
       },
       {
        "type": "resource",
        "quantity": 10,
-       "name": "Venusaur Mega Energy"
+       "name": "Venusaur Mega Energy",
+       "icon": "art/9a47d8a85eb799f529a8589a510b5077.png"
       },
       {
        "type": "item",
        "quantity": 5,
-       "name": "Great Ball"
+       "name": "Great Ball",
+       "icon": "art/1ce32fca389db1d8aa234c6a982f0725.png"
       },
       {
        "type": "item",
        "quantity": 2,
-       "name": "Pinap Berry"
+       "name": "Pinap Berry",
+       "icon": "art/506ecd9acd94449a27dfcc4129541eeb.png"
       },
       {
        "type": "item",
        "quantity": 6,
-       "name": "Razz Berry"
+       "name": "Razz Berry",
+       "icon": "art/ef8ef5f4f21ff33c1385ad0902a48219.png"
       },
       {
        "type": "item",
        "quantity": 500,
-       "name": "Stardust"
+       "name": "Stardust",
+       "icon": "art/8091724025f7c21f1479111875b9a2b4.png"
       }
      ]
     },
@@ -1091,32 +1121,38 @@
       {
        "type": "resource",
        "quantity": 10,
-       "name": "Blaziken Mega Energy"
+       "name": "Blaziken Mega Energy",
+       "icon": "art/38a2ea1f3095f6b20244e6f77858bf33.png"
       },
       {
        "type": "resource",
        "quantity": 10,
-       "name": "Charizard Mega Energy"
+       "name": "Charizard Mega Energy",
+       "icon": "art/1afacdd9e42b4221e37e9d304b17c4e7.png"
       },
       {
        "type": "item",
        "quantity": 5,
-       "name": "Great Ball"
+       "name": "Great Ball",
+       "icon": "art/1ce32fca389db1d8aa234c6a982f0725.png"
       },
       {
        "type": "item",
        "quantity": 2,
-       "name": "Pinap Berry"
+       "name": "Pinap Berry",
+       "icon": "art/506ecd9acd94449a27dfcc4129541eeb.png"
       },
       {
        "type": "item",
        "quantity": 6,
-       "name": "Razz Berry"
+       "name": "Razz Berry",
+       "icon": "art/ef8ef5f4f21ff33c1385ad0902a48219.png"
       },
       {
        "type": "item",
        "quantity": 500,
-       "name": "Stardust"
+       "name": "Stardust",
+       "icon": "art/8091724025f7c21f1479111875b9a2b4.png"
       }
      ]
     },
@@ -1126,32 +1162,38 @@
       {
        "type": "resource",
        "quantity": 10,
-       "name": "Blastoise Mega Energy"
+       "name": "Blastoise Mega Energy",
+       "icon": "art/bcc5ffea7af12477bee7ad52f0385332.png"
       },
       {
        "type": "resource",
        "quantity": 10,
-       "name": "Swampert Mega Energy"
+       "name": "Swampert Mega Energy",
+       "icon": "art/61d273af21fe983fa9ee0b8830483ee4.png"
       },
       {
        "type": "item",
        "quantity": 5,
-       "name": "Great Ball"
+       "name": "Great Ball",
+       "icon": "art/1ce32fca389db1d8aa234c6a982f0725.png"
       },
       {
        "type": "item",
        "quantity": 2,
-       "name": "Pinap Berry"
+       "name": "Pinap Berry",
+       "icon": "art/506ecd9acd94449a27dfcc4129541eeb.png"
       },
       {
        "type": "item",
        "quantity": 6,
-       "name": "Razz Berry"
+       "name": "Razz Berry",
+       "icon": "art/ef8ef5f4f21ff33c1385ad0902a48219.png"
       },
       {
        "type": "item",
        "quantity": 500,
-       "name": "Stardust"
+       "name": "Stardust",
+       "icon": "art/8091724025f7c21f1479111875b9a2b4.png"
       }
      ]
     },
@@ -1161,27 +1203,32 @@
       {
        "type": "resource",
        "quantity": 10,
-       "name": "Pidgeot Mega Energy"
+       "name": "Pidgeot Mega Energy",
+       "icon": "art/841e05bd5a1242a81a90b57dbd9f97aa.png"
       },
       {
        "type": "item",
        "quantity": 5,
-       "name": "Great Ball"
+       "name": "Great Ball",
+       "icon": "art/1ce32fca389db1d8aa234c6a982f0725.png"
       },
       {
        "type": "item",
        "quantity": 2,
-       "name": "Pinap Berry"
+       "name": "Pinap Berry",
+       "icon": "art/506ecd9acd94449a27dfcc4129541eeb.png"
       },
       {
        "type": "item",
        "quantity": 6,
-       "name": "Razz Berry"
+       "name": "Razz Berry",
+       "icon": "art/ef8ef5f4f21ff33c1385ad0902a48219.png"
       },
       {
        "type": "item",
        "quantity": 500,
-       "name": "Stardust"
+       "name": "Stardust",
+       "icon": "art/8091724025f7c21f1479111875b9a2b4.png"
       }
      ]
     },
@@ -1261,22 +1308,26 @@
       {
        "type": "item",
        "quantity": 1,
-       "name": "Pinap Berry"
+       "name": "Pinap Berry",
+       "icon": "art/506ecd9acd94449a27dfcc4129541eeb.png"
       },
       {
        "type": "item",
        "quantity": 5,
-       "name": "Poké Ball"
+       "name": "Poké Ball",
+       "icon": "art/ec10e1a5cc6faf5364bc40a98ff2798d.png"
       },
       {
        "type": "item",
        "quantity": 3,
-       "name": "Razz Berry"
+       "name": "Razz Berry",
+       "icon": "art/ef8ef5f4f21ff33c1385ad0902a48219.png"
       },
       {
        "type": "item",
        "quantity": 200,
-       "name": "Stardust"
+       "name": "Stardust",
+       "icon": "art/8091724025f7c21f1479111875b9a2b4.png"
       }
      ]
     },
@@ -1286,22 +1337,26 @@
       {
        "type": "item",
        "quantity": 5,
-       "name": "Great Ball"
+       "name": "Great Ball",
+       "icon": "art/1ce32fca389db1d8aa234c6a982f0725.png"
       },
       {
        "type": "item",
        "quantity": 2,
-       "name": "Pinap Berry"
+       "name": "Pinap Berry",
+       "icon": "art/506ecd9acd94449a27dfcc4129541eeb.png"
       },
       {
        "type": "item",
        "quantity": 6,
-       "name": "Razz Berry"
+       "name": "Razz Berry",
+       "icon": "art/ef8ef5f4f21ff33c1385ad0902a48219.png"
       },
       {
        "type": "item",
        "quantity": 500,
-       "name": "Stardust"
+       "name": "Stardust",
+       "icon": "art/8091724025f7c21f1479111875b9a2b4.png"
       }
      ]
     },
@@ -1311,7 +1366,8 @@
       {
        "type": "item",
        "quantity": 1,
-       "name": "Rare Candy"
+       "name": "Rare Candy",
+       "icon": "art/31e9486f2c9cac50a3efadb5dde11d91.png"
       }
      ]
     },
@@ -1321,7 +1377,8 @@
       {
        "type": "item",
        "quantity": 1,
-       "name": "Poffin"
+       "name": "Poffin",
+       "icon": "art/8f8e1491ee1307ca8f51312505322724.png"
       }
      ]
     },
@@ -1331,22 +1388,26 @@
       {
        "type": "item",
        "quantity": 5,
-       "name": "Great Ball"
+       "name": "Great Ball",
+       "icon": "art/1ce32fca389db1d8aa234c6a982f0725.png"
       },
       {
        "type": "item",
        "quantity": 2,
-       "name": "Pinap Berry"
+       "name": "Pinap Berry",
+       "icon": "art/506ecd9acd94449a27dfcc4129541eeb.png"
       },
       {
        "type": "item",
        "quantity": 6,
-       "name": "Razz Berry"
+       "name": "Razz Berry",
+       "icon": "art/ef8ef5f4f21ff33c1385ad0902a48219.png"
       },
       {
        "type": "item",
        "quantity": 500,
-       "name": "Stardust"
+       "name": "Stardust",
+       "icon": "art/8091724025f7c21f1479111875b9a2b4.png"
       }
      ]
     }
@@ -1588,22 +1649,26 @@
       {
        "type": "item",
        "quantity": 1,
-       "name": "Pinap Berry"
+       "name": "Pinap Berry",
+       "icon": "art/506ecd9acd94449a27dfcc4129541eeb.png"
       },
       {
        "type": "item",
        "quantity": 5,
-       "name": "Poké Ball"
+       "name": "Poké Ball",
+       "icon": "art/ec10e1a5cc6faf5364bc40a98ff2798d.png"
       },
       {
        "type": "item",
        "quantity": 3,
-       "name": "Razz Berry"
+       "name": "Razz Berry",
+       "icon": "art/ef8ef5f4f21ff33c1385ad0902a48219.png"
       },
       {
        "type": "item",
        "quantity": 200,
-       "name": "Stardust"
+       "name": "Stardust",
+       "icon": "art/8091724025f7c21f1479111875b9a2b4.png"
       }
      ]
     },
@@ -1648,32 +1713,38 @@
       {
        "type": "item",
        "quantity": 3,
-       "name": "Pinap Berry"
+       "name": "Pinap Berry",
+       "icon": "art/506ecd9acd94449a27dfcc4129541eeb.png"
       },
       {
        "type": "item",
        "quantity": 10,
-       "name": "Poké Ball"
+       "name": "Poké Ball",
+       "icon": "art/ec10e1a5cc6faf5364bc40a98ff2798d.png"
       },
       {
        "type": "item",
        "quantity": 1,
-       "name": "Rare Candy"
+       "name": "Rare Candy",
+       "icon": "art/31e9486f2c9cac50a3efadb5dde11d91.png"
       },
       {
        "type": "item",
        "quantity": 9,
-       "name": "Razz Berry"
+       "name": "Razz Berry",
+       "icon": "art/ef8ef5f4f21ff33c1385ad0902a48219.png"
       },
       {
        "type": "item",
        "quantity": 1000,
-       "name": "Stardust"
+       "name": "Stardust",
+       "icon": "art/8091724025f7c21f1479111875b9a2b4.png"
       },
       {
        "type": "item",
        "quantity": 5,
-       "name": "Ultra Ball"
+       "name": "Ultra Ball",
+       "icon": "art/d78b34b9a25cc6de363ffb231920b27c.png"
       }
      ]
     },
@@ -1683,22 +1754,26 @@
       {
        "type": "item",
        "quantity": 2,
-       "name": "Golden Razz Berry"
+       "name": "Golden Razz Berry",
+       "icon": "art/acd7a57acab21994428980ab293400c4.png"
       },
       {
        "type": "item",
        "quantity": 3,
-       "name": "Rare Candy"
+       "name": "Rare Candy",
+       "icon": "art/31e9486f2c9cac50a3efadb5dde11d91.png"
       },
       {
        "type": "item",
        "quantity": 1500,
-       "name": "Stardust"
+       "name": "Stardust",
+       "icon": "art/8091724025f7c21f1479111875b9a2b4.png"
       },
       {
        "type": "item",
        "quantity": 10,
-       "name": "Ultra Ball"
+       "name": "Ultra Ball",
+       "icon": "art/d78b34b9a25cc6de363ffb231920b27c.png"
       }
      ]
     },
@@ -1758,22 +1833,26 @@
       {
        "type": "item",
        "quantity": 1,
-       "name": "Pinap Berry"
+       "name": "Pinap Berry",
+       "icon": "art/506ecd9acd94449a27dfcc4129541eeb.png"
       },
       {
        "type": "item",
        "quantity": 5,
-       "name": "Poké Ball"
+       "name": "Poké Ball",
+       "icon": "art/ec10e1a5cc6faf5364bc40a98ff2798d.png"
       },
       {
        "type": "item",
        "quantity": 3,
-       "name": "Razz Berry"
+       "name": "Razz Berry",
+       "icon": "art/ef8ef5f4f21ff33c1385ad0902a48219.png"
       },
       {
        "type": "item",
        "quantity": 200,
-       "name": "Stardust"
+       "name": "Stardust",
+       "icon": "art/8091724025f7c21f1479111875b9a2b4.png"
       }
      ]
     },
@@ -1803,32 +1882,38 @@
       {
        "type": "item",
        "quantity": 3,
-       "name": "Pinap Berry"
+       "name": "Pinap Berry",
+       "icon": "art/506ecd9acd94449a27dfcc4129541eeb.png"
       },
       {
        "type": "item",
        "quantity": 10,
-       "name": "Poké Ball"
+       "name": "Poké Ball",
+       "icon": "art/ec10e1a5cc6faf5364bc40a98ff2798d.png"
       },
       {
        "type": "item",
        "quantity": 1,
-       "name": "Rare Candy"
+       "name": "Rare Candy",
+       "icon": "art/31e9486f2c9cac50a3efadb5dde11d91.png"
       },
       {
        "type": "item",
        "quantity": 9,
-       "name": "Razz Berry"
+       "name": "Razz Berry",
+       "icon": "art/ef8ef5f4f21ff33c1385ad0902a48219.png"
       },
       {
        "type": "item",
        "quantity": 1000,
-       "name": "Stardust"
+       "name": "Stardust",
+       "icon": "art/8091724025f7c21f1479111875b9a2b4.png"
       },
       {
        "type": "item",
        "quantity": 5,
-       "name": "Ultra Ball"
+       "name": "Ultra Ball",
+       "icon": "art/d78b34b9a25cc6de363ffb231920b27c.png"
       }
      ]
     },
@@ -1838,22 +1923,26 @@
       {
        "type": "item",
        "quantity": 5,
-       "name": "Great Ball"
+       "name": "Great Ball",
+       "icon": "art/1ce32fca389db1d8aa234c6a982f0725.png"
       },
       {
        "type": "item",
        "quantity": 2,
-       "name": "Pinap Berry"
+       "name": "Pinap Berry",
+       "icon": "art/506ecd9acd94449a27dfcc4129541eeb.png"
       },
       {
        "type": "item",
        "quantity": 500,
-       "name": "Stardust"
+       "name": "Stardust",
+       "icon": "art/8091724025f7c21f1479111875b9a2b4.png"
       },
       {
        "type": "item",
        "quantity": 2,
-       "name": "Ultra Ball"
+       "name": "Ultra Ball",
+       "icon": "art/d78b34b9a25cc6de363ffb231920b27c.png"
       }
      ]
     },
@@ -1863,22 +1952,26 @@
       {
        "type": "item",
        "quantity": 5,
-       "name": "Great Ball"
+       "name": "Great Ball",
+       "icon": "art/1ce32fca389db1d8aa234c6a982f0725.png"
       },
       {
        "type": "item",
        "quantity": 2,
-       "name": "Pinap Berry"
+       "name": "Pinap Berry",
+       "icon": "art/506ecd9acd94449a27dfcc4129541eeb.png"
       },
       {
        "type": "item",
        "quantity": 6,
-       "name": "Razz Berry"
+       "name": "Razz Berry",
+       "icon": "art/ef8ef5f4f21ff33c1385ad0902a48219.png"
       },
       {
        "type": "item",
        "quantity": 500,
-       "name": "Stardust"
+       "name": "Stardust",
+       "icon": "art/8091724025f7c21f1479111875b9a2b4.png"
       }
      ]
     },
@@ -1943,22 +2036,26 @@
       {
        "type": "item",
        "quantity": 1,
-       "name": "Pinap Berry"
+       "name": "Pinap Berry",
+       "icon": "art/506ecd9acd94449a27dfcc4129541eeb.png"
       },
       {
        "type": "item",
        "quantity": 5,
-       "name": "Poké Ball"
+       "name": "Poké Ball",
+       "icon": "art/ec10e1a5cc6faf5364bc40a98ff2798d.png"
       },
       {
        "type": "item",
        "quantity": 3,
-       "name": "Razz Berry"
+       "name": "Razz Berry",
+       "icon": "art/ef8ef5f4f21ff33c1385ad0902a48219.png"
       },
       {
        "type": "item",
        "quantity": 200,
-       "name": "Stardust"
+       "name": "Stardust",
+       "icon": "art/8091724025f7c21f1479111875b9a2b4.png"
       }
      ]
     },
@@ -1968,22 +2065,26 @@
       {
        "type": "item",
        "quantity": 5,
-       "name": "Great Ball"
+       "name": "Great Ball",
+       "icon": "art/1ce32fca389db1d8aa234c6a982f0725.png"
       },
       {
        "type": "item",
        "quantity": 2,
-       "name": "Pinap Berry"
+       "name": "Pinap Berry",
+       "icon": "art/506ecd9acd94449a27dfcc4129541eeb.png"
       },
       {
        "type": "item",
        "quantity": 500,
-       "name": "Stardust"
+       "name": "Stardust",
+       "icon": "art/8091724025f7c21f1479111875b9a2b4.png"
       },
       {
        "type": "item",
        "quantity": 2,
-       "name": "Ultra Ball"
+       "name": "Ultra Ball",
+       "icon": "art/d78b34b9a25cc6de363ffb231920b27c.png"
       }
      ]
     }
@@ -2000,7 +2101,8 @@
       {
        "type": "item",
        "quantity": 1,
-       "name": "Rare Candy"
+       "name": "Rare Candy",
+       "icon": "art/31e9486f2c9cac50a3efadb5dde11d91.png"
       }
      ]
     },
@@ -2135,7 +2237,8 @@
       {
        "type": "item",
        "quantity": 1,
-       "name": "Poffin"
+       "name": "Poffin",
+       "icon": "art/8f8e1491ee1307ca8f51312505322724.png"
       }
      ]
     },
@@ -2205,7 +2308,8 @@
       {
        "type": "item",
        "quantity": 1000,
-       "name": "Stardust"
+       "name": "Stardust",
+       "icon": "art/8091724025f7c21f1479111875b9a2b4.png"
       }
      ]
     }
@@ -2222,7 +2326,8 @@
       {
        "type": "item",
        "quantity": 1,
-       "name": "Silver Pinap Berry"
+       "name": "Silver Pinap Berry",
+       "icon": "art/83d5a65337cea6bbb168a42195889922.png"
       }
      ]
     },
@@ -2232,7 +2337,8 @@
       {
        "type": "item",
        "quantity": 1,
-       "name": "Golden Razz Berry"
+       "name": "Golden Razz Berry",
+       "icon": "art/acd7a57acab21994428980ab293400c4.png"
       }
      ]
     },
@@ -2522,7 +2628,8 @@
       {
        "type": "item",
        "quantity": 1,
-       "name": "Rare Candy"
+       "name": "Rare Candy",
+       "icon": "art/31e9486f2c9cac50a3efadb5dde11d91.png"
       }
      ]
     },
@@ -2532,7 +2639,8 @@
       {
        "type": "item",
        "quantity": 1,
-       "name": "Poffin"
+       "name": "Poffin",
+       "icon": "art/8f8e1491ee1307ca8f51312505322724.png"
       }
      ]
     },
@@ -2582,22 +2690,26 @@
       {
        "type": "item",
        "quantity": 5,
-       "name": "Great Ball"
+       "name": "Great Ball",
+       "icon": "art/1ce32fca389db1d8aa234c6a982f0725.png"
       },
       {
        "type": "item",
        "quantity": 2,
-       "name": "Pinap Berry"
+       "name": "Pinap Berry",
+       "icon": "art/506ecd9acd94449a27dfcc4129541eeb.png"
       },
       {
        "type": "item",
        "quantity": 6,
-       "name": "Razz Berry"
+       "name": "Razz Berry",
+       "icon": "art/ef8ef5f4f21ff33c1385ad0902a48219.png"
       },
       {
        "type": "item",
        "quantity": 500,
-       "name": "Stardust"
+       "name": "Stardust",
+       "icon": "art/8091724025f7c21f1479111875b9a2b4.png"
       }
      ]
     },
@@ -2954,7 +3066,8 @@
       {
        "type": "item",
        "quantity": 3,
-       "name": "Rare Candy"
+       "name": "Rare Candy",
+       "icon": "art/31e9486f2c9cac50a3efadb5dde11d91.png"
       }
      ]
     },
@@ -3029,37 +3142,44 @@
       {
        "type": "resource",
        "quantity": 10,
-       "name": "Aggron Mega Energy"
+       "name": "Aggron Mega Energy",
+       "icon": "art/6998f2d8ce7e3a885a46e34a13f858f0.png"
       },
       {
        "type": "resource",
        "quantity": 10,
-       "name": "Beedrill Mega Energy"
+       "name": "Beedrill Mega Energy",
+       "icon": "art/5b6bc3ffdbd42a3a63022727b904fc75.png"
       },
       {
        "type": "resource",
        "quantity": 10,
-       "name": "Blastoise Mega Energy"
+       "name": "Blastoise Mega Energy",
+       "icon": "art/bcc5ffea7af12477bee7ad52f0385332.png"
       },
       {
        "type": "resource",
        "quantity": 10,
-       "name": "Charizard Mega Energy"
+       "name": "Charizard Mega Energy",
+       "icon": "art/1afacdd9e42b4221e37e9d304b17c4e7.png"
       },
       {
        "type": "resource",
        "quantity": 10,
-       "name": "Manectric Mega Energy"
+       "name": "Manectric Mega Energy",
+       "icon": "art/3b383e81e595322914190160ea4e4840.png"
       },
       {
        "type": "resource",
        "quantity": 10,
-       "name": "Pidgeot Mega Energy"
+       "name": "Pidgeot Mega Energy",
+       "icon": "art/841e05bd5a1242a81a90b57dbd9f97aa.png"
       },
       {
        "type": "resource",
        "quantity": 10,
-       "name": "Venusaur Mega Energy"
+       "name": "Venusaur Mega Energy",
+       "icon": "art/9a47d8a85eb799f529a8589a510b5077.png"
       }
      ]
     },
@@ -3340,12 +3460,14 @@
       {
        "type": "item",
        "quantity": 1,
-       "name": "Rare Candy"
+       "name": "Rare Candy",
+       "icon": "art/31e9486f2c9cac50a3efadb5dde11d91.png"
       },
       {
        "type": "item",
        "quantity": 1000,
-       "name": "Stardust"
+       "name": "Stardust",
+       "icon": "art/8091724025f7c21f1479111875b9a2b4.png"
       }
      ]
     },
@@ -3355,12 +3477,14 @@
       {
        "type": "item",
        "quantity": 1,
-       "name": "Rare Candy"
+       "name": "Rare Candy",
+       "icon": "art/31e9486f2c9cac50a3efadb5dde11d91.png"
       },
       {
        "type": "item",
        "quantity": 1000,
-       "name": "Stardust"
+       "name": "Stardust",
+       "icon": "art/8091724025f7c21f1479111875b9a2b4.png"
       }
      ]
     }
@@ -4045,41 +4169,50 @@
   "items": [
    {
     "name": "XP",
-    "quantity": 2000
+    "quantity": 2000,
+    "icon": "art/efca27988f2eabe34c1ef03983f4e27d.png"
    },
    {
     "name": "Stardust",
-    "quantity": 3000
+    "quantity": 3000,
+    "icon": "art/8091724025f7c21f1479111875b9a2b4.png"
    }
   ],
   "oneOf": [
    {
     "name": "Poké Ball",
-    "quantity": 20
+    "quantity": 20,
+    "icon": "art/ec10e1a5cc6faf5364bc40a98ff2798d.png"
    },
    {
     "name": "Ultra Ball",
-    "quantity": 5
+    "quantity": 5,
+    "icon": "art/d78b34b9a25cc6de363ffb231920b27c.png"
    },
    {
     "name": "Pinap Berry",
-    "quantity": 5
+    "quantity": 5,
+    "icon": "art/506ecd9acd94449a27dfcc4129541eeb.png"
    },
    {
     "name": "Rare Candy",
-    "quantity": 3
+    "quantity": 3,
+    "icon": "art/31e9486f2c9cac50a3efadb5dde11d91.png"
    },
    {
     "name": "Sinnoh Stone",
-    "quantity": 1
+    "quantity": 1,
+    "icon": "art/5183c020f7b497f90fed949c92b3e828.png"
    },
    {
     "name": "Unova Stone",
-    "quantity": 1
+    "quantity": 1,
+    "icon": "art/04abba008d2b10baa48968df133f9a81.png"
    },
    {
     "name": "Remote Raid Pass",
-    "quantity": 1
+    "quantity": 1,
+    "icon": "art/fd59dccf7e36a4e3d7c50ded58e566b2.png"
    }
   ],
   "note": "* Must have fewer than three (3) Remote Raid Passes when claiming, otherwise you will get a Premium Battle Pass instead of a Remote Raid Pass."
