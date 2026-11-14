@@ -3031,250 +3031,6 @@
       "value": "Complete Field Research to unlock Research Breakthrough encounters with one of a variety of Season-themed Pokémon. Find out where your trail leads you each week!",
       "ja": null
      }
-    },
-    "events:14462135.group.f8fa73:8df3e3f0a837": {
-     "item": {
-      "id": "events:14462135.group.f8fa73:8df3e3f0a837",
-      "kind": "auto-read",
-      "held": false,
-      "origin": {
-       "id": "page:season-24-twilight-trails",
-       "title": "Twilight Trails",
-       "note": "The event's own page, read by two models"
-      },
-      "field": "In 2 km Eggs",
-      "order": 8,
-      "answerFormat": "names",
-      "answerHint": "Names, separated by ;",
-      "readings": [
-       {
-        "who": "Both models",
-        "value": "Elekid; Magby; Azurill",
-        "quote": "In 2 km Eggs",
-        "url": "https://leekduck.com/events/season-24-twilight-trails/"
-       }
-      ],
-      "value": "Elekid; Magby; Azurill"
-     },
-     "meta": {
-      "source": "events:14462135.group.f8fa73:8df3e3f0a837",
-      "value": [
-       "Elekid",
-       "Magby",
-       "Azurill"
-      ],
-      "ja": null
-     }
-    },
-    "events:14462135.group.008477:2e2ae466f8fd": {
-     "item": {
-      "id": "events:14462135.group.008477:2e2ae466f8fd",
-      "kind": "auto-read",
-      "held": false,
-      "origin": {
-       "id": "page:season-24-twilight-trails",
-       "title": "Twilight Trails",
-       "note": "The event's own page, read by two models"
-      },
-      "field": "In 5 km Eggs",
-      "order": 9,
-      "answerFormat": "names",
-      "answerHint": "Names, separated by ;",
-      "readings": [
-       {
-        "who": "Both models",
-        "value": "Mime Jr.; Munchlax; Larvesta; Sizzlipede; Snom; Indeedee (Male); Indeedee (Female); Fidough; Maschiff",
-        "quote": "In 5 km Eggs",
-        "url": "https://leekduck.com/events/season-24-twilight-trails/"
-       }
-      ],
-      "value": "Mime Jr.; Munchlax; Larvesta; Sizzlipede; Snom; Indeedee (Male); Indeedee (Female); Fidough; Maschiff"
-     },
-     "meta": {
-      "source": "events:14462135.group.008477:2e2ae466f8fd",
-      "value": [
-       "Mime Jr.",
-       "Munchlax",
-       "Larvesta",
-       "Sizzlipede",
-       "Snom",
-       "Indeedee (Male)",
-       "Indeedee (Female)",
-       "Fidough",
-       "Maschiff"
-      ],
-      "ja": null
-     }
-    },
-    "events:14462135.group.412697:97f6dcf1d8d4": {
-     "item": {
-      "id": "events:14462135.group.412697:97f6dcf1d8d4",
-      "kind": "auto-read",
-      "held": false,
-      "origin": {
-       "id": "page:season-24-twilight-trails",
-       "title": "Twilight Trails",
-       "note": "The event's own page, read by two models"
-      },
-      "field": "In 5 km Eggs from Adventure Sync Rewards",
-      "order": 10,
-      "answerFormat": "names",
-      "answerHint": "Names, separated by ;",
-      "readings": [
-       {
-        "who": "Both models",
-        "value": "Tyrogue; Sableye; Budew",
-        "quote": "In 5 km Eggs from Adventure Sync Rewards",
-        "url": "https://leekduck.com/events/season-24-twilight-trails/"
-       }
-      ],
-      "value": "Tyrogue; Sableye; Budew"
-     },
-     "meta": {
-      "source": "events:14462135.group.412697:97f6dcf1d8d4",
-      "value": [
-       "Tyrogue",
-       "Sableye",
-       "Budew"
-      ],
-      "ja": null
-     }
-    },
-    "events:14462135.group.564b42:0e0f21587e41": {
-     "item": {
-      "id": "events:14462135.group.564b42:0e0f21587e41",
-      "kind": "auto-read",
-      "held": false,
-      "origin": {
-       "id": "page:season-24-twilight-trails",
-       "title": "Twilight Trails",
-       "note": "The event's own page, read by two models"
-      },
-      "field": "In 7 km Eggs",
-      "order": 11,
-      "answerFormat": "names",
-      "answerHint": "Names, separated by ;",
-      "readings": [
-       {
-        "who": "Both models",
-        "value": "Galarian Meowth; Galarian Zigzagoon; Galarian Stunfisk",
-        "quote": "In 7 km Eggs",
-        "url": "https://leekduck.com/events/season-24-twilight-trails/"
-       }
-      ],
-      "value": "Galarian Meowth; Galarian Zigzagoon; Galarian Stunfisk"
-     },
-     "meta": {
-      "source": "events:14462135.group.564b42:0e0f21587e41",
-      "value": [
-       "Galarian Meowth",
-       "Galarian Zigzagoon",
-       "Galarian Stunfisk"
-      ],
-      "ja": null
-     }
-    },
-    "events:14462135.group.877d13:65dbb8326c91": {
-     "item": {
-      "id": "events:14462135.group.877d13:65dbb8326c91",
-      "kind": "auto-read",
-      "held": false,
-      "origin": {
-       "id": "page:season-24-twilight-trails",
-       "title": "Twilight Trails",
-       "note": "The event's own page, read by two models"
-      },
-      "field": "In 7 km Eggs From Route Rewards",
-      "order": 12,
-      "answerFormat": "names",
-      "answerHint": "Names, separated by ;",
-      "readings": [
-       {
-        "who": "Both models",
-        "value": "Galarian Slowpoke; Hisuian Sneasel; Galarian Corsola",
-        "quote": "In 7 km Eggs From Route Rewards",
-        "url": "https://leekduck.com/events/season-24-twilight-trails/"
-       }
-      ],
-      "value": "Galarian Slowpoke; Hisuian Sneasel; Galarian Corsola"
-     },
-     "meta": {
-      "source": "events:14462135.group.877d13:65dbb8326c91",
-      "value": [
-       "Galarian Slowpoke",
-       "Hisuian Sneasel",
-       "Galarian Corsola"
-      ],
-      "ja": null
-     }
-    },
-    "events:14462135.group.3cb72b:c2c721d95a36": {
-     "item": {
-      "id": "events:14462135.group.3cb72b:c2c721d95a36",
-      "kind": "auto-read",
-      "held": false,
-      "origin": {
-       "id": "page:season-24-twilight-trails",
-       "title": "Twilight Trails",
-       "note": "The event's own page, read by two models"
-      },
-      "field": "In 10 km Eggs",
-      "order": 13,
-      "answerFormat": "names",
-      "answerHint": "Names, separated by ;",
-      "readings": [
-       {
-        "who": "Both models",
-        "value": "Dratini; Honedge; Impidimp",
-        "quote": "In 10 km Eggs",
-        "url": "https://leekduck.com/events/season-24-twilight-trails/"
-       }
-      ],
-      "value": "Dratini; Honedge; Impidimp"
-     },
-     "meta": {
-      "source": "events:14462135.group.3cb72b:c2c721d95a36",
-      "value": [
-       "Dratini",
-       "Honedge",
-       "Impidimp"
-      ],
-      "ja": null
-     }
-    },
-    "events:14462135.group.7a3380:39d532b091e6": {
-     "item": {
-      "id": "events:14462135.group.7a3380:39d532b091e6",
-      "kind": "auto-read",
-      "held": false,
-      "origin": {
-       "id": "page:season-24-twilight-trails",
-       "title": "Twilight Trails",
-       "note": "The event's own page, read by two models"
-      },
-      "field": "In 10 km Eggs from Adventure Sync Rewards",
-      "order": 14,
-      "answerFormat": "names",
-      "answerHint": "Names, separated by ;",
-      "readings": [
-       {
-        "who": "Both models",
-        "value": "Bagon; Druddigon; Drampa",
-        "quote": "In 10 km Eggs from Adventure Sync Rewards",
-        "url": "https://leekduck.com/events/season-24-twilight-trails/"
-       }
-      ],
-      "value": "Bagon; Druddigon; Drampa"
-     },
-     "meta": {
-      "source": "events:14462135.group.7a3380:39d532b091e6",
-      "value": [
-       "Bagon",
-       "Druddigon",
-       "Drampa"
-      ],
-      "ja": null
-     }
     }
    },
    "open": [
@@ -3283,14 +3039,7 @@
     "events:14462135.debut.dynamax:c7f8af117783",
     "events:14462135.rule.2d9226:a47b48f2e628",
     "events:14462135.rule.f3346c:0a7ce4bf4ff9",
-    "events:14462135.rule.4b1eb9:18efd071afce",
-    "events:14462135.group.f8fa73:8df3e3f0a837",
-    "events:14462135.group.008477:2e2ae466f8fd",
-    "events:14462135.group.412697:97f6dcf1d8d4",
-    "events:14462135.group.564b42:0e0f21587e41",
-    "events:14462135.group.877d13:65dbb8326c91",
-    "events:14462135.group.3cb72b:c2c721d95a36",
-    "events:14462135.group.7a3380:39d532b091e6"
+    "events:14462135.rule.4b1eb9:18efd071afce"
    ]
   },
   "go-pass-november-2026": {
@@ -6514,28 +6263,28 @@
      "shiny": true
     },
     {
-     "group": "Eggs",
+     "group": "10 km Eggs",
      "name": "Honedge",
      "written": "Honedge",
      "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_679_00.png",
      "shiny": true
     },
     {
-     "group": "Eggs",
+     "group": "10 km Eggs",
      "name": "Klefki",
      "written": "Klefki",
      "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_707_00.png",
      "shiny": true
     },
     {
-     "group": "Eggs",
+     "group": "10 km Eggs",
      "name": "Drampa",
      "written": "Drampa",
      "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm780.icon.png",
      "shiny": true
     },
     {
-     "group": "Eggs",
+     "group": "10 km Eggs",
      "name": "Duraludon",
      "written": "Duraludon",
      "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm884.icon.png",
@@ -8303,189 +8052,189 @@
    "research": [],
    "pokemon": [
     {
-     "group": "Eggs",
+     "group": "In 2 km Eggs",
      "name": "Elekid",
      "written": "Elekid",
      "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_239_00.png",
      "shiny": true
     },
     {
-     "group": "Eggs",
+     "group": "In 2 km Eggs",
      "name": "Magby",
      "written": "Magby",
      "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_240_00.png",
      "shiny": true
     },
     {
-     "group": "Eggs",
+     "group": "In 2 km Eggs",
      "name": "Azurill",
      "written": "Azurill",
      "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_298_00.png",
      "shiny": true
     },
     {
-     "group": "Eggs",
+     "group": "In 5 km Eggs",
      "name": "Mime Jr.",
      "written": "Mime Jr.",
      "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_439_00.png",
      "shiny": true
     },
     {
-     "group": "Eggs",
+     "group": "In 5 km Eggs",
      "name": "Munchlax",
      "written": "Munchlax",
      "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_446_00.png",
      "shiny": true
     },
     {
-     "group": "Eggs",
+     "group": "In 5 km Eggs",
      "name": "Larvesta",
      "written": "Larvesta",
      "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm636.icon.png",
      "shiny": true
     },
     {
-     "group": "Eggs",
+     "group": "In 5 km Eggs",
      "name": "Sizzlipede",
      "written": "Sizzlipede",
      "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm850.icon.png",
      "shiny": true
     },
     {
-     "group": "Eggs",
+     "group": "In 5 km Eggs",
      "name": "Snom",
      "written": "Snom",
      "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm872.icon.png",
      "shiny": true
     },
     {
-     "group": "Eggs",
+     "group": "In 5 km Eggs",
      "name": "Indeedee (Male)",
      "written": "Indeedee (Male)",
      "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm876.fMALE.icon.png?v2",
      "shiny": true
     },
     {
-     "group": "Eggs",
+     "group": "In 5 km Eggs",
      "name": "Indeedee (Female)",
      "written": "Indeedee (Female)",
      "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm876.fFEMALE.icon.png?v2",
      "shiny": true
     },
     {
-     "group": "Eggs",
+     "group": "In 5 km Eggs",
      "name": "Fidough",
      "written": "Fidough",
      "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm926.icon.png",
      "shiny": true
     },
     {
-     "group": "Eggs",
+     "group": "In 5 km Eggs",
      "name": "Maschiff",
      "written": "Maschiff",
      "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/Maschiff.png",
      "shiny": false
     },
     {
-     "group": "Eggs",
+     "group": "In 5 km Eggs from Adventure Sync Rewards",
      "name": "Tyrogue",
      "written": "Tyrogue",
      "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_236_00.png",
      "shiny": true
     },
     {
-     "group": "Eggs",
+     "group": "In 5 km Eggs from Adventure Sync Rewards",
      "name": "Sableye",
      "written": "Sableye",
      "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_302_00.png",
      "shiny": true
     },
     {
-     "group": "Eggs",
+     "group": "In 5 km Eggs from Adventure Sync Rewards",
      "name": "Budew",
      "written": "Budew",
      "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_406_00.png",
      "shiny": true
     },
     {
-     "group": "Eggs",
+     "group": "In 7 km Eggs",
      "name": "Galarian Meowth",
      "written": "Galarian Meowth",
      "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_052_31.png",
      "shiny": true
     },
     {
-     "group": "Eggs",
+     "group": "In 7 km Eggs",
      "name": "Galarian Zigzagoon",
      "written": "Galarian Zigzagoon",
      "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_263_31.png",
      "shiny": true
     },
     {
-     "group": "Eggs",
+     "group": "In 7 km Eggs",
      "name": "Galarian Stunfisk",
      "written": "Galarian Stunfisk",
      "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_618_31.png",
      "shiny": false
     },
     {
-     "group": "Eggs",
+     "group": "In 7 km Eggs From Route Rewards",
      "name": "Galarian Slowpoke",
      "written": "Galarian Slowpoke",
      "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_079_31.png",
      "shiny": true
     },
     {
-     "group": "Eggs",
+     "group": "In 7 km Eggs From Route Rewards",
      "name": "Hisuian Sneasel",
      "written": "Hisuian Sneasel",
      "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm215.fHISUIAN.icon.png",
      "shiny": true
     },
     {
-     "group": "Eggs",
+     "group": "In 7 km Eggs From Route Rewards",
      "name": "Galarian Corsola",
      "written": "Galarian Corsola",
      "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm222.fGALARIAN.icon.png",
      "shiny": true
     },
     {
-     "group": "Eggs",
+     "group": "In 10 km Eggs",
      "name": "Dratini",
      "written": "Dratini",
      "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_147_00.png",
      "shiny": true
     },
     {
-     "group": "Eggs",
+     "group": "In 10 km Eggs",
      "name": "Honedge",
      "written": "Honedge",
      "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_679_00.png",
      "shiny": true
     },
     {
-     "group": "Eggs",
+     "group": "In 10 km Eggs",
      "name": "Impidimp",
      "written": "Impidimp",
      "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm859.icon.png",
      "shiny": true
     },
     {
-     "group": "Eggs",
+     "group": "In 10 km Eggs from Adventure Sync Rewards",
      "name": "Bagon",
      "written": "Bagon",
      "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_371_00.png",
      "shiny": true
     },
     {
-     "group": "Eggs",
+     "group": "In 10 km Eggs from Adventure Sync Rewards",
      "name": "Druddigon",
      "written": "Druddigon",
      "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_621_00.png",
      "shiny": true
     },
     {
-     "group": "Eggs",
+     "group": "In 10 km Eggs from Adventure Sync Rewards",
      "name": "Drampa",
      "written": "Drampa",
      "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm780.icon.png",

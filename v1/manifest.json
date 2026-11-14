@@ -1,6 +1,6 @@
 {
  "schema": 1,
- "built": "2026-11-14T10:30:36Z",
+ "built": "2026-11-14T11:04:16Z",
  "sections": {
   "catalog": {
    "file": "catalog.json",
@@ -46,7 +46,7 @@
   },
   "events": {
    "file": "events.json",
-   "hash": "sha256-400bc378fff5229ee4a50668e604c879f42d06c22d034ef5098377d4dd16ab5c",
+   "hash": "sha256-20609452957be120a30d5d24dbc09925b1ab7d6b1c2b200c12ad325778f46220",
    "count": 46,
    "lastGood": "2026-11-14",
    "stale": false
