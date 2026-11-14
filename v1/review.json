@@ -1,6 +1,6 @@
 {
  "schema": 1,
- "built": "2026-11-14T10:08:07Z",
+ "built": "2026-11-14T10:30:36Z",
  "items": [
   {
    "id": "catalog:label:background.lc-pokelid-gunma:dbe6f116e0eb",
@@ -23,6 +23,1657 @@
    "firstSeen": "2026-11-14"
   },
   {
+   "id": "events:08a9fee0.rule.15282c:64140cee7d8b",
+   "kind": "auto-read",
+   "held": false,
+   "origin": {
+    "id": "page:minior-showers-geminids-2026",
+    "title": "Minior Showers: Geminids 2026",
+    "note": "The event's own page, read by two models"
+   },
+   "field": "Special rule · Explore by Starlight",
+   "order": 6,
+   "answerFormat": "text",
+   "answerHint": "The sentence that states the rule",
+   "readings": [
+    {
+     "who": "Both models",
+     "value": "From 5:00 p.m. to 9:00 p.m. local time every day during each Minior Shower, shooting stars will light up the in-game sky. During these hours, you’ll have an increased chance of encountering Minior in the wild!",
+     "quote": "From 5:00 p.m. to 9:00 p.m. local time every day during each Minior Shower, shooting stars will light up the in-game sky. During these hours, you’ll have an increased chance of encountering Minior in the wild!",
+     "url": "https://leekduck.com/events/minior-showers-geminids-2026/"
+    }
+   ],
+   "value": "From 5:00 p.m. to 9:00 p.m. local time every day during each Minior Shower, shooting stars will light up the in-game sky. During these hours, you’ll have an increased chance of encountering Minior in the wild!",
+   "section": "events",
+   "firstSeen": "2026-11-14"
+  },
+  {
+   "id": "events:08a9fee0.rule.4b2754:a7ecf56ebe46",
+   "kind": "auto-read",
+   "held": false,
+   "origin": {
+    "id": "page:minior-showers-geminids-2026",
+    "title": "Minior Showers: Geminids 2026",
+    "note": "The event's own page, read by two models"
+   },
+   "field": "Special rule · Minior’s Form Changes",
+   "order": 7,
+   "answerFormat": "text",
+   "answerHint": "The sentence that states the rule",
+   "readings": [
+    {
+     "who": "Both models",
+     "value": "Initially, Minior will only be able to change forms when battling Team GO Rocket, team leaders, or in the GO Battle League.",
+     "quote": "Initially, Minior will only be able to change forms when battling Team GO Rocket, team leaders, or in the GO Battle League.",
+     "url": "https://leekduck.com/events/minior-showers-geminids-2026/"
+    }
+   ],
+   "value": "Initially, Minior will only be able to change forms when battling Team GO Rocket, team leaders, or in the GO Battle League.",
+   "section": "events",
+   "firstSeen": "2026-11-14"
+  },
+  {
+   "id": "events:08a9fee0.rule.901c52:ccf032dcbfd5",
+   "kind": "auto-read",
+   "held": false,
+   "origin": {
+    "id": "page:minior-showers-geminids-2026",
+    "title": "Minior Showers: Geminids 2026",
+    "note": "The event's own page, read by two models"
+   },
+   "field": "Special rule · Annual Meteor Shower Schedule",
+   "order": 8,
+   "answerFormat": "text",
+   "answerHint": "The sentence that states the rule",
+   "readings": [
+    {
+     "who": "Both models",
+     "value": "Minior can appear during the following meteor showers each year. Each shower begins at 5:00 p.m. on its first day and ends at 11:59 p.m. on its last day, in local time.",
+     "quote": "Minior can appear during the following meteor showers each year. Each shower begins at 5:00 p.m. on its first day and ends at 11:59 p.m. on its last day, in local time.",
+     "url": "https://leekduck.com/events/minior-showers-geminids-2026/"
+    }
+   ],
+   "value": "Minior can appear during the following meteor showers each year. Each shower begins at 5:00 p.m. on its first day and ends at 11:59 p.m. on its last day, in local time.",
+   "section": "events",
+   "firstSeen": "2026-11-14"
+  },
+  {
+   "id": "events:08a9fee0.rule.f00baa:d0e02325ae6c",
+   "kind": "auto-read",
+   "held": false,
+   "origin": {
+    "id": "page:minior-showers-geminids-2026",
+    "title": "Minior Showers: Geminids 2026",
+    "note": "The event's own page, read by two models"
+   },
+   "field": "Special rule · Minior Cores",
+   "order": 5,
+   "answerFormat": "text",
+   "answerHint": "The sentence that states the rule",
+   "readings": [
+    {
+     "who": "Both models",
+     "value": "Minior has seven different core colors: Red, Orange, Yellow, Green, Blue, Indigo, and Violet. A different core color will debut during each of the six meteor showers listed below. During the Geminids, one core color will debut in the Northern Hemisphere and another in the Southern Hemisphere.",
+     "quote": "Minior has seven different core colors: Red, Orange, Yellow, Green, Blue, Indigo, and Violet. A different core color will debut during each of the six meteor showers listed below. During the Geminids, one core color will debut in the Northern Hemisphere and another in the Southern Hemisphere.",
+     "url": "https://leekduck.com/events/minior-showers-geminids-2026/"
+    }
+   ],
+   "value": "Minior has seven different core colors: Red, Orange, Yellow, Green, Blue, Indigo, and Violet. A different core color will debut during each of the six meteor showers listed below. During the Geminids, one core color will debut in the Northern Hemisphere and another in the Southern Hemisphere.",
+   "section": "events",
+   "firstSeen": "2026-11-14"
+  },
+  {
+   "id": "events:14462135.debut.dynamax:c7f8af117783",
+   "kind": "model-disagreement",
+   "held": true,
+   "origin": {
+    "id": "page:season-24-twilight-trails",
+    "title": "Twilight Trails",
+    "note": "The event's own page, read by two models"
+   },
+   "field": "Dynamax debuts",
+   "order": 3,
+   "answerFormat": "names",
+   "answerHint": "Names, separated by ;",
+   "readings": [
+    {
+     "who": "Claude",
+     "value": "Rhyhorn; Sneasel; Sizzlipede",
+     "quote": "Dynamax Rhyhorn, Dynamax Sneasel, Dynamax Sizzlipede, and more will make their way into Max Battles throughout the Season. Keep an eye out for new Dynamax Pokémon at Power Spots!",
+     "url": "https://leekduck.com/events/season-24-twilight-trails/"
+    },
+    {
+     "who": "GPT",
+     "value": "Rhyhorn; Sneasel; Sizzlipede; Uxie; Mesprit; Azelf",
+     "quote": "Dynamax Rhyhorn, Dynamax Sneasel, Dynamax Sizzlipede, and more will make their way into Max Battles throughout the Season. Keep an eye out for new Dynamax Pokémon at Power Spots!",
+     "url": "https://leekduck.com/events/season-24-twilight-trails/"
+    }
+   ],
+   "section": "events",
+   "firstSeen": "2026-11-14"
+  },
+  {
+   "id": "events:14462135.debut.mega:a59ea5fff9f0",
+   "kind": "auto-read",
+   "held": false,
+   "origin": {
+    "id": "page:season-24-twilight-trails",
+    "title": "Twilight Trails",
+    "note": "The event's own page, read by two models"
+   },
+   "field": "Mega debuts",
+   "order": 2,
+   "answerFormat": "names",
+   "answerHint": "Names, separated by ;",
+   "readings": [
+    {
+     "who": "Both models",
+     "value": "Staraptor; Chandelure",
+     "quote": "Where Pokémon GO Fest 2026: Mega Finale ends, a new trail begins! Gather ‘round for the Mega Evolution debuts of Staraptor, Chandelure, and more during Twilight Trails.",
+     "url": "https://leekduck.com/events/season-24-twilight-trails/"
+    }
+   ],
+   "value": "Staraptor; Chandelure",
+   "section": "events",
+   "firstSeen": "2026-11-14"
+  },
+  {
+   "id": "events:14462135.debut.pokemon:05a3bd297d0a",
+   "kind": "auto-read",
+   "held": false,
+   "origin": {
+    "id": "page:season-24-twilight-trails",
+    "title": "Twilight Trails",
+    "note": "The event's own page, read by two models"
+   },
+   "field": "Pokémon debuts",
+   "order": 1,
+   "answerFormat": "names",
+   "answerHint": "Names, separated by ;",
+   "readings": [
+    {
+     "who": "Both models",
+     "value": "Maschiff; Mabosstiff",
+     "quote": "Be on the lookout for Maschiff, Mabosstiff, and more!",
+     "url": "https://leekduck.com/events/season-24-twilight-trails/"
+    }
+   ],
+   "value": "Maschiff; Mabosstiff",
+   "section": "events",
+   "firstSeen": "2026-11-14"
+  },
+  {
+   "id": "events:14462135.group.008477:2e2ae466f8fd",
+   "kind": "auto-read",
+   "held": false,
+   "origin": {
+    "id": "page:season-24-twilight-trails",
+    "title": "Twilight Trails",
+    "note": "The event's own page, read by two models"
+   },
+   "field": "In 5 km Eggs",
+   "order": 9,
+   "answerFormat": "names",
+   "answerHint": "Names, separated by ;",
+   "readings": [
+    {
+     "who": "Both models",
+     "value": "Mime Jr.; Munchlax; Larvesta; Sizzlipede; Snom; Indeedee (Male); Indeedee (Female); Fidough; Maschiff",
+     "quote": "In 5 km Eggs",
+     "url": "https://leekduck.com/events/season-24-twilight-trails/"
+    }
+   ],
+   "value": "Mime Jr.; Munchlax; Larvesta; Sizzlipede; Snom; Indeedee (Male); Indeedee (Female); Fidough; Maschiff",
+   "section": "events",
+   "firstSeen": "2026-11-14"
+  },
+  {
+   "id": "events:14462135.group.3cb72b:c2c721d95a36",
+   "kind": "auto-read",
+   "held": false,
+   "origin": {
+    "id": "page:season-24-twilight-trails",
+    "title": "Twilight Trails",
+    "note": "The event's own page, read by two models"
+   },
+   "field": "In 10 km Eggs",
+   "order": 13,
+   "answerFormat": "names",
+   "answerHint": "Names, separated by ;",
+   "readings": [
+    {
+     "who": "Both models",
+     "value": "Dratini; Honedge; Impidimp",
+     "quote": "In 10 km Eggs",
+     "url": "https://leekduck.com/events/season-24-twilight-trails/"
+    }
+   ],
+   "value": "Dratini; Honedge; Impidimp",
+   "section": "events",
+   "firstSeen": "2026-11-14"
+  },
+  {
+   "id": "events:14462135.group.412697:97f6dcf1d8d4",
+   "kind": "auto-read",
+   "held": false,
+   "origin": {
+    "id": "page:season-24-twilight-trails",
+    "title": "Twilight Trails",
+    "note": "The event's own page, read by two models"
+   },
+   "field": "In 5 km Eggs from Adventure Sync Rewards",
+   "order": 10,
+   "answerFormat": "names",
+   "answerHint": "Names, separated by ;",
+   "readings": [
+    {
+     "who": "Both models",
+     "value": "Tyrogue; Sableye; Budew",
+     "quote": "In 5 km Eggs from Adventure Sync Rewards",
+     "url": "https://leekduck.com/events/season-24-twilight-trails/"
+    }
+   ],
+   "value": "Tyrogue; Sableye; Budew",
+   "section": "events",
+   "firstSeen": "2026-11-14"
+  },
+  {
+   "id": "events:14462135.group.564b42:0e0f21587e41",
+   "kind": "auto-read",
+   "held": false,
+   "origin": {
+    "id": "page:season-24-twilight-trails",
+    "title": "Twilight Trails",
+    "note": "The event's own page, read by two models"
+   },
+   "field": "In 7 km Eggs",
+   "order": 11,
+   "answerFormat": "names",
+   "answerHint": "Names, separated by ;",
+   "readings": [
+    {
+     "who": "Both models",
+     "value": "Galarian Meowth; Galarian Zigzagoon; Galarian Stunfisk",
+     "quote": "In 7 km Eggs",
+     "url": "https://leekduck.com/events/season-24-twilight-trails/"
+    }
+   ],
+   "value": "Galarian Meowth; Galarian Zigzagoon; Galarian Stunfisk",
+   "section": "events",
+   "firstSeen": "2026-11-14"
+  },
+  {
+   "id": "events:14462135.group.7a3380:39d532b091e6",
+   "kind": "auto-read",
+   "held": false,
+   "origin": {
+    "id": "page:season-24-twilight-trails",
+    "title": "Twilight Trails",
+    "note": "The event's own page, read by two models"
+   },
+   "field": "In 10 km Eggs from Adventure Sync Rewards",
+   "order": 14,
+   "answerFormat": "names",
+   "answerHint": "Names, separated by ;",
+   "readings": [
+    {
+     "who": "Both models",
+     "value": "Bagon; Druddigon; Drampa",
+     "quote": "In 10 km Eggs from Adventure Sync Rewards",
+     "url": "https://leekduck.com/events/season-24-twilight-trails/"
+    }
+   ],
+   "value": "Bagon; Druddigon; Drampa",
+   "section": "events",
+   "firstSeen": "2026-11-14"
+  },
+  {
+   "id": "events:14462135.group.877d13:65dbb8326c91",
+   "kind": "auto-read",
+   "held": false,
+   "origin": {
+    "id": "page:season-24-twilight-trails",
+    "title": "Twilight Trails",
+    "note": "The event's own page, read by two models"
+   },
+   "field": "In 7 km Eggs From Route Rewards",
+   "order": 12,
+   "answerFormat": "names",
+   "answerHint": "Names, separated by ;",
+   "readings": [
+    {
+     "who": "Both models",
+     "value": "Galarian Slowpoke; Hisuian Sneasel; Galarian Corsola",
+     "quote": "In 7 km Eggs From Route Rewards",
+     "url": "https://leekduck.com/events/season-24-twilight-trails/"
+    }
+   ],
+   "value": "Galarian Slowpoke; Hisuian Sneasel; Galarian Corsola",
+   "section": "events",
+   "firstSeen": "2026-11-14"
+  },
+  {
+   "id": "events:14462135.group.f8fa73:8df3e3f0a837",
+   "kind": "auto-read",
+   "held": false,
+   "origin": {
+    "id": "page:season-24-twilight-trails",
+    "title": "Twilight Trails",
+    "note": "The event's own page, read by two models"
+   },
+   "field": "In 2 km Eggs",
+   "order": 8,
+   "answerFormat": "names",
+   "answerHint": "Names, separated by ;",
+   "readings": [
+    {
+     "who": "Both models",
+     "value": "Elekid; Magby; Azurill",
+     "quote": "In 2 km Eggs",
+     "url": "https://leekduck.com/events/season-24-twilight-trails/"
+    }
+   ],
+   "value": "Elekid; Magby; Azurill",
+   "section": "events",
+   "firstSeen": "2026-11-14"
+  },
+  {
+   "id": "events:14462135.rule.2d9226:a47b48f2e628",
+   "kind": "auto-read",
+   "held": false,
+   "origin": {
+    "id": "page:season-24-twilight-trails",
+    "title": "Twilight Trails",
+    "note": "The event's own page, read by two models"
+   },
+   "field": "Special rule · Community Days",
+   "order": 5,
+   "answerFormat": "text",
+   "answerHint": "The sentence that states the rule",
+   "readings": [
+    {
+     "who": "Both models",
+     "value": "Mark your calendar! Twilight Trails will have Community Day events on the following dates.",
+     "quote": "Mark your calendar! Twilight Trails will have Community Day events on the following dates.",
+     "url": "https://leekduck.com/events/season-24-twilight-trails/"
+    }
+   ],
+   "value": "Mark your calendar! Twilight Trails will have Community Day events on the following dates.",
+   "section": "events",
+   "firstSeen": "2026-11-14"
+  },
+  {
+   "id": "events:14462135.rule.4b1eb9:18efd071afce",
+   "kind": "auto-read",
+   "held": false,
+   "origin": {
+    "id": "page:season-24-twilight-trails",
+    "title": "Twilight Trails",
+    "note": "The event's own page, read by two models"
+   },
+   "field": "Special rule · Research Breakthrough",
+   "order": 7,
+   "answerFormat": "text",
+   "answerHint": "The sentence that states the rule",
+   "readings": [
+    {
+     "who": "Both models",
+     "value": "Complete Field Research to unlock Research Breakthrough encounters with one of a variety of Season-themed Pokémon. Find out where your trail leads you each week!",
+     "quote": "Complete Field Research to unlock Research Breakthrough encounters with one of a variety of Season-themed Pokémon. Find out where your trail leads you each week!",
+     "url": "https://leekduck.com/events/season-24-twilight-trails/"
+    }
+   ],
+   "value": "Complete Field Research to unlock Research Breakthrough encounters with one of a variety of Season-themed Pokémon. Find out where your trail leads you each week!",
+   "section": "events",
+   "firstSeen": "2026-11-14"
+  },
+  {
+   "id": "events:14462135.rule.f3346c:0a7ce4bf4ff9",
+   "kind": "auto-read",
+   "held": false,
+   "origin": {
+    "id": "page:season-24-twilight-trails",
+    "title": "Twilight Trails",
+    "note": "The event's own page, read by two models"
+   },
+   "field": "Special rule · GO Pass",
+   "order": 6,
+   "answerFormat": "text",
+   "answerHint": "The sentence that states the rule",
+   "readings": [
+    {
+     "who": "Both models",
+     "value": "GO Pass, a limited-time progression track, will be available during Twilight Trails! Complete Pass Tasks to earn GO Points to increase your rank and earn rewards.",
+     "quote": "GO Pass, a limited-time progression track, will be available during Twilight Trails! Complete Pass Tasks to earn GO Points to increase your rank and earn rewards.",
+     "url": "https://leekduck.com/events/season-24-twilight-trails/"
+    }
+   ],
+   "value": "GO Pass, a limited-time progression track, will be available during Twilight Trails! Complete Pass Tasks to earn GO Points to increase your rank and earn rewards.",
+   "section": "events",
+   "firstSeen": "2026-11-14"
+  },
+  {
+   "id": "events:18bc5021.rule.532fb6:72e78cd416c9",
+   "kind": "auto-read",
+   "held": false,
+   "origin": {
+    "id": "page:dynamax-trails-2026",
+    "title": "Dynamax Trails",
+    "note": "The event's own page, read by two models"
+   },
+   "field": "Special rule · Event-Themed Stickers",
+   "order": 6,
+   "answerFormat": "text",
+   "answerHint": "The sentence that states the rule",
+   "readings": [
+    {
+     "who": "Both models",
+     "value": "Get event-themed stickers by spinning PokéStops, opening Gifts, purchasing them from the in-game shop, and progressing through your GO Pass.",
+     "quote": "Get event-themed stickers by spinning PokéStops, opening Gifts, purchasing them from the in-game shop, and progressing through your GO Pass.",
+     "url": "https://leekduck.com/events/dynamax-trails-2026/"
+    }
+   ],
+   "value": "Get event-themed stickers by spinning PokéStops, opening Gifts, purchasing them from the in-game shop, and progressing through your GO Pass.",
+   "section": "events",
+   "firstSeen": "2026-11-14"
+  },
+  {
+   "id": "events:18bc5021.rule.89e0cf:f7dded1fc813",
+   "kind": "auto-read",
+   "held": false,
+   "origin": {
+    "id": "page:dynamax-trails-2026",
+    "title": "Dynamax Trails",
+    "note": "The event's own page, read by two models"
+   },
+   "field": "Special rule · Spotlight Hour",
+   "order": 5,
+   "answerFormat": "text",
+   "answerHint": "The sentence that states the rule",
+   "readings": [
+    {
+     "who": "Both models",
+     "value": "Grookey, Scorbunny, and Sobble will be featured during Pokémon Spotlight Hour on November 19, 2026, from 6 pm to 7 pm local time. The bonus will be 2× Catch Candy.",
+     "quote": "Grookey, Scorbunny, and Sobble will be featured during Pokémon Spotlight Hour on November 19, 2026, from 6 pm to 7 pm local time. The bonus will be 2× Catch Candy.",
+     "url": "https://leekduck.com/events/dynamax-trails-2026/"
+    }
+   ],
+   "value": "Grookey, Scorbunny, and Sobble will be featured during Pokémon Spotlight Hour on November 19, 2026, from 6 pm to 7 pm local time. The bonus will be 2× Catch Candy.",
+   "section": "events",
+   "firstSeen": "2026-11-14"
+  },
+  {
+   "id": "events:32171a14.rule.15282c:64140cee7d8b",
+   "kind": "auto-read",
+   "held": false,
+   "origin": {
+    "id": "page:minior-showers-perseids-2027",
+    "title": "Minior Showers: Perseids 2027",
+    "note": "The event's own page, read by two models"
+   },
+   "field": "Special rule · Explore by Starlight",
+   "order": 6,
+   "answerFormat": "text",
+   "answerHint": "The sentence that states the rule",
+   "readings": [
+    {
+     "who": "Both models",
+     "value": "From 5:00 p.m. to 9:00 p.m. local time every day during each Minior Shower, shooting stars will light up the in-game sky. During these hours, you’ll have an increased chance of encountering Minior in the wild!",
+     "quote": "From 5:00 p.m. to 9:00 p.m. local time every day during each Minior Shower, shooting stars will light up the in-game sky. During these hours, you’ll have an increased chance of encountering Minior in the wild!",
+     "url": "https://leekduck.com/events/minior-showers-perseids-2027/"
+    }
+   ],
+   "value": "From 5:00 p.m. to 9:00 p.m. local time every day during each Minior Shower, shooting stars will light up the in-game sky. During these hours, you’ll have an increased chance of encountering Minior in the wild!",
+   "section": "events",
+   "firstSeen": "2026-11-14"
+  },
+  {
+   "id": "events:32171a14.rule.4b2754:a7ecf56ebe46",
+   "kind": "auto-read",
+   "held": false,
+   "origin": {
+    "id": "page:minior-showers-perseids-2027",
+    "title": "Minior Showers: Perseids 2027",
+    "note": "The event's own page, read by two models"
+   },
+   "field": "Special rule · Minior’s Form Changes",
+   "order": 7,
+   "answerFormat": "text",
+   "answerHint": "The sentence that states the rule",
+   "readings": [
+    {
+     "who": "Both models",
+     "value": "Initially, Minior will only be able to change forms when battling Team GO Rocket, team leaders, or in the GO Battle League.",
+     "quote": "Initially, Minior will only be able to change forms when battling Team GO Rocket, team leaders, or in the GO Battle League.",
+     "url": "https://leekduck.com/events/minior-showers-perseids-2027/"
+    }
+   ],
+   "value": "Initially, Minior will only be able to change forms when battling Team GO Rocket, team leaders, or in the GO Battle League.",
+   "section": "events",
+   "firstSeen": "2026-11-14"
+  },
+  {
+   "id": "events:32171a14.rule.901c52:ccf032dcbfd5",
+   "kind": "auto-read",
+   "held": false,
+   "origin": {
+    "id": "page:minior-showers-perseids-2027",
+    "title": "Minior Showers: Perseids 2027",
+    "note": "The event's own page, read by two models"
+   },
+   "field": "Special rule · Annual Meteor Shower Schedule",
+   "order": 8,
+   "answerFormat": "text",
+   "answerHint": "The sentence that states the rule",
+   "readings": [
+    {
+     "who": "Both models",
+     "value": "Minior can appear during the following meteor showers each year. Each shower begins at 5:00 p.m. on its first day and ends at 11:59 p.m. on its last day, in local time.",
+     "quote": "Minior can appear during the following meteor showers each year. Each shower begins at 5:00 p.m. on its first day and ends at 11:59 p.m. on its last day, in local time.",
+     "url": "https://leekduck.com/events/minior-showers-perseids-2027/"
+    }
+   ],
+   "value": "Minior can appear during the following meteor showers each year. Each shower begins at 5:00 p.m. on its first day and ends at 11:59 p.m. on its last day, in local time.",
+   "section": "events",
+   "firstSeen": "2026-11-14"
+  },
+  {
+   "id": "events:32171a14.rule.f00baa:0340d633a467",
+   "kind": "model-disagreement",
+   "held": true,
+   "origin": {
+    "id": "page:minior-showers-perseids-2027",
+    "title": "Minior Showers: Perseids 2027",
+    "note": "The event's own page, read by two models"
+   },
+   "field": "Special rule · Minior Cores",
+   "order": 5,
+   "answerFormat": "text",
+   "answerHint": "The sentence that states the rule",
+   "readings": [
+    {
+     "who": "Claude",
+     "value": "Not read",
+     "url": "https://leekduck.com/events/minior-showers-perseids-2027/"
+    },
+    {
+     "who": "GPT",
+     "value": "Minior has seven different core colors: Red, Orange, Yellow, Green, Blue, Indigo, and Violet. A different core color will debut during each of the six meteor showers listed below. During the Geminids, one core color will debut in the Northern Hemisphere and another in the Southern Hemisphere.",
+     "quote": "Minior has seven different core colors: Red, Orange, Yellow, Green, Blue, Indigo, and Violet. A different core color will debut during each of the six meteor showers listed below. During the Geminids, one core color will debut in the Northern Hemisphere and another in the Southern Hemisphere.",
+     "url": "https://leekduck.com/events/minior-showers-perseids-2027/"
+    }
+   ],
+   "section": "events",
+   "firstSeen": "2026-11-14"
+  },
+  {
+   "id": "events:3a0dec74.attack.204cc2:be4ddcfff2a9",
+   "kind": "auto-read",
+   "held": false,
+   "origin": {
+    "id": "page:pokemon-go-wild-area-2026-global",
+    "title": "Pokémon GO Wild Area 2026: Global",
+    "note": "The event's own page, read by two models"
+   },
+   "field": "Featured move · Haxorus",
+   "order": 9,
+   "answerFormat": "names",
+   "answerHint": "Move names, separated by ;",
+   "readings": [
+    {
+     "who": "Both models",
+     "value": "Breaking Swipe",
+     "quote": "Breaking SwipeCharged Attack",
+     "url": "https://leekduck.com/events/pokemon-go-wild-area-2026-global/"
+    }
+   ],
+   "value": "Breaking Swipe",
+   "section": "events",
+   "firstSeen": "2026-11-14"
+  },
+  {
+   "id": "events:3a0dec74.attack.78d4db:8954bdf7402f",
+   "kind": "auto-read",
+   "held": false,
+   "origin": {
+    "id": "page:pokemon-go-wild-area-2026-global",
+    "title": "Pokémon GO Wild Area 2026: Global",
+    "note": "The event's own page, read by two models"
+   },
+   "field": "Featured move · Metagross",
+   "order": 7,
+   "answerFormat": "names",
+   "answerHint": "Move names, separated by ;",
+   "readings": [
+    {
+     "who": "Both models",
+     "value": "Meteor Mash",
+     "quote": "Meteor MashCharged Attack",
+     "url": "https://leekduck.com/events/pokemon-go-wild-area-2026-global/"
+    }
+   ],
+   "value": "Meteor Mash",
+   "section": "events",
+   "firstSeen": "2026-11-14"
+  },
+  {
+   "id": "events:3a0dec74.attack.956aef:bf9bd75cba10",
+   "kind": "auto-read",
+   "held": false,
+   "origin": {
+    "id": "page:pokemon-go-wild-area-2026-global",
+    "title": "Pokémon GO Wild Area 2026: Global",
+    "note": "The event's own page, read by two models"
+   },
+   "field": "Featured move · Magnezone",
+   "order": 8,
+   "answerFormat": "names",
+   "answerHint": "Move names, separated by ;",
+   "readings": [
+    {
+     "who": "Both models",
+     "value": "Magnet Bomb",
+     "quote": "Magnet BombCharged Attack",
+     "url": "https://leekduck.com/events/pokemon-go-wild-area-2026-global/"
+    }
+   ],
+   "value": "Magnet Bomb",
+   "section": "events",
+   "firstSeen": "2026-11-14"
+  },
+  {
+   "id": "events:3a0dec74.attack.c345a4:18b87399bc97",
+   "kind": "auto-read",
+   "held": false,
+   "origin": {
+    "id": "page:pokemon-go-wild-area-2026-global",
+    "title": "Pokémon GO Wild Area 2026: Global",
+    "note": "The event's own page, read by two models"
+   },
+   "field": "Featured move · Machamp wearing a modern jacket",
+   "order": 5,
+   "answerFormat": "names",
+   "answerHint": "Move names, separated by ;",
+   "readings": [
+    {
+     "who": "Both models",
+     "value": "Karate Chop",
+     "quote": "Karate ChopFast Attack",
+     "url": "https://leekduck.com/events/pokemon-go-wild-area-2026-global/"
+    }
+   ],
+   "value": "Karate Chop",
+   "section": "events",
+   "firstSeen": "2026-11-14"
+  },
+  {
+   "id": "events:3a0dec74.attack.c65d1d:02815806bd24",
+   "kind": "auto-read",
+   "held": false,
+   "origin": {
+    "id": "page:pokemon-go-wild-area-2026-global",
+    "title": "Pokémon GO Wild Area 2026: Global",
+    "note": "The event's own page, read by two models"
+   },
+   "field": "Featured move · Flygon",
+   "order": 6,
+   "answerFormat": "names",
+   "answerHint": "Move names, separated by ;",
+   "readings": [
+    {
+     "who": "Both models",
+     "value": "Earth Power",
+     "quote": "Earth PowerCharged Attack",
+     "url": "https://leekduck.com/events/pokemon-go-wild-area-2026-global/"
+    }
+   ],
+   "value": "Earth Power",
+   "section": "events",
+   "firstSeen": "2026-11-14"
+  },
+  {
+   "id": "events:3a0dec74.attack.e1e7c0:1c922eeaae4d",
+   "kind": "auto-read",
+   "held": false,
+   "origin": {
+    "id": "page:pokemon-go-wild-area-2026-global",
+    "title": "Pokémon GO Wild Area 2026: Global",
+    "note": "The event's own page, read by two models"
+   },
+   "field": "Featured move · Hydreigon",
+   "order": 10,
+   "answerFormat": "names",
+   "answerHint": "Move names, separated by ;",
+   "readings": [
+    {
+     "who": "Both models",
+     "value": "Brutal Swing",
+     "quote": "Brutal SwingCharged Attack",
+     "url": "https://leekduck.com/events/pokemon-go-wild-area-2026-global/"
+    }
+   ],
+   "value": "Brutal Swing",
+   "section": "events",
+   "firstSeen": "2026-11-14"
+  },
+  {
+   "id": "events:3a0dec74.attack.f4a5e0:06267a4fbbef",
+   "kind": "auto-read",
+   "held": false,
+   "origin": {
+    "id": "page:pokemon-go-wild-area-2026-global",
+    "title": "Pokémon GO Wild Area 2026: Global",
+    "note": "The event's own page, read by two models"
+   },
+   "field": "Featured move · Tinkaton",
+   "order": 11,
+   "answerFormat": "names",
+   "answerHint": "Move names, separated by ;",
+   "readings": [
+    {
+     "who": "Both models",
+     "value": "Gigaton Hammer",
+     "quote": "Gigaton HammerCharged Attack",
+     "url": "https://leekduck.com/events/pokemon-go-wild-area-2026-global/"
+    }
+   ],
+   "value": "Gigaton Hammer",
+   "section": "events",
+   "firstSeen": "2026-11-14"
+  },
+  {
+   "id": "events:3a0dec74.debut.dynamax:7247b053a232",
+   "kind": "auto-read",
+   "held": false,
+   "origin": {
+    "id": "page:pokemon-go-wild-area-2026-global",
+    "title": "Pokémon GO Wild Area 2026: Global",
+    "note": "The event's own page, read by two models"
+   },
+   "field": "Dynamax debuts",
+   "order": 3,
+   "answerFormat": "names",
+   "answerHint": "Names, separated by ;",
+   "readings": [
+    {
+     "who": "Both models",
+     "value": "Dialga; Palkia",
+     "quote": "Dynamax Dialga and Dynamax Palkia make their Pokémon GO debuts during GO Wild Area 2026. Both can be Shiny!",
+     "url": "https://leekduck.com/events/pokemon-go-wild-area-2026-global/"
+    }
+   ],
+   "value": "Dialga; Palkia",
+   "section": "events",
+   "firstSeen": "2026-11-14"
+  },
+  {
+   "id": "events:3a0dec74.debut.gigantamax:c2598af0c0a2",
+   "kind": "auto-read",
+   "held": false,
+   "origin": {
+    "id": "page:pokemon-go-wild-area-2026-global",
+    "title": "Pokémon GO Wild Area 2026: Global",
+    "note": "The event's own page, read by two models"
+   },
+   "field": "Gigantamax debuts",
+   "order": 4,
+   "answerFormat": "names",
+   "answerHint": "Names, separated by ;",
+   "readings": [
+    {
+     "who": "Both models",
+     "value": "Duraludon",
+     "quote": "Gigantamax Duraludon makes its Pokémon GO debut at Pokémon GO Wild Area! This larger-than-life Pokémon will appear in six-star Max Battles during the event.",
+     "url": "https://leekduck.com/events/pokemon-go-wild-area-2026-global/"
+    }
+   ],
+   "value": "Duraludon",
+   "section": "events",
+   "firstSeen": "2026-11-14"
+  },
+  {
+   "id": "events:3a0dec74.rule.202595:ecfb144d4b97",
+   "kind": "auto-read",
+   "held": false,
+   "origin": {
+    "id": "page:pokemon-go-wild-area-2026-global",
+    "title": "Pokémon GO Wild Area 2026: Global",
+    "note": "The event's own page, read by two models"
+   },
+   "field": "Special rule · Adventure Effects in Battle Lobbies",
+   "order": 15,
+   "answerFormat": "text",
+   "answerHint": "The sentence that states the rule",
+   "readings": [
+    {
+     "who": "Both models",
+     "value": "Starting with Into the Wild, select Adventure Effects can be activated while waiting in a raid or Max Battle lobby. Use Crowned Sword Zacian’s Behemoth Blade or Crowned Shield Zamazenta’s Behemoth Bash Adventure Effect before a Max Battle to help your group.",
+     "quote": "Starting with Into the Wild, select Adventure Effects can be activated while waiting in a raid or Max Battle lobby. Use Crowned Sword Zacian’s Behemoth Blade or Crowned Shield Zamazenta’s Behemoth Bash Adventure Effect before a Max Battle to help your group.",
+     "url": "https://leekduck.com/events/pokemon-go-wild-area-2026-global/"
+    }
+   ],
+   "value": "Starting with Into the Wild, select Adventure Effects can be activated while waiting in a raid or Max Battle lobby. Use Crowned Sword Zacian’s Behemoth Blade or Crowned Shield Zamazenta’s Behemoth Bash Adventure Effect before a Max Battle to help your group.",
+   "section": "events",
+   "firstSeen": "2026-11-14"
+  },
+  {
+   "id": "events:3a0dec74.rule.2220b4:b44291ba69c5",
+   "kind": "auto-read",
+   "held": false,
+   "origin": {
+    "id": "page:pokemon-go-wild-area-2026-global",
+    "title": "Pokémon GO Wild Area 2026: Global",
+    "note": "The event's own page, read by two models"
+   },
+   "field": "Special rule · GO Snapshot, Routes, and Party Play",
+   "order": 22,
+   "answerFormat": "text",
+   "answerHint": "The sentence that states the rule",
+   "readings": [
+    {
+     "who": "Both models",
+     "value": "Take snapshots for surprise encounters with Steel- and Dragon-type Pokémon. Explore Routes for a chance to find mighty Pokémon, and enjoy Party Play sessions lasting eight hours.",
+     "quote": "Take snapshots for surprise encounters with Steel- and Dragon-type Pokémon. Explore Routes for a chance to find mighty Pokémon, and enjoy Party Play sessions lasting eight hours.",
+     "url": "https://leekduck.com/events/pokemon-go-wild-area-2026-global/"
+    }
+   ],
+   "value": "Take snapshots for surprise encounters with Steel- and Dragon-type Pokémon. Explore Routes for a chance to find mighty Pokémon, and enjoy Party Play sessions lasting eight hours.",
+   "section": "events",
+   "firstSeen": "2026-11-14"
+  },
+  {
+   "id": "events:3a0dec74.rule.2becd4:4bdf46466c11",
+   "kind": "auto-read",
+   "held": false,
+   "origin": {
+    "id": "page:pokemon-go-wild-area-2026-global",
+    "title": "Pokémon GO Wild Area 2026: Global",
+    "note": "The event's own page, read by two models"
+   },
+   "field": "Special rule · Mighty Latias and Latios",
+   "order": 19,
+   "answerFormat": "text",
+   "answerHint": "The sentence that states the rule",
+   "readings": [
+    {
+     "who": "Both models",
+     "value": "Ticket holders may attract mighty Latias and Latios with Incense, excluding Daily Adventure Incense, on both event days. Both can be Shiny and are quick to flee, so keep GO Safari Balls ready.",
+     "quote": "Ticket holders may attract mighty Latias and Latios with Incense, excluding Daily Adventure Incense, on both event days. Both can be Shiny and are quick to flee, so keep GO Safari Balls ready.",
+     "url": "https://leekduck.com/events/pokemon-go-wild-area-2026-global/"
+    }
+   ],
+   "value": "Ticket holders may attract mighty Latias and Latios with Incense, excluding Daily Adventure Incense, on both event days. Both can be Shiny and are quick to flee, so keep GO Safari Balls ready.",
+   "section": "events",
+   "firstSeen": "2026-11-14"
+  },
+  {
+   "id": "events:3a0dec74.rule.4b289d:589460fbcba3",
+   "kind": "auto-read",
+   "held": false,
+   "origin": {
+    "id": "page:pokemon-go-wild-area-2026-global",
+    "title": "Pokémon GO Wild Area 2026: Global",
+    "note": "The event's own page, read by two models"
+   },
+   "field": "Special rule · Backgrounds on Your Trainer Profile",
+   "order": 18,
+   "answerFormat": "text",
+   "answerHint": "The sentence that states the rule",
+   "readings": [
+    {
+     "who": "Both models",
+     "value": "Your buddy Pokémon’s eligible Location Background or Special Background can now appear on your Trainer profile, where friends can see it too. Background support rolls out on the following schedule:",
+     "quote": "Your buddy Pokémon’s eligible Location Background or Special Background can now appear on your Trainer profile, where friends can see it too. Background support rolls out on the following schedule:",
+     "url": "https://leekduck.com/events/pokemon-go-wild-area-2026-global/"
+    }
+   ],
+   "value": "Your buddy Pokémon’s eligible Location Background or Special Background can now appear on your Trainer profile, where friends can see it too. Background support rolls out on the following schedule:",
+   "section": "events",
+   "firstSeen": "2026-11-14"
+  },
+  {
+   "id": "events:3a0dec74.rule.7f87e1:faf6630efc00",
+   "kind": "model-disagreement",
+   "held": true,
+   "origin": {
+    "id": "page:pokemon-go-wild-area-2026-global",
+    "title": "Pokémon GO Wild Area 2026: Global",
+    "note": "The event's own page, read by two models"
+   },
+   "field": "Special rule · Gigantamax Duraludon Debuts",
+   "order": 12,
+   "answerFormat": "text",
+   "answerHint": "The sentence that states the rule",
+   "readings": [
+    {
+     "who": "Claude",
+     "value": "Not read",
+     "url": "https://leekduck.com/events/pokemon-go-wild-area-2026-global/"
+    },
+    {
+     "who": "GPT",
+     "value": "Ticket-holding Trainers can learn more about Gigantamax Duraludon in the event-exclusive Special Research story. Complete it for an encounter with Gigantamax Duraludon with a Special Background!",
+     "quote": "Ticket-holding Trainers can learn more about Gigantamax Duraludon in the event-exclusive Special Research story. Complete it for an encounter with Gigantamax Duraludon with a Special Background!",
+     "url": "https://leekduck.com/events/pokemon-go-wild-area-2026-global/"
+    }
+   ],
+   "section": "events",
+   "firstSeen": "2026-11-14"
+  },
+  {
+   "id": "events:3a0dec74.rule.846f3a:32d37be9f942",
+   "kind": "model-disagreement",
+   "held": true,
+   "origin": {
+    "id": "page:pokemon-go-wild-area-2026-global",
+    "title": "Pokémon GO Wild Area 2026: Global",
+    "note": "The event's own page, read by two models"
+   },
+   "field": "Special rule · Dynamax Dialga and Dynamax Palkia",
+   "order": 13,
+   "answerFormat": "text",
+   "answerHint": "The sentence that states the rule",
+   "readings": [
+    {
+     "who": "Claude",
+     "value": "Not read",
+     "url": "https://leekduck.com/events/pokemon-go-wild-area-2026-global/"
+    },
+    {
+     "who": "GPT",
+     "value": "For Global, Dynamax Dialga appears on Saturday, November 14, and Dynamax Palkia appears on Sunday, November 15.",
+     "quote": "For Global, Dynamax Dialga appears on Saturday, November 14, and Dynamax Palkia appears on Sunday, November 15.",
+     "url": "https://leekduck.com/events/pokemon-go-wild-area-2026-global/"
+    }
+   ],
+   "section": "events",
+   "firstSeen": "2026-11-14"
+  },
+  {
+   "id": "events:3a0dec74.rule.8f8309:b5b6c215e041",
+   "kind": "auto-read",
+   "held": false,
+   "origin": {
+    "id": "page:pokemon-go-wild-area-2026-global",
+    "title": "Pokémon GO Wild Area 2026: Global",
+    "note": "The event's own page, read by two models"
+   },
+   "field": "Special rule · GO Safari Balls",
+   "order": 20,
+   "answerFormat": "text",
+   "answerHint": "The sentence that states the rule",
+   "readings": [
+    {
+     "who": "Both models",
+     "value": "GO Safari Balls improve the chance of catching Pokémon, especially mighty Pokémon. All Trainers can obtain them by spinning PokéStops and Gym Photo Discs during event hours.",
+     "quote": "GO Safari Balls improve the chance of catching Pokémon, especially mighty Pokémon. All Trainers can obtain them by spinning PokéStops and Gym Photo Discs during event hours.",
+     "url": "https://leekduck.com/events/pokemon-go-wild-area-2026-global/"
+    }
+   ],
+   "value": "GO Safari Balls improve the chance of catching Pokémon, especially mighty Pokémon. All Trainers can obtain them by spinning PokéStops and Gym Photo Discs during event hours.",
+   "section": "events",
+   "firstSeen": "2026-11-14"
+  },
+  {
+   "id": "events:3a0dec74.rule.a7fd34:976dfff664c0",
+   "kind": "auto-read",
+   "held": false,
+   "origin": {
+    "id": "page:pokemon-go-wild-area-2026-global",
+    "title": "Pokémon GO Wild Area 2026: Global",
+    "note": "The event's own page, read by two models"
+   },
+   "field": "Special rule · Supply Balloons",
+   "order": 21,
+   "answerFormat": "text",
+   "answerHint": "The sentence that states the rule",
+   "readings": [
+    {
+     "who": "Both models",
+     "value": "Ticket holders receive a Supply Balloon every hour during event hours. Each one gives 20 GO Safari Balls.",
+     "quote": "Ticket holders receive a Supply Balloon every hour during event hours. Each one gives 20 GO Safari Balls.",
+     "url": "https://leekduck.com/events/pokemon-go-wild-area-2026-global/"
+    }
+   ],
+   "value": "Ticket holders receive a Supply Balloon every hour during event hours. Each one gives 20 GO Safari Balls.",
+   "section": "events",
+   "firstSeen": "2026-11-14"
+  },
+  {
+   "id": "events:3a0dec74.rule.a8db38:88cec8b27cc2",
+   "kind": "auto-read",
+   "held": false,
+   "origin": {
+    "id": "page:pokemon-go-wild-area-2026-global",
+    "title": "Pokémon GO Wild Area 2026: Global",
+    "note": "The event's own page, read by two models"
+   },
+   "field": "Special rule · Special Backgrounds",
+   "order": 17,
+   "answerFormat": "text",
+   "answerHint": "The sentence that states the rule",
+   "readings": [
+    {
+     "who": "Both models",
+     "value": "After a successful catch from raids or Max Battles, Machamp wearing a modern jacket, Dynamax Dialga, Dynamax Palkia, Reshiram, Zekrom, Kyurem, and Gigantamax Duraludon have a chance to have a new Special Background.",
+     "quote": "After a successful catch from raids or Max Battles, Machamp wearing a modern jacket, Dynamax Dialga, Dynamax Palkia, Reshiram, Zekrom, Kyurem, and Gigantamax Duraludon have a chance to have a new Special Background.",
+     "url": "https://leekduck.com/events/pokemon-go-wild-area-2026-global/"
+    }
+   ],
+   "value": "After a successful catch from raids or Max Battles, Machamp wearing a modern jacket, Dynamax Dialga, Dynamax Palkia, Reshiram, Zekrom, Kyurem, and Gigantamax Duraludon have a chance to have a new Special Background.",
+   "section": "events",
+   "firstSeen": "2026-11-14"
+  },
+  {
+   "id": "events:3a0dec74.rule.aa00c4:2732fd334740",
+   "kind": "auto-read",
+   "held": false,
+   "origin": {
+    "id": "page:pokemon-go-wild-area-2026-global",
+    "title": "Pokémon GO Wild Area 2026: Global",
+    "note": "The event's own page, read by two models"
+   },
+   "field": "Special rule · Private Dynamax Battle Groups",
+   "order": 14,
+   "answerFormat": "text",
+   "answerHint": "The sentence that states the rule",
+   "readings": [
+    {
+     "who": "Both models",
+     "value": "Starting with GO Wild Area 2026, Dynamax Battle lobbies offer Battle to match automatically with other Trainers or Private Group to join an existing group using its group code.",
+     "quote": "Starting with GO Wild Area 2026, Dynamax Battle lobbies offer Battle to match automatically with other Trainers or Private Group to join an existing group using its group code.",
+     "url": "https://leekduck.com/events/pokemon-go-wild-area-2026-global/"
+    }
+   ],
+   "value": "Starting with GO Wild Area 2026, Dynamax Battle lobbies offer Battle to match automatically with other Trainers or Private Group to join an existing group using its group code.",
+   "section": "events",
+   "firstSeen": "2026-11-14"
+  },
+  {
+   "id": "events:3a0dec74.rule.b1ef1a:7317308dc673",
+   "kind": "auto-read",
+   "held": false,
+   "origin": {
+    "id": "page:pokemon-go-wild-area-2026-global",
+    "title": "Pokémon GO Wild Area 2026: Global",
+    "note": "The event's own page, read by two models"
+   },
+   "field": "Special rule · Machamp Wearing a Modern Jacket",
+   "order": 16,
+   "answerFormat": "text",
+   "answerHint": "The sentence that states the rule",
+   "readings": [
+    {
+     "who": "Both models",
+     "value": "A new costumed Machamp appears in three-star raids during the event. Lucky Trainers may encounter a Shiny one!",
+     "quote": "A new costumed Machamp appears in three-star raids during the event. Lucky Trainers may encounter a Shiny one!",
+     "url": "https://leekduck.com/events/pokemon-go-wild-area-2026-global/"
+    }
+   ],
+   "value": "A new costumed Machamp appears in three-star raids during the event. Lucky Trainers may encounter a Shiny one!",
+   "section": "events",
+   "firstSeen": "2026-11-14"
+  },
+  {
+   "id": "events:6447d796.rule.15282c:64140cee7d8b",
+   "kind": "auto-read",
+   "held": false,
+   "origin": {
+    "id": "page:minior-showers-southern-delta-aquariids-2027",
+    "title": "Minior Showers: Southern Delta Aquariids 2027",
+    "note": "The event's own page, read by two models"
+   },
+   "field": "Special rule · Explore by Starlight",
+   "order": 6,
+   "answerFormat": "text",
+   "answerHint": "The sentence that states the rule",
+   "readings": [
+    {
+     "who": "Both models",
+     "value": "From 5:00 p.m. to 9:00 p.m. local time every day during each Minior Shower, shooting stars will light up the in-game sky. During these hours, you’ll have an increased chance of encountering Minior in the wild!",
+     "quote": "From 5:00 p.m. to 9:00 p.m. local time every day during each Minior Shower, shooting stars will light up the in-game sky. During these hours, you’ll have an increased chance of encountering Minior in the wild!",
+     "url": "https://leekduck.com/events/minior-showers-southern-delta-aquariids-2027/"
+    }
+   ],
+   "value": "From 5:00 p.m. to 9:00 p.m. local time every day during each Minior Shower, shooting stars will light up the in-game sky. During these hours, you’ll have an increased chance of encountering Minior in the wild!",
+   "section": "events",
+   "firstSeen": "2026-11-14"
+  },
+  {
+   "id": "events:6447d796.rule.4b2754:a7ecf56ebe46",
+   "kind": "auto-read",
+   "held": false,
+   "origin": {
+    "id": "page:minior-showers-southern-delta-aquariids-2027",
+    "title": "Minior Showers: Southern Delta Aquariids 2027",
+    "note": "The event's own page, read by two models"
+   },
+   "field": "Special rule · Minior’s Form Changes",
+   "order": 7,
+   "answerFormat": "text",
+   "answerHint": "The sentence that states the rule",
+   "readings": [
+    {
+     "who": "Both models",
+     "value": "Initially, Minior will only be able to change forms when battling Team GO Rocket, team leaders, or in the GO Battle League.",
+     "quote": "Initially, Minior will only be able to change forms when battling Team GO Rocket, team leaders, or in the GO Battle League.",
+     "url": "https://leekduck.com/events/minior-showers-southern-delta-aquariids-2027/"
+    }
+   ],
+   "value": "Initially, Minior will only be able to change forms when battling Team GO Rocket, team leaders, or in the GO Battle League.",
+   "section": "events",
+   "firstSeen": "2026-11-14"
+  },
+  {
+   "id": "events:6447d796.rule.901c52:ccf032dcbfd5",
+   "kind": "auto-read",
+   "held": false,
+   "origin": {
+    "id": "page:minior-showers-southern-delta-aquariids-2027",
+    "title": "Minior Showers: Southern Delta Aquariids 2027",
+    "note": "The event's own page, read by two models"
+   },
+   "field": "Special rule · Annual Meteor Shower Schedule",
+   "order": 8,
+   "answerFormat": "text",
+   "answerHint": "The sentence that states the rule",
+   "readings": [
+    {
+     "who": "Both models",
+     "value": "Minior can appear during the following meteor showers each year. Each shower begins at 5:00 p.m. on its first day and ends at 11:59 p.m. on its last day, in local time.",
+     "quote": "Minior can appear during the following meteor showers each year. Each shower begins at 5:00 p.m. on its first day and ends at 11:59 p.m. on its last day, in local time.",
+     "url": "https://leekduck.com/events/minior-showers-southern-delta-aquariids-2027/"
+    }
+   ],
+   "value": "Minior can appear during the following meteor showers each year. Each shower begins at 5:00 p.m. on its first day and ends at 11:59 p.m. on its last day, in local time.",
+   "section": "events",
+   "firstSeen": "2026-11-14"
+  },
+  {
+   "id": "events:6447d796.rule.f00baa:d0e02325ae6c",
+   "kind": "auto-read",
+   "held": false,
+   "origin": {
+    "id": "page:minior-showers-southern-delta-aquariids-2027",
+    "title": "Minior Showers: Southern Delta Aquariids 2027",
+    "note": "The event's own page, read by two models"
+   },
+   "field": "Special rule · Minior Cores",
+   "order": 5,
+   "answerFormat": "text",
+   "answerHint": "The sentence that states the rule",
+   "readings": [
+    {
+     "who": "Both models",
+     "value": "Minior has seven different core colors: Red, Orange, Yellow, Green, Blue, Indigo, and Violet. A different core color will debut during each of the six meteor showers listed below. During the Geminids, one core color will debut in the Northern Hemisphere and another in the Southern Hemisphere.",
+     "quote": "Minior has seven different core colors: Red, Orange, Yellow, Green, Blue, Indigo, and Violet. A different core color will debut during each of the six meteor showers listed below. During the Geminids, one core color will debut in the Northern Hemisphere and another in the Southern Hemisphere.",
+     "url": "https://leekduck.com/events/minior-showers-southern-delta-aquariids-2027/"
+    }
+   ],
+   "value": "Minior has seven different core colors: Red, Orange, Yellow, Green, Blue, Indigo, and Violet. A different core color will debut during each of the six meteor showers listed below. During the Geminids, one core color will debut in the Northern Hemisphere and another in the Southern Hemisphere.",
+   "section": "events",
+   "firstSeen": "2026-11-14"
+  },
+  {
+   "id": "events:67a0e0de.debut.pokemon:1b8b0b357f6a",
+   "kind": "model-disagreement",
+   "held": true,
+   "origin": {
+    "id": "page:minior-showers-leonids-2026",
+    "title": "Minior Showers: Leonids 2026",
+    "note": "The event's own page, read by two models"
+   },
+   "field": "Pokémon debuts",
+   "order": 1,
+   "answerFormat": "names",
+   "answerHint": "Names, separated by ;",
+   "readings": [
+    {
+     "who": "Claude",
+     "value": "Minior",
+     "quote": "Minior (Yellow Core) will make its Pokémon GO debut during the Leonids meteor shower, beginning November 14, 2026, at 5:00 p.m. local time!",
+     "url": "https://leekduck.com/events/minior-showers-leonids-2026/"
+    },
+    {
+     "who": "GPT",
+     "value": "Minior (Yellow Core)",
+     "quote": "Minior (Yellow Core) will make its Pokémon GO debut during the Leonids meteor shower, beginning November 14, 2026, at 5:00 p.m. local time!",
+     "url": "https://leekduck.com/events/minior-showers-leonids-2026/"
+    }
+   ],
+   "section": "events",
+   "firstSeen": "2026-11-14"
+  },
+  {
+   "id": "events:67a0e0de.rule.15282c:64140cee7d8b",
+   "kind": "auto-read",
+   "held": false,
+   "origin": {
+    "id": "page:minior-showers-leonids-2026",
+    "title": "Minior Showers: Leonids 2026",
+    "note": "The event's own page, read by two models"
+   },
+   "field": "Special rule · Explore by Starlight",
+   "order": 6,
+   "answerFormat": "text",
+   "answerHint": "The sentence that states the rule",
+   "readings": [
+    {
+     "who": "Both models",
+     "value": "From 5:00 p.m. to 9:00 p.m. local time every day during each Minior Shower, shooting stars will light up the in-game sky. During these hours, you’ll have an increased chance of encountering Minior in the wild!",
+     "quote": "From 5:00 p.m. to 9:00 p.m. local time every day during each Minior Shower, shooting stars will light up the in-game sky. During these hours, you’ll have an increased chance of encountering Minior in the wild!",
+     "url": "https://leekduck.com/events/minior-showers-leonids-2026/"
+    }
+   ],
+   "value": "From 5:00 p.m. to 9:00 p.m. local time every day during each Minior Shower, shooting stars will light up the in-game sky. During these hours, you’ll have an increased chance of encountering Minior in the wild!",
+   "section": "events",
+   "firstSeen": "2026-11-14"
+  },
+  {
+   "id": "events:67a0e0de.rule.4b2754:e45fb3d57fdb",
+   "kind": "auto-read",
+   "held": false,
+   "origin": {
+    "id": "page:minior-showers-leonids-2026",
+    "title": "Minior Showers: Leonids 2026",
+    "note": "The event's own page, read by two models"
+   },
+   "field": "Special rule · Minior’s Form Changes",
+   "order": 7,
+   "answerFormat": "text",
+   "answerHint": "The sentence that states the rule",
+   "readings": [
+    {
+     "who": "Both models",
+     "value": "Minior begins battles in its Meteor Form. When its health drops below 50%, it changes form and exposes its core.",
+     "quote": "Minior begins battles in its Meteor Form. When its health drops below 50%, it changes form and exposes its core.",
+     "url": "https://leekduck.com/events/minior-showers-leonids-2026/"
+    }
+   ],
+   "value": "Minior begins battles in its Meteor Form. When its health drops below 50%, it changes form and exposes its core.",
+   "section": "events",
+   "firstSeen": "2026-11-14"
+  },
+  {
+   "id": "events:67a0e0de.rule.901c52:ccf032dcbfd5",
+   "kind": "auto-read",
+   "held": false,
+   "origin": {
+    "id": "page:minior-showers-leonids-2026",
+    "title": "Minior Showers: Leonids 2026",
+    "note": "The event's own page, read by two models"
+   },
+   "field": "Special rule · Annual Meteor Shower Schedule",
+   "order": 8,
+   "answerFormat": "text",
+   "answerHint": "The sentence that states the rule",
+   "readings": [
+    {
+     "who": "Both models",
+     "value": "Minior can appear during the following meteor showers each year. Each shower begins at 5:00 p.m. on its first day and ends at 11:59 p.m. on its last day, in local time.",
+     "quote": "Minior can appear during the following meteor showers each year. Each shower begins at 5:00 p.m. on its first day and ends at 11:59 p.m. on its last day, in local time.",
+     "url": "https://leekduck.com/events/minior-showers-leonids-2026/"
+    }
+   ],
+   "value": "Minior can appear during the following meteor showers each year. Each shower begins at 5:00 p.m. on its first day and ends at 11:59 p.m. on its last day, in local time.",
+   "section": "events",
+   "firstSeen": "2026-11-14"
+  },
+  {
+   "id": "events:67a0e0de.rule.be0375:aa43d11c360e",
+   "kind": "model-disagreement",
+   "held": true,
+   "origin": {
+    "id": "page:minior-showers-leonids-2026",
+    "title": "Minior Showers: Leonids 2026",
+    "note": "The event's own page, read by two models"
+   },
+   "field": "Special rule · Pokémon Debut",
+   "order": 5,
+   "answerFormat": "text",
+   "answerHint": "The sentence that states the rule",
+   "readings": [
+    {
+     "who": "Claude",
+     "value": "Not read",
+     "url": "https://leekduck.com/events/minior-showers-leonids-2026/"
+    },
+    {
+     "who": "GPT",
+     "value": "Minior (Green Core) is reportedly also available in the wild during the Leonids.",
+     "quote": "Minior (Green Core) is reportedly also available in the wild during the Leonids.",
+     "url": "https://leekduck.com/events/minior-showers-leonids-2026/"
+    }
+   ],
+   "section": "events",
+   "firstSeen": "2026-11-14"
+  },
+  {
+   "id": "events:68656bdd.rule.1e2a41:8b7d11b509de",
+   "kind": "auto-read",
+   "held": false,
+   "origin": {
+    "id": "page:go-pass-november-2026",
+    "title": "GO Pass: November",
+    "note": "The event's own page, read by two models"
+   },
+   "field": "Special rule · Tier 1 – Rank 1",
+   "order": 8,
+   "answerFormat": "text",
+   "answerHint": "The sentence that states the rule",
+   "readings": [
+    {
+     "who": "Both models",
+     "value": "One additional Candy for trading Pokémon",
+     "quote": "One additional Candy for trading Pokémon",
+     "url": "https://leekduck.com/events/go-pass-november-2026/"
+    }
+   ],
+   "value": "One additional Candy for trading Pokémon",
+   "section": "events",
+   "firstSeen": "2026-11-14"
+  },
+  {
+   "id": "events:68656bdd.rule.521712:457e05d36375",
+   "kind": "auto-read",
+   "held": false,
+   "origin": {
+    "id": "page:go-pass-november-2026",
+    "title": "GO Pass: November",
+    "note": "The event's own page, read by two models"
+   },
+   "field": "Special rule · Tier 2 – Rank 25",
+   "order": 9,
+   "answerFormat": "text",
+   "answerHint": "The sentence that states the rule",
+   "readings": [
+    {
+     "who": "Both models",
+     "value": "Open up to 40 Gifts per day",
+     "quote": "Open up to 40 Gifts per day",
+     "url": "https://leekduck.com/events/go-pass-november-2026/"
+    }
+   ],
+   "value": "Open up to 40 Gifts per day",
+   "section": "events",
+   "firstSeen": "2026-11-14"
+  },
+  {
+   "id": "events:68656bdd.rule.61ed1b:fb56b464b334",
+   "kind": "auto-read",
+   "held": false,
+   "origin": {
+    "id": "page:go-pass-november-2026",
+    "title": "GO Pass: November",
+    "note": "The event's own page, read by two models"
+   },
+   "field": "Special rule · GO Pass and GO Pass Deluxe",
+   "order": 5,
+   "answerFormat": "text",
+   "answerHint": "The sentence that states the rule",
+   "readings": [
+    {
+     "who": "Both models",
+     "value": "Trainers will automatically receive GO Pass: November on Tuesday, November 3, at 10:00 a.m. local time. You can collect GO Points and rank up to get additional rewards through Tuesday, December 1, at 10:00 a.m. local time.",
+     "quote": "Trainers will automatically receive GO Pass: November on Tuesday, November 3, at 10:00 a.m. local time. You can collect GO Points and rank up to get additional rewards through Tuesday, December 1, at 10:00 a.m. local time.",
+     "url": "https://leekduck.com/events/go-pass-november-2026/"
+    }
+   ],
+   "value": "Trainers will automatically receive GO Pass: November on Tuesday, November 3, at 10:00 a.m. local time. You can collect GO Points and rank up to get additional rewards through Tuesday, December 1, at 10:00 a.m. local time.",
+   "section": "events",
+   "firstSeen": "2026-11-14"
+  },
+  {
+   "id": "events:68656bdd.rule.765f70:1fc7279740ba",
+   "kind": "auto-read",
+   "held": false,
+   "origin": {
+    "id": "page:go-pass-november-2026",
+    "title": "GO Pass: November",
+    "note": "The event's own page, read by two models"
+   },
+   "field": "Special rule · Featured Pokémon and Rewards",
+   "order": 6,
+   "answerFormat": "text",
+   "answerHint": "The sentence that states the rule",
+   "readings": [
+    {
+     "who": "Both models",
+     "value": "Complete Pass Tasks to rank up your GO Pass to earn the following rewards.",
+     "quote": "Complete Pass Tasks to rank up your GO Pass to earn the following rewards.",
+     "url": "https://leekduck.com/events/go-pass-november-2026/"
+    }
+   ],
+   "value": "Complete Pass Tasks to rank up your GO Pass to earn the following rewards.",
+   "section": "events",
+   "firstSeen": "2026-11-14"
+  },
+  {
+   "id": "events:68656bdd.rule.87f225:e3e35638e6ec",
+   "kind": "auto-read",
+   "held": false,
+   "origin": {
+    "id": "page:go-pass-november-2026",
+    "title": "GO Pass: November",
+    "note": "The event's own page, read by two models"
+   },
+   "field": "Special rule · Tier 4 – Rank 75",
+   "order": 11,
+   "answerFormat": "text",
+   "answerHint": "The sentence that states the rule",
+   "readings": [
+    {
+     "who": "Both models",
+     "value": "Increased XP and Stardust from hatching Eggs",
+     "quote": "Increased XP and Stardust from hatching Eggs",
+     "url": "https://leekduck.com/events/go-pass-november-2026/"
+    }
+   ],
+   "value": "Increased XP and Stardust from hatching Eggs",
+   "section": "events",
+   "firstSeen": "2026-11-14"
+  },
+  {
+   "id": "events:68656bdd.rule.af4d60:71b2c191c92c",
+   "kind": "auto-read",
+   "held": false,
+   "origin": {
+    "id": "page:go-pass-november-2026",
+    "title": "GO Pass: November",
+    "note": "The event's own page, read by two models"
+   },
+   "field": "Special rule · Tier 3 – Rank 50",
+   "order": 10,
+   "answerFormat": "text",
+   "answerHint": "The sentence that states the rule",
+   "readings": [
+    {
+     "who": "Both models",
+     "value": "2× Daily Adventure Incense duration",
+     "quote": "2× Daily Adventure Incense duration",
+     "url": "https://leekduck.com/events/go-pass-november-2026/"
+    }
+   ],
+   "value": "2× Daily Adventure Incense duration",
+   "section": "events",
+   "firstSeen": "2026-11-14"
+  },
+  {
+   "id": "events:68656bdd.rule.bcb26f:c08a375ca7fd",
+   "kind": "auto-read",
+   "held": false,
+   "origin": {
+    "id": "page:go-pass-november-2026",
+    "title": "GO Pass: November",
+    "note": "The event's own page, read by two models"
+   },
+   "field": "Special rule · Tier 2 – Rank 25",
+   "order": 12,
+   "answerFormat": "text",
+   "answerHint": "The sentence that states the rule",
+   "readings": [
+    {
+     "who": "Both models",
+     "value": "Open up to 50 Gifts per day",
+     "quote": "Open up to 50 Gifts per day",
+     "url": "https://leekduck.com/events/go-pass-november-2026/"
+    }
+   ],
+   "value": "Open up to 50 Gifts per day",
+   "section": "events",
+   "firstSeen": "2026-11-14"
+  },
+  {
+   "id": "events:68656bdd.rule.f88a26:05ad111a20be",
+   "kind": "auto-read",
+   "held": false,
+   "origin": {
+    "id": "page:go-pass-november-2026",
+    "title": "GO Pass: November",
+    "note": "The event's own page, read by two models"
+   },
+   "field": "Special rule · Major Milestone Bonuses",
+   "order": 7,
+   "answerFormat": "text",
+   "answerHint": "The sentence that states the rule",
+   "readings": [
+    {
+     "who": "Both models",
+     "value": "Reach Major Milestones on your GO Pass to unlock the following bonuses.",
+     "quote": "Reach Major Milestones on your GO Pass to unlock the following bonuses.",
+     "url": "https://leekduck.com/events/go-pass-november-2026/"
+    }
+   ],
+   "value": "Reach Major Milestones on your GO Pass to unlock the following bonuses.",
+   "section": "events",
+   "firstSeen": "2026-11-14"
+  },
+  {
+   "id": "events:79a17a8c.attack.f36fc3:3e4678f62890",
+   "kind": "auto-read",
+   "held": false,
+   "origin": {
+    "id": "page:november-communityday2026",
+    "title": "Pawniard Community Day",
+    "note": "The event's own page, read by two models"
+   },
+   "field": "Featured move · Kingambit",
+   "order": 5,
+   "answerFormat": "names",
+   "answerHint": "Move names, separated by ;",
+   "readings": [
+    {
+     "who": "Both models",
+     "value": "Kowtow Cleave",
+     "quote": "Evolve Bisharp during the event or up to four hours afterwards to get a Kingambit that knows the Charged Attack Kowtow Cleave.",
+     "url": "https://leekduck.com/events/november-communityday2026/"
+    }
+   ],
+   "value": "Kowtow Cleave",
+   "section": "events",
+   "firstSeen": "2026-11-14"
+  },
+  {
+   "id": "events:79a17a8c.rule.0259eb:ab8a514baee6",
+   "kind": "auto-read",
+   "held": false,
+   "origin": {
+    "id": "page:november-communityday2026",
+    "title": "Pawniard Community Day",
+    "note": "The event's own page, read by two models"
+   },
+   "field": "Special rule · Photobomb",
+   "order": 8,
+   "answerFormat": "text",
+   "answerHint": "The sentence that states the rule",
+   "readings": [
+    {
+     "who": "Both models",
+     "value": "Take a few snapshots during Community Day for a surprise! During the event, you can snap an AR Photo and get photobombed by Pawniard.",
+     "quote": "Take a few snapshots during Community Day for a surprise! During the event, you can snap an AR Photo and get photobombed by Pawniard.",
+     "url": "https://leekduck.com/events/november-communityday2026/"
+    }
+   ],
+   "value": "Take a few snapshots during Community Day for a surprise! During the event, you can snap an AR Photo and get photobombed by Pawniard.",
+   "section": "events",
+   "firstSeen": "2026-11-14"
+  },
+  {
+   "id": "events:79a17a8c.rule.596f97:52ed3b505c84",
+   "kind": "auto-read",
+   "held": false,
+   "origin": {
+    "id": "page:november-communityday2026",
+    "title": "Pawniard Community Day",
+    "note": "The event's own page, read by two models"
+   },
+   "field": "Special rule · Kowtow Cleave (Dark-type)",
+   "order": 6,
+   "answerFormat": "text",
+   "answerHint": "The sentence that states the rule",
+   "readings": [
+    {
+     "who": "Both models",
+     "value": "Trainer Battles: 75 power",
+     "quote": "Trainer Battles: 75 power",
+     "url": "https://leekduck.com/events/november-communityday2026/"
+    }
+   ],
+   "value": "Trainer Battles: 75 power",
+   "section": "events",
+   "firstSeen": "2026-11-14"
+  },
+  {
+   "id": "events:79a17a8c.rule.9d0e8f:da3ff966221f",
+   "kind": "auto-read",
+   "held": false,
+   "origin": {
+    "id": "page:november-communityday2026",
+    "title": "Pawniard Community Day",
+    "note": "The event's own page, read by two models"
+   },
+   "field": "Special rule · Limited-time Evolution Requirement",
+   "order": 7,
+   "answerFormat": "text",
+   "answerHint": "The sentence that states the rule",
+   "readings": [
+    {
+     "who": "Both models",
+     "value": "From 2:00 p.m. to 9:00 p.m. local time, evolve Bisharp into Kingambit after defeating 1 Dark- or Steel-type Raid Boss with Bisharp as your Buddy Pokémon.",
+     "quote": "From 2:00 p.m. to 9:00 p.m. local time, evolve Bisharp into Kingambit after defeating 1 Dark- or Steel-type Raid Boss with Bisharp as your Buddy Pokémon.",
+     "url": "https://leekduck.com/events/november-communityday2026/"
+    }
+   ],
+   "value": "From 2:00 p.m. to 9:00 p.m. local time, evolve Bisharp into Kingambit after defeating 1 Dark- or Steel-type Raid Boss with Bisharp as your Buddy Pokémon.",
+   "section": "events",
+   "firstSeen": "2026-11-14"
+  },
+  {
+   "id": "events:79a17a8c.rule.b0ca34:a09ef74f7f5f",
+   "kind": "auto-read",
+   "held": false,
+   "origin": {
+    "id": "page:november-communityday2026",
+    "title": "Pawniard Community Day",
+    "note": "The event's own page, read by two models"
+   },
+   "field": "Special rule · Lure Module Bonus",
+   "order": 9,
+   "answerFormat": "text",
+   "answerHint": "The sentence that states the rule",
+   "readings": [
+    {
+     "who": "Both models",
+     "value": "From 2:00 p.m. to 9:00 p.m. local time, Pawniard will have a very high chance of appearing at PokéStops with active regular Lure Modules.",
+     "quote": "From 2:00 p.m. to 9:00 p.m. local time, Pawniard will have a very high chance of appearing at PokéStops with active regular Lure Modules.",
+     "url": "https://leekduck.com/events/november-communityday2026/"
+    }
+   ],
+   "value": "From 2:00 p.m. to 9:00 p.m. local time, Pawniard will have a very high chance of appearing at PokéStops with active regular Lure Modules.",
+   "section": "events",
+   "firstSeen": "2026-11-14"
+  },
+  {
    "id": "events:979624b9.microsite:4f53cda18c2b",
    "kind": "missing-microsite",
    "held": true,
@@ -37,6 +1688,585 @@
    "answerHint": "https://pokemongo.com/en/…",
    "section": "events",
    "firstSeen": "2026-11-13"
+  },
+  {
+   "id": "events:9a913545.rule.0d6ccc:1f0046350a50",
+   "kind": "auto-read",
+   "held": false,
+   "origin": {
+    "id": "page:eternamax-eternatus-max-battles-2026",
+    "title": "Eternamax Eternatus Returns",
+    "note": "The event's own page, read by two models"
+   },
+   "field": "Special rule · Encounter Eternatus through GO Pass",
+   "order": 6,
+   "answerFormat": "text",
+   "answerHint": "The sentence that states the rule",
+   "readings": [
+    {
+     "who": "Both models",
+     "value": "Eternatus is available through GO Pass: Dynamax Trails. Trainers who have already caught Eternatus will receive 100 Eternatus Candy instead of another encounter.",
+     "quote": "Eternatus is available through GO Pass: Dynamax Trails. Trainers who have already caught Eternatus will receive 100 Eternatus Candy instead of another encounter.",
+     "url": "https://leekduck.com/events/eternamax-eternatus-max-battles-2026/"
+    }
+   ],
+   "value": "Eternatus is available through GO Pass: Dynamax Trails. Trainers who have already caught Eternatus will receive 100 Eternatus Candy instead of another encounter.",
+   "section": "events",
+   "firstSeen": "2026-11-14"
+  },
+  {
+   "id": "events:9a913545.rule.b3071c:ed089e1858c8",
+   "kind": "auto-read",
+   "held": false,
+   "origin": {
+    "id": "page:eternamax-eternatus-max-battles-2026",
+    "title": "Eternamax Eternatus Returns",
+    "note": "The event's own page, read by two models"
+   },
+   "field": "Special rule · Eternamax Eternatus in Max Battles",
+   "order": 5,
+   "answerFormat": "text",
+   "answerHint": "The sentence that states the rule",
+   "readings": [
+    {
+     "who": "Both models",
+     "value": "Defeat Eternamax Eternatus in Max Battles to earn a large amount of Eternatus Candy and Eternatus Candy XL. Eternamax Eternatus cannot be caught after these battles.",
+     "quote": "Defeat Eternamax Eternatus in Max Battles to earn a large amount of Eternatus Candy and Eternatus Candy XL. Eternamax Eternatus cannot be caught after these battles.",
+     "url": "https://leekduck.com/events/eternamax-eternatus-max-battles-2026/"
+    }
+   ],
+   "value": "Defeat Eternamax Eternatus in Max Battles to earn a large amount of Eternatus Candy and Eternatus Candy XL. Eternamax Eternatus cannot be caught after these battles.",
+   "section": "events",
+   "firstSeen": "2026-11-14"
+  },
+  {
+   "id": "events:9de196ba.debut.mega:da5b61519a0a",
+   "kind": "auto-read",
+   "held": false,
+   "origin": {
+    "id": "page:clefable-super-mega-raid-day-2026",
+    "title": "Clefable Super Mega Raid Day",
+    "note": "The event's own page, read by two models"
+   },
+   "field": "Mega debuts",
+   "order": 2,
+   "answerFormat": "names",
+   "answerHint": "Names, separated by ;",
+   "readings": [
+    {
+     "who": "Both models",
+     "value": "Clefable",
+     "quote": "Mega Clefable, a Fairy- and Flying-type Pokémon, will make its Pokémon GO debut in Super Mega Raids.",
+     "url": "https://leekduck.com/events/clefable-super-mega-raid-day-2026/"
+    }
+   ],
+   "value": "Clefable",
+   "section": "events",
+   "firstSeen": "2026-11-14"
+  },
+  {
+   "id": "events:9de196ba.rule.0cbc22:30ff17331a86",
+   "kind": "auto-read",
+   "held": false,
+   "origin": {
+    "id": "page:clefable-super-mega-raid-day-2026",
+    "title": "Clefable Super Mega Raid Day",
+    "note": "The event's own page, read by two models"
+   },
+   "field": "Special rule · New Mega Level: Super Max",
+   "order": 5,
+   "answerFormat": "text",
+   "answerHint": "The sentence that states the rule",
+   "readings": [
+    {
+     "who": "Both models",
+     "value": "Mega Clefable can reach Super Max Level for the first time. Raise its Mega Level to Max first, then use Clefable Mega Energy to reach Super Max. Mega Evolving alone will not be enough; participating in Mega Raids provides the additional Mega Energy you need.",
+     "quote": "Mega Clefable can reach Super Max Level for the first time. Raise its Mega Level to Max first, then use Clefable Mega Energy to reach Super Max. Mega Evolving alone will not be enough; participating in Mega Raids provides the additional Mega Energy you need.",
+     "url": "https://leekduck.com/events/clefable-super-mega-raid-day-2026/"
+    }
+   ],
+   "value": "Mega Clefable can reach Super Max Level for the first time. Raise its Mega Level to Max first, then use Clefable Mega Energy to reach Super Max. Mega Evolving alone will not be enough; participating in Mega Raids provides the additional Mega Energy you need.",
+   "section": "events",
+   "firstSeen": "2026-11-14"
+  },
+  {
+   "id": "events:9de196ba.rule.1a8b76:2b9d5c084863",
+   "kind": "auto-read",
+   "held": false,
+   "origin": {
+    "id": "page:clefable-super-mega-raid-day-2026",
+    "title": "Clefable Super Mega Raid Day",
+    "note": "The event's own page, read by two models"
+   },
+   "field": "Special rule · Moonblast+",
+   "order": 6,
+   "answerFormat": "text",
+   "answerHint": "The sentence that states the rule",
+   "readings": [
+    {
+     "who": "Both models",
+     "value": "Clefable can use the additional Charged Attack Moonblast+ while Mega Evolved.",
+     "quote": "Clefable can use the additional Charged Attack Moonblast+ while Mega Evolved.",
+     "url": "https://leekduck.com/events/clefable-super-mega-raid-day-2026/"
+    }
+   ],
+   "value": "Clefable can use the additional Charged Attack Moonblast+ while Mega Evolved.",
+   "section": "events",
+   "firstSeen": "2026-11-14"
+  },
+  {
+   "id": "events:9de196ba.rule.97173e:483637dc5272",
+   "kind": "auto-read",
+   "held": false,
+   "origin": {
+    "id": "page:clefable-super-mega-raid-day-2026",
+    "title": "Clefable Super Mega Raid Day",
+    "note": "The event's own page, read by two models"
+   },
+   "field": "Special rule · Global Challenge",
+   "order": 7,
+   "answerFormat": "text",
+   "answerHint": "The sentence that states the rule",
+   "readings": [
+    {
+     "who": "Both models",
+     "value": "Complete Raid Battles alongside Trainers worldwide to finish Global Challenge tiers. The challenge runs from Friday, November 27, at 5:00 p.m. to Saturday, November 28, 2026, at 8:00 p.m. PST.",
+     "quote": "Complete Raid Battles alongside Trainers worldwide to finish Global Challenge tiers. The challenge runs from Friday, November 27, at 5:00 p.m. to Saturday, November 28, 2026, at 8:00 p.m. PST.",
+     "url": "https://leekduck.com/events/clefable-super-mega-raid-day-2026/"
+    }
+   ],
+   "value": "Complete Raid Battles alongside Trainers worldwide to finish Global Challenge tiers. The challenge runs from Friday, November 27, at 5:00 p.m. to Saturday, November 28, 2026, at 8:00 p.m. PST.",
+   "section": "events",
+   "firstSeen": "2026-11-14"
+  },
+  {
+   "id": "events:9de196ba.rule.afdcd1:160ddbef3943",
+   "kind": "auto-read",
+   "held": false,
+   "origin": {
+    "id": "page:clefable-super-mega-raid-day-2026",
+    "title": "Clefable Super Mega Raid Day",
+    "note": "The event's own page, read by two models"
+   },
+   "field": "Special rule · Where can I find Super Mega Raids?",
+   "order": 8,
+   "answerFormat": "text",
+   "answerHint": "The sentence that states the rule",
+   "readings": [
+    {
+     "who": "Both models",
+     "value": "Super Mega Raids may only appear at certain Gyms and require teamwork. Use the Pokémon GO Map to find potential raid locations and raids already in progress. You can also check nearby community meetups in advance to coordinate with other Trainers.",
+     "quote": "Super Mega Raids may only appear at certain Gyms and require teamwork. Use the Pokémon GO Map to find potential raid locations and raids already in progress. You can also check nearby community meetups in advance to coordinate with other Trainers.",
+     "url": "https://leekduck.com/events/clefable-super-mega-raid-day-2026/"
+    }
+   ],
+   "value": "Super Mega Raids may only appear at certain Gyms and require teamwork. Use the Pokémon GO Map to find potential raid locations and raids already in progress. You can also check nearby community meetups in advance to coordinate with other Trainers.",
+   "section": "events",
+   "firstSeen": "2026-11-14"
+  },
+  {
+   "id": "events:a63375de.rule.671ab2:67e8779b5116",
+   "kind": "auto-read",
+   "held": false,
+   "origin": {
+    "id": "page:pokemon-x-adidas-2026",
+    "title": "adidas × Pokémon Timed Research",
+    "note": "The event's own page, read by two models"
+   },
+   "field": "Special rule · adidas Shoes",
+   "order": 6,
+   "answerFormat": "text",
+   "answerHint": "The sentence that states the rule",
+   "readings": [
+    {
+     "who": "Both models",
+     "value": "Complete your outfit! Trainers worldwide can redeem offer code ADIDASxPOKEMON through the Pokémon GO Web Store to get a pair of adidas shoes for their avatar.",
+     "quote": "Complete your outfit! Trainers worldwide can redeem offer code ADIDASxPOKEMON through the Pokémon GO Web Store to get a pair of adidas shoes for their avatar.",
+     "url": "https://leekduck.com/events/pokemon-x-adidas-2026/"
+    }
+   ],
+   "value": "Complete your outfit! Trainers worldwide can redeem offer code ADIDASxPOKEMON through the Pokémon GO Web Store to get a pair of adidas shoes for their avatar.",
+   "section": "events",
+   "firstSeen": "2026-11-14"
+  },
+  {
+   "id": "events:a63375de.rule.dd092f:4d1b68ca569b",
+   "kind": "auto-read",
+   "held": false,
+   "origin": {
+    "id": "page:pokemon-x-adidas-2026",
+    "title": "adidas × Pokémon Timed Research",
+    "note": "The event's own page, read by two models"
+   },
+   "field": "Special rule · Participating adidas Store Locations",
+   "order": 5,
+   "answerFormat": "text",
+   "answerHint": "The sentence that states the rule",
+   "readings": [
+    {
+     "who": "Both models",
+     "value": "Visit a participating location and open Pokémon GO to receive the research.",
+     "quote": "Visit a participating location and open Pokémon GO to receive the research.",
+     "url": "https://leekduck.com/events/pokemon-x-adidas-2026/"
+    }
+   ],
+   "value": "Visit a participating location and open Pokémon GO to receive the research.",
+   "section": "events",
+   "firstSeen": "2026-11-14"
+  },
+  {
+   "id": "events:b915f7e1.rule.a860be:cd734c48f518",
+   "kind": "model-disagreement",
+   "held": true,
+   "origin": {
+    "id": "page:twilight-wishes-2026",
+    "title": "Twilight Wishes",
+    "note": "The event's own page, read by two models"
+   },
+   "field": "Special rule · Featured Pokémon",
+   "order": 5,
+   "answerFormat": "text",
+   "answerHint": "The sentence that states the rule",
+   "readings": [
+    {
+     "who": "Claude",
+     "value": "Not read",
+     "url": "https://leekduck.com/events/twilight-wishes-2026/"
+    },
+    {
+     "who": "GPT",
+     "value": "Espeon wearing a sun scarf, Umbreon wearing a moon scarf, and Rockruff are featured during Twilight Wishes. All three can be Shiny if you’re lucky!",
+     "quote": "Espeon wearing a sun scarf, Umbreon wearing a moon scarf, and Rockruff are featured during Twilight Wishes. All three can be Shiny if you’re lucky!",
+     "url": "https://leekduck.com/events/twilight-wishes-2026/"
+    }
+   ],
+   "section": "events",
+   "firstSeen": "2026-11-14"
+  },
+  {
+   "id": "events:b915f7e1.rule.e87801:fca464bdcabe",
+   "kind": "auto-read",
+   "held": false,
+   "origin": {
+    "id": "page:twilight-wishes-2026",
+    "title": "Twilight Wishes",
+    "note": "The event's own page, read by two models"
+   },
+   "field": "Special rule · Explore with Decor",
+   "order": 6,
+   "answerFormat": "text",
+   "answerHint": "The sentence that states the rule",
+   "readings": [
+    {
+     "who": "Both models",
+     "value": "Stars will light up the in-game skies during Twilight Wishes, with colorful decor to enjoy as you explore.",
+     "quote": "Stars will light up the in-game skies during Twilight Wishes, with colorful decor to enjoy as you explore.",
+     "url": "https://leekduck.com/events/twilight-wishes-2026/"
+    }
+   ],
+   "value": "Stars will light up the in-game skies during Twilight Wishes, with colorful decor to enjoy as you explore.",
+   "section": "events",
+   "firstSeen": "2026-11-14"
+  },
+  {
+   "id": "events:ce5cf1a3.rule.15282c:64140cee7d8b",
+   "kind": "auto-read",
+   "held": false,
+   "origin": {
+    "id": "page:minior-showers-eta-aquariids-2027",
+    "title": "Minior Showers: Eta Aquariids 2027",
+    "note": "The event's own page, read by two models"
+   },
+   "field": "Special rule · Explore by Starlight",
+   "order": 6,
+   "answerFormat": "text",
+   "answerHint": "The sentence that states the rule",
+   "readings": [
+    {
+     "who": "Both models",
+     "value": "From 5:00 p.m. to 9:00 p.m. local time every day during each Minior Shower, shooting stars will light up the in-game sky. During these hours, you’ll have an increased chance of encountering Minior in the wild!",
+     "quote": "From 5:00 p.m. to 9:00 p.m. local time every day during each Minior Shower, shooting stars will light up the in-game sky. During these hours, you’ll have an increased chance of encountering Minior in the wild!",
+     "url": "https://leekduck.com/events/minior-showers-eta-aquariids-2027/"
+    }
+   ],
+   "value": "From 5:00 p.m. to 9:00 p.m. local time every day during each Minior Shower, shooting stars will light up the in-game sky. During these hours, you’ll have an increased chance of encountering Minior in the wild!",
+   "section": "events",
+   "firstSeen": "2026-11-14"
+  },
+  {
+   "id": "events:ce5cf1a3.rule.4b2754:a7ecf56ebe46",
+   "kind": "auto-read",
+   "held": false,
+   "origin": {
+    "id": "page:minior-showers-eta-aquariids-2027",
+    "title": "Minior Showers: Eta Aquariids 2027",
+    "note": "The event's own page, read by two models"
+   },
+   "field": "Special rule · Minior’s Form Changes",
+   "order": 7,
+   "answerFormat": "text",
+   "answerHint": "The sentence that states the rule",
+   "readings": [
+    {
+     "who": "Both models",
+     "value": "Initially, Minior will only be able to change forms when battling Team GO Rocket, team leaders, or in the GO Battle League.",
+     "quote": "Initially, Minior will only be able to change forms when battling Team GO Rocket, team leaders, or in the GO Battle League.",
+     "url": "https://leekduck.com/events/minior-showers-eta-aquariids-2027/"
+    }
+   ],
+   "value": "Initially, Minior will only be able to change forms when battling Team GO Rocket, team leaders, or in the GO Battle League.",
+   "section": "events",
+   "firstSeen": "2026-11-14"
+  },
+  {
+   "id": "events:ce5cf1a3.rule.901c52:ccf032dcbfd5",
+   "kind": "auto-read",
+   "held": false,
+   "origin": {
+    "id": "page:minior-showers-eta-aquariids-2027",
+    "title": "Minior Showers: Eta Aquariids 2027",
+    "note": "The event's own page, read by two models"
+   },
+   "field": "Special rule · Annual Meteor Shower Schedule",
+   "order": 8,
+   "answerFormat": "text",
+   "answerHint": "The sentence that states the rule",
+   "readings": [
+    {
+     "who": "Both models",
+     "value": "Minior can appear during the following meteor showers each year. Each shower begins at 5:00 p.m. on its first day and ends at 11:59 p.m. on its last day, in local time.",
+     "quote": "Minior can appear during the following meteor showers each year. Each shower begins at 5:00 p.m. on its first day and ends at 11:59 p.m. on its last day, in local time.",
+     "url": "https://leekduck.com/events/minior-showers-eta-aquariids-2027/"
+    }
+   ],
+   "value": "Minior can appear during the following meteor showers each year. Each shower begins at 5:00 p.m. on its first day and ends at 11:59 p.m. on its last day, in local time.",
+   "section": "events",
+   "firstSeen": "2026-11-14"
+  },
+  {
+   "id": "events:ce5cf1a3.rule.f00baa:d0e02325ae6c",
+   "kind": "auto-read",
+   "held": false,
+   "origin": {
+    "id": "page:minior-showers-eta-aquariids-2027",
+    "title": "Minior Showers: Eta Aquariids 2027",
+    "note": "The event's own page, read by two models"
+   },
+   "field": "Special rule · Minior Cores",
+   "order": 5,
+   "answerFormat": "text",
+   "answerHint": "The sentence that states the rule",
+   "readings": [
+    {
+     "who": "Both models",
+     "value": "Minior has seven different core colors: Red, Orange, Yellow, Green, Blue, Indigo, and Violet. A different core color will debut during each of the six meteor showers listed below. During the Geminids, one core color will debut in the Northern Hemisphere and another in the Southern Hemisphere.",
+     "quote": "Minior has seven different core colors: Red, Orange, Yellow, Green, Blue, Indigo, and Violet. A different core color will debut during each of the six meteor showers listed below. During the Geminids, one core color will debut in the Northern Hemisphere and another in the Southern Hemisphere.",
+     "url": "https://leekduck.com/events/minior-showers-eta-aquariids-2027/"
+    }
+   ],
+   "value": "Minior has seven different core colors: Red, Orange, Yellow, Green, Blue, Indigo, and Violet. A different core color will debut during each of the six meteor showers listed below. During the Geminids, one core color will debut in the Northern Hemisphere and another in the Southern Hemisphere.",
+   "section": "events",
+   "firstSeen": "2026-11-14"
+  },
+  {
+   "id": "events:ef29495a.attack.634a1f:70ae1880f987",
+   "kind": "auto-read",
+   "held": false,
+   "origin": {
+    "id": "page:into-the-wild-2026",
+    "title": "Into the Wild 2026",
+    "note": "The event's own page, read by two models"
+   },
+   "field": "Featured move · Regidrago",
+   "order": 8,
+   "answerFormat": "names",
+   "answerHint": "Move names, separated by ;",
+   "readings": [
+    {
+     "who": "Both models",
+     "value": "Dragon Breath",
+     "quote": "Regidrago caught during the event will know the Fast Attack Dragon Breath.",
+     "url": "https://leekduck.com/events/into-the-wild-2026/"
+    }
+   ],
+   "value": "Dragon Breath",
+   "section": "events",
+   "firstSeen": "2026-11-14"
+  },
+  {
+   "id": "events:ef29495a.attack.f607d2:219193b965b3",
+   "kind": "auto-read",
+   "held": false,
+   "origin": {
+    "id": "page:into-the-wild-2026",
+    "title": "Into the Wild 2026",
+    "note": "The event's own page, read by two models"
+   },
+   "field": "Featured move · Latios",
+   "order": 7,
+   "answerFormat": "names",
+   "answerHint": "Move names, separated by ;",
+   "readings": [
+    {
+     "who": "Both models",
+     "value": "Luster Purge",
+     "quote": "Latios caught during the event will know the Charged Attack Luster Purge.",
+     "url": "https://leekduck.com/events/into-the-wild-2026/"
+    }
+   ],
+   "value": "Luster Purge",
+   "section": "events",
+   "firstSeen": "2026-11-14"
+  },
+  {
+   "id": "events:ef29495a.attack.f9aba9:2b53d06b4ae6",
+   "kind": "auto-read",
+   "held": false,
+   "origin": {
+    "id": "page:into-the-wild-2026",
+    "title": "Into the Wild 2026",
+    "note": "The event's own page, read by two models"
+   },
+   "field": "Featured move · Latias",
+   "order": 6,
+   "answerFormat": "names",
+   "answerHint": "Move names, separated by ;",
+   "readings": [
+    {
+     "who": "Both models",
+     "value": "Mist Ball",
+     "quote": "Latias caught during the event will know the Charged Attack Mist Ball.",
+     "url": "https://leekduck.com/events/into-the-wild-2026/"
+    }
+   ],
+   "value": "Mist Ball",
+   "section": "events",
+   "firstSeen": "2026-11-14"
+  },
+  {
+   "id": "events:ef29495a.attack.fc6bfb:1d10ac5609c4",
+   "kind": "auto-read",
+   "held": false,
+   "origin": {
+    "id": "page:into-the-wild-2026",
+    "title": "Into the Wild 2026",
+    "note": "The event's own page, read by two models"
+   },
+   "field": "Featured move · Registeel",
+   "order": 5,
+   "answerFormat": "names",
+   "answerHint": "Move names, separated by ;",
+   "readings": [
+    {
+     "who": "Both models",
+     "value": "Metal Claw",
+     "quote": "Registeel caught during the event will know the Fast Attack Metal Claw.",
+     "url": "https://leekduck.com/events/into-the-wild-2026/"
+    }
+   ],
+   "value": "Metal Claw",
+   "section": "events",
+   "firstSeen": "2026-11-14"
+  },
+  {
+   "id": "events:ef29495a.debut.dynamax:36e10a5ee0ca",
+   "kind": "auto-read",
+   "held": false,
+   "origin": {
+    "id": "page:into-the-wild-2026",
+    "title": "Into the Wild 2026",
+    "note": "The event's own page, read by two models"
+   },
+   "field": "Dynamax debuts",
+   "order": 3,
+   "answerFormat": "names",
+   "answerHint": "Names, separated by ;",
+   "readings": [
+    {
+     "who": "Both models",
+     "value": "Regidrago; Meltan",
+     "quote": "Regidrago will make its Pokémon GO Dynamax debut in five-star Max Battles, and Meltan will make its Dynamax debut in GO Pass: Into the Wild. If you’re lucky, you may encounter a Shiny one!",
+     "url": "https://leekduck.com/events/into-the-wild-2026/"
+    }
+   ],
+   "value": "Regidrago; Meltan",
+   "section": "events",
+   "firstSeen": "2026-11-14"
+  },
+  {
+   "id": "events:ef29495a.rule.0353ff:059577ed9500",
+   "kind": "auto-read",
+   "held": false,
+   "origin": {
+    "id": "page:into-the-wild-2026",
+    "title": "Into the Wild 2026",
+    "note": "The event's own page, read by two models"
+   },
+   "field": "Special rule · New Special Background!",
+   "order": 10,
+   "answerFormat": "text",
+   "answerHint": "The sentence that states the rule",
+   "readings": [
+    {
+     "who": "Both models",
+     "value": "Trainers who take part in five-star raids and five-star Max Battles during the Into the Wild event will have a chance of receiving a new Special Background after a successful catch. The souvenir background appears on the Pokémon’s summary page, showing when it was caught on the road to Pokémon GO Wild Area!",
+     "quote": "Trainers who take part in five-star raids and five-star Max Battles during the Into the Wild event will have a chance of receiving a new Special Background after a successful catch. The souvenir background appears on the Pokémon’s summary page, showing when it was caught on the road to Pokémon GO Wild Area!",
+     "url": "https://leekduck.com/events/into-the-wild-2026/"
+    }
+   ],
+   "value": "Trainers who take part in five-star raids and five-star Max Battles during the Into the Wild event will have a chance of receiving a new Special Background after a successful catch. The souvenir background appears on the Pokémon’s summary page, showing when it was caught on the road to Pokémon GO Wild Area!",
+   "section": "events",
+   "firstSeen": "2026-11-14"
+  },
+  {
+   "id": "events:ef29495a.rule.3d1a7f:ef826ab7ffc6",
+   "kind": "auto-read",
+   "held": false,
+   "origin": {
+    "id": "page:into-the-wild-2026",
+    "title": "Into the Wild 2026",
+    "note": "The event's own page, read by two models"
+   },
+   "field": "Special rule · Into the Wild Global Challenge",
+   "order": 11,
+   "answerFormat": "text",
+   "answerHint": "The sentence that states the rule",
+   "readings": [
+    {
+     "who": "Both models",
+     "value": "Work with Trainers around the world to complete raids and Max Battles. Completing the Into the Wild Global Challenge unlocks the following bonuses.",
+     "quote": "Work with Trainers around the world to complete raids and Max Battles. Completing the Into the Wild Global Challenge unlocks the following bonuses.",
+     "url": "https://leekduck.com/events/into-the-wild-2026/"
+    }
+   ],
+   "value": "Work with Trainers around the world to complete raids and Max Battles. Completing the Into the Wild Global Challenge unlocks the following bonuses.",
+   "section": "events",
+   "firstSeen": "2026-11-14"
+  },
+  {
+   "id": "events:ef29495a.rule.81cfbf:d6b08de635a0",
+   "kind": "auto-read",
+   "held": false,
+   "origin": {
+    "id": "page:into-the-wild-2026",
+    "title": "Into the Wild 2026",
+    "note": "The event's own page, read by two models"
+   },
+   "field": "Special rule · Meltan and the Mystery Box",
+   "order": 9,
+   "answerFormat": "text",
+   "answerHint": "The sentence that states the rule",
+   "readings": [
+    {
+     "who": "Both models",
+     "value": "From Monday, November 9, at 10:00 a.m. to Sunday, November 15, at 6:00 p.m. local time, opening the Mystery Box gives you a chance to encounter Shiny Meltan, and you won’t have to wait as long before you can open it again.",
+     "quote": "From Monday, November 9, at 10:00 a.m. to Sunday, November 15, at 6:00 p.m. local time, opening the Mystery Box gives you a chance to encounter Shiny Meltan, and you won’t have to wait as long before you can open it again.",
+     "url": "https://leekduck.com/events/into-the-wild-2026/"
+    }
+   ],
+   "value": "From Monday, November 9, at 10:00 a.m. to Sunday, November 15, at 6:00 p.m. local time, opening the Mystery Box gives you a chance to encounter Shiny Meltan, and you won’t have to wait as long before you can open it again.",
+   "section": "events",
+   "firstSeen": "2026-11-14"
   },
   {
    "id": "events:ef532740.microsite:4f53cda18c2b",
