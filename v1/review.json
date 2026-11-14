@@ -1,33 +1,9 @@
 {
  "schema": 1,
- "built": "2026-11-14T10:04:44Z",
+ "built": "2026-11-14T10:07:00Z",
  "items": [
   {
-   "id": "catalog:add:background.lc-pokelid-gunma:4eed99243bbe",
-   "kind": "catalog-change",
-   "held": true,
-   "origin": {
-    "id": "catalog",
-    "title": "Catalog",
-    "note": "Dittobase import"
-   },
-   "field": "New background: Poké Lid Gunma",
-   "change": "add",
-   "entity": "background",
-   "card": {
-    "slug": "lc-pokelid-gunma",
-    "name": "Poké Lid Gunma",
-    "art": "art/172d404cda717b837f95816669b6fb87.jpg",
-    "kind": "LOCATION_CARD",
-    "detail": "2 Pokémon: Pikachu, Raichu",
-    "nameJa": "ポケふた群馬",
-    "nameJaAuto": true
-   },
-   "section": "catalog",
-   "firstSeen": "2026-11-14"
-  },
-  {
-   "id": "catalog:label:background.sb-wild-area-global-2026:569ac886c639",
+   "id": "catalog:label:background.lc-pokelid-gunma:dbe6f116e0eb",
    "kind": "auto-read",
    "held": false,
    "origin": {
@@ -35,114 +11,14 @@
     "title": "Catalog",
     "note": "Dittobase import"
    },
-   "field": "Japanese label: Wild Area Global 2026",
-   "value": "Pokémon GO Wild Area: グローバル 2026",
+   "field": "Japanese label: Poké Lid Gunma",
+   "value": "ポケふた群馬",
    "readings": [
     {
      "who": "Claude",
-     "value": "Pokémon GO Wild Area: グローバル 2026"
+     "value": "ポケふた群馬"
     }
    ],
-   "section": "catalog",
-   "firstSeen": "2026-11-14"
-  },
-  {
-   "id": "catalog:remove:link.lc-wild-area-mexico-city-2026.dusclops-fall-2022:95e0b108d790",
-   "kind": "catalog-change",
-   "held": true,
-   "origin": {
-    "id": "catalog",
-    "title": "Catalog",
-    "note": "Dittobase import"
-   },
-   "field": "Removed: Cempasúchil Crown Dusclops on Wild Area Mexico City 2026",
-   "change": "remove",
-   "entity": "link",
-   "card": {
-    "slug": "lc-wild-area-mexico-city-2026::dusclops-fall-2022",
-    "name": "Cempasúchil Crown Dusclops · Wild Area Mexico City 2026",
-    "art": "art/3a32d790148a69839db246644644fe74.png",
-    "backgroundArt": "art/9b1c06bfc6a1f635d32864eccd9f3d4d.jpg"
-   },
-   "touches": {
-    "background": "lc-wild-area-mexico-city-2026",
-    "pokemon": "dusclops-fall-2022"
-   },
-   "section": "catalog",
-   "firstSeen": "2026-11-14"
-  },
-  {
-   "id": "catalog:remove:link.lc-wild-area-mexico-city-2026.dusknoir-fall-2022:f8810eca0b8a",
-   "kind": "catalog-change",
-   "held": true,
-   "origin": {
-    "id": "catalog",
-    "title": "Catalog",
-    "note": "Dittobase import"
-   },
-   "field": "Removed: Cempasúchil Crown Dusknoir on Wild Area Mexico City 2026",
-   "change": "remove",
-   "entity": "link",
-   "card": {
-    "slug": "lc-wild-area-mexico-city-2026::dusknoir-fall-2022",
-    "name": "Cempasúchil Crown Dusknoir · Wild Area Mexico City 2026",
-    "art": "art/bbc9554fdfc5d3f29cf94a20b7a8af0e.png",
-    "backgroundArt": "art/9b1c06bfc6a1f635d32864eccd9f3d4d.jpg"
-   },
-   "touches": {
-    "background": "lc-wild-area-mexico-city-2026",
-    "pokemon": "dusknoir-fall-2022"
-   },
-   "section": "catalog",
-   "firstSeen": "2026-11-14"
-  },
-  {
-   "id": "catalog:remove:link.lc-wild-area-mexico-city-2026.duskull-fall-2022:061787bd92b1",
-   "kind": "catalog-change",
-   "held": true,
-   "origin": {
-    "id": "catalog",
-    "title": "Catalog",
-    "note": "Dittobase import"
-   },
-   "field": "Removed: Cempasúchil Crown Duskull on Wild Area Mexico City 2026",
-   "change": "remove",
-   "entity": "link",
-   "card": {
-    "slug": "lc-wild-area-mexico-city-2026::duskull-fall-2022",
-    "name": "Cempasúchil Crown Duskull · Wild Area Mexico City 2026",
-    "art": "art/2b552fbb1a3c1054d73c1ecbe91ddcc2.png",
-    "backgroundArt": "art/9b1c06bfc6a1f635d32864eccd9f3d4d.jpg"
-   },
-   "touches": {
-    "background": "lc-wild-area-mexico-city-2026",
-    "pokemon": "duskull-fall-2022"
-   },
-   "section": "catalog",
-   "firstSeen": "2026-11-14"
-  },
-  {
-   "id": "catalog:remove:link.lc-wild-area-mexico-city-2026.gengar-gigantamax:006716bf82d5",
-   "kind": "catalog-change",
-   "held": true,
-   "origin": {
-    "id": "catalog",
-    "title": "Catalog",
-    "note": "Dittobase import"
-   },
-   "field": "Removed: Gigantamax Gengar on Wild Area Mexico City 2026",
-   "change": "remove",
-   "entity": "link",
-   "card": {
-    "slug": "lc-wild-area-mexico-city-2026::gengar-gigantamax",
-    "name": "Gigantamax Gengar · Wild Area Mexico City 2026",
-    "art": "art/adecdaed1c45a72013638737b50ca54b.png",
-    "backgroundArt": "art/9b1c06bfc6a1f635d32864eccd9f3d4d.jpg"
-   },
-   "touches": {
-    "background": "lc-wild-area-mexico-city-2026",
-    "pokemon": "gengar-gigantamax"
-   },
    "section": "catalog",
    "firstSeen": "2026-11-14"
   },
@@ -785,7 +661,13 @@
  ],
  "relied": {
   "catalog": [
-   "catalog:add:background.sb-wild-area-global-2026:4f7105c9f5c4"
+   "catalog:add:background.lc-pokelid-gunma:4eed99243bbe",
+   "catalog:add:background.sb-wild-area-global-2026:4f7105c9f5c4",
+   "catalog:label:background.sb-wild-area-global-2026:569ac886c639",
+   "catalog:remove:link.lc-wild-area-mexico-city-2026.dusclops-fall-2022:95e0b108d790",
+   "catalog:remove:link.lc-wild-area-mexico-city-2026.dusknoir-fall-2022:f8810eca0b8a",
+   "catalog:remove:link.lc-wild-area-mexico-city-2026.duskull-fall-2022:061787bd92b1",
+   "catalog:remove:link.lc-wild-area-mexico-city-2026.gengar-gigantamax:006716bf82d5"
   ]
  }
 }

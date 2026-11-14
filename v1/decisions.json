@@ -1,12 +1,48 @@
 {
  "schema": 1,
- "built": "2026-11-14T10:04:44Z",
+ "built": "2026-11-14T10:07:00Z",
  "decisions": [
+  {
+   "itemId": "catalog:add:background.lc-pokelid-gunma:4eed99243bbe",
+   "action": "approve",
+   "value": null,
+   "decidedAt": "2026-11-14T10:06:40.443Z"
+  },
   {
    "itemId": "catalog:add:background.sb-wild-area-global-2026:4f7105c9f5c4",
    "action": "approve",
    "value": null,
    "decidedAt": "2026-11-14T10:01:26.388Z"
+  },
+  {
+   "itemId": "catalog:label:background.sb-wild-area-global-2026:569ac886c639",
+   "action": "confirm",
+   "value": null,
+   "decidedAt": "2026-11-14T10:06:31.324Z"
+  },
+  {
+   "itemId": "catalog:remove:link.lc-wild-area-mexico-city-2026.dusclops-fall-2022:95e0b108d790",
+   "action": "approve",
+   "value": null,
+   "decidedAt": "2026-11-14T10:06:42.880Z"
+  },
+  {
+   "itemId": "catalog:remove:link.lc-wild-area-mexico-city-2026.dusknoir-fall-2022:f8810eca0b8a",
+   "action": "approve",
+   "value": null,
+   "decidedAt": "2026-11-14T10:06:46.021Z"
+  },
+  {
+   "itemId": "catalog:remove:link.lc-wild-area-mexico-city-2026.duskull-fall-2022:061787bd92b1",
+   "action": "approve",
+   "value": null,
+   "decidedAt": "2026-11-14T10:06:49.675Z"
+  },
+  {
+   "itemId": "catalog:remove:link.lc-wild-area-mexico-city-2026.gengar-gigantamax:006716bf82d5",
+   "action": "approve",
+   "value": null,
+   "decidedAt": "2026-11-14T10:06:36.737Z"
   }
  ]
 }

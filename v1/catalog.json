@@ -71850,6 +71850,44 @@
    ]
   },
   {
+   "id": "lc-pokelid-gunma",
+   "name": "Poké Lid Gunma",
+   "type": "LOCATION_CARD",
+   "image": "art/172d404cda717b837f95816669b6fb87.jpg",
+   "nameJa": "ポケふた群馬",
+   "nameJaAuto": true,
+   "pokemon": [
+    {
+     "pokemon": "pikachu",
+     "canBeShiny": true,
+     "evolvedOnly": false,
+     "events": [
+      {
+       "name": "Poké Lid Stamp Rally",
+       "start": "2026-11-09T12:29:00.000Z",
+       "end": null,
+       "shiny": true,
+       "evolved": false
+      }
+     ]
+    },
+    {
+     "pokemon": "raichu",
+     "canBeShiny": true,
+     "evolvedOnly": true,
+     "events": [
+      {
+       "name": "Poké Lid Stamp Rally",
+       "start": "2026-11-09T12:29:00.000Z",
+       "end": null,
+       "shiny": true,
+       "evolved": true
+      }
+     ]
+    }
+   ]
+  },
+  {
    "id": "lc-pokelid-hokkaido",
    "name": "Poké Lid Hokkaido",
    "type": "LOCATION_CARD",
@@ -75085,7 +75123,8 @@
        "shiny": true,
        "evolved": true
       }
-     ]
+     ],
+     "retired": true
     },
     {
      "pokemon": "dusknoir-fall-2022",
@@ -75099,7 +75138,8 @@
        "shiny": true,
        "evolved": true
       }
-     ]
+     ],
+     "retired": true
     },
     {
      "pokemon": "duskull-fall-2022",
@@ -75113,7 +75153,8 @@
        "shiny": true,
        "evolved": false
       }
-     ]
+     ],
+     "retired": true
     },
     {
      "pokemon": "empoleon",
@@ -75169,7 +75210,8 @@
        "shiny": true,
        "evolved": false
       }
-     ]
+     ],
+     "retired": true
     },
     {
      "pokemon": "goodra",
@@ -90459,7 +90501,6 @@
    "type": "SPECIAL_BACKGROUND",
    "image": "art/ece24c2225e0cc3c605d48204cabd9bf.jpg",
    "nameJa": "Pokémon GO Wild Area: グローバル 2026",
-   "nameJaAuto": true,
    "pokemon": [
     {
      "pokemon": "dialga-dynamax",

@@ -14978,9 +14978,15 @@
   }
  },
  "via": {
+  "background:lc-pokelid-gunma": "catalog:add:background.lc-pokelid-gunma:4eed99243bbe",
   "background:sb-wild-area-global-2026": "catalog:add:background.sb-wild-area-global-2026:4f7105c9f5c4"
  },
- "retiredVia": {},
+ "retiredVia": {
+  "link:lc-wild-area-mexico-city-2026:dusclops-fall-2022": "catalog:remove:link.lc-wild-area-mexico-city-2026.dusclops-fall-2022:95e0b108d790",
+  "link:lc-wild-area-mexico-city-2026:dusknoir-fall-2022": "catalog:remove:link.lc-wild-area-mexico-city-2026.dusknoir-fall-2022:f8810eca0b8a",
+  "link:lc-wild-area-mexico-city-2026:duskull-fall-2022": "catalog:remove:link.lc-wild-area-mexico-city-2026.duskull-fall-2022:061787bd92b1",
+  "link:lc-wild-area-mexico-city-2026:gengar-gigantamax": "catalog:remove:link.lc-wild-area-mexico-city-2026.gengar-gigantamax:006716bf82d5"
+ },
  "aliases": {},
  "kept": {},
  "log": [
