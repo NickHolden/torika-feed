@@ -652,19 +652,6 @@
    "tier": 5,
    "bosses": [
     {
-     "slug": "dialga",
-     "name": "Dialga",
-     "gigantamax": false,
-     "start": {
-      "time": "2026-11-14T05:00:00",
-      "kind": "local"
-     },
-     "end": {
-      "time": "2026-11-14T20:00:00",
-      "kind": "local"
-     }
-    },
-    {
      "slug": "palkia",
      "name": "Palkia",
      "gigantamax": false,

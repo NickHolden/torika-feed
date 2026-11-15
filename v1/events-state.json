@@ -407,7 +407,7 @@
     "Claude",
     "GPT"
    ],
-   "hash": "sha256-69ffcc7bce6e1a461ca16c77bc004c03547583b81633cc20f09bfd75f6490c2f",
+   "hash": "sha256-f7eda6a31cfda58a76cf3e091b1a9ff5db389e28ff302093d885a07fee1170ca",
    "readings": [
     {
      "debuts": [
@@ -491,7 +491,7 @@
       },
       {
        "heading": "GO Safari Balls",
-       "quote": "GO Safari Balls improve the chance of catching Pokémon, especially mighty Pokémon. All Trainers can obtain them by spinning PokéStops and Gym Photo Discs during event hours."
+       "quote": "They can only be used from 10:00 a.m. to 6:00 p.m. local time on event days and become inaccessible after the event ends."
       },
       {
        "heading": "Supply Balloons",
@@ -1160,9 +1160,9 @@
       "ja": null
      }
     },
-    "events:3a0dec74.rule.8f8309:b5b6c215e041": {
+    "events:3a0dec74.rule.8f8309:d9cf3bf3ce2b": {
      "item": {
-      "id": "events:3a0dec74.rule.8f8309:b5b6c215e041",
+      "id": "events:3a0dec74.rule.8f8309:d9cf3bf3ce2b",
       "kind": "auto-read",
       "held": false,
       "origin": {
@@ -1177,16 +1177,16 @@
       "readings": [
        {
         "who": "Both models",
-        "value": "GO Safari Balls improve the chance of catching Pokémon, especially mighty Pokémon. All Trainers can obtain them by spinning PokéStops and Gym Photo Discs during event hours.",
-        "quote": "GO Safari Balls improve the chance of catching Pokémon, especially mighty Pokémon. All Trainers can obtain them by spinning PokéStops and Gym Photo Discs during event hours.",
+        "value": "They can only be used from 10:00 a.m. to 6:00 p.m. local time on event days and become inaccessible after the event ends.",
+        "quote": "They can only be used from 10:00 a.m. to 6:00 p.m. local time on event days and become inaccessible after the event ends.",
         "url": "https://leekduck.com/events/pokemon-go-wild-area-2026-global/"
        }
       ],
-      "value": "GO Safari Balls improve the chance of catching Pokémon, especially mighty Pokémon. All Trainers can obtain them by spinning PokéStops and Gym Photo Discs during event hours."
+      "value": "They can only be used from 10:00 a.m. to 6:00 p.m. local time on event days and become inaccessible after the event ends."
      },
      "meta": {
-      "source": "events:3a0dec74.rule.8f8309:b5b6c215e041",
-      "value": "GO Safari Balls improve the chance of catching Pokémon, especially mighty Pokémon. All Trainers can obtain them by spinning PokéStops and Gym Photo Discs during event hours.",
+      "source": "events:3a0dec74.rule.8f8309:d9cf3bf3ce2b",
+      "value": "They can only be used from 10:00 a.m. to 6:00 p.m. local time on event days and become inaccessible after the event ends.",
       "ja": null
      }
     },
@@ -1269,7 +1269,7 @@
     "events:3a0dec74.rule.a8db38:88cec8b27cc2",
     "events:3a0dec74.rule.4b289d:589460fbcba3",
     "events:3a0dec74.rule.2becd4:4bdf46466c11",
-    "events:3a0dec74.rule.8f8309:b5b6c215e041",
+    "events:3a0dec74.rule.8f8309:d9cf3bf3ce2b",
     "events:3a0dec74.rule.a7fd34:e91a4c649019",
     "events:3a0dec74.rule.2220b4:b44291ba69c5"
    ]
@@ -1970,7 +1970,7 @@
     "Claude",
     "GPT"
    ],
-   "hash": "sha256-1f8ba5429d64efc9938bff4153bbf1c423e8f6f72bc8b333e93e63c63d1f0c5e",
+   "hash": "sha256-00c83f1de8ba10896902df35eb320a9b4fa4bbb761dc4fdfd85effa3f13fb991",
    "readings": [
     {
      "debuts": [],
@@ -7133,6 +7133,412 @@
    ],
    "research": [],
    "pokemon": [
+    {
+     "group": "Wild",
+     "name": "Bulbasaur",
+     "written": "Bulbasaur",
+     "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_001_00.png",
+     "shiny": true
+    },
+    {
+     "group": "Wild",
+     "name": "Charmander",
+     "written": "Charmander",
+     "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_004_00.png",
+     "shiny": true
+    },
+    {
+     "group": "Wild",
+     "name": "Squirtle",
+     "written": "Squirtle",
+     "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_007_00.png",
+     "shiny": true
+    },
+    {
+     "group": "Wild",
+     "name": "Caterpie",
+     "written": "Caterpie",
+     "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_010_00.png",
+     "shiny": true
+    },
+    {
+     "group": "Wild",
+     "name": "Pikachu",
+     "written": "Pikachu",
+     "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_025_00.png",
+     "shiny": true
+    },
+    {
+     "group": "Wild",
+     "name": "Growlithe",
+     "written": "Growlithe",
+     "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_058_00.png",
+     "shiny": true
+    },
+    {
+     "group": "Wild",
+     "name": "Abra",
+     "written": "Abra",
+     "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_063_00.png",
+     "shiny": true
+    },
+    {
+     "group": "Wild",
+     "name": "Machop",
+     "written": "Machop",
+     "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_066_00.png",
+     "shiny": true
+    },
+    {
+     "group": "Wild",
+     "name": "Gastly",
+     "written": "Gastly",
+     "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_092_00.png",
+     "shiny": true
+    },
+    {
+     "group": "Wild",
+     "name": "Krabby",
+     "written": "Krabby",
+     "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_098_00.png",
+     "shiny": true
+    },
+    {
+     "group": "Wild",
+     "name": "Hitmonlee",
+     "written": "Hitmonlee",
+     "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_106_00.png",
+     "shiny": true
+    },
+    {
+     "group": "Wild",
+     "name": "Hitmonchan",
+     "written": "Hitmonchan",
+     "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_107_00.png",
+     "shiny": true
+    },
+    {
+     "group": "Wild",
+     "name": "Rhyhorn",
+     "written": "Rhyhorn",
+     "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_111_00.png",
+     "shiny": true
+    },
+    {
+     "group": "Wild",
+     "name": "Chansey",
+     "written": "Chansey",
+     "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_113_00.png",
+     "shiny": true
+    },
+    {
+     "group": "Wild",
+     "name": "Electabuzz",
+     "written": "Electabuzz",
+     "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_125_00.png",
+     "shiny": true
+    },
+    {
+     "group": "Wild",
+     "name": "Magmar",
+     "written": "Magmar",
+     "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_126_00.png",
+     "shiny": true
+    },
+    {
+     "group": "Wild",
+     "name": "Magikarp",
+     "written": "Magikarp",
+     "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_129_00.png",
+     "shiny": true
+    },
+    {
+     "group": "Wild",
+     "name": "Eevee",
+     "written": "Eevee",
+     "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_133_00.png",
+     "shiny": true
+    },
+    {
+     "group": "Wild",
+     "name": "Omanyte",
+     "written": "Omanyte",
+     "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_138_00.png",
+     "shiny": true
+    },
+    {
+     "group": "Wild",
+     "name": "Kabuto",
+     "written": "Kabuto",
+     "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_140_00.png",
+     "shiny": true
+    },
+    {
+     "group": "Wild",
+     "name": "Hoothoot",
+     "written": "Hoothoot",
+     "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_163_00.png",
+     "shiny": true
+    },
+    {
+     "group": "Wild",
+     "name": "Shuckle",
+     "written": "Shuckle",
+     "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_213_00.png",
+     "shiny": true
+    },
+    {
+     "group": "Wild",
+     "name": "Sneasel",
+     "written": "Sneasel",
+     "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_215_00.png",
+     "shiny": true
+    },
+    {
+     "group": "Wild",
+     "name": "Hitmontop",
+     "written": "Hitmontop",
+     "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_237_00.png",
+     "shiny": true
+    },
+    {
+     "group": "Wild",
+     "name": "Ralts",
+     "written": "Ralts",
+     "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_280_00.png",
+     "shiny": true
+    },
+    {
+     "group": "Wild",
+     "name": "Sableye",
+     "written": "Sableye",
+     "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_302_00.png",
+     "shiny": true
+    },
+    {
+     "group": "Wild",
+     "name": "Wailmer",
+     "written": "Wailmer",
+     "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_320_00.png",
+     "shiny": true
+    },
+    {
+     "group": "Wild",
+     "name": "Trapinch",
+     "written": "Trapinch",
+     "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_328_00.png",
+     "shiny": true
+    },
+    {
+     "group": "Wild",
+     "name": "Feebas",
+     "written": "Feebas",
+     "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_349_00.png",
+     "shiny": true
+    },
+    {
+     "group": "Wild",
+     "name": "Spheal",
+     "written": "Spheal",
+     "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_363_00.png",
+     "shiny": true
+    },
+    {
+     "group": "Wild",
+     "name": "Beldum",
+     "written": "Beldum",
+     "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_374_00.png",
+     "shiny": true
+    },
+    {
+     "group": "Wild",
+     "name": "Combee",
+     "written": "Combee",
+     "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_415_00.png",
+     "shiny": true
+    },
+    {
+     "group": "Wild",
+     "name": "Pidove",
+     "written": "Pidove",
+     "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_519_00.png",
+     "shiny": true
+    },
+    {
+     "group": "Wild",
+     "name": "Roggenrola",
+     "written": "Roggenrola",
+     "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_524_00.png",
+     "shiny": true
+    },
+    {
+     "group": "Wild",
+     "name": "Woobat",
+     "written": "Woobat",
+     "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_527_00.png",
+     "shiny": true
+    },
+    {
+     "group": "Wild",
+     "name": "Drilbur",
+     "written": "Drilbur",
+     "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_529_00.png",
+     "shiny": true
+    },
+    {
+     "group": "Wild",
+     "name": "Excadrill",
+     "written": "Excadrill",
+     "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_530_00.png",
+     "shiny": true
+    },
+    {
+     "group": "Wild",
+     "name": "Cottonee",
+     "written": "Cottonee",
+     "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_546_00.png",
+     "shiny": true
+    },
+    {
+     "group": "Wild",
+     "name": "Darumaka",
+     "written": "Darumaka",
+     "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_554_00.png",
+     "shiny": true
+    },
+    {
+     "group": "Wild",
+     "name": "Trubbish",
+     "written": "Trubbish",
+     "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_568_00.png",
+     "shiny": true
+    },
+    {
+     "group": "Wild",
+     "name": "Cryogonal",
+     "written": "Cryogonal",
+     "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_615_00.png",
+     "shiny": true
+    },
+    {
+     "group": "Wild",
+     "name": "Deino",
+     "written": "Deino",
+     "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_633_00.png",
+     "shiny": true
+    },
+    {
+     "group": "Wild",
+     "name": "Inkay",
+     "written": "Inkay",
+     "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_686_00.png",
+     "shiny": true
+    },
+    {
+     "group": "Wild",
+     "name": "Bounsweet",
+     "written": "Bounsweet",
+     "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm761.icon.png",
+     "shiny": true
+    },
+    {
+     "group": "Wild",
+     "name": "Passimian",
+     "written": "Passimian",
+     "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm766.icon.png",
+     "shiny": true
+    },
+    {
+     "group": "Wild",
+     "name": "Drampa",
+     "written": "Drampa",
+     "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm780.icon.png",
+     "shiny": true
+    },
+    {
+     "group": "Wild",
+     "name": "Grookey",
+     "written": "Grookey",
+     "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm810.icon.png",
+     "shiny": true
+    },
+    {
+     "group": "Wild",
+     "name": "Scorbunny",
+     "written": "Scorbunny",
+     "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm813.icon.png",
+     "shiny": true
+    },
+    {
+     "group": "Wild",
+     "name": "Sobble",
+     "written": "Sobble",
+     "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm816.icon.png",
+     "shiny": true
+    },
+    {
+     "group": "Wild",
+     "name": "Skwovet",
+     "written": "Skwovet",
+     "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm819.icon.png",
+     "shiny": true
+    },
+    {
+     "group": "Wild",
+     "name": "Rookidee",
+     "written": "Rookidee",
+     "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm821.icon.png",
+     "shiny": true
+    },
+    {
+     "group": "Wild",
+     "name": "Wooloo",
+     "written": "Wooloo",
+     "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm831.icon.png",
+     "shiny": true
+    },
+    {
+     "group": "Wild",
+     "name": "Toxtricity (Amped Form)",
+     "written": "Toxtricity (Amped Form)",
+     "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm849.fAMPED.icon.png",
+     "shiny": true
+    },
+    {
+     "group": "Wild",
+     "name": "Toxtricity (Low Key Form)",
+     "written": "Toxtricity (Low Key Form)",
+     "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm849.fLOW_KEY.icon.png",
+     "shiny": true
+    },
+    {
+     "group": "Wild",
+     "name": "Sizzlipede",
+     "written": "Sizzlipede",
+     "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm850.icon.png",
+     "shiny": true
+    },
+    {
+     "group": "Wild",
+     "name": "Hatenna",
+     "written": "Hatenna",
+     "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm856.icon.png",
+     "shiny": true
+    },
+    {
+     "group": "Wild",
+     "name": "Falinks",
+     "written": "Falinks",
+     "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm870.icon.png",
+     "shiny": true
+    },
+    {
+     "group": "Wild",
+     "name": "Duraludon",
+     "written": "Duraludon",
+     "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm884.icon.png",
+     "shiny": true
+    },
     {
      "group": "Max Battles",
      "name": "Dynamax Bulbasaur",

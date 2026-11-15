@@ -1,0 +1,4054 @@
+{
+ "catchables": [
+  {
+   "slug": "machamp-modern-jacket",
+   "name": "Machamp Modern Jacket",
+   "kind": "raid",
+   "level": 20,
+   "boostedLevel": 25,
+   "floor": 10,
+   "boostedFloor": 10,
+   "start": {
+    "time": "2026-11-14T10:00:00",
+    "kind": "local"
+   },
+   "end": {
+    "time": "2026-11-15T18:00:00",
+    "kind": "local"
+   }
+  },
+  {
+   "slug": "zekrom",
+   "name": "Zekrom",
+   "kind": "raid",
+   "level": 20,
+   "boostedLevel": 25,
+   "floor": 10,
+   "boostedFloor": 10,
+   "start": {
+    "time": "2026-11-14T10:00:00",
+    "kind": "local"
+   },
+   "end": {
+    "time": "2026-11-15T18:00:00",
+    "kind": "local"
+   }
+  },
+  {
+   "slug": "kyurem",
+   "name": "Kyurem",
+   "kind": "raid",
+   "level": 20,
+   "boostedLevel": 25,
+   "floor": 10,
+   "boostedFloor": 10,
+   "start": {
+    "time": "2026-11-14T10:00:00",
+    "kind": "local"
+   },
+   "end": {
+    "time": "2026-11-15T18:00:00",
+    "kind": "local"
+   }
+  },
+  {
+   "slug": "reshiram",
+   "name": "Reshiram",
+   "kind": "raid",
+   "level": 20,
+   "boostedLevel": 25,
+   "floor": 10,
+   "boostedFloor": 10,
+   "start": {
+    "time": "2026-11-14T10:00:00",
+    "kind": "local"
+   },
+   "end": {
+    "time": "2026-11-15T18:00:00",
+    "kind": "local"
+   }
+  },
+  {
+   "slug": "larvitar-shadow",
+   "name": "Shadow Larvitar",
+   "kind": "raid",
+   "level": 20,
+   "boostedLevel": 25,
+   "floor": 6,
+   "boostedFloor": 6,
+   "start": {
+    "time": "2026-11-16T06:00:00",
+    "kind": "local"
+   },
+   "end": {
+    "time": "2026-12-01T20:00:00",
+    "kind": "local"
+   }
+  },
+  {
+   "slug": "mudkip-shadow",
+   "name": "Shadow Mudkip",
+   "kind": "raid",
+   "level": 20,
+   "boostedLevel": 25,
+   "floor": 6,
+   "boostedFloor": 6,
+   "start": {
+    "time": "2026-11-16T06:00:00",
+    "kind": "local"
+   },
+   "end": {
+    "time": "2026-12-01T20:00:00",
+    "kind": "local"
+   }
+  },
+  {
+   "slug": "makuhita-shadow",
+   "name": "Shadow Makuhita",
+   "kind": "raid",
+   "level": 20,
+   "boostedLevel": 25,
+   "floor": 6,
+   "boostedFloor": 6,
+   "start": {
+    "time": "2026-11-16T06:00:00",
+    "kind": "local"
+   },
+   "end": {
+    "time": "2026-12-01T20:00:00",
+    "kind": "local"
+   }
+  },
+  {
+   "slug": "cranidos-shadow",
+   "name": "Shadow Cranidos",
+   "kind": "raid",
+   "level": 20,
+   "boostedLevel": 25,
+   "floor": 6,
+   "boostedFloor": 6,
+   "start": {
+    "time": "2026-11-16T06:00:00",
+    "kind": "local"
+   },
+   "end": {
+    "time": "2026-12-01T20:00:00",
+    "kind": "local"
+   }
+  },
+  {
+   "slug": "poliwhirl-shadow",
+   "name": "Shadow Poliwhirl",
+   "kind": "raid",
+   "level": 20,
+   "boostedLevel": 25,
+   "floor": 6,
+   "boostedFloor": 6,
+   "start": {
+    "time": "2026-11-16T06:00:00",
+    "kind": "local"
+   },
+   "end": {
+    "time": "2026-12-01T20:00:00",
+    "kind": "local"
+   }
+  },
+  {
+   "slug": "piloswine-shadow",
+   "name": "Shadow Piloswine",
+   "kind": "raid",
+   "level": 20,
+   "boostedLevel": 25,
+   "floor": 6,
+   "boostedFloor": 6,
+   "start": {
+    "time": "2026-11-16T06:00:00",
+    "kind": "local"
+   },
+   "end": {
+    "time": "2026-12-01T20:00:00",
+    "kind": "local"
+   }
+  },
+  {
+   "slug": "prinplup-shadow",
+   "name": "Shadow Prinplup",
+   "kind": "raid",
+   "level": 20,
+   "boostedLevel": 25,
+   "floor": 6,
+   "boostedFloor": 6,
+   "start": {
+    "time": "2026-11-16T06:00:00",
+    "kind": "local"
+   },
+   "end": {
+    "time": "2026-12-01T20:00:00",
+    "kind": "local"
+   }
+  },
+  {
+   "slug": "tornadus-incarnate-shadow",
+   "name": "Shadow Tornadus Incarnate",
+   "kind": "raid",
+   "level": 20,
+   "boostedLevel": 25,
+   "floor": 6,
+   "boostedFloor": 6,
+   "start": {
+    "time": "2026-11-16T06:00:00",
+    "kind": "local"
+   },
+   "end": {
+    "time": "2026-12-01T20:00:00",
+    "kind": "local"
+   }
+  },
+  {
+   "slug": "abra-dynamax",
+   "name": "Dynamax Abra",
+   "kind": "max",
+   "level": 20,
+   "boostedLevel": null,
+   "floor": 10,
+   "boostedFloor": null,
+   "start": null,
+   "end": null
+  },
+  {
+   "slug": "bounsweet-dynamax",
+   "name": "Dynamax Bounsweet",
+   "kind": "max",
+   "level": 20,
+   "boostedLevel": null,
+   "floor": 10,
+   "boostedFloor": null,
+   "start": null,
+   "end": null
+  },
+  {
+   "slug": "bulbasaur-dynamax",
+   "name": "Dynamax Bulbasaur",
+   "kind": "max",
+   "level": 20,
+   "boostedLevel": null,
+   "floor": 10,
+   "boostedFloor": null,
+   "start": null,
+   "end": null
+  },
+  {
+   "slug": "caterpie-dynamax",
+   "name": "Dynamax Caterpie",
+   "kind": "max",
+   "level": 20,
+   "boostedLevel": null,
+   "floor": 10,
+   "boostedFloor": null,
+   "start": null,
+   "end": null
+  },
+  {
+   "slug": "charmander-dynamax",
+   "name": "Dynamax Charmander",
+   "kind": "max",
+   "level": 20,
+   "boostedLevel": null,
+   "floor": 10,
+   "boostedFloor": null,
+   "start": null,
+   "end": null
+  },
+  {
+   "slug": "combee-dynamax",
+   "name": "Dynamax Combee",
+   "kind": "max",
+   "level": 20,
+   "boostedLevel": null,
+   "floor": 10,
+   "boostedFloor": null,
+   "start": null,
+   "end": null
+  },
+  {
+   "slug": "cottonee-dynamax",
+   "name": "Dynamax Cottonee",
+   "kind": "max",
+   "level": 20,
+   "boostedLevel": null,
+   "floor": 10,
+   "boostedFloor": null,
+   "start": null,
+   "end": null
+  },
+  {
+   "slug": "drilbur-dynamax",
+   "name": "Dynamax Drilbur",
+   "kind": "max",
+   "level": 20,
+   "boostedLevel": null,
+   "floor": 10,
+   "boostedFloor": null,
+   "start": null,
+   "end": null
+  },
+  {
+   "slug": "espurr",
+   "name": "Espurr",
+   "kind": "max",
+   "level": 20,
+   "boostedLevel": null,
+   "floor": 10,
+   "boostedFloor": null,
+   "start": null,
+   "end": null
+  },
+  {
+   "slug": "gastly-dynamax",
+   "name": "Dynamax Gastly",
+   "kind": "max",
+   "level": 20,
+   "boostedLevel": null,
+   "floor": 10,
+   "boostedFloor": null,
+   "start": null,
+   "end": null
+  },
+  {
+   "slug": "grookey-dynamax",
+   "name": "Dynamax Grookey",
+   "kind": "max",
+   "level": 20,
+   "boostedLevel": null,
+   "floor": 10,
+   "boostedFloor": null,
+   "start": null,
+   "end": null
+  },
+  {
+   "slug": "growlithe-dynamax",
+   "name": "Dynamax Growlithe",
+   "kind": "max",
+   "level": 20,
+   "boostedLevel": null,
+   "floor": 10,
+   "boostedFloor": null,
+   "start": null,
+   "end": null
+  },
+  {
+   "slug": "hatenna-dynamax",
+   "name": "Dynamax Hatenna",
+   "kind": "max",
+   "level": 20,
+   "boostedLevel": null,
+   "floor": 10,
+   "boostedFloor": null,
+   "start": null,
+   "end": null
+  },
+  {
+   "slug": "hoothoot-dynamax",
+   "name": "Dynamax Hoothoot",
+   "kind": "max",
+   "level": 20,
+   "boostedLevel": null,
+   "floor": 10,
+   "boostedFloor": null,
+   "start": null,
+   "end": null
+  },
+  {
+   "slug": "inkay-dynamax",
+   "name": "Dynamax Inkay",
+   "kind": "max",
+   "level": 20,
+   "boostedLevel": null,
+   "floor": 10,
+   "boostedFloor": null,
+   "start": null,
+   "end": null
+  },
+  {
+   "slug": "kabuto-dynamax",
+   "name": "Dynamax Kabuto",
+   "kind": "max",
+   "level": 20,
+   "boostedLevel": null,
+   "floor": 10,
+   "boostedFloor": null,
+   "start": null,
+   "end": null
+  },
+  {
+   "slug": "krabby-dynamax",
+   "name": "Dynamax Krabby",
+   "kind": "max",
+   "level": 20,
+   "boostedLevel": null,
+   "floor": 10,
+   "boostedFloor": null,
+   "start": null,
+   "end": null
+  },
+  {
+   "slug": "magikarp-dynamax",
+   "name": "Dynamax Magikarp",
+   "kind": "max",
+   "level": 20,
+   "boostedLevel": null,
+   "floor": 10,
+   "boostedFloor": null,
+   "start": null,
+   "end": null
+  },
+  {
+   "slug": "omanyte-dynamax",
+   "name": "Dynamax Omanyte",
+   "kind": "max",
+   "level": 20,
+   "boostedLevel": null,
+   "floor": 10,
+   "boostedFloor": null,
+   "start": null,
+   "end": null
+  },
+  {
+   "slug": "pidove-dynamax",
+   "name": "Dynamax Pidove",
+   "kind": "max",
+   "level": 20,
+   "boostedLevel": null,
+   "floor": 10,
+   "boostedFloor": null,
+   "start": null,
+   "end": null
+  },
+  {
+   "slug": "pikachu-dynamax",
+   "name": "Dynamax Pikachu",
+   "kind": "max",
+   "level": 20,
+   "boostedLevel": null,
+   "floor": 10,
+   "boostedFloor": null,
+   "start": null,
+   "end": null
+  },
+  {
+   "slug": "ralts-dynamax",
+   "name": "Dynamax Ralts",
+   "kind": "max",
+   "level": 20,
+   "boostedLevel": null,
+   "floor": 10,
+   "boostedFloor": null,
+   "start": null,
+   "end": null
+  },
+  {
+   "slug": "rhyhorn-dynamax",
+   "name": "Dynamax Rhyhorn",
+   "kind": "max",
+   "level": 20,
+   "boostedLevel": null,
+   "floor": 10,
+   "boostedFloor": null,
+   "start": null,
+   "end": null
+  },
+  {
+   "slug": "roggenrola-dynamax",
+   "name": "Dynamax Roggenrola",
+   "kind": "max",
+   "level": 20,
+   "boostedLevel": null,
+   "floor": 10,
+   "boostedFloor": null,
+   "start": null,
+   "end": null
+  },
+  {
+   "slug": "rookidee-dynamax",
+   "name": "Dynamax Rookidee",
+   "kind": "max",
+   "level": 20,
+   "boostedLevel": null,
+   "floor": 10,
+   "boostedFloor": null,
+   "start": null,
+   "end": null
+  },
+  {
+   "slug": "scorbunny-dynamax",
+   "name": "Dynamax Scorbunny",
+   "kind": "max",
+   "level": 20,
+   "boostedLevel": null,
+   "floor": 10,
+   "boostedFloor": null,
+   "start": null,
+   "end": null
+  },
+  {
+   "slug": "sizzlipede-dynamax",
+   "name": "Dynamax Sizzlipede",
+   "kind": "max",
+   "level": 20,
+   "boostedLevel": null,
+   "floor": 10,
+   "boostedFloor": null,
+   "start": null,
+   "end": null
+  },
+  {
+   "slug": "skwovet-dynamax",
+   "name": "Dynamax Skwovet",
+   "kind": "max",
+   "level": 20,
+   "boostedLevel": null,
+   "floor": 10,
+   "boostedFloor": null,
+   "start": null,
+   "end": null
+  },
+  {
+   "slug": "sneasel-dynamax",
+   "name": "Dynamax Sneasel",
+   "kind": "max",
+   "level": 20,
+   "boostedLevel": null,
+   "floor": 10,
+   "boostedFloor": null,
+   "start": null,
+   "end": null
+  },
+  {
+   "slug": "sobble-dynamax",
+   "name": "Dynamax Sobble",
+   "kind": "max",
+   "level": 20,
+   "boostedLevel": null,
+   "floor": 10,
+   "boostedFloor": null,
+   "start": null,
+   "end": null
+  },
+  {
+   "slug": "spheal-dynamax",
+   "name": "Dynamax Spheal",
+   "kind": "max",
+   "level": 20,
+   "boostedLevel": null,
+   "floor": 10,
+   "boostedFloor": null,
+   "start": null,
+   "end": null
+  },
+  {
+   "slug": "squirtle-dynamax",
+   "name": "Dynamax Squirtle",
+   "kind": "max",
+   "level": 20,
+   "boostedLevel": null,
+   "floor": 10,
+   "boostedFloor": null,
+   "start": null,
+   "end": null
+  },
+  {
+   "slug": "trapinch-dynamax",
+   "name": "Dynamax Trapinch",
+   "kind": "max",
+   "level": 20,
+   "boostedLevel": null,
+   "floor": 10,
+   "boostedFloor": null,
+   "start": null,
+   "end": null
+  },
+  {
+   "slug": "trubbish-dynamax",
+   "name": "Dynamax Trubbish",
+   "kind": "max",
+   "level": 20,
+   "boostedLevel": null,
+   "floor": 10,
+   "boostedFloor": null,
+   "start": null,
+   "end": null
+  },
+  {
+   "slug": "woobat-dynamax",
+   "name": "Dynamax Woobat",
+   "kind": "max",
+   "level": 20,
+   "boostedLevel": null,
+   "floor": 10,
+   "boostedFloor": null,
+   "start": null,
+   "end": null
+  },
+  {
+   "slug": "wooloo-dynamax",
+   "name": "Dynamax Wooloo",
+   "kind": "max",
+   "level": 20,
+   "boostedLevel": null,
+   "floor": 10,
+   "boostedFloor": null,
+   "start": null,
+   "end": null
+  },
+  {
+   "slug": "darumaka-dynamax",
+   "name": "Dynamax Darumaka",
+   "kind": "max",
+   "level": 20,
+   "boostedLevel": null,
+   "floor": 10,
+   "boostedFloor": null,
+   "start": null,
+   "end": null
+  },
+  {
+   "slug": "eevee-dynamax",
+   "name": "Dynamax Eevee",
+   "kind": "max",
+   "level": 20,
+   "boostedLevel": null,
+   "floor": 10,
+   "boostedFloor": null,
+   "start": null,
+   "end": null
+  },
+  {
+   "slug": "feebas-dynamax",
+   "name": "Dynamax Feebas",
+   "kind": "max",
+   "level": 20,
+   "boostedLevel": null,
+   "floor": 10,
+   "boostedFloor": null,
+   "start": null,
+   "end": null
+  },
+  {
+   "slug": "machop-dynamax",
+   "name": "Dynamax Machop",
+   "kind": "max",
+   "level": 20,
+   "boostedLevel": null,
+   "floor": 10,
+   "boostedFloor": null,
+   "start": null,
+   "end": null
+  },
+  {
+   "slug": "shuckle-dynamax",
+   "name": "Dynamax Shuckle",
+   "kind": "max",
+   "level": 20,
+   "boostedLevel": null,
+   "floor": 10,
+   "boostedFloor": null,
+   "start": null,
+   "end": null
+  },
+  {
+   "slug": "wailmer-dynamax",
+   "name": "Dynamax Wailmer",
+   "kind": "max",
+   "level": 20,
+   "boostedLevel": null,
+   "floor": 10,
+   "boostedFloor": null,
+   "start": null,
+   "end": null
+  },
+  {
+   "slug": "beldum-dynamax",
+   "name": "Dynamax Beldum",
+   "kind": "max",
+   "level": 20,
+   "boostedLevel": null,
+   "floor": 10,
+   "boostedFloor": null,
+   "start": null,
+   "end": null
+  },
+  {
+   "slug": "chansey-dynamax",
+   "name": "Dynamax Chansey",
+   "kind": "max",
+   "level": 20,
+   "boostedLevel": null,
+   "floor": 10,
+   "boostedFloor": null,
+   "start": null,
+   "end": null
+  },
+  {
+   "slug": "cryogonal-dynamax",
+   "name": "Dynamax Cryogonal",
+   "kind": "max",
+   "level": 20,
+   "boostedLevel": null,
+   "floor": 10,
+   "boostedFloor": null,
+   "start": null,
+   "end": null
+  },
+  {
+   "slug": "deino-dynamax",
+   "name": "Dynamax Deino",
+   "kind": "max",
+   "level": 20,
+   "boostedLevel": null,
+   "floor": 10,
+   "boostedFloor": null,
+   "start": null,
+   "end": null
+  },
+  {
+   "slug": "drampa",
+   "name": "Drampa",
+   "kind": "max",
+   "level": 20,
+   "boostedLevel": null,
+   "floor": 10,
+   "boostedFloor": null,
+   "start": null,
+   "end": null
+  },
+  {
+   "slug": "electabuzz-dynamax",
+   "name": "Dynamax Electabuzz",
+   "kind": "max",
+   "level": 20,
+   "boostedLevel": null,
+   "floor": 10,
+   "boostedFloor": null,
+   "start": null,
+   "end": null
+  },
+  {
+   "slug": "falinks-dynamax",
+   "name": "Dynamax Falinks",
+   "kind": "max",
+   "level": 20,
+   "boostedLevel": null,
+   "floor": 10,
+   "boostedFloor": null,
+   "start": null,
+   "end": null
+  },
+  {
+   "slug": "hitmonchan-dynamax",
+   "name": "Dynamax Hitmonchan",
+   "kind": "max",
+   "level": 20,
+   "boostedLevel": null,
+   "floor": 10,
+   "boostedFloor": null,
+   "start": null,
+   "end": null
+  },
+  {
+   "slug": "hitmonlee-dynamax",
+   "name": "Dynamax Hitmonlee",
+   "kind": "max",
+   "level": 20,
+   "boostedLevel": null,
+   "floor": 10,
+   "boostedFloor": null,
+   "start": null,
+   "end": null
+  },
+  {
+   "slug": "hitmontop-dynamax",
+   "name": "Dynamax Hitmontop",
+   "kind": "max",
+   "level": 20,
+   "boostedLevel": null,
+   "floor": 10,
+   "boostedFloor": null,
+   "start": null,
+   "end": null
+  },
+  {
+   "slug": "magmar-dynamax",
+   "name": "Dynamax Magmar",
+   "kind": "max",
+   "level": 20,
+   "boostedLevel": null,
+   "floor": 10,
+   "boostedFloor": null,
+   "start": null,
+   "end": null
+  },
+  {
+   "slug": "passimian-dynamax",
+   "name": "Dynamax Passimian",
+   "kind": "max",
+   "level": 20,
+   "boostedLevel": null,
+   "floor": 10,
+   "boostedFloor": null,
+   "start": null,
+   "end": null
+  },
+  {
+   "slug": "sableye-dynamax",
+   "name": "Dynamax Sableye",
+   "kind": "max",
+   "level": 20,
+   "boostedLevel": null,
+   "floor": 10,
+   "boostedFloor": null,
+   "start": null,
+   "end": null
+  },
+  {
+   "slug": "duraludon-dynamax",
+   "name": "Dynamax Duraludon",
+   "kind": "max",
+   "level": 20,
+   "boostedLevel": null,
+   "floor": 10,
+   "boostedFloor": null,
+   "start": null,
+   "end": null
+  },
+  {
+   "slug": null,
+   "name": "Toxtricity",
+   "candidates": [
+    {
+     "slug": "toxtricity-amped",
+     "name": "Toxtricity Amped"
+    },
+    {
+     "slug": "toxtricity-low-key",
+     "name": "Toxtricity Low Key"
+    }
+   ],
+   "kind": "max",
+   "level": 20,
+   "boostedLevel": null,
+   "floor": 10,
+   "boostedFloor": null,
+   "start": null,
+   "end": null
+  },
+  {
+   "slug": "palkia-dynamax",
+   "name": "Dynamax Palkia",
+   "kind": "max",
+   "level": 20,
+   "boostedLevel": null,
+   "floor": 10,
+   "boostedFloor": null,
+   "start": {
+    "time": "2026-11-15T05:00:00",
+    "kind": "local"
+   },
+   "end": {
+    "time": "2026-11-15T20:00:00",
+    "kind": "local"
+   }
+  },
+  {
+   "slug": "duraludon-gigantamax",
+   "name": "Gigantamax Duraludon",
+   "kind": "max",
+   "level": 20,
+   "boostedLevel": null,
+   "floor": 10,
+   "boostedFloor": null,
+   "start": {
+    "time": "2026-11-14T05:00:00",
+    "kind": "local"
+   },
+   "end": {
+    "time": "2026-11-15T20:00:00",
+    "kind": "local"
+   }
+  },
+  {
+   "slug": "zekrom-shadow",
+   "name": "Shadow Zekrom",
+   "kind": "rocket",
+   "level": 8,
+   "boostedLevel": 13,
+   "floor": 6,
+   "boostedFloor": 6,
+   "start": null,
+   "end": null
+  },
+  {
+   "slug": "cubone-shadow",
+   "name": "Shadow Cubone",
+   "kind": "rocket",
+   "level": 8,
+   "boostedLevel": 13,
+   "floor": 0,
+   "boostedFloor": 4,
+   "start": null,
+   "end": null
+  },
+  {
+   "slug": "grimer-alola-shadow",
+   "name": "Shadow Alolan Grimer",
+   "kind": "rocket",
+   "level": 8,
+   "boostedLevel": 13,
+   "floor": 0,
+   "boostedFloor": 4,
+   "start": null,
+   "end": null
+  },
+  {
+   "slug": "pancham-shadow",
+   "name": "Shadow Pancham",
+   "kind": "rocket",
+   "level": 8,
+   "boostedLevel": 13,
+   "floor": 0,
+   "boostedFloor": 4,
+   "start": null,
+   "end": null
+  },
+  {
+   "slug": "teddiursa-shadow",
+   "name": "Shadow Teddiursa",
+   "kind": "rocket",
+   "level": 8,
+   "boostedLevel": 13,
+   "floor": 0,
+   "boostedFloor": 4,
+   "start": null,
+   "end": null
+  },
+  {
+   "slug": "hoothoot-shadow",
+   "name": "Shadow Hoothoot",
+   "kind": "rocket",
+   "level": 8,
+   "boostedLevel": 13,
+   "floor": 0,
+   "boostedFloor": 4,
+   "start": null,
+   "end": null
+  },
+  {
+   "slug": "porygon-shadow",
+   "name": "Shadow Porygon",
+   "kind": "rocket",
+   "level": 8,
+   "boostedLevel": 13,
+   "floor": 0,
+   "boostedFloor": 4,
+   "start": null,
+   "end": null
+  },
+  {
+   "slug": "loudred-shadow",
+   "name": "Shadow Loudred",
+   "kind": "rocket",
+   "level": 8,
+   "boostedLevel": 13,
+   "floor": 0,
+   "boostedFloor": 4,
+   "start": null,
+   "end": null
+  },
+  {
+   "slug": "stufful-shadow",
+   "name": "Shadow Stufful",
+   "kind": "rocket",
+   "level": 8,
+   "boostedLevel": 13,
+   "floor": 0,
+   "boostedFloor": 4,
+   "start": null,
+   "end": null
+  },
+  {
+   "slug": "starly-shadow",
+   "name": "Shadow Starly",
+   "kind": "rocket",
+   "level": 8,
+   "boostedLevel": 13,
+   "floor": 0,
+   "boostedFloor": 4,
+   "start": null,
+   "end": null
+  },
+  {
+   "slug": "litwick-shadow",
+   "name": "Shadow Litwick",
+   "kind": "rocket",
+   "level": 8,
+   "boostedLevel": 13,
+   "floor": 0,
+   "boostedFloor": 4,
+   "start": null,
+   "end": null
+  },
+  {
+   "slug": "ponyta-shadow",
+   "name": "Shadow Ponyta",
+   "kind": "rocket",
+   "level": 8,
+   "boostedLevel": 13,
+   "floor": 0,
+   "boostedFloor": 4,
+   "start": null,
+   "end": null
+  },
+  {
+   "slug": "torchic-shadow",
+   "name": "Shadow Torchic",
+   "kind": "rocket",
+   "level": 8,
+   "boostedLevel": 13,
+   "floor": 0,
+   "boostedFloor": 4,
+   "start": null,
+   "end": null
+  },
+  {
+   "slug": "mudkip-shadow",
+   "name": "Shadow Mudkip",
+   "kind": "rocket",
+   "level": 8,
+   "boostedLevel": 13,
+   "floor": 0,
+   "boostedFloor": 4,
+   "start": null,
+   "end": null
+  },
+  {
+   "slug": "tentacool-shadow",
+   "name": "Shadow Tentacool",
+   "kind": "rocket",
+   "level": 8,
+   "boostedLevel": 13,
+   "floor": 0,
+   "boostedFloor": 4,
+   "start": null,
+   "end": null
+  },
+  {
+   "slug": "krabby-shadow",
+   "name": "Shadow Krabby",
+   "kind": "rocket",
+   "level": 8,
+   "boostedLevel": 13,
+   "floor": 0,
+   "boostedFloor": 4,
+   "start": null,
+   "end": null
+  },
+  {
+   "slug": "magikarp-shadow",
+   "name": "Shadow Magikarp",
+   "kind": "rocket",
+   "level": 8,
+   "boostedLevel": 13,
+   "floor": 0,
+   "boostedFloor": 4,
+   "start": null,
+   "end": null
+  },
+  {
+   "slug": "feebas-shadow",
+   "name": "Shadow Feebas",
+   "kind": "rocket",
+   "level": 8,
+   "boostedLevel": 13,
+   "floor": 0,
+   "boostedFloor": 4,
+   "start": null,
+   "end": null
+  },
+  {
+   "slug": "voltorb-shadow",
+   "name": "Shadow Voltorb",
+   "kind": "rocket",
+   "level": 8,
+   "boostedLevel": 13,
+   "floor": 0,
+   "boostedFloor": 4,
+   "start": null,
+   "end": null
+  },
+  {
+   "slug": "shinx-shadow",
+   "name": "Shadow Shinx",
+   "kind": "rocket",
+   "level": 8,
+   "boostedLevel": 13,
+   "floor": 0,
+   "boostedFloor": 4,
+   "start": null,
+   "end": null
+  },
+  {
+   "slug": "helioptile-shadow",
+   "name": "Shadow Helioptile",
+   "kind": "rocket",
+   "level": 8,
+   "boostedLevel": 13,
+   "floor": 0,
+   "boostedFloor": 4,
+   "start": null,
+   "end": null
+  },
+  {
+   "slug": "electabuzz-shadow",
+   "name": "Shadow Electabuzz",
+   "kind": "rocket",
+   "level": 8,
+   "boostedLevel": 13,
+   "floor": 0,
+   "boostedFloor": 4,
+   "start": null,
+   "end": null
+  },
+  {
+   "slug": "magnemite-shadow",
+   "name": "Shadow Magnemite",
+   "kind": "rocket",
+   "level": 8,
+   "boostedLevel": 13,
+   "floor": 0,
+   "boostedFloor": 4,
+   "start": null,
+   "end": null
+  },
+  {
+   "slug": "geodude-alola-shadow",
+   "name": "Shadow Alolan Geodude",
+   "kind": "rocket",
+   "level": 8,
+   "boostedLevel": 13,
+   "floor": 0,
+   "boostedFloor": 4,
+   "start": null,
+   "end": null
+  },
+  {
+   "slug": "phantump-shadow",
+   "name": "Shadow Phantump",
+   "kind": "rocket",
+   "level": 8,
+   "boostedLevel": 13,
+   "floor": 0,
+   "boostedFloor": 4,
+   "start": null,
+   "end": null
+  },
+  {
+   "slug": "fomantis-shadow",
+   "name": "Shadow Fomantis",
+   "kind": "rocket",
+   "level": 8,
+   "boostedLevel": 13,
+   "floor": 0,
+   "boostedFloor": 4,
+   "start": null,
+   "end": null
+  },
+  {
+   "slug": "tangela-shadow",
+   "name": "Shadow Tangela",
+   "kind": "rocket",
+   "level": 8,
+   "boostedLevel": 13,
+   "floor": 0,
+   "boostedFloor": 4,
+   "start": null,
+   "end": null
+  },
+  {
+   "slug": "seel-shadow",
+   "name": "Shadow Seel",
+   "kind": "rocket",
+   "level": 8,
+   "boostedLevel": 13,
+   "floor": 0,
+   "boostedFloor": 4,
+   "start": null,
+   "end": null
+  },
+  {
+   "slug": "delibird-shadow",
+   "name": "Shadow Delibird",
+   "kind": "rocket",
+   "level": 8,
+   "boostedLevel": 13,
+   "floor": 0,
+   "boostedFloor": 4,
+   "start": null,
+   "end": null
+  },
+  {
+   "slug": "spheal-shadow",
+   "name": "Shadow Spheal",
+   "kind": "rocket",
+   "level": 8,
+   "boostedLevel": 13,
+   "floor": 0,
+   "boostedFloor": 4,
+   "start": null,
+   "end": null
+  },
+  {
+   "slug": "timburr-shadow",
+   "name": "Shadow Timburr",
+   "kind": "rocket",
+   "level": 8,
+   "boostedLevel": 13,
+   "floor": 0,
+   "boostedFloor": 4,
+   "start": null,
+   "end": null
+  },
+  {
+   "slug": "mankey-shadow",
+   "name": "Shadow Mankey",
+   "kind": "rocket",
+   "level": 8,
+   "boostedLevel": 13,
+   "floor": 0,
+   "boostedFloor": 4,
+   "start": null,
+   "end": null
+  },
+  {
+   "slug": "makuhita-shadow",
+   "name": "Shadow Makuhita",
+   "kind": "rocket",
+   "level": 8,
+   "boostedLevel": 13,
+   "floor": 0,
+   "boostedFloor": 4,
+   "start": null,
+   "end": null
+  },
+  {
+   "slug": "hitmontop-shadow",
+   "name": "Shadow Hitmontop",
+   "kind": "rocket",
+   "level": 8,
+   "boostedLevel": 13,
+   "floor": 0,
+   "boostedFloor": 4,
+   "start": null,
+   "end": null
+  },
+  {
+   "slug": "hitmonlee-shadow",
+   "name": "Shadow Hitmonlee",
+   "kind": "rocket",
+   "level": 8,
+   "boostedLevel": 13,
+   "floor": 0,
+   "boostedFloor": 4,
+   "start": null,
+   "end": null
+  },
+  {
+   "slug": "hitmonchan-shadow",
+   "name": "Shadow Hitmonchan",
+   "kind": "rocket",
+   "level": 8,
+   "boostedLevel": 13,
+   "floor": 0,
+   "boostedFloor": 4,
+   "start": null,
+   "end": null
+  },
+  {
+   "slug": "oddish-shadow",
+   "name": "Shadow Oddish",
+   "kind": "rocket",
+   "level": 8,
+   "boostedLevel": 13,
+   "floor": 0,
+   "boostedFloor": 4,
+   "start": null,
+   "end": null
+  },
+  {
+   "slug": "zubat-shadow",
+   "name": "Shadow Zubat",
+   "kind": "rocket",
+   "level": 8,
+   "boostedLevel": 13,
+   "floor": 0,
+   "boostedFloor": 4,
+   "start": null,
+   "end": null
+  },
+  {
+   "slug": "qwilfish-shadow",
+   "name": "Shadow Qwilfish",
+   "kind": "rocket",
+   "level": 8,
+   "boostedLevel": 13,
+   "floor": 0,
+   "boostedFloor": 4,
+   "start": null,
+   "end": null
+  },
+  {
+   "slug": "weezing-galarian-shadow",
+   "name": "Shadow Galarian Weezing",
+   "kind": "rocket",
+   "level": 8,
+   "boostedLevel": 13,
+   "floor": 0,
+   "boostedFloor": 4,
+   "start": null,
+   "end": null
+  },
+  {
+   "slug": "nidorino-shadow",
+   "name": "Shadow Nidorino",
+   "kind": "rocket",
+   "level": 8,
+   "boostedLevel": 13,
+   "floor": 0,
+   "boostedFloor": 4,
+   "start": null,
+   "end": null
+  },
+  {
+   "slug": "nidorina-shadow",
+   "name": "Shadow Nidorina",
+   "kind": "rocket",
+   "level": 8,
+   "boostedLevel": 13,
+   "floor": 0,
+   "boostedFloor": 4,
+   "start": null,
+   "end": null
+  },
+  {
+   "slug": "rhyhorn-shadow",
+   "name": "Shadow Rhyhorn",
+   "kind": "rocket",
+   "level": 8,
+   "boostedLevel": 13,
+   "floor": 0,
+   "boostedFloor": 4,
+   "start": null,
+   "end": null
+  },
+  {
+   "slug": "gligar-shadow",
+   "name": "Shadow Gligar",
+   "kind": "rocket",
+   "level": 8,
+   "boostedLevel": 13,
+   "floor": 0,
+   "boostedFloor": 4,
+   "start": null,
+   "end": null
+  },
+  {
+   "slug": "trapinch-shadow",
+   "name": "Shadow Trapinch",
+   "kind": "rocket",
+   "level": 8,
+   "boostedLevel": 13,
+   "floor": 0,
+   "boostedFloor": 4,
+   "start": null,
+   "end": null
+  },
+  {
+   "slug": "claydol-shadow",
+   "name": "Shadow Claydol",
+   "kind": "rocket",
+   "level": 8,
+   "boostedLevel": 13,
+   "floor": 0,
+   "boostedFloor": 4,
+   "start": null,
+   "end": null
+  },
+  {
+   "slug": "vibrava-shadow",
+   "name": "Shadow Vibrava",
+   "kind": "rocket",
+   "level": 8,
+   "boostedLevel": 13,
+   "floor": 0,
+   "boostedFloor": 4,
+   "start": null,
+   "end": null
+  },
+  {
+   "slug": "taillow-shadow",
+   "name": "Shadow Taillow",
+   "kind": "rocket",
+   "level": 8,
+   "boostedLevel": 13,
+   "floor": 0,
+   "boostedFloor": 4,
+   "start": null,
+   "end": null
+  },
+  {
+   "slug": "rookidee-shadow",
+   "name": "Shadow Rookidee",
+   "kind": "rocket",
+   "level": 8,
+   "boostedLevel": 13,
+   "floor": 0,
+   "boostedFloor": 4,
+   "start": null,
+   "end": null
+  },
+  {
+   "slug": "swablu-shadow",
+   "name": "Shadow Swablu",
+   "kind": "rocket",
+   "level": 8,
+   "boostedLevel": 13,
+   "floor": 0,
+   "boostedFloor": 4,
+   "start": null,
+   "end": null
+  },
+  {
+   "slug": "scyther-shadow",
+   "name": "Shadow Scyther",
+   "kind": "rocket",
+   "level": 8,
+   "boostedLevel": 13,
+   "floor": 0,
+   "boostedFloor": 4,
+   "start": null,
+   "end": null
+  },
+  {
+   "slug": "wobbuffet-shadow",
+   "name": "Shadow Wobbuffet",
+   "kind": "rocket",
+   "level": 8,
+   "boostedLevel": 13,
+   "floor": 0,
+   "boostedFloor": 4,
+   "start": null,
+   "end": null
+  },
+  {
+   "slug": "ralts-shadow",
+   "name": "Shadow Ralts",
+   "kind": "rocket",
+   "level": 8,
+   "boostedLevel": 13,
+   "floor": 0,
+   "boostedFloor": 4,
+   "start": null,
+   "end": null
+  },
+  {
+   "slug": "drowzee-shadow",
+   "name": "Shadow Drowzee",
+   "kind": "rocket",
+   "level": 8,
+   "boostedLevel": 13,
+   "floor": 0,
+   "boostedFloor": 4,
+   "start": null,
+   "end": null
+  },
+  {
+   "slug": "duosion-shadow",
+   "name": "Shadow Duosion",
+   "kind": "rocket",
+   "level": 8,
+   "boostedLevel": 13,
+   "floor": 0,
+   "boostedFloor": 4,
+   "start": null,
+   "end": null
+  },
+  {
+   "slug": "venonat-shadow",
+   "name": "Shadow Venonat",
+   "kind": "rocket",
+   "level": 8,
+   "boostedLevel": 13,
+   "floor": 0,
+   "boostedFloor": 4,
+   "start": null,
+   "end": null
+  },
+  {
+   "slug": "weedle-shadow",
+   "name": "Shadow Weedle",
+   "kind": "rocket",
+   "level": 8,
+   "boostedLevel": 13,
+   "floor": 0,
+   "boostedFloor": 4,
+   "start": null,
+   "end": null
+  },
+  {
+   "slug": "wimpod-shadow",
+   "name": "Shadow Wimpod",
+   "kind": "rocket",
+   "level": 8,
+   "boostedLevel": 13,
+   "floor": 0,
+   "boostedFloor": 4,
+   "start": null,
+   "end": null
+  },
+  {
+   "slug": "pinsir-shadow",
+   "name": "Shadow Pinsir",
+   "kind": "rocket",
+   "level": 8,
+   "boostedLevel": 13,
+   "floor": 0,
+   "boostedFloor": 4,
+   "start": null,
+   "end": null
+  },
+  {
+   "slug": "anorith-shadow",
+   "name": "Shadow Anorith",
+   "kind": "rocket",
+   "level": 8,
+   "boostedLevel": 13,
+   "floor": 0,
+   "boostedFloor": 4,
+   "start": null,
+   "end": null
+  },
+  {
+   "slug": "dewpider-shadow",
+   "name": "Shadow Dewpider",
+   "kind": "rocket",
+   "level": 8,
+   "boostedLevel": 13,
+   "floor": 0,
+   "boostedFloor": 4,
+   "start": null,
+   "end": null
+  },
+  {
+   "slug": "onix-shadow",
+   "name": "Shadow Onix",
+   "kind": "rocket",
+   "level": 8,
+   "boostedLevel": 13,
+   "floor": 0,
+   "boostedFloor": 4,
+   "start": null,
+   "end": null
+  },
+  {
+   "slug": "kabuto-shadow",
+   "name": "Shadow Kabuto",
+   "kind": "rocket",
+   "level": 8,
+   "boostedLevel": 13,
+   "floor": 0,
+   "boostedFloor": 4,
+   "start": null,
+   "end": null
+  },
+  {
+   "slug": "cranidos-shadow",
+   "name": "Shadow Cranidos",
+   "kind": "rocket",
+   "level": 8,
+   "boostedLevel": 13,
+   "floor": 0,
+   "boostedFloor": 4,
+   "start": null,
+   "end": null
+  },
+  {
+   "slug": "shieldon-shadow",
+   "name": "Shadow Shieldon",
+   "kind": "rocket",
+   "level": 8,
+   "boostedLevel": 13,
+   "floor": 0,
+   "boostedFloor": 4,
+   "start": null,
+   "end": null
+  },
+  {
+   "slug": "graveler-shadow",
+   "name": "Shadow Graveler",
+   "kind": "rocket",
+   "level": 8,
+   "boostedLevel": 13,
+   "floor": 0,
+   "boostedFloor": 4,
+   "start": null,
+   "end": null
+  },
+  {
+   "slug": "duskull-shadow",
+   "name": "Shadow Duskull",
+   "kind": "rocket",
+   "level": 8,
+   "boostedLevel": 13,
+   "floor": 0,
+   "boostedFloor": 4,
+   "start": null,
+   "end": null
+  },
+  {
+   "slug": "sandygast-shadow",
+   "name": "Shadow Sandygast",
+   "kind": "rocket",
+   "level": 8,
+   "boostedLevel": 13,
+   "floor": 0,
+   "boostedFloor": 4,
+   "start": null,
+   "end": null
+  },
+  {
+   "slug": "yamask-shadow",
+   "name": "Shadow Yamask",
+   "kind": "rocket",
+   "level": 8,
+   "boostedLevel": 13,
+   "floor": 0,
+   "boostedFloor": 4,
+   "start": null,
+   "end": null
+  },
+  {
+   "slug": "noibat-shadow",
+   "name": "Shadow Noibat",
+   "kind": "rocket",
+   "level": 8,
+   "boostedLevel": 13,
+   "floor": 0,
+   "boostedFloor": 4,
+   "start": null,
+   "end": null
+  },
+  {
+   "slug": "deino-shadow",
+   "name": "Shadow Deino",
+   "kind": "rocket",
+   "level": 8,
+   "boostedLevel": 13,
+   "floor": 0,
+   "boostedFloor": 4,
+   "start": null,
+   "end": null
+  },
+  {
+   "slug": "axew-shadow",
+   "name": "Shadow Axew",
+   "kind": "rocket",
+   "level": 8,
+   "boostedLevel": 13,
+   "floor": 0,
+   "boostedFloor": 4,
+   "start": null,
+   "end": null
+  },
+  {
+   "slug": "carvanha-shadow",
+   "name": "Shadow Carvanha",
+   "kind": "rocket",
+   "level": 8,
+   "boostedLevel": 13,
+   "floor": 0,
+   "boostedFloor": 4,
+   "start": null,
+   "end": null
+  },
+  {
+   "slug": "poochyena-shadow",
+   "name": "Shadow Poochyena",
+   "kind": "rocket",
+   "level": 8,
+   "boostedLevel": 13,
+   "floor": 0,
+   "boostedFloor": 4,
+   "start": null,
+   "end": null
+  },
+  {
+   "slug": "rattata-alola-shadow",
+   "name": "Shadow Alolan Rattata",
+   "kind": "rocket",
+   "level": 8,
+   "boostedLevel": 13,
+   "floor": 0,
+   "boostedFloor": 4,
+   "start": null,
+   "end": null
+  },
+  {
+   "slug": "sneasel-shadow",
+   "name": "Shadow Sneasel",
+   "kind": "rocket",
+   "level": 8,
+   "boostedLevel": 13,
+   "floor": 0,
+   "boostedFloor": 4,
+   "start": null,
+   "end": null
+  },
+  {
+   "slug": "houndour-shadow",
+   "name": "Shadow Houndour",
+   "kind": "rocket",
+   "level": 8,
+   "boostedLevel": 13,
+   "floor": 0,
+   "boostedFloor": 4,
+   "start": null,
+   "end": null
+  },
+  {
+   "slug": "absol-shadow",
+   "name": "Shadow Absol",
+   "kind": "rocket",
+   "level": 8,
+   "boostedLevel": 13,
+   "floor": 0,
+   "boostedFloor": 4,
+   "start": null,
+   "end": null
+  },
+  {
+   "slug": "sandshrew-alola-shadow",
+   "name": "Shadow Alolan Sandshrew",
+   "kind": "rocket",
+   "level": 8,
+   "boostedLevel": 13,
+   "floor": 0,
+   "boostedFloor": 4,
+   "start": null,
+   "end": null
+  },
+  {
+   "slug": "aron-shadow",
+   "name": "Shadow Aron",
+   "kind": "rocket",
+   "level": 8,
+   "boostedLevel": 13,
+   "floor": 0,
+   "boostedFloor": 4,
+   "start": null,
+   "end": null
+  },
+  {
+   "slug": "beldum-shadow",
+   "name": "Shadow Beldum",
+   "kind": "rocket",
+   "level": 8,
+   "boostedLevel": 13,
+   "floor": 0,
+   "boostedFloor": 4,
+   "start": null,
+   "end": null
+  },
+  {
+   "slug": "snubbull-shadow",
+   "name": "Shadow Snubbull",
+   "kind": "rocket",
+   "level": 8,
+   "boostedLevel": 13,
+   "floor": 0,
+   "boostedFloor": 4,
+   "start": null,
+   "end": null
+  },
+  {
+   "slug": "vulpix-alola-shadow",
+   "name": "Shadow Alolan Vulpix",
+   "kind": "rocket",
+   "level": 8,
+   "boostedLevel": 13,
+   "floor": 0,
+   "boostedFloor": 4,
+   "start": null,
+   "end": null
+  },
+  {
+   "slug": "kirlia-shadow",
+   "name": "Shadow Kirlia",
+   "kind": "rocket",
+   "level": 8,
+   "boostedLevel": 13,
+   "floor": 0,
+   "boostedFloor": 4,
+   "start": null,
+   "end": null
+  },
+  {
+   "slug": "bulbasaur-shadow",
+   "name": "Shadow Bulbasaur",
+   "kind": "rocket",
+   "level": 8,
+   "boostedLevel": 13,
+   "floor": 0,
+   "boostedFloor": 4,
+   "start": null,
+   "end": null
+  },
+  {
+   "slug": "charmander-shadow",
+   "name": "Shadow Charmander",
+   "kind": "rocket",
+   "level": 8,
+   "boostedLevel": 13,
+   "floor": 0,
+   "boostedFloor": 4,
+   "start": null,
+   "end": null
+  },
+  {
+   "slug": "squirtle-shadow",
+   "name": "Shadow Squirtle",
+   "kind": "rocket",
+   "level": 8,
+   "boostedLevel": 13,
+   "floor": 0,
+   "boostedFloor": 4,
+   "start": null,
+   "end": null
+  },
+  {
+   "slug": "snorlax-shadow",
+   "name": "Shadow Snorlax",
+   "kind": "rocket",
+   "level": 8,
+   "boostedLevel": 13,
+   "floor": 0,
+   "boostedFloor": 4,
+   "start": null,
+   "end": null
+  },
+  {
+   "slug": "lapras-shadow",
+   "name": "Shadow Lapras",
+   "kind": "rocket",
+   "level": 8,
+   "boostedLevel": 13,
+   "floor": 0,
+   "boostedFloor": 4,
+   "start": null,
+   "end": null
+  },
+  {
+   "slug": "bellsprout-shadow",
+   "name": "Shadow Bellsprout",
+   "kind": "rocket",
+   "level": 8,
+   "boostedLevel": 13,
+   "floor": 0,
+   "boostedFloor": 4,
+   "start": null,
+   "end": null
+  },
+  {
+   "slug": "scizor",
+   "name": "Scizor",
+   "kind": "research",
+   "level": 15,
+   "boostedLevel": null,
+   "floor": 10,
+   "boostedFloor": null,
+   "start": null,
+   "end": {
+    "time": "2026-11-15T18:00:00",
+    "kind": "local"
+   }
+  },
+  {
+   "slug": "aggron",
+   "name": "Aggron",
+   "kind": "research",
+   "level": 15,
+   "boostedLevel": null,
+   "floor": 10,
+   "boostedFloor": null,
+   "start": null,
+   "end": {
+    "time": "2026-11-15T18:00:00",
+    "kind": "local"
+   }
+  },
+  {
+   "slug": "magnezone",
+   "name": "Magnezone",
+   "kind": "research",
+   "level": 15,
+   "boostedLevel": null,
+   "floor": 10,
+   "boostedFloor": null,
+   "start": null,
+   "end": {
+    "time": "2026-11-15T18:00:00",
+    "kind": "local"
+   }
+  },
+  {
+   "slug": "ferrothorn",
+   "name": "Ferrothorn",
+   "kind": "research",
+   "level": 15,
+   "boostedLevel": null,
+   "floor": 10,
+   "boostedFloor": null,
+   "start": null,
+   "end": {
+    "time": "2026-11-15T18:00:00",
+    "kind": "local"
+   }
+  },
+  {
+   "slug": "magnemite",
+   "name": "Magnemite",
+   "kind": "research",
+   "level": 15,
+   "boostedLevel": null,
+   "floor": 10,
+   "boostedFloor": null,
+   "start": null,
+   "end": {
+    "time": "2026-11-15T18:00:00",
+    "kind": "local"
+   }
+  },
+  {
+   "slug": "piplup",
+   "name": "Piplup",
+   "kind": "research",
+   "level": 15,
+   "boostedLevel": null,
+   "floor": 10,
+   "boostedFloor": null,
+   "start": null,
+   "end": {
+    "time": "2026-11-15T18:00:00",
+    "kind": "local"
+   }
+  },
+  {
+   "slug": "shieldon",
+   "name": "Shieldon",
+   "kind": "research",
+   "level": 15,
+   "boostedLevel": null,
+   "floor": 10,
+   "boostedFloor": null,
+   "start": null,
+   "end": {
+    "time": "2026-11-15T18:00:00",
+    "kind": "local"
+   }
+  },
+  {
+   "slug": "ferroseed",
+   "name": "Ferroseed",
+   "kind": "research",
+   "level": 15,
+   "boostedLevel": null,
+   "floor": 10,
+   "boostedFloor": null,
+   "start": null,
+   "end": null
+  },
+  {
+   "slug": "lucario",
+   "name": "Lucario",
+   "kind": "research",
+   "level": 15,
+   "boostedLevel": null,
+   "floor": 10,
+   "boostedFloor": null,
+   "start": null,
+   "end": {
+    "time": "2026-11-15T18:00:00",
+    "kind": "local"
+   }
+  },
+  {
+   "slug": "duraludon",
+   "name": "Duraludon",
+   "kind": "research",
+   "level": 15,
+   "boostedLevel": null,
+   "floor": 10,
+   "boostedFloor": null,
+   "start": null,
+   "end": {
+    "time": "2026-11-15T18:00:00",
+    "kind": "local"
+   }
+  },
+  {
+   "slug": "onix",
+   "name": "Onix",
+   "kind": "research",
+   "level": 15,
+   "boostedLevel": null,
+   "floor": 10,
+   "boostedFloor": null,
+   "start": null,
+   "end": {
+    "time": "2026-11-15T18:00:00",
+    "kind": "local"
+   }
+  },
+  {
+   "slug": "skarmory",
+   "name": "Skarmory",
+   "kind": "research",
+   "level": 15,
+   "boostedLevel": null,
+   "floor": 10,
+   "boostedFloor": null,
+   "start": null,
+   "end": {
+    "time": "2026-11-15T18:00:00",
+    "kind": "local"
+   }
+  },
+  {
+   "slug": "bronzor",
+   "name": "Bronzor",
+   "kind": "research",
+   "level": 15,
+   "boostedLevel": null,
+   "floor": 10,
+   "boostedFloor": null,
+   "start": null,
+   "end": {
+    "time": "2026-11-15T18:00:00",
+    "kind": "local"
+   }
+  },
+  {
+   "slug": "metagross",
+   "name": "Metagross",
+   "kind": "research",
+   "level": 15,
+   "boostedLevel": null,
+   "floor": 10,
+   "boostedFloor": null,
+   "start": null,
+   "end": {
+    "time": "2026-11-15T18:00:00",
+    "kind": "local"
+   }
+  },
+  {
+   "slug": "tinkaton",
+   "name": "Tinkaton",
+   "kind": "research",
+   "level": 15,
+   "boostedLevel": null,
+   "floor": 10,
+   "boostedFloor": null,
+   "start": null,
+   "end": {
+    "time": "2026-11-15T18:00:00",
+    "kind": "local"
+   }
+  },
+  {
+   "slug": "beldum",
+   "name": "Beldum",
+   "kind": "research",
+   "level": 15,
+   "boostedLevel": null,
+   "floor": 10,
+   "boostedFloor": null,
+   "start": null,
+   "end": null
+  },
+  {
+   "slug": "drilbur",
+   "name": "Drilbur",
+   "kind": "research",
+   "level": 15,
+   "boostedLevel": null,
+   "floor": 10,
+   "boostedFloor": null,
+   "start": null,
+   "end": {
+    "time": "2026-11-15T18:00:00",
+    "kind": "local"
+   }
+  },
+  {
+   "slug": "sandshrew-alola",
+   "name": "Alolan Sandshrew",
+   "kind": "research",
+   "level": 15,
+   "boostedLevel": null,
+   "floor": 10,
+   "boostedFloor": null,
+   "start": null,
+   "end": null
+  },
+  {
+   "slug": "diglett-alola",
+   "name": "Alolan Diglett",
+   "kind": "research",
+   "level": 15,
+   "boostedLevel": null,
+   "floor": 10,
+   "boostedFloor": null,
+   "start": null,
+   "end": null
+  },
+  {
+   "slug": "stunfisk-galarian",
+   "name": "Galarian Stunfisk",
+   "kind": "research",
+   "level": 15,
+   "boostedLevel": null,
+   "floor": 10,
+   "boostedFloor": null,
+   "start": null,
+   "end": null
+  },
+  {
+   "slug": "charmander",
+   "name": "Charmander",
+   "kind": "research",
+   "level": 15,
+   "boostedLevel": null,
+   "floor": 10,
+   "boostedFloor": null,
+   "start": null,
+   "end": null
+  },
+  {
+   "slug": "trapinch",
+   "name": "Trapinch",
+   "kind": "research",
+   "level": 15,
+   "boostedLevel": null,
+   "floor": 10,
+   "boostedFloor": null,
+   "start": null,
+   "end": null
+  },
+  {
+   "slug": "swablu",
+   "name": "Swablu",
+   "kind": "research",
+   "level": 15,
+   "boostedLevel": null,
+   "floor": 10,
+   "boostedFloor": null,
+   "start": null,
+   "end": null
+  },
+  {
+   "slug": "skrelp",
+   "name": "Skrelp",
+   "kind": "research",
+   "level": 15,
+   "boostedLevel": null,
+   "floor": 10,
+   "boostedFloor": null,
+   "start": null,
+   "end": {
+    "time": "2026-11-15T18:00:00",
+    "kind": "local"
+   }
+  },
+  {
+   "slug": "turtonator",
+   "name": "Turtonator",
+   "kind": "research",
+   "level": 15,
+   "boostedLevel": null,
+   "floor": 10,
+   "boostedFloor": null,
+   "start": null,
+   "end": {
+    "time": "2026-11-15T18:00:00",
+    "kind": "local"
+   }
+  },
+  {
+   "slug": "exeggutor-alola",
+   "name": "Alolan Exeggutor",
+   "kind": "research",
+   "level": 15,
+   "boostedLevel": null,
+   "floor": 10,
+   "boostedFloor": null,
+   "start": null,
+   "end": null
+  },
+  {
+   "slug": "kingdra",
+   "name": "Kingdra",
+   "kind": "research",
+   "level": 15,
+   "boostedLevel": null,
+   "floor": 10,
+   "boostedFloor": null,
+   "start": null,
+   "end": {
+    "time": "2026-11-15T18:00:00",
+    "kind": "local"
+   }
+  },
+  {
+   "slug": "haxorus",
+   "name": "Haxorus",
+   "kind": "research",
+   "level": 15,
+   "boostedLevel": null,
+   "floor": 10,
+   "boostedFloor": null,
+   "start": null,
+   "end": {
+    "time": "2026-11-15T18:00:00",
+    "kind": "local"
+   }
+  },
+  {
+   "slug": "noivern",
+   "name": "Noivern",
+   "kind": "research",
+   "level": 15,
+   "boostedLevel": null,
+   "floor": 10,
+   "boostedFloor": null,
+   "start": null,
+   "end": {
+    "time": "2026-11-15T18:00:00",
+    "kind": "local"
+   }
+  },
+  {
+   "slug": "goomy",
+   "name": "Goomy",
+   "kind": "research",
+   "level": 15,
+   "boostedLevel": null,
+   "floor": 10,
+   "boostedFloor": null,
+   "start": null,
+   "end": {
+    "time": "2026-11-15T18:00:00",
+    "kind": "local"
+   }
+  },
+  {
+   "slug": "jangmo-o",
+   "name": "Jangmo-o",
+   "kind": "research",
+   "level": 15,
+   "boostedLevel": null,
+   "floor": 10,
+   "boostedFloor": null,
+   "start": null,
+   "end": {
+    "time": "2026-11-15T18:00:00",
+    "kind": "local"
+   }
+  },
+  {
+   "slug": "frigibax",
+   "name": "Frigibax",
+   "kind": "research",
+   "level": 15,
+   "boostedLevel": null,
+   "floor": 10,
+   "boostedFloor": null,
+   "start": null,
+   "end": {
+    "time": "2026-11-15T18:00:00",
+    "kind": "local"
+   }
+  },
+  {
+   "slug": "flygon",
+   "name": "Flygon",
+   "kind": "research",
+   "level": 15,
+   "boostedLevel": null,
+   "floor": 10,
+   "boostedFloor": null,
+   "start": null,
+   "end": {
+    "time": "2026-11-15T18:00:00",
+    "kind": "local"
+   }
+  },
+  {
+   "slug": "goodra",
+   "name": "Goodra",
+   "kind": "research",
+   "level": 15,
+   "boostedLevel": null,
+   "floor": 10,
+   "boostedFloor": null,
+   "start": null,
+   "end": {
+    "time": "2026-11-15T18:00:00",
+    "kind": "local"
+   }
+  },
+  {
+   "slug": "axew",
+   "name": "Axew",
+   "kind": "research",
+   "level": 15,
+   "boostedLevel": null,
+   "floor": 10,
+   "boostedFloor": null,
+   "start": null,
+   "end": null
+  },
+  {
+   "slug": "tyrunt",
+   "name": "Tyrunt",
+   "kind": "research",
+   "level": 15,
+   "boostedLevel": null,
+   "floor": 10,
+   "boostedFloor": null,
+   "start": null,
+   "end": {
+    "time": "2026-11-15T18:00:00",
+    "kind": "local"
+   }
+  },
+  {
+   "slug": "noibat",
+   "name": "Noibat",
+   "kind": "research",
+   "level": 15,
+   "boostedLevel": null,
+   "floor": 10,
+   "boostedFloor": null,
+   "start": null,
+   "end": {
+    "time": "2026-11-15T18:00:00",
+    "kind": "local"
+   }
+  },
+  {
+   "slug": "dratini",
+   "name": "Dratini",
+   "kind": "research",
+   "level": 15,
+   "boostedLevel": null,
+   "floor": 10,
+   "boostedFloor": null,
+   "start": null,
+   "end": null
+  },
+  {
+   "slug": "gible",
+   "name": "Gible",
+   "kind": "research",
+   "level": 15,
+   "boostedLevel": null,
+   "floor": 10,
+   "boostedFloor": null,
+   "start": null,
+   "end": null
+  },
+  {
+   "slug": "deino",
+   "name": "Deino",
+   "kind": "research",
+   "level": 15,
+   "boostedLevel": null,
+   "floor": 10,
+   "boostedFloor": null,
+   "start": null,
+   "end": {
+    "time": "2026-11-15T18:00:00",
+    "kind": "local"
+   }
+  },
+  {
+   "slug": "magikarp",
+   "name": "Magikarp",
+   "kind": "research",
+   "level": 15,
+   "boostedLevel": null,
+   "floor": 10,
+   "boostedFloor": null,
+   "start": null,
+   "end": null
+  },
+  {
+   "slug": "stufful",
+   "name": "Stufful",
+   "kind": "research",
+   "level": 15,
+   "boostedLevel": null,
+   "floor": 10,
+   "boostedFloor": null,
+   "start": null,
+   "end": null
+  },
+  {
+   "slug": "wimpod",
+   "name": "Wimpod",
+   "kind": "research",
+   "level": 15,
+   "boostedLevel": null,
+   "floor": 10,
+   "boostedFloor": null,
+   "start": null,
+   "end": null
+  },
+  {
+   "slug": "bagon",
+   "name": "Bagon",
+   "kind": "research",
+   "level": 15,
+   "boostedLevel": null,
+   "floor": 10,
+   "boostedFloor": null,
+   "start": null,
+   "end": null
+  },
+  {
+   "slug": "psyduck",
+   "name": "Psyduck",
+   "kind": "research",
+   "level": 15,
+   "boostedLevel": null,
+   "floor": 10,
+   "boostedFloor": null,
+   "start": null,
+   "end": null
+  },
+  {
+   "slug": "seaking",
+   "name": "Seaking",
+   "kind": "research",
+   "level": 15,
+   "boostedLevel": null,
+   "floor": 10,
+   "boostedFloor": null,
+   "start": null,
+   "end": null
+  },
+  {
+   "slug": "marill",
+   "name": "Marill",
+   "kind": "research",
+   "level": 15,
+   "boostedLevel": null,
+   "floor": 10,
+   "boostedFloor": null,
+   "start": null,
+   "end": null
+  },
+  {
+   "slug": "teddiursa",
+   "name": "Teddiursa",
+   "kind": "research",
+   "level": 15,
+   "boostedLevel": null,
+   "floor": 10,
+   "boostedFloor": null,
+   "start": null,
+   "end": null
+  },
+  {
+   "slug": "lombre",
+   "name": "Lombre",
+   "kind": "research",
+   "level": 15,
+   "boostedLevel": null,
+   "floor": 10,
+   "boostedFloor": null,
+   "start": null,
+   "end": null
+  },
+  {
+   "slug": "stunky",
+   "name": "Stunky",
+   "kind": "research",
+   "level": 15,
+   "boostedLevel": null,
+   "floor": 10,
+   "boostedFloor": null,
+   "start": null,
+   "end": null
+  },
+  {
+   "slug": "liepard",
+   "name": "Liepard",
+   "kind": "research",
+   "level": 15,
+   "boostedLevel": null,
+   "floor": 10,
+   "boostedFloor": null,
+   "start": null,
+   "end": null
+  },
+  {
+   "slug": "darumaka",
+   "name": "Darumaka",
+   "kind": "research",
+   "level": 15,
+   "boostedLevel": null,
+   "floor": 10,
+   "boostedFloor": null,
+   "start": null,
+   "end": null
+  },
+  {
+   "slug": "clauncher",
+   "name": "Clauncher",
+   "kind": "research",
+   "level": 15,
+   "boostedLevel": null,
+   "floor": 10,
+   "boostedFloor": null,
+   "start": null,
+   "end": null
+  },
+  {
+   "slug": "dedenne",
+   "name": "Dedenne",
+   "kind": "research",
+   "level": 15,
+   "boostedLevel": null,
+   "floor": 10,
+   "boostedFloor": null,
+   "start": null,
+   "end": null
+  },
+  {
+   "slug": "cutiefly",
+   "name": "Cutiefly",
+   "kind": "research",
+   "level": 15,
+   "boostedLevel": null,
+   "floor": 10,
+   "boostedFloor": null,
+   "start": null,
+   "end": null
+  },
+  {
+   "slug": "smoliv",
+   "name": "Smoliv",
+   "kind": "research",
+   "level": 15,
+   "boostedLevel": null,
+   "floor": 10,
+   "boostedFloor": null,
+   "start": null,
+   "end": null
+  },
+  {
+   "slug": "sunkern",
+   "name": "Sunkern",
+   "kind": "research",
+   "level": 15,
+   "boostedLevel": null,
+   "floor": 10,
+   "boostedFloor": null,
+   "start": null,
+   "end": null
+  },
+  {
+   "slug": "seedot",
+   "name": "Seedot",
+   "kind": "research",
+   "level": 15,
+   "boostedLevel": null,
+   "floor": 10,
+   "boostedFloor": null,
+   "start": null,
+   "end": null
+  },
+  {
+   "slug": "shroomish",
+   "name": "Shroomish",
+   "kind": "research",
+   "level": 15,
+   "boostedLevel": null,
+   "floor": 10,
+   "boostedFloor": null,
+   "start": null,
+   "end": null
+  },
+  {
+   "slug": "petilil",
+   "name": "Petilil",
+   "kind": "research",
+   "level": 15,
+   "boostedLevel": null,
+   "floor": 10,
+   "boostedFloor": null,
+   "start": null,
+   "end": null
+  },
+  {
+   "slug": "skiddo",
+   "name": "Skiddo",
+   "kind": "research",
+   "level": 15,
+   "boostedLevel": null,
+   "floor": 10,
+   "boostedFloor": null,
+   "start": null,
+   "end": null
+  },
+  {
+   "slug": "gastly",
+   "name": "Gastly",
+   "kind": "research",
+   "level": 15,
+   "boostedLevel": null,
+   "floor": 10,
+   "boostedFloor": null,
+   "start": null,
+   "end": null
+  },
+  {
+   "slug": "shuppet",
+   "name": "Shuppet",
+   "kind": "research",
+   "level": 15,
+   "boostedLevel": null,
+   "floor": 10,
+   "boostedFloor": null,
+   "start": null,
+   "end": null
+  },
+  {
+   "slug": "duskull",
+   "name": "Duskull",
+   "kind": "research",
+   "level": 15,
+   "boostedLevel": null,
+   "floor": 10,
+   "boostedFloor": null,
+   "start": null,
+   "end": null
+  },
+  {
+   "slug": "drifloon",
+   "name": "Drifloon",
+   "kind": "research",
+   "level": 15,
+   "boostedLevel": null,
+   "floor": 10,
+   "boostedFloor": null,
+   "start": null,
+   "end": null
+  },
+  {
+   "slug": "yamask",
+   "name": "Yamask",
+   "kind": "research",
+   "level": 15,
+   "boostedLevel": null,
+   "floor": 10,
+   "boostedFloor": null,
+   "start": null,
+   "end": null
+  },
+  {
+   "slug": "golett",
+   "name": "Golett",
+   "kind": "research",
+   "level": 15,
+   "boostedLevel": null,
+   "floor": 10,
+   "boostedFloor": null,
+   "start": null,
+   "end": null
+  },
+  {
+   "slug": "murkrow",
+   "name": "Murkrow",
+   "kind": "research",
+   "level": 15,
+   "boostedLevel": null,
+   "floor": 10,
+   "boostedFloor": null,
+   "start": null,
+   "end": null
+  },
+  {
+   "slug": "sneasel",
+   "name": "Sneasel",
+   "kind": "research",
+   "level": 15,
+   "boostedLevel": null,
+   "floor": 10,
+   "boostedFloor": null,
+   "start": null,
+   "end": null
+  },
+  {
+   "slug": "poochyena",
+   "name": "Poochyena",
+   "kind": "research",
+   "level": 15,
+   "boostedLevel": null,
+   "floor": 10,
+   "boostedFloor": null,
+   "start": null,
+   "end": null
+  },
+  {
+   "slug": "purrloin",
+   "name": "Purrloin",
+   "kind": "research",
+   "level": 15,
+   "boostedLevel": null,
+   "floor": 10,
+   "boostedFloor": null,
+   "start": null,
+   "end": null
+  },
+  {
+   "slug": "inkay",
+   "name": "Inkay",
+   "kind": "research",
+   "level": 15,
+   "boostedLevel": null,
+   "floor": 10,
+   "boostedFloor": null,
+   "start": null,
+   "end": null
+  },
+  {
+   "slug": "nickit",
+   "name": "Nickit",
+   "kind": "research",
+   "level": 15,
+   "boostedLevel": null,
+   "floor": 10,
+   "boostedFloor": null,
+   "start": null,
+   "end": null
+  },
+  {
+   "slug": "vulpix",
+   "name": "Vulpix",
+   "kind": "research",
+   "level": 15,
+   "boostedLevel": null,
+   "floor": 10,
+   "boostedFloor": null,
+   "start": null,
+   "end": null
+  },
+  {
+   "slug": "poliwag",
+   "name": "Poliwag",
+   "kind": "research",
+   "level": 15,
+   "boostedLevel": null,
+   "floor": 10,
+   "boostedFloor": null,
+   "start": null,
+   "end": null
+  },
+  {
+   "slug": "wingull",
+   "name": "Wingull",
+   "kind": "research",
+   "level": 15,
+   "boostedLevel": null,
+   "floor": 10,
+   "boostedFloor": null,
+   "start": null,
+   "end": null
+  },
+  {
+   "slug": "hippopotas",
+   "name": "Hippopotas",
+   "kind": "research",
+   "level": 15,
+   "boostedLevel": null,
+   "floor": 10,
+   "boostedFloor": null,
+   "start": null,
+   "end": null
+  },
+  {
+   "slug": "snover",
+   "name": "Snover",
+   "kind": "research",
+   "level": 15,
+   "boostedLevel": null,
+   "floor": 10,
+   "boostedFloor": null,
+   "start": null,
+   "end": null
+  },
+  {
+   "slug": "roggenrola",
+   "name": "Roggenrola",
+   "kind": "research",
+   "level": 15,
+   "boostedLevel": null,
+   "floor": 10,
+   "boostedFloor": null,
+   "start": null,
+   "end": null
+  },
+  {
+   "slug": "vanillite",
+   "name": "Vanillite",
+   "kind": "research",
+   "level": 15,
+   "boostedLevel": null,
+   "floor": 10,
+   "boostedFloor": null,
+   "start": null,
+   "end": null
+  },
+  {
+   "slug": "geodude-alola",
+   "name": "Alolan Geodude",
+   "kind": "research",
+   "level": 15,
+   "boostedLevel": null,
+   "floor": 10,
+   "boostedFloor": null,
+   "start": null,
+   "end": null
+  },
+  {
+   "slug": "electabuzz",
+   "name": "Electabuzz",
+   "kind": "research",
+   "level": 15,
+   "boostedLevel": null,
+   "floor": 10,
+   "boostedFloor": null,
+   "start": null,
+   "end": null
+  },
+  {
+   "slug": "makuhita",
+   "name": "Makuhita",
+   "kind": "research",
+   "level": 15,
+   "boostedLevel": null,
+   "floor": 10,
+   "boostedFloor": null,
+   "start": null,
+   "end": null
+  },
+  {
+   "slug": "baltoy",
+   "name": "Baltoy",
+   "kind": "research",
+   "level": 15,
+   "boostedLevel": null,
+   "floor": 10,
+   "boostedFloor": null,
+   "start": null,
+   "end": null
+  },
+  {
+   "slug": "dusclops",
+   "name": "Dusclops",
+   "kind": "research",
+   "level": 15,
+   "boostedLevel": null,
+   "floor": 10,
+   "boostedFloor": null,
+   "start": null,
+   "end": null
+  },
+  {
+   "slug": "staravia",
+   "name": "Staravia",
+   "kind": "research",
+   "level": 15,
+   "boostedLevel": null,
+   "floor": 10,
+   "boostedFloor": null,
+   "start": null,
+   "end": null
+  },
+  {
+   "slug": "emolga",
+   "name": "Emolga",
+   "kind": "research",
+   "level": 15,
+   "boostedLevel": null,
+   "floor": 10,
+   "boostedFloor": null,
+   "start": null,
+   "end": null
+  },
+  {
+   "slug": "lechonk",
+   "name": "Lechonk",
+   "kind": "research",
+   "level": 15,
+   "boostedLevel": null,
+   "floor": 10,
+   "boostedFloor": null,
+   "start": null,
+   "end": null
+  },
+  {
+   "slug": "magmar",
+   "name": "Magmar",
+   "kind": "research",
+   "level": 15,
+   "boostedLevel": null,
+   "floor": 10,
+   "boostedFloor": null,
+   "start": null,
+   "end": null
+  },
+  {
+   "slug": "nuzleaf",
+   "name": "Nuzleaf",
+   "kind": "research",
+   "level": 15,
+   "boostedLevel": null,
+   "floor": 10,
+   "boostedFloor": null,
+   "start": null,
+   "end": null
+  },
+  {
+   "slug": "stunfisk",
+   "name": "Stunfisk",
+   "kind": "research",
+   "level": 15,
+   "boostedLevel": null,
+   "floor": 10,
+   "boostedFloor": null,
+   "start": null,
+   "end": null
+  },
+  {
+   "slug": "trumbeak",
+   "name": "Trumbeak",
+   "kind": "research",
+   "level": 15,
+   "boostedLevel": null,
+   "floor": 10,
+   "boostedFloor": null,
+   "start": null,
+   "end": null
+  },
+  {
+   "slug": "mareanie",
+   "name": "Mareanie",
+   "kind": "research",
+   "level": 15,
+   "boostedLevel": null,
+   "floor": 10,
+   "boostedFloor": null,
+   "start": null,
+   "end": null
+  },
+  {
+   "slug": "nymble",
+   "name": "Nymble",
+   "kind": "research",
+   "level": 15,
+   "boostedLevel": null,
+   "floor": 10,
+   "boostedFloor": null,
+   "start": null,
+   "end": null
+  },
+  {
+   "slug": "larvitar",
+   "name": "Larvitar",
+   "kind": "research",
+   "level": 15,
+   "boostedLevel": null,
+   "floor": 10,
+   "boostedFloor": null,
+   "start": null,
+   "end": null
+  },
+  {
+   "slug": "omanyte",
+   "name": "Omanyte",
+   "kind": "research",
+   "level": 15,
+   "boostedLevel": null,
+   "floor": 10,
+   "boostedFloor": null,
+   "start": null,
+   "end": null
+  },
+  {
+   "slug": "kabuto",
+   "name": "Kabuto",
+   "kind": "research",
+   "level": 15,
+   "boostedLevel": null,
+   "floor": 10,
+   "boostedFloor": null,
+   "start": null,
+   "end": null
+  },
+  {
+   "slug": "clamperl",
+   "name": "Clamperl",
+   "kind": "research",
+   "level": 15,
+   "boostedLevel": null,
+   "floor": 10,
+   "boostedFloor": null,
+   "start": null,
+   "end": null
+  },
+  {
+   "slug": "elgyem",
+   "name": "Elgyem",
+   "kind": "research",
+   "level": 15,
+   "boostedLevel": null,
+   "floor": 10,
+   "boostedFloor": null,
+   "start": null,
+   "end": null
+  },
+  {
+   "slug": "binacle",
+   "name": "Binacle",
+   "kind": "research",
+   "level": 15,
+   "boostedLevel": null,
+   "floor": 10,
+   "boostedFloor": null,
+   "start": null,
+   "end": null
+  },
+  {
+   "slug": "lileep",
+   "name": "Lileep",
+   "kind": "research",
+   "level": 15,
+   "boostedLevel": null,
+   "floor": 10,
+   "boostedFloor": null,
+   "start": null,
+   "end": null
+  },
+  {
+   "slug": "anorith",
+   "name": "Anorith",
+   "kind": "research",
+   "level": 15,
+   "boostedLevel": null,
+   "floor": 10,
+   "boostedFloor": null,
+   "start": null,
+   "end": null
+  },
+  {
+   "slug": "spinda-04",
+   "name": "Spinda 04",
+   "kind": "research",
+   "level": 15,
+   "boostedLevel": null,
+   "floor": 10,
+   "boostedFloor": null,
+   "start": null,
+   "end": null
+  },
+  {
+   "slug": "spinda-05",
+   "name": "Spinda 05",
+   "kind": "research",
+   "level": 15,
+   "boostedLevel": null,
+   "floor": 10,
+   "boostedFloor": null,
+   "start": null,
+   "end": null
+  },
+  {
+   "slug": "diglett",
+   "name": "Diglett",
+   "kind": "research",
+   "level": 15,
+   "boostedLevel": null,
+   "floor": 10,
+   "boostedFloor": null,
+   "start": null,
+   "end": null
+  },
+  {
+   "slug": "sudowoodo",
+   "name": "Sudowoodo",
+   "kind": "research",
+   "level": 15,
+   "boostedLevel": null,
+   "floor": 10,
+   "boostedFloor": null,
+   "start": null,
+   "end": null
+  },
+  {
+   "slug": "lapras",
+   "name": "Lapras",
+   "kind": "research",
+   "level": 15,
+   "boostedLevel": null,
+   "floor": 10,
+   "boostedFloor": null,
+   "start": null,
+   "end": null
+  },
+  {
+   "slug": "vaporeon",
+   "name": "Vaporeon",
+   "kind": "research",
+   "level": 15,
+   "boostedLevel": null,
+   "floor": 10,
+   "boostedFloor": null,
+   "start": null,
+   "end": null
+  },
+  {
+   "slug": "jolteon",
+   "name": "Jolteon",
+   "kind": "research",
+   "level": 15,
+   "boostedLevel": null,
+   "floor": 10,
+   "boostedFloor": null,
+   "start": null,
+   "end": null
+  },
+  {
+   "slug": "flareon",
+   "name": "Flareon",
+   "kind": "research",
+   "level": 15,
+   "boostedLevel": null,
+   "floor": 10,
+   "boostedFloor": null,
+   "start": null,
+   "end": null
+  },
+  {
+   "slug": "snorlax",
+   "name": "Snorlax",
+   "kind": "research",
+   "level": 15,
+   "boostedLevel": null,
+   "floor": 10,
+   "boostedFloor": null,
+   "start": null,
+   "end": null
+  },
+  {
+   "slug": "piloswine",
+   "name": "Piloswine",
+   "kind": "research",
+   "level": 15,
+   "boostedLevel": null,
+   "floor": 10,
+   "boostedFloor": null,
+   "start": null,
+   "end": null
+  },
+  {
+   "slug": "sealeo",
+   "name": "Sealeo",
+   "kind": "research",
+   "level": 15,
+   "boostedLevel": null,
+   "floor": 10,
+   "boostedFloor": null,
+   "start": null,
+   "end": null
+  },
+  {
+   "slug": "metang",
+   "name": "Metang",
+   "kind": "research",
+   "level": 15,
+   "boostedLevel": null,
+   "floor": 10,
+   "boostedFloor": null,
+   "start": null,
+   "end": null
+  },
+  {
+   "slug": "luxio",
+   "name": "Luxio",
+   "kind": "research",
+   "level": 15,
+   "boostedLevel": null,
+   "floor": 10,
+   "boostedFloor": null,
+   "start": null,
+   "end": null
+  },
+  {
+   "slug": "gabite",
+   "name": "Gabite",
+   "kind": "research",
+   "level": 15,
+   "boostedLevel": null,
+   "floor": 10,
+   "boostedFloor": null,
+   "start": null,
+   "end": null
+  },
+  {
+   "slug": "lampent",
+   "name": "Lampent",
+   "kind": "research",
+   "level": 15,
+   "boostedLevel": null,
+   "floor": 10,
+   "boostedFloor": null,
+   "start": null,
+   "end": null
+  },
+  {
+   "slug": "fletchinder",
+   "name": "Fletchinder",
+   "kind": "research",
+   "level": 15,
+   "boostedLevel": null,
+   "floor": 10,
+   "boostedFloor": null,
+   "start": null,
+   "end": null
+  },
+  {
+   "slug": "tirtouga",
+   "name": "Tirtouga",
+   "kind": "research",
+   "level": 15,
+   "boostedLevel": null,
+   "floor": 10,
+   "boostedFloor": null,
+   "start": null,
+   "end": null
+  },
+  {
+   "slug": "archen",
+   "name": "Archen",
+   "kind": "research",
+   "level": 15,
+   "boostedLevel": null,
+   "floor": 10,
+   "boostedFloor": null,
+   "start": null,
+   "end": null
+  },
+  {
+   "slug": "marowak-alola",
+   "name": "Alolan Marowak",
+   "kind": "research",
+   "level": 15,
+   "boostedLevel": null,
+   "floor": 10,
+   "boostedFloor": null,
+   "start": null,
+   "end": null
+  },
+  {
+   "slug": "aerodactyl",
+   "name": "Aerodactyl",
+   "kind": "research",
+   "level": 15,
+   "boostedLevel": null,
+   "floor": 10,
+   "boostedFloor": null,
+   "start": null,
+   "end": null
+  },
+  {
+   "slug": "growlithe",
+   "name": "Growlithe",
+   "kind": "research",
+   "level": 15,
+   "boostedLevel": null,
+   "floor": 10,
+   "boostedFloor": null,
+   "start": null,
+   "end": null
+  },
+  {
+   "slug": "ponyta-galarian",
+   "name": "Galarian Ponyta",
+   "kind": "research",
+   "level": 15,
+   "boostedLevel": null,
+   "floor": 10,
+   "boostedFloor": null,
+   "start": null,
+   "end": null
+  },
+  {
+   "slug": "ponyta",
+   "name": "Ponyta",
+   "kind": "research",
+   "level": 15,
+   "boostedLevel": null,
+   "floor": 10,
+   "boostedFloor": null,
+   "start": null,
+   "end": null
+  },
+  {
+   "slug": "slowpoke-galarian",
+   "name": "Galarian Slowpoke",
+   "kind": "research",
+   "level": 15,
+   "boostedLevel": null,
+   "floor": 10,
+   "boostedFloor": null,
+   "start": null,
+   "end": null
+  },
+  {
+   "slug": "slowpoke",
+   "name": "Slowpoke",
+   "kind": "research",
+   "level": 15,
+   "boostedLevel": null,
+   "floor": 10,
+   "boostedFloor": null,
+   "start": null,
+   "end": null
+  },
+  {
+   "slug": "houndour",
+   "name": "Houndour",
+   "kind": "research",
+   "level": 15,
+   "boostedLevel": null,
+   "floor": 10,
+   "boostedFloor": null,
+   "start": null,
+   "end": null
+  },
+  {
+   "slug": "electrike",
+   "name": "Electrike",
+   "kind": "research",
+   "level": 15,
+   "boostedLevel": null,
+   "floor": 10,
+   "boostedFloor": null,
+   "start": null,
+   "end": null
+  },
+  {
+   "slug": "wailmer",
+   "name": "Wailmer",
+   "kind": "research",
+   "level": 15,
+   "boostedLevel": null,
+   "floor": 10,
+   "boostedFloor": null,
+   "start": null,
+   "end": null
+  },
+  {
+   "slug": "herdier",
+   "name": "Herdier",
+   "kind": "research",
+   "level": 15,
+   "boostedLevel": null,
+   "floor": 10,
+   "boostedFloor": null,
+   "start": null,
+   "end": null
+  },
+  {
+   "slug": "scyther",
+   "name": "Scyther",
+   "kind": "research",
+   "level": 15,
+   "boostedLevel": null,
+   "floor": 10,
+   "boostedFloor": null,
+   "start": null,
+   "end": null
+  },
+  {
+   "slug": "noctowl",
+   "name": "Noctowl",
+   "kind": "research",
+   "level": 15,
+   "boostedLevel": null,
+   "floor": 10,
+   "boostedFloor": null,
+   "start": null,
+   "end": null
+  },
+  {
+   "slug": "nincada",
+   "name": "Nincada",
+   "kind": "research",
+   "level": 15,
+   "boostedLevel": null,
+   "floor": 10,
+   "boostedFloor": null,
+   "start": null,
+   "end": null
+  },
+  {
+   "slug": "combee",
+   "name": "Combee",
+   "kind": "research",
+   "level": 15,
+   "boostedLevel": null,
+   "floor": 10,
+   "boostedFloor": null,
+   "start": null,
+   "end": null
+  },
+  {
+   "slug": "audino",
+   "name": "Audino",
+   "kind": "research",
+   "level": 15,
+   "boostedLevel": null,
+   "floor": 10,
+   "boostedFloor": null,
+   "start": null,
+   "end": null
+  },
+  {
+   "slug": "trubbish",
+   "name": "Trubbish",
+   "kind": "research",
+   "level": 15,
+   "boostedLevel": null,
+   "floor": 10,
+   "boostedFloor": null,
+   "start": null,
+   "end": null
+  },
+  {
+   "slug": "cubchoo",
+   "name": "Cubchoo",
+   "kind": "research",
+   "level": 15,
+   "boostedLevel": null,
+   "floor": 10,
+   "boostedFloor": null,
+   "start": null,
+   "end": null
+  },
+  {
+   "slug": "fidough",
+   "name": "Fidough",
+   "kind": "research",
+   "level": 15,
+   "boostedLevel": null,
+   "floor": 10,
+   "boostedFloor": null,
+   "start": null,
+   "end": null
+  },
+  {
+   "slug": "mawile",
+   "name": "Mawile",
+   "kind": "research",
+   "level": 15,
+   "boostedLevel": null,
+   "floor": 10,
+   "boostedFloor": null,
+   "start": null,
+   "end": null
+  },
+  {
+   "slug": "feebas",
+   "name": "Feebas",
+   "kind": "research",
+   "level": 15,
+   "boostedLevel": null,
+   "floor": 10,
+   "boostedFloor": null,
+   "start": null,
+   "end": null
+  },
+  {
+   "slug": "doduo",
+   "name": "Doduo",
+   "kind": "research",
+   "level": 15,
+   "boostedLevel": null,
+   "floor": 10,
+   "boostedFloor": null,
+   "start": null,
+   "end": null
+  },
+  {
+   "slug": "remoraid",
+   "name": "Remoraid",
+   "kind": "research",
+   "level": 15,
+   "boostedLevel": null,
+   "floor": 10,
+   "boostedFloor": null,
+   "start": null,
+   "end": null
+  },
+  {
+   "slug": "ralts",
+   "name": "Ralts",
+   "kind": "research",
+   "level": 15,
+   "boostedLevel": null,
+   "floor": 10,
+   "boostedFloor": null,
+   "start": null,
+   "end": null
+  },
+  {
+   "slug": "aron",
+   "name": "Aron",
+   "kind": "research",
+   "level": 15,
+   "boostedLevel": null,
+   "floor": 10,
+   "boostedFloor": null,
+   "start": null,
+   "end": null
+  },
+  {
+   "slug": "sandshrew",
+   "name": "Sandshrew",
+   "kind": "research",
+   "level": 15,
+   "boostedLevel": null,
+   "floor": 10,
+   "boostedFloor": null,
+   "start": null,
+   "end": null
+  },
+  {
+   "slug": "dunsparce",
+   "name": "Dunsparce",
+   "kind": "research",
+   "level": 15,
+   "boostedLevel": null,
+   "floor": 10,
+   "boostedFloor": null,
+   "start": null,
+   "end": null
+  },
+  {
+   "slug": "zigzagoon-galarian",
+   "name": "Galarian Zigzagoon",
+   "kind": "research",
+   "level": 15,
+   "boostedLevel": null,
+   "floor": 10,
+   "boostedFloor": null,
+   "start": null,
+   "end": null
+  },
+  {
+   "slug": "zigzagoon",
+   "name": "Zigzagoon",
+   "kind": "research",
+   "level": 15,
+   "boostedLevel": null,
+   "floor": 10,
+   "boostedFloor": null,
+   "start": null,
+   "end": null
+  },
+  {
+   "slug": "snorunt",
+   "name": "Snorunt",
+   "kind": "research",
+   "level": 15,
+   "boostedLevel": null,
+   "floor": 10,
+   "boostedFloor": null,
+   "start": null,
+   "end": null
+  },
+  {
+   "slug": "bidoof",
+   "name": "Bidoof",
+   "kind": "research",
+   "level": 15,
+   "boostedLevel": null,
+   "floor": 10,
+   "boostedFloor": null,
+   "start": null,
+   "end": null
+  },
+  {
+   "slug": "ducklett",
+   "name": "Ducklett",
+   "kind": "research",
+   "level": 15,
+   "boostedLevel": null,
+   "floor": 10,
+   "boostedFloor": null,
+   "start": null,
+   "end": null
+  },
+  {
+   "slug": "dewpider",
+   "name": "Dewpider",
+   "kind": "research",
+   "level": 15,
+   "boostedLevel": null,
+   "floor": 10,
+   "boostedFloor": null,
+   "start": null,
+   "end": null
+  },
+  {
+   "slug": "skwovet",
+   "name": "Skwovet",
+   "kind": "research",
+   "level": 15,
+   "boostedLevel": null,
+   "floor": 10,
+   "boostedFloor": null,
+   "start": null,
+   "end": null
+  },
+  {
+   "slug": "blipbug",
+   "name": "Blipbug",
+   "kind": "research",
+   "level": 15,
+   "boostedLevel": null,
+   "floor": 10,
+   "boostedFloor": null,
+   "start": null,
+   "end": null
+  },
+  {
+   "slug": "arrokuda",
+   "name": "Arrokuda",
+   "kind": "research",
+   "level": 15,
+   "boostedLevel": null,
+   "floor": 10,
+   "boostedFloor": null,
+   "start": null,
+   "end": null
+  },
+  {
+   "slug": "tarountula",
+   "name": "Tarountula",
+   "kind": "research",
+   "level": 15,
+   "boostedLevel": null,
+   "floor": 10,
+   "boostedFloor": null,
+   "start": null,
+   "end": null
+  },
+  {
+   "slug": "nacli",
+   "name": "Nacli",
+   "kind": "research",
+   "level": 15,
+   "boostedLevel": null,
+   "floor": 10,
+   "boostedFloor": null,
+   "start": null,
+   "end": null
+  },
+  {
+   "slug": "growlithe-hisuian",
+   "name": "Hisuian Growlithe",
+   "kind": "research",
+   "level": 15,
+   "boostedLevel": null,
+   "floor": 10,
+   "boostedFloor": null,
+   "start": null,
+   "end": null
+  },
+  {
+   "slug": "croagunk",
+   "name": "Croagunk",
+   "kind": "research",
+   "level": 15,
+   "boostedLevel": null,
+   "floor": 10,
+   "boostedFloor": null,
+   "start": null,
+   "end": null
+  },
+  {
+   "slug": "cottonee",
+   "name": "Cottonee",
+   "kind": "research",
+   "level": 15,
+   "boostedLevel": null,
+   "floor": 10,
+   "boostedFloor": null,
+   "start": null,
+   "end": null
+  },
+  {
+   "slug": "seadra",
+   "name": "Seadra",
+   "kind": "research",
+   "level": 15,
+   "boostedLevel": null,
+   "floor": 10,
+   "boostedFloor": null,
+   "start": null,
+   "end": null
+  },
+  {
+   "slug": "eevee",
+   "name": "Eevee",
+   "kind": "research",
+   "level": 15,
+   "boostedLevel": null,
+   "floor": 10,
+   "boostedFloor": null,
+   "start": null,
+   "end": null
+  },
+  {
+   "slug": "ursaring",
+   "name": "Ursaring",
+   "kind": "research",
+   "level": 15,
+   "boostedLevel": null,
+   "floor": 10,
+   "boostedFloor": null,
+   "start": null,
+   "end": null
+  },
+  {
+   "slug": "magcargo",
+   "name": "Magcargo",
+   "kind": "research",
+   "level": 15,
+   "boostedLevel": null,
+   "floor": 10,
+   "boostedFloor": null,
+   "start": null,
+   "end": null
+  },
+  {
+   "slug": "grumpig",
+   "name": "Grumpig",
+   "kind": "research",
+   "level": 15,
+   "boostedLevel": null,
+   "floor": 10,
+   "boostedFloor": null,
+   "start": null,
+   "end": null
+  },
+  {
+   "slug": "whirlipede",
+   "name": "Whirlipede",
+   "kind": "research",
+   "level": 15,
+   "boostedLevel": null,
+   "floor": 10,
+   "boostedFloor": null,
+   "start": null,
+   "end": null
+  },
+  {
+   "slug": "eelektrik",
+   "name": "Eelektrik",
+   "kind": "research",
+   "level": 15,
+   "boostedLevel": null,
+   "floor": 10,
+   "boostedFloor": null,
+   "start": null,
+   "end": null
+  },
+  {
+   "slug": "diggersby",
+   "name": "Diggersby",
+   "kind": "research",
+   "level": 15,
+   "boostedLevel": null,
+   "floor": 10,
+   "boostedFloor": null,
+   "start": null,
+   "end": null
+  },
+  {
+   "slug": "bulbasaur",
+   "name": "Bulbasaur",
+   "kind": "research",
+   "level": 15,
+   "boostedLevel": null,
+   "floor": 10,
+   "boostedFloor": null,
+   "start": null,
+   "end": null
+  },
+  {
+   "slug": "squirtle",
+   "name": "Squirtle",
+   "kind": "research",
+   "level": 15,
+   "boostedLevel": null,
+   "floor": 10,
+   "boostedFloor": null,
+   "start": null,
+   "end": null
+  },
+  {
+   "slug": "snivy",
+   "name": "Snivy",
+   "kind": "research",
+   "level": 15,
+   "boostedLevel": null,
+   "floor": 10,
+   "boostedFloor": null,
+   "start": null,
+   "end": null
+  },
+  {
+   "slug": "tepig",
+   "name": "Tepig",
+   "kind": "research",
+   "level": 15,
+   "boostedLevel": null,
+   "floor": 10,
+   "boostedFloor": null,
+   "start": null,
+   "end": null
+  },
+  {
+   "slug": "oshawott",
+   "name": "Oshawott",
+   "kind": "research",
+   "level": 15,
+   "boostedLevel": null,
+   "floor": 10,
+   "boostedFloor": null,
+   "start": null,
+   "end": null
+  },
+  {
+   "slug": "rowlet",
+   "name": "Rowlet",
+   "kind": "research",
+   "level": 15,
+   "boostedLevel": null,
+   "floor": 10,
+   "boostedFloor": null,
+   "start": null,
+   "end": null
+  },
+  {
+   "slug": "litten",
+   "name": "Litten",
+   "kind": "research",
+   "level": 15,
+   "boostedLevel": null,
+   "floor": 10,
+   "boostedFloor": null,
+   "start": null,
+   "end": null
+  },
+  {
+   "slug": "popplio",
+   "name": "Popplio",
+   "kind": "research",
+   "level": 15,
+   "boostedLevel": null,
+   "floor": 10,
+   "boostedFloor": null,
+   "start": null,
+   "end": null
+  },
+  {
+   "slug": "jigglypuff",
+   "name": "Jigglypuff",
+   "kind": "research",
+   "level": 15,
+   "boostedLevel": null,
+   "floor": 10,
+   "boostedFloor": null,
+   "start": null,
+   "end": null
+  },
+  {
+   "slug": "buneary",
+   "name": "Buneary",
+   "kind": "research",
+   "level": 15,
+   "boostedLevel": null,
+   "floor": 10,
+   "boostedFloor": null,
+   "start": null,
+   "end": null
+  },
+  {
+   "slug": "glameow",
+   "name": "Glameow",
+   "kind": "research",
+   "level": 15,
+   "boostedLevel": null,
+   "floor": 10,
+   "boostedFloor": null,
+   "start": null,
+   "end": null
+  },
+  {
+   "slug": "bunnelby",
+   "name": "Bunnelby",
+   "kind": "research",
+   "level": 15,
+   "boostedLevel": null,
+   "floor": 10,
+   "boostedFloor": null,
+   "start": null,
+   "end": null
+  },
+  {
+   "slug": "litleo",
+   "name": "Litleo",
+   "kind": "research",
+   "level": 15,
+   "boostedLevel": null,
+   "floor": 10,
+   "boostedFloor": null,
+   "start": null,
+   "end": null
+  },
+  {
+   "slug": "clefairy",
+   "name": "Clefairy",
+   "kind": "research",
+   "level": 15,
+   "boostedLevel": null,
+   "floor": 10,
+   "boostedFloor": null,
+   "start": null,
+   "end": null
+  },
+  {
+   "slug": "togetic",
+   "name": "Togetic",
+   "kind": "research",
+   "level": 15,
+   "boostedLevel": null,
+   "floor": 10,
+   "boostedFloor": null,
+   "start": null,
+   "end": null
+  },
+  {
+   "slug": "poliwhirl",
+   "name": "Poliwhirl",
+   "kind": "research",
+   "level": 15,
+   "boostedLevel": null,
+   "floor": 10,
+   "boostedFloor": null,
+   "start": null,
+   "end": null
+  },
+  {
+   "slug": "kadabra",
+   "name": "Kadabra",
+   "kind": "research",
+   "level": 15,
+   "boostedLevel": null,
+   "floor": 10,
+   "boostedFloor": null,
+   "start": null,
+   "end": null
+  },
+  {
+   "slug": "machoke",
+   "name": "Machoke",
+   "kind": "research",
+   "level": 15,
+   "boostedLevel": null,
+   "floor": 10,
+   "boostedFloor": null,
+   "start": null,
+   "end": null
+  },
+  {
+   "slug": "haunter",
+   "name": "Haunter",
+   "kind": "research",
+   "level": 15,
+   "boostedLevel": null,
+   "floor": 10,
+   "boostedFloor": null,
+   "start": null,
+   "end": null
+  },
+  {
+   "slug": "arbok",
+   "name": "Arbok",
+   "kind": "research",
+   "level": 15,
+   "boostedLevel": null,
+   "floor": 10,
+   "boostedFloor": null,
+   "start": null,
+   "end": null
+  },
+  {
+   "slug": "meowth",
+   "name": "Meowth",
+   "kind": "research",
+   "level": 15,
+   "boostedLevel": null,
+   "floor": 10,
+   "boostedFloor": null,
+   "start": null,
+   "end": null
+  },
+  {
+   "slug": "weezing",
+   "name": "Weezing",
+   "kind": "research",
+   "level": 15,
+   "boostedLevel": null,
+   "floor": 10,
+   "boostedFloor": null,
+   "start": null,
+   "end": null
+  }
+ ]
+}
