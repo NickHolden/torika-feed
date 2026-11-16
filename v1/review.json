@@ -1,6 +1,6 @@
 {
  "schema": 1,
- "built": "2026-11-15T16:40:52Z",
+ "built": "2026-11-16T19:55:20Z",
  "items": [
   {
    "id": "catalog:label:background.lc-pokelid-gunma:dbe6f116e0eb",
@@ -1893,206 +1893,6 @@
    "firstSeen": "2026-11-14"
   },
   {
-   "id": "events:ef29495a.attack.634a1f:70ae1880f987",
-   "kind": "auto-read",
-   "held": false,
-   "origin": {
-    "id": "page:into-the-wild-2026",
-    "title": "Into the Wild 2026",
-    "note": "The event's own page, read by two models"
-   },
-   "field": "Featured move · Regidrago",
-   "order": 8,
-   "answerFormat": "names",
-   "answerHint": "Move names, separated by ;",
-   "readings": [
-    {
-     "who": "Both models",
-     "value": "Dragon Breath",
-     "quote": "Regidrago caught during the event will know the Fast Attack Dragon Breath.",
-     "url": "https://leekduck.com/events/into-the-wild-2026/"
-    }
-   ],
-   "value": "Dragon Breath",
-   "section": "events",
-   "firstSeen": "2026-11-14"
-  },
-  {
-   "id": "events:ef29495a.attack.f607d2:219193b965b3",
-   "kind": "auto-read",
-   "held": false,
-   "origin": {
-    "id": "page:into-the-wild-2026",
-    "title": "Into the Wild 2026",
-    "note": "The event's own page, read by two models"
-   },
-   "field": "Featured move · Latios",
-   "order": 7,
-   "answerFormat": "names",
-   "answerHint": "Move names, separated by ;",
-   "readings": [
-    {
-     "who": "Both models",
-     "value": "Luster Purge",
-     "quote": "Latios caught during the event will know the Charged Attack Luster Purge.",
-     "url": "https://leekduck.com/events/into-the-wild-2026/"
-    }
-   ],
-   "value": "Luster Purge",
-   "section": "events",
-   "firstSeen": "2026-11-14"
-  },
-  {
-   "id": "events:ef29495a.attack.f9aba9:2b53d06b4ae6",
-   "kind": "auto-read",
-   "held": false,
-   "origin": {
-    "id": "page:into-the-wild-2026",
-    "title": "Into the Wild 2026",
-    "note": "The event's own page, read by two models"
-   },
-   "field": "Featured move · Latias",
-   "order": 6,
-   "answerFormat": "names",
-   "answerHint": "Move names, separated by ;",
-   "readings": [
-    {
-     "who": "Both models",
-     "value": "Mist Ball",
-     "quote": "Latias caught during the event will know the Charged Attack Mist Ball.",
-     "url": "https://leekduck.com/events/into-the-wild-2026/"
-    }
-   ],
-   "value": "Mist Ball",
-   "section": "events",
-   "firstSeen": "2026-11-14"
-  },
-  {
-   "id": "events:ef29495a.attack.fc6bfb:1d10ac5609c4",
-   "kind": "auto-read",
-   "held": false,
-   "origin": {
-    "id": "page:into-the-wild-2026",
-    "title": "Into the Wild 2026",
-    "note": "The event's own page, read by two models"
-   },
-   "field": "Featured move · Registeel",
-   "order": 5,
-   "answerFormat": "names",
-   "answerHint": "Move names, separated by ;",
-   "readings": [
-    {
-     "who": "Both models",
-     "value": "Metal Claw",
-     "quote": "Registeel caught during the event will know the Fast Attack Metal Claw.",
-     "url": "https://leekduck.com/events/into-the-wild-2026/"
-    }
-   ],
-   "value": "Metal Claw",
-   "section": "events",
-   "firstSeen": "2026-11-14"
-  },
-  {
-   "id": "events:ef29495a.debut.dynamax:36e10a5ee0ca",
-   "kind": "auto-read",
-   "held": false,
-   "origin": {
-    "id": "page:into-the-wild-2026",
-    "title": "Into the Wild 2026",
-    "note": "The event's own page, read by two models"
-   },
-   "field": "Dynamax debuts",
-   "order": 3,
-   "answerFormat": "names",
-   "answerHint": "Names, separated by ;",
-   "readings": [
-    {
-     "who": "Both models",
-     "value": "Regidrago; Meltan",
-     "quote": "Regidrago will make its Pokémon GO Dynamax debut in five-star Max Battles, and Meltan will make its Dynamax debut in GO Pass: Into the Wild. If you’re lucky, you may encounter a Shiny one!",
-     "url": "https://leekduck.com/events/into-the-wild-2026/"
-    }
-   ],
-   "value": "Regidrago; Meltan",
-   "section": "events",
-   "firstSeen": "2026-11-14"
-  },
-  {
-   "id": "events:ef29495a.rule.0353ff:059577ed9500",
-   "kind": "auto-read",
-   "held": false,
-   "origin": {
-    "id": "page:into-the-wild-2026",
-    "title": "Into the Wild 2026",
-    "note": "The event's own page, read by two models"
-   },
-   "field": "Special rule · New Special Background!",
-   "order": 10,
-   "answerFormat": "text",
-   "answerHint": "The sentence that states the rule",
-   "readings": [
-    {
-     "who": "Both models",
-     "value": "Trainers who take part in five-star raids and five-star Max Battles during the Into the Wild event will have a chance of receiving a new Special Background after a successful catch. The souvenir background appears on the Pokémon’s summary page, showing when it was caught on the road to Pokémon GO Wild Area!",
-     "quote": "Trainers who take part in five-star raids and five-star Max Battles during the Into the Wild event will have a chance of receiving a new Special Background after a successful catch. The souvenir background appears on the Pokémon’s summary page, showing when it was caught on the road to Pokémon GO Wild Area!",
-     "url": "https://leekduck.com/events/into-the-wild-2026/"
-    }
-   ],
-   "value": "Trainers who take part in five-star raids and five-star Max Battles during the Into the Wild event will have a chance of receiving a new Special Background after a successful catch. The souvenir background appears on the Pokémon’s summary page, showing when it was caught on the road to Pokémon GO Wild Area!",
-   "section": "events",
-   "firstSeen": "2026-11-14"
-  },
-  {
-   "id": "events:ef29495a.rule.3d1a7f:ef826ab7ffc6",
-   "kind": "auto-read",
-   "held": false,
-   "origin": {
-    "id": "page:into-the-wild-2026",
-    "title": "Into the Wild 2026",
-    "note": "The event's own page, read by two models"
-   },
-   "field": "Special rule · Into the Wild Global Challenge",
-   "order": 11,
-   "answerFormat": "text",
-   "answerHint": "The sentence that states the rule",
-   "readings": [
-    {
-     "who": "Both models",
-     "value": "Work with Trainers around the world to complete raids and Max Battles. Completing the Into the Wild Global Challenge unlocks the following bonuses.",
-     "quote": "Work with Trainers around the world to complete raids and Max Battles. Completing the Into the Wild Global Challenge unlocks the following bonuses.",
-     "url": "https://leekduck.com/events/into-the-wild-2026/"
-    }
-   ],
-   "value": "Work with Trainers around the world to complete raids and Max Battles. Completing the Into the Wild Global Challenge unlocks the following bonuses.",
-   "section": "events",
-   "firstSeen": "2026-11-14"
-  },
-  {
-   "id": "events:ef29495a.rule.81cfbf:d6b08de635a0",
-   "kind": "auto-read",
-   "held": false,
-   "origin": {
-    "id": "page:into-the-wild-2026",
-    "title": "Into the Wild 2026",
-    "note": "The event's own page, read by two models"
-   },
-   "field": "Special rule · Meltan and the Mystery Box",
-   "order": 9,
-   "answerFormat": "text",
-   "answerHint": "The sentence that states the rule",
-   "readings": [
-    {
-     "who": "Both models",
-     "value": "From Monday, November 9, at 10:00 a.m. to Sunday, November 15, at 6:00 p.m. local time, opening the Mystery Box gives you a chance to encounter Shiny Meltan, and you won’t have to wait as long before you can open it again.",
-     "quote": "From Monday, November 9, at 10:00 a.m. to Sunday, November 15, at 6:00 p.m. local time, opening the Mystery Box gives you a chance to encounter Shiny Meltan, and you won’t have to wait as long before you can open it again.",
-     "url": "https://leekduck.com/events/into-the-wild-2026/"
-    }
-   ],
-   "value": "From Monday, November 9, at 10:00 a.m. to Sunday, November 15, at 6:00 p.m. local time, opening the Mystery Box gives you a chance to encounter Shiny Meltan, and you won’t have to wait as long before you can open it again.",
-   "section": "events",
-   "firstSeen": "2026-11-14"
-  },
-  {
    "id": "events:ef532740.microsite:4f53cda18c2b",
    "kind": "missing-microsite",
    "held": true,
@@ -2107,6 +1907,53 @@
    "answerHint": "https://pokemongo.com/en/…",
    "section": "events",
    "firstSeen": "2026-11-13"
+  },
+  {
+   "id": "raids:fallback.139b84f3:e7f0ba2e318e",
+   "kind": "fallback-read",
+   "held": false,
+   "origin": {
+    "id": "raids:fallback:cresselia-darkrai-mega-banette-november-2026",
+    "title": "Cresselia, Darkrai, and Mega Banette in Raids",
+    "note": "Read by two models: the parser could not read the page"
+   },
+   "field": "Bosses read by the models",
+   "readings": [
+    {
+     "who": "Claude and GPT",
+     "value": "10 bosses read alike by both models",
+     "url": "https://leekduck.com/raids/cresselia-darkrai-mega-banette-november-2026"
+    }
+   ],
+   "section": "raids",
+   "firstSeen": "2026-11-16"
+  },
+  {
+   "id": "raids:tier-5:3e639fd7f95c",
+   "kind": "source-disagreement",
+   "held": false,
+   "origin": {
+    "id": "raids",
+    "title": "Current raid bosses",
+    "note": "LeekDuck against Pokebattler"
+   },
+   "field": "5-Star Raids",
+   "readings": [
+    {
+     "who": "LeekDuck",
+     "value": "Cresselia, Darkrai",
+     "url": "https://leekduck.com/raids/"
+    },
+    {
+     "who": "Pokebattler",
+     "value": "Cresselia, Darkrai, Kyurem White",
+     "url": "https://www.pokebattler.com/raids"
+    }
+   ],
+   "showing": 0,
+   "answerHint": "Boss names, separated by commas",
+   "section": "raids",
+   "firstSeen": "2026-11-16"
   }
  ],
  "applied": [

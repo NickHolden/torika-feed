@@ -2,781 +2,6 @@
  "source": "fork",
  "events": [
   {
-   "id": "into-the-wild-2026",
-   "name": "Into the Wild 2026",
-   "type": "event",
-   "types": [
-    "event"
-   ],
-   "heading": "Event",
-   "link": "https://leekduck.com/events/into-the-wild-2026/",
-   "image": "https://cdn.leekduck.com/assets/img/events/article-images/2026/2026-11-09-into-the-wild-2026/into-the-wild-2026.jpg",
-   "start": {
-    "time": "2026-11-09T10:00:00",
-    "kind": "local"
-   },
-   "end": {
-    "time": "2026-11-13T20:00:00",
-    "kind": "local"
-   },
-   "inPerson": false,
-   "venueOffset": null,
-   "bonuses": [
-    {
-     "title": null,
-     "description": null,
-     "items": [
-      "Remote Raid limit increased to 30 from Monday, November 9, to Friday, November 13, 2026",
-      "No Remote Raid limit from Saturday, November 14, to Sunday, November 15, 2026",
-      "Chance to encounter Shiny Gimmighoul when using a Coin Bag*",
-      "Chance to encounter Shiny Meltan when opening the Mystery Box*",
-      "Reduced wait time before you can open the Mystery Box again*",
-      "Trainers can receive special event stickers from PokéStops and Gifts"
-     ],
-     "notes": [
-      "* These bonuses will be available from Monday, November 9, at 10:00 a.m. to Sunday, November 15, 2026, at 6:00 p.m. local time.",
-      "Daily Discoveries will not take place from November 9 through November 15, 2026."
-     ]
-    },
-    {
-     "title": "Raids",
-     "description": null,
-     "items": [
-      "Defeating Crowned Sword Zacian or Crowned Shield Zamazenta in raids will earn you Crowned Sword Energy or Crowned Shield Energy, respectively."
-     ],
-     "notes": []
-    },
-    {
-     "title": "Raids",
-     "description": null,
-     "items": [
-      "Defeating Crowned Sword Zacian or Crowned Shield Zamazenta in raids will earn you Crowned Sword Energy or Crowned Shield Energy, respectively."
-     ],
-     "notes": []
-    }
-   ],
-   "times": [
-    {
-     "label": "Raid Hour",
-     "detail": "Zacian (Crowned Sword)",
-     "when": [
-      {
-       "date": "Monday, November 9",
-       "endDate": null,
-       "from": "6:00 p.m. to 7:00 p.m. local time",
-       "to": null,
-       "allDay": false,
-       "everyDay": false
-      }
-     ]
-    },
-    {
-     "label": "Raid Hour",
-     "detail": "Zamazenta (Crowned Shield)",
-     "when": [
-      {
-       "date": "Tuesday, November 10",
-       "endDate": null,
-       "from": "6:00 p.m. to 7:00 p.m. local time",
-       "to": null,
-       "allDay": false,
-       "everyDay": false
-      }
-     ]
-    },
-    {
-     "label": "Raids",
-     "detail": "Dynamax Registeel",
-     "when": [
-      {
-       "date": "Wednesday, November 11",
-       "endDate": null,
-       "from": null,
-       "to": null,
-       "allDay": false,
-       "everyDay": false
-      }
-     ]
-    },
-    {
-     "label": "Raid Hour",
-     "detail": "Dynamax Registeel",
-     "when": [
-      {
-       "date": "Wednesday, November 11",
-       "endDate": null,
-       "from": "6:00 p.m. to 7:00 p.m. local time",
-       "to": null,
-       "allDay": false,
-       "everyDay": false
-      }
-     ]
-    },
-    {
-     "label": "Raids",
-     "detail": "Dynamax Regidrago",
-     "when": [
-      {
-       "date": "Thursday, November 12",
-       "endDate": null,
-       "from": null,
-       "to": null,
-       "allDay": false,
-       "everyDay": false
-      }
-     ]
-    },
-    {
-     "label": "Raid Hour",
-     "detail": "Dynamax Regidrago",
-     "when": [
-      {
-       "date": "Thursday, November 12",
-       "endDate": null,
-       "from": "6:00 p.m. to 7:00 p.m. local time",
-       "to": null,
-       "allDay": false,
-       "everyDay": false
-      }
-     ]
-    },
-    {
-     "label": "Raids",
-     "detail": "Dynamax Latias, Dynamax Latios",
-     "when": [
-      {
-       "date": "Friday, November 13",
-       "endDate": null,
-       "from": null,
-       "to": null,
-       "allDay": false,
-       "everyDay": false
-      }
-     ]
-    },
-    {
-     "label": "Raid Hour",
-     "detail": "Dynamax Latias, Dynamax Latios",
-     "when": [
-      {
-       "date": "Friday, November 13",
-       "endDate": null,
-       "from": "6:00 p.m. to 7:00 p.m. local time",
-       "to": null,
-       "allDay": false,
-       "everyDay": false
-      }
-     ]
-    }
-   ],
-   "notes": [
-    {
-     "title": "Wild",
-     "text": "The following Pokémon will appear more frequently in the wild, along with other event-themed Pokémon."
-    },
-    {
-     "title": "Max Battles",
-     "text": "The following Dynamax Pokémon will appear in Max Battles. Pokémon appearing in five-star Max Battles will also be featured in Max Battles from 6:00 p.m. to 7:00 p.m. local time for one day each on the following schedule."
-    }
-   ],
-   "daily": null,
-   "promoCodes": [],
-   "encounters": [
-    {
-     "group": "Wild",
-     "pokemon": [
-      {
-       "slug": "meowth-galarian",
-       "name": "Galarian Meowth",
-       "shiny": true
-      },
-      {
-       "slug": "magnemite",
-       "name": "Magnemite",
-       "shiny": true
-      },
-      {
-       "slug": "horsea",
-       "name": "Horsea",
-       "shiny": true
-      },
-      {
-       "slug": "scyther",
-       "name": "Scyther",
-       "shiny": true
-      },
-      {
-       "slug": "dratini",
-       "name": "Dratini",
-       "shiny": true
-      },
-      {
-       "slug": "mareep",
-       "name": "Mareep",
-       "shiny": true
-      },
-      {
-       "slug": "mawile",
-       "name": "Mawile",
-       "shiny": true
-      },
-      {
-       "slug": "aron",
-       "name": "Aron",
-       "shiny": true
-      },
-      {
-       "slug": "bagon",
-       "name": "Bagon",
-       "shiny": true
-      },
-      {
-       "slug": "skrelp",
-       "name": "Skrelp",
-       "shiny": true
-      },
-      {
-       "slug": "noibat",
-       "name": "Noibat",
-       "shiny": true
-      },
-      {
-       "slug": "togedemaru",
-       "name": "Togedemaru",
-       "shiny": true
-      }
-     ]
-    },
-    {
-     "group": "Raids",
-     "pokemon": [
-      {
-       "slug": "druddigon",
-       "name": "Druddigon",
-       "shiny": true
-      },
-      {
-       "slug": "orthworm",
-       "name": "Orthworm",
-       "shiny": true
-      },
-      {
-       "slug": "zacian-crowned-sword",
-       "name": "Zacian Crowned Sword",
-       "shiny": true
-      },
-      {
-       "slug": "zamazenta-crowned-shield",
-       "name": "Zamazenta Crowned Shield",
-       "shiny": true
-      }
-     ]
-    },
-    {
-     "group": "Max Battles",
-     "pokemon": [
-      {
-       "slug": "ralts-dynamax",
-       "name": "Dynamax Ralts",
-       "shiny": true
-      },
-      {
-       "slug": "machop-dynamax",
-       "name": "Dynamax Machop",
-       "shiny": true
-      },
-      {
-       "slug": "registeel-dynamax",
-       "name": "Dynamax Registeel",
-       "shiny": true
-      },
-      {
-       "slug": "regidrago",
-       "name": "Regidrago",
-       "shiny": true
-      },
-      {
-       "slug": "latias-dynamax",
-       "name": "Dynamax Latias",
-       "shiny": true
-      },
-      {
-       "slug": "latios-dynamax",
-       "name": "Dynamax Latios",
-       "shiny": true
-      }
-     ]
-    },
-    {
-     "group": "Research",
-     "pokemon": [
-      {
-       "slug": "meowth-galarian",
-       "name": "Galarian Meowth",
-       "shiny": true
-      },
-      {
-       "slug": "magnemite",
-       "name": "Magnemite",
-       "shiny": true
-      },
-      {
-       "slug": "aron",
-       "name": "Aron",
-       "shiny": true
-      },
-      {
-       "slug": "togedemaru",
-       "name": "Togedemaru",
-       "shiny": true
-      },
-      {
-       "slug": "horsea",
-       "name": "Horsea",
-       "shiny": true
-      },
-      {
-       "slug": "dratini",
-       "name": "Dratini",
-       "shiny": true
-      },
-      {
-       "slug": "bagon",
-       "name": "Bagon",
-       "shiny": true
-      },
-      {
-       "slug": "skrelp",
-       "name": "Skrelp",
-       "shiny": true
-      },
-      {
-       "slug": "scyther",
-       "name": "Scyther",
-       "shiny": true
-      },
-      {
-       "slug": "mawile",
-       "name": "Mawile",
-       "shiny": true
-      }
-     ]
-    }
-   ],
-   "research": [
-    {
-     "kind": "field",
-     "title": "Into the Wild 2026 Tasks",
-     "step": null,
-     "tasks": [
-      {
-       "text": "Power up Steel-type Pokémon 5 times",
-       "rewards": [
-        {
-         "type": "encounter",
-         "shiny": true,
-         "cp": {
-          "min": 409,
-          "max": 443
-         },
-         "slug": "meowth-galarian",
-         "name": "Galarian Meowth"
-        },
-        {
-         "type": "encounter",
-         "shiny": true,
-         "cp": {
-          "min": 544,
-          "max": 583
-         },
-         "slug": "magnemite",
-         "name": "Magnemite"
-        },
-        {
-         "type": "encounter",
-         "shiny": true,
-         "cp": {
-          "min": 522,
-          "max": 560
-         },
-         "slug": "aron",
-         "name": "Aron"
-        },
-        {
-         "type": "encounter",
-         "shiny": true,
-         "cp": {
-          "min": 876,
-          "max": 926
-         },
-         "slug": "togedemaru",
-         "name": "Togedemaru"
-        }
-       ]
-      },
-      {
-       "text": "Power up Dragon-type Pokémon 5 times",
-       "rewards": [
-        {
-         "type": "encounter",
-         "shiny": true,
-         "cp": {
-          "min": 418,
-          "max": 452
-         },
-         "slug": "horsea",
-         "name": "Horsea"
-        },
-        {
-         "type": "encounter",
-         "shiny": true,
-         "cp": {
-          "min": 397,
-          "max": 430
-         },
-         "slug": "dratini",
-         "name": "Dratini"
-        },
-        {
-         "type": "encounter",
-         "shiny": true,
-         "cp": {
-          "min": 459,
-          "max": 495
-         },
-         "slug": "bagon",
-         "name": "Bagon"
-        },
-        {
-         "type": "encounter",
-         "shiny": true,
-         "cp": {
-          "min": 421,
-          "max": 455
-         },
-         "slug": "skrelp",
-         "name": "Skrelp"
-        }
-       ]
-      },
-      {
-       "text": "Win a raid",
-       "rewards": [
-        {
-         "type": "encounter",
-         "shiny": true,
-         "cp": {
-          "min": 1104,
-          "max": 1160
-         },
-         "slug": "scyther",
-         "name": "Scyther"
-        },
-        {
-         "type": "encounter",
-         "shiny": true,
-         "cp": {
-          "min": 397,
-          "max": 430
-         },
-         "slug": "dratini",
-         "name": "Dratini"
-        },
-        {
-         "type": "item",
-         "quantity": 2,
-         "name": "Rare Candy"
-        }
-       ]
-      },
-      {
-       "text": "Catch 10 Pokémon",
-       "rewards": [
-        {
-         "type": "encounter",
-         "shiny": true,
-         "cp": {
-          "min": 544,
-          "max": 583
-         },
-         "slug": "magnemite",
-         "name": "Magnemite"
-        },
-        {
-         "type": "encounter",
-         "shiny": true,
-         "cp": {
-          "min": 418,
-          "max": 452
-         },
-         "slug": "horsea",
-         "name": "Horsea"
-        },
-        {
-         "type": "encounter",
-         "shiny": true,
-         "cp": {
-          "min": 522,
-          "max": 560
-         },
-         "slug": "aron",
-         "name": "Aron"
-        },
-        {
-         "type": "encounter",
-         "shiny": true,
-         "cp": {
-          "min": 421,
-          "max": 455
-         },
-         "slug": "skrelp",
-         "name": "Skrelp"
-        }
-       ]
-      },
-      {
-       "text": "Win a Max Battle",
-       "rewards": [
-        {
-         "type": "encounter",
-         "shiny": true,
-         "cp": {
-          "min": 658,
-          "max": 700
-         },
-         "slug": "mawile",
-         "name": "Mawile"
-        },
-        {
-         "type": "encounter",
-         "shiny": true,
-         "cp": {
-          "min": 459,
-          "max": 495
-         },
-         "slug": "bagon",
-         "name": "Bagon"
-        }
-       ]
-      },
-      {
-       "text": "Catch a Dynamax Machop",
-       "rewards": [
-        {
-         "type": "resource",
-         "quantity": 25,
-         "name": "Machop Candy"
-        },
-        {
-         "type": "item",
-         "quantity": 5000,
-         "name": "Stardust"
-        }
-       ]
-      },
-      {
-       "text": "Catch a Dynamax Ralts",
-       "rewards": [
-        {
-         "type": "resource",
-         "quantity": 25,
-         "name": "Ralts Candy"
-        },
-        {
-         "type": "item",
-         "quantity": 5000,
-         "name": "Stardust"
-        }
-       ]
-      }
-     ],
-     "rewards": []
-    }
-   ],
-   "sources": [
-    {
-     "name": "LeekDuck",
-     "url": "https://leekduck.com/events/into-the-wild-2026/",
-     "read": "2026-11-15T16:40:52Z"
-    }
-   ],
-   "listed": true,
-   "description": [
-    {
-     "kind": "text",
-     "text": "It’s time to head back Into the Wild for a Steel- and Dragon-type adventure! Regidrago makes its Dynamax debut in five-star Max Battles, Dynamax Meltan debuts in GO Pass: Into the Wild, and Crowned Sword Zacian and Crowned Shield Zamazenta take over five-star raids as Pokémon GO Wild Area 2026 approaches."
-    }
-   ],
-   "freeText": {
-    "debuts": [
-     {
-      "kind": "dynamax",
-      "value": [
-       "Regidrago",
-       "Meltan"
-      ],
-      "status": "auto-read",
-      "quote": "Regidrago will make its Pokémon GO Dynamax debut in five-star Max Battles, and Meltan will make its Dynamax debut in GO Pass: Into the Wild. If you’re lucky, you may encounter a Shiny one!",
-      "url": "https://leekduck.com/events/into-the-wild-2026/"
-     }
-    ],
-    "attacks": [
-     {
-      "pokemon": "Registeel",
-      "value": [
-       "Metal Claw"
-      ],
-      "status": "auto-read",
-      "quote": "Registeel caught during the event will know the Fast Attack Metal Claw.",
-      "url": "https://leekduck.com/events/into-the-wild-2026/"
-     },
-     {
-      "pokemon": "Latias",
-      "value": [
-       "Mist Ball"
-      ],
-      "status": "auto-read",
-      "quote": "Latias caught during the event will know the Charged Attack Mist Ball.",
-      "url": "https://leekduck.com/events/into-the-wild-2026/"
-     },
-     {
-      "pokemon": "Latios",
-      "value": [
-       "Luster Purge"
-      ],
-      "status": "auto-read",
-      "quote": "Latios caught during the event will know the Charged Attack Luster Purge.",
-      "url": "https://leekduck.com/events/into-the-wild-2026/"
-     },
-     {
-      "pokemon": "Regidrago",
-      "value": [
-       "Dragon Breath"
-      ],
-      "status": "auto-read",
-      "quote": "Regidrago caught during the event will know the Fast Attack Dragon Breath.",
-      "url": "https://leekduck.com/events/into-the-wild-2026/"
-     }
-    ],
-    "rules": [
-     {
-      "heading": "Meltan and the Mystery Box",
-      "value": "From Monday, November 9, at 10:00 a.m. to Sunday, November 15, at 6:00 p.m. local time, opening the Mystery Box gives you a chance to encounter Shiny Meltan, and you won’t have to wait as long before you can open it again.",
-      "status": "auto-read",
-      "quote": "From Monday, November 9, at 10:00 a.m. to Sunday, November 15, at 6:00 p.m. local time, opening the Mystery Box gives you a chance to encounter Shiny Meltan, and you won’t have to wait as long before you can open it again.",
-      "url": "https://leekduck.com/events/into-the-wild-2026/"
-     },
-     {
-      "heading": "New Special Background!",
-      "value": "Trainers who take part in five-star raids and five-star Max Battles during the Into the Wild event will have a chance of receiving a new Special Background after a successful catch. The souvenir background appears on the Pokémon’s summary page, showing when it was caught on the road to Pokémon GO Wild Area!",
-      "status": "auto-read",
-      "quote": "Trainers who take part in five-star raids and five-star Max Battles during the Into the Wild event will have a chance of receiving a new Special Background after a successful catch. The souvenir background appears on the Pokémon’s summary page, showing when it was caught on the road to Pokémon GO Wild Area!",
-      "url": "https://leekduck.com/events/into-the-wild-2026/"
-     },
-     {
-      "heading": "Into the Wild Global Challenge",
-      "value": "Work with Trainers around the world to complete raids and Max Battles. Completing the Into the Wild Global Challenge unlocks the following bonuses.",
-      "status": "auto-read",
-      "quote": "Work with Trainers around the world to complete raids and Max Battles. Completing the Into the Wild Global Challenge unlocks the following bonuses.",
-      "url": "https://leekduck.com/events/into-the-wild-2026/"
-     }
-    ],
-    "groups": [],
-    "read": true
-   }
-  },
-  {
-   "id": "zacian-crowned-sword-zamazenta-crowned-shield-in-5-star-raid-battles-november-2026",
-   "name": "Zacian (Crowned Sword) and Zamazenta (Crowned Shield) in 5-star Raid Battles",
-   "type": "raid-battles",
-   "types": [
-    "raid-battles"
-   ],
-   "heading": "Raid Battles",
-   "link": "https://leekduck.com/events/zacian-crowned-sword-zamazenta-crowned-shield-in-5-star-raid-battles-november-2026/",
-   "image": "https://cdn.leekduck.com/assets/img/events/zacian-and-zamazenta-2.jpg",
-   "start": {
-    "time": "2026-11-09T10:00:00",
-    "kind": "local"
-   },
-   "end": {
-    "time": "2026-11-13T20:00:00",
-    "kind": "local"
-   },
-   "inPerson": false,
-   "venueOffset": null,
-   "bonuses": [],
-   "times": [],
-   "notes": [
-    {
-     "title": "Shiny",
-     "text": "If you’re lucky, you may encounter Shiny forms of these Pokémon."
-    },
-    {
-     "title": "Shiny",
-     "text": "Zacian (Crowned Sword), Zamazenta (Crowned Shield)"
-    }
-   ],
-   "daily": null,
-   "promoCodes": [],
-   "encounters": [
-    {
-     "group": "Raids",
-     "pokemon": [
-      {
-       "slug": "zacian-crowned-sword",
-       "name": "Zacian Crowned Sword",
-       "shiny": true
-      },
-      {
-       "slug": "zamazenta-crowned-shield",
-       "name": "Zamazenta Crowned Shield",
-       "shiny": true
-      }
-     ]
-    }
-   ],
-   "research": [],
-   "sources": [
-    {
-     "name": "LeekDuck",
-     "url": "https://leekduck.com/events/zacian-crowned-sword-zamazenta-crowned-shield-in-5-star-raid-battles-november-2026/",
-     "read": "2026-11-15T16:40:52Z"
-    }
-   ],
-   "listed": true,
-   "description": [
-    {
-     "kind": "text",
-     "text": "Zacian (Crowned Sword) and Zamazenta (Crowned Shield) will be in five-star raid battles from November 9, 2026 to November 13, 2026, during the Into the Wild event."
-    },
-    {
-     "kind": "text",
-     "text": "These raids start at 10:00 a.m. local time on November 9 and end at 8:00 p.m. local time on November 13."
-    },
-    {
-     "kind": "text",
-     "text": "Defeating Zacian (Crowned Sword) or Zamazenta (Crowned Shield) in raids will earn you Crowned Sword Energy or Crowned Shield Energy, respectively."
-    },
-    {
-     "kind": "heading",
-     "text": "Raid Hours"
-    },
-    {
-     "kind": "text",
-     "text": "There will also be Raid Hours from 6:00 p.m. to 7:00 p.m. local time on the following dates:"
-    },
-    {
-     "kind": "item",
-     "text": "November 9: Zacian (Crowned Sword)"
-    },
-    {
-     "kind": "item",
-     "text": "November 10: Zamazenta (Crowned Shield)"
-    }
-   ]
-  },
-  {
    "id": "pokemon-go-wild-area-2026-global",
    "name": "Pokémon GO Wild Area 2026: Global",
    "type": "wild-area",
@@ -2363,7 +1588,7 @@
     {
      "name": "LeekDuck",
      "url": "https://leekduck.com/events/pokemon-go-wild-area-2026-global/",
-     "read": "2026-11-15T16:40:52Z"
+     "read": "2026-11-16T19:55:20Z"
     }
    ],
    "listed": true,
@@ -2679,7 +1904,7 @@
     {
      "name": "LeekDuck",
      "url": "https://leekduck.com/events/go-wild-area-gigantamax-machamp-power-up-timed-research/",
-     "read": "2026-11-15T16:40:52Z"
+     "read": "2026-11-16T19:55:20Z"
     }
    ],
    "listed": true,
@@ -2696,7 +1921,7 @@
   },
   {
    "id": "max-mondays-2026-11-16",
-   "name": "Max Monday: Pokémon to be announced",
+   "name": "[Canceled] Max Monday",
    "type": "max-mondays",
    "types": [
     "max-mondays"
@@ -2719,40 +1944,319 @@
    "notes": [],
    "daily": null,
    "promoCodes": [],
-   "encounters": [],
+   "encounters": [
+    {
+     "group": "Max Battles",
+     "pokemon": [
+      {
+       "slug": "bulbasaur-dynamax",
+       "name": "Dynamax Bulbasaur",
+       "shiny": true
+      },
+      {
+       "slug": "charmander-dynamax",
+       "name": "Dynamax Charmander",
+       "shiny": true
+      },
+      {
+       "slug": "squirtle-dynamax",
+       "name": "Dynamax Squirtle",
+       "shiny": true
+      },
+      {
+       "slug": "caterpie-dynamax",
+       "name": "Dynamax Caterpie",
+       "shiny": true
+      },
+      {
+       "slug": "pikachu-dynamax",
+       "name": "Dynamax Pikachu",
+       "shiny": true
+      },
+      {
+       "slug": "growlithe-dynamax",
+       "name": "Dynamax Growlithe",
+       "shiny": true
+      },
+      {
+       "slug": "abra-dynamax",
+       "name": "Dynamax Abra",
+       "shiny": true
+      },
+      {
+       "slug": "machop-dynamax",
+       "name": "Dynamax Machop",
+       "shiny": true
+      },
+      {
+       "slug": "gastly-dynamax",
+       "name": "Dynamax Gastly",
+       "shiny": true
+      },
+      {
+       "slug": "krabby-dynamax",
+       "name": "Dynamax Krabby",
+       "shiny": true
+      },
+      {
+       "slug": "hitmonlee-dynamax",
+       "name": "Dynamax Hitmonlee",
+       "shiny": true
+      },
+      {
+       "slug": "hitmonchan-dynamax",
+       "name": "Dynamax Hitmonchan",
+       "shiny": true
+      },
+      {
+       "slug": "rhyhorn-dynamax",
+       "name": "Dynamax Rhyhorn",
+       "shiny": true
+      },
+      {
+       "slug": "chansey-dynamax",
+       "name": "Dynamax Chansey",
+       "shiny": true
+      },
+      {
+       "slug": "electabuzz-dynamax",
+       "name": "Dynamax Electabuzz",
+       "shiny": true
+      },
+      {
+       "slug": "magmar-dynamax",
+       "name": "Dynamax Magmar",
+       "shiny": true
+      },
+      {
+       "slug": "magikarp-dynamax",
+       "name": "Dynamax Magikarp",
+       "shiny": true
+      },
+      {
+       "slug": "eevee-dynamax",
+       "name": "Dynamax Eevee",
+       "shiny": true
+      },
+      {
+       "slug": "omanyte-dynamax",
+       "name": "Dynamax Omanyte",
+       "shiny": true
+      },
+      {
+       "slug": "kabuto-dynamax",
+       "name": "Dynamax Kabuto",
+       "shiny": true
+      },
+      {
+       "slug": "hoothoot-dynamax",
+       "name": "Dynamax Hoothoot",
+       "shiny": true
+      },
+      {
+       "slug": "shuckle-dynamax",
+       "name": "Dynamax Shuckle",
+       "shiny": true
+      },
+      {
+       "slug": "sneasel-dynamax",
+       "name": "Dynamax Sneasel",
+       "shiny": true
+      },
+      {
+       "slug": "hitmontop-dynamax",
+       "name": "Dynamax Hitmontop",
+       "shiny": true
+      },
+      {
+       "slug": "ralts-dynamax",
+       "name": "Dynamax Ralts",
+       "shiny": true
+      },
+      {
+       "slug": "sableye-dynamax",
+       "name": "Dynamax Sableye",
+       "shiny": true
+      },
+      {
+       "slug": "wailmer-dynamax",
+       "name": "Dynamax Wailmer",
+       "shiny": true
+      },
+      {
+       "slug": "trapinch-dynamax",
+       "name": "Dynamax Trapinch",
+       "shiny": true
+      },
+      {
+       "slug": "feebas-dynamax",
+       "name": "Dynamax Feebas",
+       "shiny": true
+      },
+      {
+       "slug": "spheal-dynamax",
+       "name": "Dynamax Spheal",
+       "shiny": true
+      },
+      {
+       "slug": "beldum-dynamax",
+       "name": "Dynamax Beldum",
+       "shiny": true
+      },
+      {
+       "slug": "combee-dynamax",
+       "name": "Dynamax Combee",
+       "shiny": true
+      },
+      {
+       "slug": "pidove-dynamax",
+       "name": "Dynamax Pidove",
+       "shiny": true
+      },
+      {
+       "slug": "roggenrola-dynamax",
+       "name": "Dynamax Roggenrola",
+       "shiny": true
+      },
+      {
+       "slug": "woobat-dynamax",
+       "name": "Dynamax Woobat",
+       "shiny": true
+      },
+      {
+       "slug": "drilbur-dynamax",
+       "name": "Dynamax Drilbur",
+       "shiny": true
+      },
+      {
+       "slug": "cottonee-dynamax",
+       "name": "Dynamax Cottonee",
+       "shiny": true
+      },
+      {
+       "slug": "darumaka-dynamax",
+       "name": "Dynamax Darumaka",
+       "shiny": true
+      },
+      {
+       "slug": "trubbish-dynamax",
+       "name": "Dynamax Trubbish",
+       "shiny": true
+      },
+      {
+       "slug": "cryogonal-dynamax",
+       "name": "Dynamax Cryogonal",
+       "shiny": true
+      },
+      {
+       "slug": "deino-dynamax",
+       "name": "Dynamax Deino",
+       "shiny": true
+      },
+      {
+       "slug": "inkay-dynamax",
+       "name": "Dynamax Inkay",
+       "shiny": true
+      },
+      {
+       "slug": "bounsweet",
+       "name": "Bounsweet",
+       "shiny": true
+      },
+      {
+       "slug": "passimian",
+       "name": "Passimian",
+       "shiny": true
+      },
+      {
+       "slug": "drampa",
+       "name": "Drampa",
+       "shiny": true
+      },
+      {
+       "slug": "grookey",
+       "name": "Grookey",
+       "shiny": true
+      },
+      {
+       "slug": "scorbunny",
+       "name": "Scorbunny",
+       "shiny": true
+      },
+      {
+       "slug": "sobble",
+       "name": "Sobble",
+       "shiny": true
+      },
+      {
+       "slug": "skwovet",
+       "name": "Skwovet",
+       "shiny": true
+      },
+      {
+       "slug": "rookidee",
+       "name": "Rookidee",
+       "shiny": true
+      },
+      {
+       "slug": "wooloo",
+       "name": "Wooloo",
+       "shiny": true
+      },
+      {
+       "slug": "toxtricity-amped",
+       "name": "Toxtricity Amped",
+       "shiny": true
+      },
+      {
+       "slug": "toxtricity-low-key",
+       "name": "Toxtricity Low Key",
+       "shiny": true
+      },
+      {
+       "slug": "sizzlipede",
+       "name": "Sizzlipede",
+       "shiny": true
+      },
+      {
+       "slug": "hatenna",
+       "name": "Hatenna",
+       "shiny": true
+      },
+      {
+       "slug": "falinks",
+       "name": "Falinks",
+       "shiny": true
+      },
+      {
+       "slug": "duraludon",
+       "name": "Duraludon",
+       "shiny": true
+      }
+     ]
+    }
+   ],
    "research": [],
    "sources": [
     {
      "name": "LeekDuck",
      "url": "https://leekduck.com/events/max-mondays-2026-11-16/",
-     "read": "2026-11-15T16:40:52Z"
+     "read": "2026-11-16T19:55:20Z"
     }
    ],
    "listed": true,
    "description": [
     {
      "kind": "text",
-     "text": "The featured Dynamax Pokémon for November 16–23, 2026 has not been announced. Stay tuned for more details."
+     "text": "There is no Max Monday on November 16, 2026. The Dynamax Trails event is happening instead, so there are no Max Monday-specific bonuses, such as the guaranteed Rare Candy XL."
     },
     {
      "kind": "text",
-     "text": "These Dynamax Pokémon may appear in Max Battles throughout this season. Max Battles will be available from 6:00 a.m. to 9:00 p.m. local time on Mondays."
-    },
-    {
-     "kind": "item",
-     "text": "Power Spots will refresh more frequently."
-    },
-    {
-     "kind": "item",
-     "text": "Additional Power Spots will be active on Mondays compared to the rest of the week."
-    },
-    {
-     "kind": "item",
-     "text": "Max Battles will rotate to feature different Dynamax Pokémon."
+     "text": "All Dynamax Pokémon that have previously appeared in Pokémon GO may appear in Max Battles during Dynamax Trails, excluding Legendary and Mythical Pokémon:"
     },
     {
      "kind": "text",
-     "text": "The featured Pokémon for Max Monday on November 16, 2026 will be announced later."
+     "text": "Bulbasaur, Charmander, Squirtle, Caterpie, Pikachu, Growlithe, Abra, Machop, Gastly, Krabby, Hitmonlee, Hitmonchan, Rhyhorn, Chansey, Electabuzz, Magmar, Magikarp, Eevee, Omanyte, Kabuto, Hoothoot, Shuckle, Sneasel, Hitmontop, Ralts, Sableye, Wailmer, Trapinch, Feebas, Spheal, Beldum, Combee, Pidove, Roggenrola, Woobat, Drilbur, Cottonee, Darumaka, Trubbish, Cryogonal, Deino, Inkay, Bounsweet, Passimian, Drampa, Grookey, Scorbunny, Sobble, Skwovet, Rookidee, Wooloo, Toxtricity (Amped Form), Toxtricity (Low Key Form), Sizzlipede, Hatenna, Falinks, Duraludon"
     }
    ]
   },
@@ -2787,7 +2291,7 @@
     {
      "name": "LeekDuck",
      "url": "https://leekduck.com/events/gbl-twilight-trails_great-league_ultra-league-mega-edition_2026-go-laic-cup/",
-     "read": "2026-11-15T16:40:52Z"
+     "read": "2026-11-16T19:55:20Z"
     }
    ],
    "listed": true,
@@ -2877,7 +2381,7 @@
     {
      "name": "LeekDuck",
      "url": "https://leekduck.com/events/raidhour20261118/",
-     "read": "2026-11-15T16:40:52Z"
+     "read": "2026-11-16T19:55:20Z"
     }
    ],
    "listed": true,
@@ -2954,7 +2458,7 @@
     {
      "name": "LeekDuck",
      "url": "https://leekduck.com/events/pokemonspotlighthour2026-11-19/",
-     "read": "2026-11-15T16:40:52Z"
+     "read": "2026-11-16T19:55:20Z"
     }
    ],
    "listed": true,
@@ -3061,7 +2565,7 @@
     {
      "name": "LeekDuck",
      "url": "https://leekduck.com/events/minior-showers-leonids-2026/",
-     "read": "2026-11-15T16:40:52Z"
+     "read": "2026-11-16T19:55:20Z"
     }
    ],
    "listed": true,
@@ -3171,7 +2675,7 @@
     {
      "name": "LeekDuck",
      "url": "https://leekduck.com/events/eternamax-eternatus-max-battles-2026/",
-     "read": "2026-11-15T16:40:52Z"
+     "read": "2026-11-16T19:55:20Z"
     }
    ],
    "listed": true,
@@ -3647,7 +3151,7 @@
     {
      "name": "LeekDuck",
      "url": "https://leekduck.com/events/november-communityday2026/",
-     "read": "2026-11-15T16:40:52Z"
+     "read": "2026-11-16T19:55:20Z"
     }
    ],
    "listed": true,
@@ -3737,6 +3241,7 @@
       "More Power Spots than usual will be active"
      ],
      "notes": [
+      "Catching Pokémon in the wild has a chance to award 10 Max Particles. These count toward your daily limit of 800 Max Particles from Power Spots and exploring, but wild catches will keep awarding Max Particles even after you reach that limit, as long as you’re under the 1,500 Max Particle cap.",
       "Max Particles cannot be obtained from catches with the Explorer Gadget or a Pokémon GO Plus +."
      ]
     }
@@ -3744,7 +3249,7 @@
    "times": [],
    "notes": [
     {
-     "title": "Wild",
+     "title": "Wild Encounters",
      "text": "Event-themed Pokémon will appear in the wild, including any Pokémon that has debuted in Dynamax Max Battles, excluding Legendary and Mythical Pokémon."
     },
     {
@@ -3755,6 +3260,296 @@
    "daily": null,
    "promoCodes": [],
    "encounters": [
+    {
+     "group": "Wild Encounters",
+     "pokemon": [
+      {
+       "slug": "bulbasaur",
+       "name": "Bulbasaur",
+       "shiny": true
+      },
+      {
+       "slug": "charmander",
+       "name": "Charmander",
+       "shiny": true
+      },
+      {
+       "slug": "squirtle",
+       "name": "Squirtle",
+       "shiny": true
+      },
+      {
+       "slug": "caterpie",
+       "name": "Caterpie",
+       "shiny": true
+      },
+      {
+       "slug": "pikachu",
+       "name": "Pikachu",
+       "shiny": true
+      },
+      {
+       "slug": "growlithe",
+       "name": "Growlithe",
+       "shiny": true
+      },
+      {
+       "slug": "abra",
+       "name": "Abra",
+       "shiny": true
+      },
+      {
+       "slug": "machop",
+       "name": "Machop",
+       "shiny": true
+      },
+      {
+       "slug": "gastly",
+       "name": "Gastly",
+       "shiny": true
+      },
+      {
+       "slug": "krabby",
+       "name": "Krabby",
+       "shiny": true
+      },
+      {
+       "slug": "hitmonlee",
+       "name": "Hitmonlee",
+       "shiny": true
+      },
+      {
+       "slug": "hitmonchan",
+       "name": "Hitmonchan",
+       "shiny": true
+      },
+      {
+       "slug": "rhyhorn",
+       "name": "Rhyhorn",
+       "shiny": true
+      },
+      {
+       "slug": "chansey",
+       "name": "Chansey",
+       "shiny": true
+      },
+      {
+       "slug": "electabuzz",
+       "name": "Electabuzz",
+       "shiny": true
+      },
+      {
+       "slug": "magmar",
+       "name": "Magmar",
+       "shiny": true
+      },
+      {
+       "slug": "magikarp",
+       "name": "Magikarp",
+       "shiny": true
+      },
+      {
+       "slug": "eevee",
+       "name": "Eevee",
+       "shiny": true
+      },
+      {
+       "slug": "omanyte",
+       "name": "Omanyte",
+       "shiny": true
+      },
+      {
+       "slug": "kabuto",
+       "name": "Kabuto",
+       "shiny": true
+      },
+      {
+       "slug": "hoothoot",
+       "name": "Hoothoot",
+       "shiny": true
+      },
+      {
+       "slug": "shuckle",
+       "name": "Shuckle",
+       "shiny": true
+      },
+      {
+       "slug": "sneasel",
+       "name": "Sneasel",
+       "shiny": true
+      },
+      {
+       "slug": "hitmontop",
+       "name": "Hitmontop",
+       "shiny": true
+      },
+      {
+       "slug": "ralts",
+       "name": "Ralts",
+       "shiny": true
+      },
+      {
+       "slug": "sableye",
+       "name": "Sableye",
+       "shiny": true
+      },
+      {
+       "slug": "wailmer",
+       "name": "Wailmer",
+       "shiny": true
+      },
+      {
+       "slug": "trapinch",
+       "name": "Trapinch",
+       "shiny": true
+      },
+      {
+       "slug": "feebas",
+       "name": "Feebas",
+       "shiny": true
+      },
+      {
+       "slug": "spheal",
+       "name": "Spheal",
+       "shiny": true
+      },
+      {
+       "slug": "beldum",
+       "name": "Beldum",
+       "shiny": true
+      },
+      {
+       "slug": "combee",
+       "name": "Combee",
+       "shiny": true
+      },
+      {
+       "slug": "pidove",
+       "name": "Pidove",
+       "shiny": true
+      },
+      {
+       "slug": "roggenrola",
+       "name": "Roggenrola",
+       "shiny": true
+      },
+      {
+       "slug": "woobat",
+       "name": "Woobat",
+       "shiny": true
+      },
+      {
+       "slug": "drilbur",
+       "name": "Drilbur",
+       "shiny": true
+      },
+      {
+       "slug": "cottonee",
+       "name": "Cottonee",
+       "shiny": true
+      },
+      {
+       "slug": "darumaka",
+       "name": "Darumaka",
+       "shiny": true
+      },
+      {
+       "slug": "trubbish",
+       "name": "Trubbish",
+       "shiny": true
+      },
+      {
+       "slug": "cryogonal",
+       "name": "Cryogonal",
+       "shiny": true
+      },
+      {
+       "slug": "deino",
+       "name": "Deino",
+       "shiny": true
+      },
+      {
+       "slug": "inkay",
+       "name": "Inkay",
+       "shiny": true
+      },
+      {
+       "slug": "bounsweet",
+       "name": "Bounsweet",
+       "shiny": true
+      },
+      {
+       "slug": "passimian",
+       "name": "Passimian",
+       "shiny": true
+      },
+      {
+       "slug": "drampa",
+       "name": "Drampa",
+       "shiny": true
+      },
+      {
+       "slug": "grookey",
+       "name": "Grookey",
+       "shiny": true
+      },
+      {
+       "slug": "scorbunny",
+       "name": "Scorbunny",
+       "shiny": true
+      },
+      {
+       "slug": "sobble",
+       "name": "Sobble",
+       "shiny": true
+      },
+      {
+       "slug": "skwovet",
+       "name": "Skwovet",
+       "shiny": true
+      },
+      {
+       "slug": "rookidee",
+       "name": "Rookidee",
+       "shiny": true
+      },
+      {
+       "slug": "wooloo",
+       "name": "Wooloo",
+       "shiny": true
+      },
+      {
+       "slug": "toxtricity-amped",
+       "name": "Toxtricity Amped",
+       "shiny": true
+      },
+      {
+       "slug": "toxtricity-low-key",
+       "name": "Toxtricity Low Key",
+       "shiny": true
+      },
+      {
+       "slug": "sizzlipede",
+       "name": "Sizzlipede",
+       "shiny": true
+      },
+      {
+       "slug": "hatenna",
+       "name": "Hatenna",
+       "shiny": true
+      },
+      {
+       "slug": "falinks",
+       "name": "Falinks",
+       "shiny": true
+      },
+      {
+       "slug": "duraludon",
+       "name": "Duraludon",
+       "shiny": true
+      }
+     ]
+    },
     {
      "group": "Max Battles",
      "pokemon": [
@@ -3939,11 +3734,6 @@
        "shiny": true
       },
       {
-       "slug": "excadrill-dynamax",
-       "name": "Dynamax Excadrill",
-       "shiny": true
-      },
-      {
        "slug": "cottonee-dynamax",
        "name": "Dynamax Cottonee",
        "shiny": true
@@ -4049,14 +3839,277 @@
        "shiny": true
       }
      ]
+    },
+    {
+     "group": "Research",
+     "pokemon": [
+      {
+       "slug": "bulbasaur",
+       "name": "Bulbasaur",
+       "shiny": true
+      },
+      {
+       "slug": "charmander",
+       "name": "Charmander",
+       "shiny": true
+      },
+      {
+       "slug": "squirtle",
+       "name": "Squirtle",
+       "shiny": true
+      },
+      {
+       "slug": "grookey",
+       "name": "Grookey",
+       "shiny": true
+      },
+      {
+       "slug": "scorbunny",
+       "name": "Scorbunny",
+       "shiny": true
+      },
+      {
+       "slug": "sobble",
+       "name": "Sobble",
+       "shiny": true
+      },
+      {
+       "slug": "magikarp",
+       "name": "Magikarp",
+       "shiny": true
+      },
+      {
+       "slug": "feebas",
+       "name": "Feebas",
+       "shiny": true
+      },
+      {
+       "slug": "eevee",
+       "name": "Eevee",
+       "shiny": true
+      },
+      {
+       "slug": "drampa",
+       "name": "Drampa",
+       "shiny": true
+      },
+      {
+       "slug": "duraludon",
+       "name": "Duraludon",
+       "shiny": true
+      }
+     ]
     }
    ],
-   "research": [],
+   "research": [
+    {
+     "kind": "field",
+     "title": "Dynamax Trails Tasks",
+     "step": null,
+     "tasks": [
+      {
+       "text": "Catch 8 Pokémon",
+       "rewards": [
+        {
+         "type": "encounter",
+         "shiny": true,
+         "cp": {
+          "min": 442,
+          "max": 477
+         },
+         "slug": "bulbasaur",
+         "name": "Bulbasaur"
+        },
+        {
+         "type": "encounter",
+         "shiny": true,
+         "cp": {
+          "min": 387,
+          "max": 420
+         },
+         "slug": "charmander",
+         "name": "Charmander"
+        },
+        {
+         "type": "encounter",
+         "shiny": true,
+         "cp": {
+          "min": 372,
+          "max": 405
+         },
+         "slug": "squirtle",
+         "name": "Squirtle"
+        },
+        {
+         "type": "encounter",
+         "shiny": true,
+         "cp": {
+          "min": 430,
+          "max": 465
+         },
+         "slug": "grookey",
+         "name": "Grookey"
+        },
+        {
+         "type": "encounter",
+         "shiny": true,
+         "cp": {
+          "min": 434,
+          "max": 470
+         },
+         "slug": "scorbunny",
+         "name": "Scorbunny"
+        },
+        {
+         "type": "encounter",
+         "shiny": true,
+         "cp": {
+          "min": 434,
+          "max": 470
+         },
+         "slug": "sobble",
+         "name": "Sobble"
+        }
+       ]
+      },
+      {
+       "text": "Power up Pokémon 8 times",
+       "rewards": [
+        {
+         "type": "encounter",
+         "shiny": true,
+         "cp": {
+          "min": 99,
+          "max": 117
+         },
+         "slug": "magikarp",
+         "name": "Magikarp"
+        },
+        {
+         "type": "encounter",
+         "shiny": true,
+         "cp": {
+          "min": 99,
+          "max": 117
+         },
+         "slug": "feebas",
+         "name": "Feebas"
+        },
+        {
+         "type": "item",
+         "quantity": 3,
+         "name": "Pinap Berry",
+         "icon": "art/506ecd9acd94449a27dfcc4129541eeb.png"
+        }
+       ]
+      },
+      {
+       "text": "Explore 1 km",
+       "rewards": [
+        {
+         "type": "encounter",
+         "shiny": true,
+         "cp": {
+          "min": 424,
+          "max": 459
+         },
+         "slug": "eevee",
+         "name": "Eevee"
+        },
+        {
+         "type": "item",
+         "quantity": 2000,
+         "name": "Stardust",
+         "icon": "art/8091724025f7c21f1479111875b9a2b4.png"
+        }
+       ]
+      },
+      {
+       "text": "Win a Max Battle",
+       "rewards": [
+        {
+         "type": "encounter",
+         "shiny": true,
+         "cp": {
+          "min": 1191,
+          "max": 1249
+         },
+         "slug": "drampa",
+         "name": "Drampa"
+        },
+        {
+         "type": "encounter",
+         "shiny": true,
+         "cp": {
+          "min": 1255,
+          "max": 1314
+         },
+         "slug": "duraludon",
+         "name": "Duraludon"
+        },
+        {
+         "type": "resource",
+         "quantity": 10,
+         "name": "Eternatus Candy",
+         "icon": "art/b78749d8d0ee59a9314845b6c2414148.png"
+        },
+        {
+         "type": "item",
+         "quantity": 2000,
+         "name": "Stardust",
+         "icon": "art/8091724025f7c21f1479111875b9a2b4.png"
+        }
+       ]
+      },
+      {
+       "text": "Unlock a Max Move",
+       "rewards": [
+        {
+         "type": "resource",
+         "quantity": 25,
+         "name": "Eternatus Candy",
+         "icon": "art/b78749d8d0ee59a9314845b6c2414148.png"
+        },
+        {
+         "type": "item",
+         "quantity": 5000,
+         "name": "Stardust",
+         "icon": "art/8091724025f7c21f1479111875b9a2b4.png"
+        }
+       ]
+      },
+      {
+       "text": "Make an Excellent Throw",
+       "rewards": [
+        {
+         "type": "resource",
+         "quantity": 25,
+         "name": "Eternatus Candy",
+         "icon": "art/b78749d8d0ee59a9314845b6c2414148.png"
+        },
+        {
+         "type": "item",
+         "quantity": 1,
+         "name": "Golden Razz Berry",
+         "icon": "art/acd7a57acab21994428980ab293400c4.png"
+        },
+        {
+         "type": "item",
+         "quantity": 1,
+         "name": "Silver Pinap Berry",
+         "icon": "art/83d5a65337cea6bbb168a42195889922.png"
+        }
+       ]
+      }
+     ],
+     "rewards": []
+    }
+   ],
    "sources": [
     {
      "name": "LeekDuck",
      "url": "https://leekduck.com/events/dynamax-trails-2026/",
-     "read": "2026-11-15T16:40:52Z"
+     "read": "2026-11-16T19:55:20Z"
     }
    ],
    "listed": true,
@@ -4137,7 +4190,7 @@
     {
      "name": "LeekDuck",
      "url": "https://leekduck.com/events/max-mondays-2026-11-23/",
-     "read": "2026-11-15T16:40:52Z"
+     "read": "2026-11-16T19:55:20Z"
     }
    ],
    "listed": true,
@@ -4228,7 +4281,7 @@
     {
      "name": "LeekDuck",
      "url": "https://leekduck.com/events/cresselia-darkrai-in-5-star-raid-battles-november-2026/",
-     "read": "2026-11-15T16:40:52Z"
+     "read": "2026-11-16T19:55:20Z"
     }
    ],
    "listed": true,
@@ -4302,7 +4355,7 @@
     {
      "name": "LeekDuck",
      "url": "https://leekduck.com/events/mega-banette-in-mega-raids-november-2026/",
-     "read": "2026-11-15T16:40:52Z"
+     "read": "2026-11-16T19:55:20Z"
     }
    ],
    "listed": true,
@@ -4348,7 +4401,7 @@
     {
      "name": "LeekDuck",
      "url": "https://leekduck.com/events/gbl-twilight-trails_ultra-league_master-league-mega-edition_2026-go-laic-cup/",
-     "read": "2026-11-15T16:40:52Z"
+     "read": "2026-11-16T19:55:20Z"
     }
    ],
    "listed": true,
@@ -4442,7 +4495,7 @@
     {
      "name": "LeekDuck",
      "url": "https://leekduck.com/events/raidhour20261125/",
-     "read": "2026-11-15T16:40:52Z"
+     "read": "2026-11-16T19:55:20Z"
     }
    ],
    "listed": true,
@@ -4509,7 +4562,7 @@
     {
      "name": "LeekDuck",
      "url": "https://leekduck.com/events/pokemonspotlighthour2026-11-26/",
-     "read": "2026-11-15T16:40:52Z"
+     "read": "2026-11-16T19:55:20Z"
     }
    ],
    "listed": true,
@@ -4697,7 +4750,7 @@
     {
      "name": "LeekDuck",
      "url": "https://leekduck.com/events/clefable-super-mega-raid-day-2026/",
-     "read": "2026-11-15T16:40:52Z"
+     "read": "2026-11-16T19:55:20Z"
     }
    ],
    "listed": true,
@@ -4903,7 +4956,7 @@
     {
      "name": "LeekDuck",
      "url": "https://leekduck.com/events/twilight-wishes-2026/",
-     "read": "2026-11-15T16:40:52Z"
+     "read": "2026-11-16T19:55:20Z"
     }
    ],
    "listed": true,
@@ -4979,7 +5032,7 @@
     {
      "name": "LeekDuck",
      "url": "https://leekduck.com/events/max-mondays-2026-11-30/",
-     "read": "2026-11-15T16:40:52Z"
+     "read": "2026-11-16T19:55:20Z"
     }
    ],
    "listed": true,
@@ -5344,7 +5397,7 @@
     {
      "name": "LeekDuck",
      "url": "https://leekduck.com/events/season-24-twilight-trails/",
-     "read": "2026-11-15T16:40:52Z"
+     "read": "2026-11-16T19:55:20Z"
     }
    ],
    "listed": true,
@@ -5490,7 +5543,7 @@
     {
      "name": "LeekDuck",
      "url": "https://leekduck.com/events/go-pass-november-2026/",
-     "read": "2026-11-15T16:40:52Z"
+     "read": "2026-11-16T19:55:20Z"
     }
    ],
    "listed": true,
@@ -5600,7 +5653,7 @@
     {
      "name": "LeekDuck",
      "url": "https://leekduck.com/events/gbl-twilight-trails_master-league_mega-catch-cup-great-league-edition/",
-     "read": "2026-11-15T16:40:52Z"
+     "read": "2026-11-16T19:55:20Z"
     }
    ],
    "listed": true,
@@ -5689,7 +5742,7 @@
     {
      "name": "LeekDuck",
      "url": "https://leekduck.com/events/shadow-tornadus-incarnate-forme-in-shadow-raids-november-16-2026/",
-     "read": "2026-11-15T16:40:52Z"
+     "read": "2026-11-16T19:55:20Z"
     }
    ],
    "listed": true,
@@ -5766,7 +5819,7 @@
     {
      "name": "LeekDuck",
      "url": "https://leekduck.com/events/deoxys-normal-defense-attack-speed-formes-in-5-star-raid-battles-november-2026/",
-     "read": "2026-11-15T16:40:52Z"
+     "read": "2026-11-16T19:55:20Z"
     }
    ],
    "listed": true,
@@ -5840,7 +5893,7 @@
     {
      "name": "LeekDuck",
      "url": "https://leekduck.com/events/mega-metagross-in-mega-raids-november-2026/",
-     "read": "2026-11-15T16:40:52Z"
+     "read": "2026-11-16T19:55:20Z"
     }
    ],
    "listed": true,
@@ -5886,7 +5939,7 @@
     {
      "name": "LeekDuck",
      "url": "https://leekduck.com/events/max-battle-day-december-2026/",
-     "read": "2026-11-15T16:40:52Z"
+     "read": "2026-11-16T19:55:20Z"
     }
    ],
    "listed": true,
@@ -5928,7 +5981,7 @@
     {
      "name": "LeekDuck",
      "url": "https://leekduck.com/events/december-communityday2026/",
-     "read": "2026-11-15T16:40:52Z"
+     "read": "2026-11-16T19:55:20Z"
     }
    ],
    "listed": true,
@@ -6031,7 +6084,7 @@
     {
      "name": "LeekDuck",
      "url": "https://leekduck.com/events/minior-showers-geminids-2026/",
-     "read": "2026-11-15T16:40:52Z"
+     "read": "2026-11-16T19:55:20Z"
     }
    ],
    "listed": true,
@@ -6113,7 +6166,7 @@
     {
      "name": "LeekDuck",
      "url": "https://leekduck.com/events/raid-day-december-2026/",
-     "read": "2026-11-15T16:40:52Z"
+     "read": "2026-11-16T19:55:20Z"
     }
    ],
    "listed": true,
@@ -6155,7 +6208,7 @@
     {
      "name": "LeekDuck",
      "url": "https://leekduck.com/events/hatch-day-december-2026/",
-     "read": "2026-11-15T16:40:52Z"
+     "read": "2026-11-16T19:55:20Z"
     }
    ],
    "listed": true,
@@ -6197,7 +6250,7 @@
     {
      "name": "LeekDuck",
      "url": "https://leekduck.com/events/january-communitydayclassic2027/",
-     "read": "2026-11-15T16:40:52Z"
+     "read": "2026-11-16T19:55:20Z"
     }
    ],
    "listed": true,
@@ -6239,7 +6292,7 @@
     {
      "name": "LeekDuck",
      "url": "https://leekduck.com/events/super-mega-raid-day-january-2027/",
-     "read": "2026-11-15T16:40:52Z"
+     "read": "2026-11-16T19:55:20Z"
     }
    ],
    "listed": true,
@@ -6507,7 +6560,7 @@
     {
      "name": "LeekDuck",
      "url": "https://leekduck.com/events/pokemon-x-adidas-2026/",
-     "read": "2026-11-15T16:40:52Z"
+     "read": "2026-11-16T19:55:20Z"
     }
    ],
    "listed": true,
@@ -6575,7 +6628,7 @@
     {
      "name": "LeekDuck",
      "url": "https://leekduck.com/events/january-communityday2027/",
-     "read": "2026-11-15T16:40:52Z"
+     "read": "2026-11-16T19:55:20Z"
     }
    ],
    "listed": true,
@@ -6617,7 +6670,7 @@
     {
      "name": "LeekDuck",
      "url": "https://leekduck.com/events/max-battle-day-january-2027/",
-     "read": "2026-11-15T16:40:52Z"
+     "read": "2026-11-16T19:55:20Z"
     }
    ],
    "listed": true,
@@ -6659,7 +6712,7 @@
     {
      "name": "LeekDuck",
      "url": "https://leekduck.com/events/super-mega-raid-day-january-30-2027/",
-     "read": "2026-11-15T16:40:52Z"
+     "read": "2026-11-16T19:55:20Z"
     }
    ],
    "listed": true,
@@ -6701,7 +6754,7 @@
     {
      "name": "LeekDuck",
      "url": "https://leekduck.com/events/february-communityday2027/",
-     "read": "2026-11-15T16:40:52Z"
+     "read": "2026-11-16T19:55:20Z"
     }
    ],
    "listed": true,
@@ -6743,7 +6796,7 @@
     {
      "name": "LeekDuck",
      "url": "https://leekduck.com/events/raid-day-february-2027/",
-     "read": "2026-11-15T16:40:52Z"
+     "read": "2026-11-16T19:55:20Z"
     }
    ],
    "listed": true,
@@ -6786,7 +6839,7 @@
     {
      "name": "LeekDuck",
      "url": "https://leekduck.com/events/pokemon-go-tour-alola-kaohsiung-2027/",
-     "read": "2026-11-15T16:40:52Z"
+     "read": "2026-11-16T19:55:20Z"
     }
    ],
    "listed": true,
@@ -6856,7 +6909,7 @@
     {
      "name": "LeekDuck",
      "url": "https://leekduck.com/events/pokemon-go-tour-alola-los-angeles-2027/",
-     "read": "2026-11-15T16:40:52Z"
+     "read": "2026-11-16T19:55:20Z"
     }
    ],
    "listed": true,
@@ -6925,7 +6978,7 @@
     {
      "name": "LeekDuck",
      "url": "https://leekduck.com/events/pokemon-go-tour-alola-global-2027/",
-     "read": "2026-11-15T16:40:52Z"
+     "read": "2026-11-16T19:55:20Z"
     }
    ],
    "listed": true,
@@ -7052,7 +7105,7 @@
     {
      "name": "LeekDuck",
      "url": "https://leekduck.com/events/minior-showers-eta-aquariids-2027/",
-     "read": "2026-11-15T16:40:52Z"
+     "read": "2026-11-16T19:55:20Z"
     }
    ],
    "listed": true,
@@ -7195,7 +7248,7 @@
     {
      "name": "LeekDuck",
      "url": "https://leekduck.com/events/minior-showers-southern-delta-aquariids-2027/",
-     "read": "2026-11-15T16:40:52Z"
+     "read": "2026-11-16T19:55:20Z"
     }
    ],
    "listed": true,
@@ -7338,7 +7391,7 @@
     {
      "name": "LeekDuck",
      "url": "https://leekduck.com/events/minior-showers-perseids-2027/",
-     "read": "2026-11-15T16:40:52Z"
+     "read": "2026-11-16T19:55:20Z"
     }
    ],
    "listed": true,
@@ -7385,6 +7438,781 @@
     "groups": [],
     "read": true
    }
+  },
+  {
+   "id": "into-the-wild-2026",
+   "name": "Into the Wild 2026",
+   "type": "event",
+   "types": [
+    "event"
+   ],
+   "heading": "Event",
+   "link": "https://leekduck.com/events/into-the-wild-2026/",
+   "image": "https://cdn.leekduck.com/assets/img/events/article-images/2026/2026-11-09-into-the-wild-2026/into-the-wild-2026.jpg",
+   "start": {
+    "time": "2026-11-09T10:00:00",
+    "kind": "local"
+   },
+   "end": {
+    "time": "2026-11-13T20:00:00",
+    "kind": "local"
+   },
+   "inPerson": false,
+   "venueOffset": null,
+   "bonuses": [
+    {
+     "title": null,
+     "description": null,
+     "items": [
+      "Remote Raid limit increased to 30 from Monday, November 9, to Friday, November 13, 2026",
+      "No Remote Raid limit from Saturday, November 14, to Sunday, November 15, 2026",
+      "Chance to encounter Shiny Gimmighoul when using a Coin Bag*",
+      "Chance to encounter Shiny Meltan when opening the Mystery Box*",
+      "Reduced wait time before you can open the Mystery Box again*",
+      "Trainers can receive special event stickers from PokéStops and Gifts"
+     ],
+     "notes": [
+      "* These bonuses will be available from Monday, November 9, at 10:00 a.m. to Sunday, November 15, 2026, at 6:00 p.m. local time.",
+      "Daily Discoveries will not take place from November 9 through November 15, 2026."
+     ]
+    },
+    {
+     "title": "Raids",
+     "description": null,
+     "items": [
+      "Defeating Crowned Sword Zacian or Crowned Shield Zamazenta in raids will earn you Crowned Sword Energy or Crowned Shield Energy, respectively."
+     ],
+     "notes": []
+    },
+    {
+     "title": "Raids",
+     "description": null,
+     "items": [
+      "Defeating Crowned Sword Zacian or Crowned Shield Zamazenta in raids will earn you Crowned Sword Energy or Crowned Shield Energy, respectively."
+     ],
+     "notes": []
+    }
+   ],
+   "times": [
+    {
+     "label": "Raid Hour",
+     "detail": "Zacian (Crowned Sword)",
+     "when": [
+      {
+       "date": "Monday, November 9",
+       "endDate": null,
+       "from": "6:00 p.m. to 7:00 p.m. local time",
+       "to": null,
+       "allDay": false,
+       "everyDay": false
+      }
+     ]
+    },
+    {
+     "label": "Raid Hour",
+     "detail": "Zamazenta (Crowned Shield)",
+     "when": [
+      {
+       "date": "Tuesday, November 10",
+       "endDate": null,
+       "from": "6:00 p.m. to 7:00 p.m. local time",
+       "to": null,
+       "allDay": false,
+       "everyDay": false
+      }
+     ]
+    },
+    {
+     "label": "Raids",
+     "detail": "Dynamax Registeel",
+     "when": [
+      {
+       "date": "Wednesday, November 11",
+       "endDate": null,
+       "from": null,
+       "to": null,
+       "allDay": false,
+       "everyDay": false
+      }
+     ]
+    },
+    {
+     "label": "Raid Hour",
+     "detail": "Dynamax Registeel",
+     "when": [
+      {
+       "date": "Wednesday, November 11",
+       "endDate": null,
+       "from": "6:00 p.m. to 7:00 p.m. local time",
+       "to": null,
+       "allDay": false,
+       "everyDay": false
+      }
+     ]
+    },
+    {
+     "label": "Raids",
+     "detail": "Dynamax Regidrago",
+     "when": [
+      {
+       "date": "Thursday, November 12",
+       "endDate": null,
+       "from": null,
+       "to": null,
+       "allDay": false,
+       "everyDay": false
+      }
+     ]
+    },
+    {
+     "label": "Raid Hour",
+     "detail": "Dynamax Regidrago",
+     "when": [
+      {
+       "date": "Thursday, November 12",
+       "endDate": null,
+       "from": "6:00 p.m. to 7:00 p.m. local time",
+       "to": null,
+       "allDay": false,
+       "everyDay": false
+      }
+     ]
+    },
+    {
+     "label": "Raids",
+     "detail": "Dynamax Latias, Dynamax Latios",
+     "when": [
+      {
+       "date": "Friday, November 13",
+       "endDate": null,
+       "from": null,
+       "to": null,
+       "allDay": false,
+       "everyDay": false
+      }
+     ]
+    },
+    {
+     "label": "Raid Hour",
+     "detail": "Dynamax Latias, Dynamax Latios",
+     "when": [
+      {
+       "date": "Friday, November 13",
+       "endDate": null,
+       "from": "6:00 p.m. to 7:00 p.m. local time",
+       "to": null,
+       "allDay": false,
+       "everyDay": false
+      }
+     ]
+    }
+   ],
+   "notes": [
+    {
+     "title": "Wild",
+     "text": "The following Pokémon will appear more frequently in the wild, along with other event-themed Pokémon."
+    },
+    {
+     "title": "Max Battles",
+     "text": "The following Dynamax Pokémon will appear in Max Battles. Pokémon appearing in five-star Max Battles will also be featured in Max Battles from 6:00 p.m. to 7:00 p.m. local time for one day each on the following schedule."
+    }
+   ],
+   "daily": null,
+   "promoCodes": [],
+   "encounters": [
+    {
+     "group": "Wild",
+     "pokemon": [
+      {
+       "slug": "meowth-galarian",
+       "name": "Galarian Meowth",
+       "shiny": true
+      },
+      {
+       "slug": "magnemite",
+       "name": "Magnemite",
+       "shiny": true
+      },
+      {
+       "slug": "horsea",
+       "name": "Horsea",
+       "shiny": true
+      },
+      {
+       "slug": "scyther",
+       "name": "Scyther",
+       "shiny": true
+      },
+      {
+       "slug": "dratini",
+       "name": "Dratini",
+       "shiny": true
+      },
+      {
+       "slug": "mareep",
+       "name": "Mareep",
+       "shiny": true
+      },
+      {
+       "slug": "mawile",
+       "name": "Mawile",
+       "shiny": true
+      },
+      {
+       "slug": "aron",
+       "name": "Aron",
+       "shiny": true
+      },
+      {
+       "slug": "bagon",
+       "name": "Bagon",
+       "shiny": true
+      },
+      {
+       "slug": "skrelp",
+       "name": "Skrelp",
+       "shiny": true
+      },
+      {
+       "slug": "noibat",
+       "name": "Noibat",
+       "shiny": true
+      },
+      {
+       "slug": "togedemaru",
+       "name": "Togedemaru",
+       "shiny": true
+      }
+     ]
+    },
+    {
+     "group": "Raids",
+     "pokemon": [
+      {
+       "slug": "druddigon",
+       "name": "Druddigon",
+       "shiny": true
+      },
+      {
+       "slug": "orthworm",
+       "name": "Orthworm",
+       "shiny": true
+      },
+      {
+       "slug": "zacian-crowned-sword",
+       "name": "Zacian Crowned Sword",
+       "shiny": true
+      },
+      {
+       "slug": "zamazenta-crowned-shield",
+       "name": "Zamazenta Crowned Shield",
+       "shiny": true
+      }
+     ]
+    },
+    {
+     "group": "Max Battles",
+     "pokemon": [
+      {
+       "slug": "ralts-dynamax",
+       "name": "Dynamax Ralts",
+       "shiny": true
+      },
+      {
+       "slug": "machop-dynamax",
+       "name": "Dynamax Machop",
+       "shiny": true
+      },
+      {
+       "slug": "registeel-dynamax",
+       "name": "Dynamax Registeel",
+       "shiny": true
+      },
+      {
+       "slug": "regidrago",
+       "name": "Regidrago",
+       "shiny": true
+      },
+      {
+       "slug": "latias-dynamax",
+       "name": "Dynamax Latias",
+       "shiny": true
+      },
+      {
+       "slug": "latios-dynamax",
+       "name": "Dynamax Latios",
+       "shiny": true
+      }
+     ]
+    },
+    {
+     "group": "Research",
+     "pokemon": [
+      {
+       "slug": "meowth-galarian",
+       "name": "Galarian Meowth",
+       "shiny": true
+      },
+      {
+       "slug": "magnemite",
+       "name": "Magnemite",
+       "shiny": true
+      },
+      {
+       "slug": "aron",
+       "name": "Aron",
+       "shiny": true
+      },
+      {
+       "slug": "togedemaru",
+       "name": "Togedemaru",
+       "shiny": true
+      },
+      {
+       "slug": "horsea",
+       "name": "Horsea",
+       "shiny": true
+      },
+      {
+       "slug": "dratini",
+       "name": "Dratini",
+       "shiny": true
+      },
+      {
+       "slug": "bagon",
+       "name": "Bagon",
+       "shiny": true
+      },
+      {
+       "slug": "skrelp",
+       "name": "Skrelp",
+       "shiny": true
+      },
+      {
+       "slug": "scyther",
+       "name": "Scyther",
+       "shiny": true
+      },
+      {
+       "slug": "mawile",
+       "name": "Mawile",
+       "shiny": true
+      }
+     ]
+    }
+   ],
+   "research": [
+    {
+     "kind": "field",
+     "title": "Into the Wild 2026 Tasks",
+     "step": null,
+     "tasks": [
+      {
+       "text": "Power up Steel-type Pokémon 5 times",
+       "rewards": [
+        {
+         "type": "encounter",
+         "shiny": true,
+         "cp": {
+          "min": 409,
+          "max": 443
+         },
+         "slug": "meowth-galarian",
+         "name": "Galarian Meowth"
+        },
+        {
+         "type": "encounter",
+         "shiny": true,
+         "cp": {
+          "min": 544,
+          "max": 583
+         },
+         "slug": "magnemite",
+         "name": "Magnemite"
+        },
+        {
+         "type": "encounter",
+         "shiny": true,
+         "cp": {
+          "min": 522,
+          "max": 560
+         },
+         "slug": "aron",
+         "name": "Aron"
+        },
+        {
+         "type": "encounter",
+         "shiny": true,
+         "cp": {
+          "min": 876,
+          "max": 926
+         },
+         "slug": "togedemaru",
+         "name": "Togedemaru"
+        }
+       ]
+      },
+      {
+       "text": "Power up Dragon-type Pokémon 5 times",
+       "rewards": [
+        {
+         "type": "encounter",
+         "shiny": true,
+         "cp": {
+          "min": 418,
+          "max": 452
+         },
+         "slug": "horsea",
+         "name": "Horsea"
+        },
+        {
+         "type": "encounter",
+         "shiny": true,
+         "cp": {
+          "min": 397,
+          "max": 430
+         },
+         "slug": "dratini",
+         "name": "Dratini"
+        },
+        {
+         "type": "encounter",
+         "shiny": true,
+         "cp": {
+          "min": 459,
+          "max": 495
+         },
+         "slug": "bagon",
+         "name": "Bagon"
+        },
+        {
+         "type": "encounter",
+         "shiny": true,
+         "cp": {
+          "min": 421,
+          "max": 455
+         },
+         "slug": "skrelp",
+         "name": "Skrelp"
+        }
+       ]
+      },
+      {
+       "text": "Win a raid",
+       "rewards": [
+        {
+         "type": "encounter",
+         "shiny": true,
+         "cp": {
+          "min": 1104,
+          "max": 1160
+         },
+         "slug": "scyther",
+         "name": "Scyther"
+        },
+        {
+         "type": "encounter",
+         "shiny": true,
+         "cp": {
+          "min": 397,
+          "max": 430
+         },
+         "slug": "dratini",
+         "name": "Dratini"
+        },
+        {
+         "type": "item",
+         "quantity": 2,
+         "name": "Rare Candy"
+        }
+       ]
+      },
+      {
+       "text": "Catch 10 Pokémon",
+       "rewards": [
+        {
+         "type": "encounter",
+         "shiny": true,
+         "cp": {
+          "min": 544,
+          "max": 583
+         },
+         "slug": "magnemite",
+         "name": "Magnemite"
+        },
+        {
+         "type": "encounter",
+         "shiny": true,
+         "cp": {
+          "min": 418,
+          "max": 452
+         },
+         "slug": "horsea",
+         "name": "Horsea"
+        },
+        {
+         "type": "encounter",
+         "shiny": true,
+         "cp": {
+          "min": 522,
+          "max": 560
+         },
+         "slug": "aron",
+         "name": "Aron"
+        },
+        {
+         "type": "encounter",
+         "shiny": true,
+         "cp": {
+          "min": 421,
+          "max": 455
+         },
+         "slug": "skrelp",
+         "name": "Skrelp"
+        }
+       ]
+      },
+      {
+       "text": "Win a Max Battle",
+       "rewards": [
+        {
+         "type": "encounter",
+         "shiny": true,
+         "cp": {
+          "min": 658,
+          "max": 700
+         },
+         "slug": "mawile",
+         "name": "Mawile"
+        },
+        {
+         "type": "encounter",
+         "shiny": true,
+         "cp": {
+          "min": 459,
+          "max": 495
+         },
+         "slug": "bagon",
+         "name": "Bagon"
+        }
+       ]
+      },
+      {
+       "text": "Catch a Dynamax Machop",
+       "rewards": [
+        {
+         "type": "resource",
+         "quantity": 25,
+         "name": "Machop Candy"
+        },
+        {
+         "type": "item",
+         "quantity": 5000,
+         "name": "Stardust"
+        }
+       ]
+      },
+      {
+       "text": "Catch a Dynamax Ralts",
+       "rewards": [
+        {
+         "type": "resource",
+         "quantity": 25,
+         "name": "Ralts Candy"
+        },
+        {
+         "type": "item",
+         "quantity": 5000,
+         "name": "Stardust"
+        }
+       ]
+      }
+     ],
+     "rewards": []
+    }
+   ],
+   "sources": [
+    {
+     "name": "LeekDuck",
+     "url": "https://leekduck.com/events/into-the-wild-2026/",
+     "read": "2026-11-15T16:40:52Z"
+    }
+   ],
+   "listed": false,
+   "description": [
+    {
+     "kind": "text",
+     "text": "It’s time to head back Into the Wild for a Steel- and Dragon-type adventure! Regidrago makes its Dynamax debut in five-star Max Battles, Dynamax Meltan debuts in GO Pass: Into the Wild, and Crowned Sword Zacian and Crowned Shield Zamazenta take over five-star raids as Pokémon GO Wild Area 2026 approaches."
+    }
+   ],
+   "freeText": {
+    "debuts": [
+     {
+      "kind": "dynamax",
+      "value": [
+       "Regidrago",
+       "Meltan"
+      ],
+      "status": "auto-read",
+      "quote": "Regidrago will make its Pokémon GO Dynamax debut in five-star Max Battles, and Meltan will make its Dynamax debut in GO Pass: Into the Wild. If you’re lucky, you may encounter a Shiny one!",
+      "url": "https://leekduck.com/events/into-the-wild-2026/"
+     }
+    ],
+    "attacks": [
+     {
+      "pokemon": "Registeel",
+      "value": [
+       "Metal Claw"
+      ],
+      "status": "auto-read",
+      "quote": "Registeel caught during the event will know the Fast Attack Metal Claw.",
+      "url": "https://leekduck.com/events/into-the-wild-2026/"
+     },
+     {
+      "pokemon": "Latias",
+      "value": [
+       "Mist Ball"
+      ],
+      "status": "auto-read",
+      "quote": "Latias caught during the event will know the Charged Attack Mist Ball.",
+      "url": "https://leekduck.com/events/into-the-wild-2026/"
+     },
+     {
+      "pokemon": "Latios",
+      "value": [
+       "Luster Purge"
+      ],
+      "status": "auto-read",
+      "quote": "Latios caught during the event will know the Charged Attack Luster Purge.",
+      "url": "https://leekduck.com/events/into-the-wild-2026/"
+     },
+     {
+      "pokemon": "Regidrago",
+      "value": [
+       "Dragon Breath"
+      ],
+      "status": "auto-read",
+      "quote": "Regidrago caught during the event will know the Fast Attack Dragon Breath.",
+      "url": "https://leekduck.com/events/into-the-wild-2026/"
+     }
+    ],
+    "rules": [
+     {
+      "heading": "Meltan and the Mystery Box",
+      "value": "From Monday, November 9, at 10:00 a.m. to Sunday, November 15, at 6:00 p.m. local time, opening the Mystery Box gives you a chance to encounter Shiny Meltan, and you won’t have to wait as long before you can open it again.",
+      "status": "auto-read",
+      "quote": "From Monday, November 9, at 10:00 a.m. to Sunday, November 15, at 6:00 p.m. local time, opening the Mystery Box gives you a chance to encounter Shiny Meltan, and you won’t have to wait as long before you can open it again.",
+      "url": "https://leekduck.com/events/into-the-wild-2026/"
+     },
+     {
+      "heading": "New Special Background!",
+      "value": "Trainers who take part in five-star raids and five-star Max Battles during the Into the Wild event will have a chance of receiving a new Special Background after a successful catch. The souvenir background appears on the Pokémon’s summary page, showing when it was caught on the road to Pokémon GO Wild Area!",
+      "status": "auto-read",
+      "quote": "Trainers who take part in five-star raids and five-star Max Battles during the Into the Wild event will have a chance of receiving a new Special Background after a successful catch. The souvenir background appears on the Pokémon’s summary page, showing when it was caught on the road to Pokémon GO Wild Area!",
+      "url": "https://leekduck.com/events/into-the-wild-2026/"
+     },
+     {
+      "heading": "Into the Wild Global Challenge",
+      "value": "Work with Trainers around the world to complete raids and Max Battles. Completing the Into the Wild Global Challenge unlocks the following bonuses.",
+      "status": "auto-read",
+      "quote": "Work with Trainers around the world to complete raids and Max Battles. Completing the Into the Wild Global Challenge unlocks the following bonuses.",
+      "url": "https://leekduck.com/events/into-the-wild-2026/"
+     }
+    ],
+    "groups": [],
+    "read": true
+   }
+  },
+  {
+   "id": "zacian-crowned-sword-zamazenta-crowned-shield-in-5-star-raid-battles-november-2026",
+   "name": "Zacian (Crowned Sword) and Zamazenta (Crowned Shield) in 5-star Raid Battles",
+   "type": "raid-battles",
+   "types": [
+    "raid-battles"
+   ],
+   "heading": "Raid Battles",
+   "link": "https://leekduck.com/events/zacian-crowned-sword-zamazenta-crowned-shield-in-5-star-raid-battles-november-2026/",
+   "image": "https://cdn.leekduck.com/assets/img/events/zacian-and-zamazenta-2.jpg",
+   "start": {
+    "time": "2026-11-09T10:00:00",
+    "kind": "local"
+   },
+   "end": {
+    "time": "2026-11-13T20:00:00",
+    "kind": "local"
+   },
+   "inPerson": false,
+   "venueOffset": null,
+   "bonuses": [],
+   "times": [],
+   "notes": [
+    {
+     "title": "Shiny",
+     "text": "If you’re lucky, you may encounter Shiny forms of these Pokémon."
+    },
+    {
+     "title": "Shiny",
+     "text": "Zacian (Crowned Sword), Zamazenta (Crowned Shield)"
+    }
+   ],
+   "daily": null,
+   "promoCodes": [],
+   "encounters": [
+    {
+     "group": "Raids",
+     "pokemon": [
+      {
+       "slug": "zacian-crowned-sword",
+       "name": "Zacian Crowned Sword",
+       "shiny": true
+      },
+      {
+       "slug": "zamazenta-crowned-shield",
+       "name": "Zamazenta Crowned Shield",
+       "shiny": true
+      }
+     ]
+    }
+   ],
+   "research": [],
+   "sources": [
+    {
+     "name": "LeekDuck",
+     "url": "https://leekduck.com/events/zacian-crowned-sword-zamazenta-crowned-shield-in-5-star-raid-battles-november-2026/",
+     "read": "2026-11-15T16:40:52Z"
+    }
+   ],
+   "listed": false,
+   "description": [
+    {
+     "kind": "text",
+     "text": "Zacian (Crowned Sword) and Zamazenta (Crowned Shield) will be in five-star raid battles from November 9, 2026 to November 13, 2026, during the Into the Wild event."
+    },
+    {
+     "kind": "text",
+     "text": "These raids start at 10:00 a.m. local time on November 9 and end at 8:00 p.m. local time on November 13."
+    },
+    {
+     "kind": "text",
+     "text": "Defeating Zacian (Crowned Sword) or Zamazenta (Crowned Shield) in raids will earn you Crowned Sword Energy or Crowned Shield Energy, respectively."
+    },
+    {
+     "kind": "heading",
+     "text": "Raid Hours"
+    },
+    {
+     "kind": "text",
+     "text": "There will also be Raid Hours from 6:00 p.m. to 7:00 p.m. local time on the following dates:"
+    },
+    {
+     "kind": "item",
+     "text": "November 9: Zacian (Crowned Sword)"
+    },
+    {
+     "kind": "item",
+     "text": "November 10: Zamazenta (Crowned Shield)"
+    }
+   ]
   }
  ]
 }

@@ -9,399 +9,6 @@
   }
  },
  "pages": {
-  "into-the-wild-2026": {
-   "readers": [
-    "Claude",
-    "GPT"
-   ],
-   "hash": "sha256-b490dce6b21a5588e7773a2e71ed486d5f711f0123e30c57dc0fedbb5be6a955",
-   "readings": [
-    {
-     "debuts": [
-      {
-       "kind": "dynamax",
-       "pokemon": [
-        "Regidrago",
-        "Meltan"
-       ],
-       "quote": "Regidrago will make its Pokémon GO Dynamax debut in five-star Max Battles, and Meltan will make its Dynamax debut in GO Pass: Into the Wild. If you’re lucky, you may encounter a Shiny one!"
-      }
-     ],
-     "featured_attacks": [
-      {
-       "pokemon": "Registeel",
-       "attack": "Metal Claw",
-       "quote": "Registeel caught during the event will know the Fast Attack Metal Claw."
-      },
-      {
-       "pokemon": "Latias",
-       "attack": "Mist Ball",
-       "quote": "Latias caught during the event will know the Charged Attack Mist Ball."
-      },
-      {
-       "pokemon": "Latios",
-       "attack": "Luster Purge",
-       "quote": "Latios caught during the event will know the Charged Attack Luster Purge."
-      },
-      {
-       "pokemon": "Regidrago",
-       "attack": "Dragon Breath",
-       "quote": "Regidrago caught during the event will know the Fast Attack Dragon Breath."
-      }
-     ],
-     "special_rules": [
-      {
-       "heading": "Meltan and the Mystery Box",
-       "quote": "From Monday, November 9, at 10:00 a.m. to Sunday, November 15, at 6:00 p.m. local time, opening the Mystery Box gives you a chance to encounter Shiny Meltan, and you won’t have to wait as long before you can open it again."
-      },
-      {
-       "heading": "New Special Background!",
-       "quote": "Trainers who take part in five-star raids and five-star Max Battles during the Into the Wild event will have a chance of receiving a new Special Background after a successful catch. The souvenir background appears on the Pokémon’s summary page, showing when it was caught on the road to Pokémon GO Wild Area!"
-      },
-      {
-       "heading": "Into the Wild Global Challenge",
-       "quote": "Work with Trainers around the world to complete raids and Max Battles. Completing the Into the Wild Global Challenge unlocks the following bonuses."
-      }
-     ],
-     "season_groups": []
-    },
-    {
-     "debuts": [
-      {
-       "kind": "dynamax",
-       "pokemon": [
-        "Regidrago",
-        "Meltan"
-       ],
-       "quote": "Regidrago will make its Pokémon GO Dynamax debut in five-star Max Battles, and Meltan will make its Dynamax debut in GO Pass: Into the Wild. If you’re lucky, you may encounter a Shiny one!"
-      }
-     ],
-     "featured_attacks": [
-      {
-       "pokemon": "Registeel",
-       "attack": "Metal Claw",
-       "quote": "Registeel caught during the event will know the Fast Attack Metal Claw."
-      },
-      {
-       "pokemon": "Latias",
-       "attack": "Mist Ball",
-       "quote": "Latias caught during the event will know the Charged Attack Mist Ball."
-      },
-      {
-       "pokemon": "Latios",
-       "attack": "Luster Purge",
-       "quote": "Latios caught during the event will know the Charged Attack Luster Purge."
-      },
-      {
-       "pokemon": "Regidrago",
-       "attack": "Dragon Breath",
-       "quote": "Regidrago caught during the event will know the Fast Attack Dragon Breath."
-      }
-     ],
-     "special_rules": [
-      {
-       "heading": "Meltan and the Mystery Box",
-       "quote": "From Monday, November 9, at 10:00 a.m. to Sunday, November 15, at 6:00 p.m. local time, opening the Mystery Box gives you a chance to encounter Shiny Meltan, and you won’t have to wait as long before you can open it again."
-      },
-      {
-       "heading": "New Special Background!",
-       "quote": "Trainers who take part in five-star raids and five-star Max Battles during the Into the Wild event will have a chance of receiving a new Special Background after a successful catch. The souvenir background appears on the Pokémon’s summary page, showing when it was caught on the road to Pokémon GO Wild Area!"
-      },
-      {
-       "heading": "Into the Wild Global Challenge",
-       "quote": "Work with Trainers around the world to complete raids and Max Battles. Completing the Into the Wild Global Challenge unlocks the following bonuses."
-      }
-     ],
-     "season_groups": []
-    }
-   ],
-   "seen": {
-    "events:ef29495a.debut.dynamax:36e10a5ee0ca": {
-     "item": {
-      "id": "events:ef29495a.debut.dynamax:36e10a5ee0ca",
-      "kind": "auto-read",
-      "held": false,
-      "origin": {
-       "id": "page:into-the-wild-2026",
-       "title": "Into the Wild 2026",
-       "note": "The event's own page, read by two models"
-      },
-      "field": "Dynamax debuts",
-      "order": 3,
-      "answerFormat": "names",
-      "answerHint": "Names, separated by ;",
-      "readings": [
-       {
-        "who": "Both models",
-        "value": "Regidrago; Meltan",
-        "quote": "Regidrago will make its Pokémon GO Dynamax debut in five-star Max Battles, and Meltan will make its Dynamax debut in GO Pass: Into the Wild. If you’re lucky, you may encounter a Shiny one!",
-        "url": "https://leekduck.com/events/into-the-wild-2026/"
-       }
-      ],
-      "value": "Regidrago; Meltan"
-     },
-     "meta": {
-      "source": "events:ef29495a.debut.dynamax:36e10a5ee0ca",
-      "value": [
-       "Regidrago",
-       "Meltan"
-      ],
-      "ja": null
-     }
-    },
-    "events:ef29495a.attack.fc6bfb:1d10ac5609c4": {
-     "item": {
-      "id": "events:ef29495a.attack.fc6bfb:1d10ac5609c4",
-      "kind": "auto-read",
-      "held": false,
-      "origin": {
-       "id": "page:into-the-wild-2026",
-       "title": "Into the Wild 2026",
-       "note": "The event's own page, read by two models"
-      },
-      "field": "Featured move · Registeel",
-      "order": 5,
-      "answerFormat": "names",
-      "answerHint": "Move names, separated by ;",
-      "readings": [
-       {
-        "who": "Both models",
-        "value": "Metal Claw",
-        "quote": "Registeel caught during the event will know the Fast Attack Metal Claw.",
-        "url": "https://leekduck.com/events/into-the-wild-2026/"
-       }
-      ],
-      "value": "Metal Claw"
-     },
-     "meta": {
-      "source": "events:ef29495a.attack.fc6bfb:1d10ac5609c4",
-      "value": [
-       "Metal Claw"
-      ],
-      "ja": null
-     }
-    },
-    "events:ef29495a.attack.f9aba9:2b53d06b4ae6": {
-     "item": {
-      "id": "events:ef29495a.attack.f9aba9:2b53d06b4ae6",
-      "kind": "auto-read",
-      "held": false,
-      "origin": {
-       "id": "page:into-the-wild-2026",
-       "title": "Into the Wild 2026",
-       "note": "The event's own page, read by two models"
-      },
-      "field": "Featured move · Latias",
-      "order": 6,
-      "answerFormat": "names",
-      "answerHint": "Move names, separated by ;",
-      "readings": [
-       {
-        "who": "Both models",
-        "value": "Mist Ball",
-        "quote": "Latias caught during the event will know the Charged Attack Mist Ball.",
-        "url": "https://leekduck.com/events/into-the-wild-2026/"
-       }
-      ],
-      "value": "Mist Ball"
-     },
-     "meta": {
-      "source": "events:ef29495a.attack.f9aba9:2b53d06b4ae6",
-      "value": [
-       "Mist Ball"
-      ],
-      "ja": null
-     }
-    },
-    "events:ef29495a.attack.f607d2:219193b965b3": {
-     "item": {
-      "id": "events:ef29495a.attack.f607d2:219193b965b3",
-      "kind": "auto-read",
-      "held": false,
-      "origin": {
-       "id": "page:into-the-wild-2026",
-       "title": "Into the Wild 2026",
-       "note": "The event's own page, read by two models"
-      },
-      "field": "Featured move · Latios",
-      "order": 7,
-      "answerFormat": "names",
-      "answerHint": "Move names, separated by ;",
-      "readings": [
-       {
-        "who": "Both models",
-        "value": "Luster Purge",
-        "quote": "Latios caught during the event will know the Charged Attack Luster Purge.",
-        "url": "https://leekduck.com/events/into-the-wild-2026/"
-       }
-      ],
-      "value": "Luster Purge"
-     },
-     "meta": {
-      "source": "events:ef29495a.attack.f607d2:219193b965b3",
-      "value": [
-       "Luster Purge"
-      ],
-      "ja": null
-     }
-    },
-    "events:ef29495a.attack.634a1f:70ae1880f987": {
-     "item": {
-      "id": "events:ef29495a.attack.634a1f:70ae1880f987",
-      "kind": "auto-read",
-      "held": false,
-      "origin": {
-       "id": "page:into-the-wild-2026",
-       "title": "Into the Wild 2026",
-       "note": "The event's own page, read by two models"
-      },
-      "field": "Featured move · Regidrago",
-      "order": 8,
-      "answerFormat": "names",
-      "answerHint": "Move names, separated by ;",
-      "readings": [
-       {
-        "who": "Both models",
-        "value": "Dragon Breath",
-        "quote": "Regidrago caught during the event will know the Fast Attack Dragon Breath.",
-        "url": "https://leekduck.com/events/into-the-wild-2026/"
-       }
-      ],
-      "value": "Dragon Breath"
-     },
-     "meta": {
-      "source": "events:ef29495a.attack.634a1f:70ae1880f987",
-      "value": [
-       "Dragon Breath"
-      ],
-      "ja": null
-     }
-    },
-    "events:ef29495a.rule.81cfbf:d6b08de635a0": {
-     "item": {
-      "id": "events:ef29495a.rule.81cfbf:d6b08de635a0",
-      "kind": "auto-read",
-      "held": false,
-      "origin": {
-       "id": "page:into-the-wild-2026",
-       "title": "Into the Wild 2026",
-       "note": "The event's own page, read by two models"
-      },
-      "field": "Special rule · Meltan and the Mystery Box",
-      "order": 9,
-      "answerFormat": "text",
-      "answerHint": "The sentence that states the rule",
-      "readings": [
-       {
-        "who": "Both models",
-        "value": "From Monday, November 9, at 10:00 a.m. to Sunday, November 15, at 6:00 p.m. local time, opening the Mystery Box gives you a chance to encounter Shiny Meltan, and you won’t have to wait as long before you can open it again.",
-        "quote": "From Monday, November 9, at 10:00 a.m. to Sunday, November 15, at 6:00 p.m. local time, opening the Mystery Box gives you a chance to encounter Shiny Meltan, and you won’t have to wait as long before you can open it again.",
-        "url": "https://leekduck.com/events/into-the-wild-2026/"
-       }
-      ],
-      "value": "From Monday, November 9, at 10:00 a.m. to Sunday, November 15, at 6:00 p.m. local time, opening the Mystery Box gives you a chance to encounter Shiny Meltan, and you won’t have to wait as long before you can open it again."
-     },
-     "meta": {
-      "source": "events:ef29495a.rule.81cfbf:d6b08de635a0",
-      "value": "From Monday, November 9, at 10:00 a.m. to Sunday, November 15, at 6:00 p.m. local time, opening the Mystery Box gives you a chance to encounter Shiny Meltan, and you won’t have to wait as long before you can open it again.",
-      "ja": null
-     }
-    },
-    "events:ef29495a.rule.0353ff:059577ed9500": {
-     "item": {
-      "id": "events:ef29495a.rule.0353ff:059577ed9500",
-      "kind": "auto-read",
-      "held": false,
-      "origin": {
-       "id": "page:into-the-wild-2026",
-       "title": "Into the Wild 2026",
-       "note": "The event's own page, read by two models"
-      },
-      "field": "Special rule · New Special Background!",
-      "order": 10,
-      "answerFormat": "text",
-      "answerHint": "The sentence that states the rule",
-      "readings": [
-       {
-        "who": "Both models",
-        "value": "Trainers who take part in five-star raids and five-star Max Battles during the Into the Wild event will have a chance of receiving a new Special Background after a successful catch. The souvenir background appears on the Pokémon’s summary page, showing when it was caught on the road to Pokémon GO Wild Area!",
-        "quote": "Trainers who take part in five-star raids and five-star Max Battles during the Into the Wild event will have a chance of receiving a new Special Background after a successful catch. The souvenir background appears on the Pokémon’s summary page, showing when it was caught on the road to Pokémon GO Wild Area!",
-        "url": "https://leekduck.com/events/into-the-wild-2026/"
-       }
-      ],
-      "value": "Trainers who take part in five-star raids and five-star Max Battles during the Into the Wild event will have a chance of receiving a new Special Background after a successful catch. The souvenir background appears on the Pokémon’s summary page, showing when it was caught on the road to Pokémon GO Wild Area!"
-     },
-     "meta": {
-      "source": "events:ef29495a.rule.0353ff:059577ed9500",
-      "value": "Trainers who take part in five-star raids and five-star Max Battles during the Into the Wild event will have a chance of receiving a new Special Background after a successful catch. The souvenir background appears on the Pokémon’s summary page, showing when it was caught on the road to Pokémon GO Wild Area!",
-      "ja": null
-     }
-    },
-    "events:ef29495a.rule.3d1a7f:ef826ab7ffc6": {
-     "item": {
-      "id": "events:ef29495a.rule.3d1a7f:ef826ab7ffc6",
-      "kind": "auto-read",
-      "held": false,
-      "origin": {
-       "id": "page:into-the-wild-2026",
-       "title": "Into the Wild 2026",
-       "note": "The event's own page, read by two models"
-      },
-      "field": "Special rule · Into the Wild Global Challenge",
-      "order": 11,
-      "answerFormat": "text",
-      "answerHint": "The sentence that states the rule",
-      "readings": [
-       {
-        "who": "Both models",
-        "value": "Work with Trainers around the world to complete raids and Max Battles. Completing the Into the Wild Global Challenge unlocks the following bonuses.",
-        "quote": "Work with Trainers around the world to complete raids and Max Battles. Completing the Into the Wild Global Challenge unlocks the following bonuses.",
-        "url": "https://leekduck.com/events/into-the-wild-2026/"
-       }
-      ],
-      "value": "Work with Trainers around the world to complete raids and Max Battles. Completing the Into the Wild Global Challenge unlocks the following bonuses."
-     },
-     "meta": {
-      "source": "events:ef29495a.rule.3d1a7f:ef826ab7ffc6",
-      "value": "Work with Trainers around the world to complete raids and Max Battles. Completing the Into the Wild Global Challenge unlocks the following bonuses.",
-      "ja": null
-     }
-    }
-   },
-   "open": [
-    "events:ef29495a.debut.dynamax:36e10a5ee0ca",
-    "events:ef29495a.attack.fc6bfb:1d10ac5609c4",
-    "events:ef29495a.attack.f9aba9:2b53d06b4ae6",
-    "events:ef29495a.attack.f607d2:219193b965b3",
-    "events:ef29495a.attack.634a1f:70ae1880f987",
-    "events:ef29495a.rule.81cfbf:d6b08de635a0",
-    "events:ef29495a.rule.0353ff:059577ed9500",
-    "events:ef29495a.rule.3d1a7f:ef826ab7ffc6"
-   ]
-  },
-  "zacian-crowned-sword-zamazenta-crowned-shield-in-5-star-raid-battles-november-2026": {
-   "readers": [
-    "Claude",
-    "GPT"
-   ],
-   "hash": "sha256-d7e2ce1b108a243010525f6aa8ca7ff7641b8de096abfb47d527926943069dbf",
-   "readings": [
-    {
-     "debuts": [],
-     "featured_attacks": [],
-     "special_rules": [],
-     "season_groups": []
-    },
-    {
-     "debuts": [],
-     "featured_attacks": [],
-     "special_rules": [],
-     "season_groups": []
-    }
-   ],
-   "seen": {},
-   "open": []
-  },
   "pokemon-go-wild-area-2026-global": {
    "readers": [
     "Claude",
@@ -1302,7 +909,7 @@
     "Claude",
     "GPT"
    ],
-   "hash": "sha256-2683400113c402537107a3a5f46042af5a3274d47fbd7c07ae051b54f41e6bd2",
+   "hash": "sha256-2c9eaa4bbee1c5c0b29e955e4543912b0c89ab71ec4e023850b6c3c655b0dd60",
    "readings": [
     {
      "debuts": [],
@@ -1970,7 +1577,7 @@
     "Claude",
     "GPT"
    ],
-   "hash": "sha256-00c83f1de8ba10896902df35eb320a9b4fa4bbb761dc4fdfd85effa3f13fb991",
+   "hash": "sha256-80dace1abfe265f2720f9e136f08ad7fd1de144bef06471d7eea4f84c79e1231",
    "readings": [
     {
      "debuts": [],
@@ -4630,482 +4237,6 @@
   }
  },
  "parsed": {
-  "into-the-wild-2026": {
-   "description": [
-    {
-     "kind": "text",
-     "text": "It’s time to head back Into the Wild for a Steel- and Dragon-type adventure! Regidrago makes its Dynamax debut in five-star Max Battles, Dynamax Meltan debuts in GO Pass: Into the Wild, and Crowned Sword Zacian and Crowned Shield Zamazenta take over five-star raids as Pokémon GO Wild Area 2026 approaches."
-    }
-   ],
-   "research": [
-    {
-     "kind": "field",
-     "title": "Field Research Tasks",
-     "step": null,
-     "tasks": [
-      {
-       "text": "Power up Steel‑type Pokémon 5 times",
-       "rewards": [
-        {
-         "type": "encounter",
-         "name": "Aron",
-         "image": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pokemon_icon_304_00.png",
-         "shiny": true,
-         "cp": {
-          "min": 522,
-          "max": 560
-         }
-        },
-        {
-         "type": "encounter",
-         "name": "Magnemite",
-         "image": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pokemon_icon_081_00.png",
-         "shiny": true,
-         "cp": {
-          "min": 544,
-          "max": 583
-         }
-        },
-        {
-         "type": "encounter",
-         "name": "Togedemaru",
-         "image": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm777.icon.png",
-         "shiny": true,
-         "cp": {
-          "min": 876,
-          "max": 926
-         }
-        },
-        {
-         "type": "encounter",
-         "name": "Galarian Meowth",
-         "image": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pokemon_icon_052_31.png",
-         "shiny": true,
-         "cp": {
-          "min": 409,
-          "max": 443
-         }
-        }
-       ]
-      },
-      {
-       "text": "Power up Dragon‑type Pokémon 5 times",
-       "rewards": [
-        {
-         "type": "encounter",
-         "name": "Bagon",
-         "image": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pokemon_icon_371_00.png",
-         "shiny": true,
-         "cp": {
-          "min": 459,
-          "max": 495
-         }
-        },
-        {
-         "type": "encounter",
-         "name": "Skrelp",
-         "image": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pokemon_icon_690_00.png",
-         "shiny": true,
-         "cp": {
-          "min": 421,
-          "max": 455
-         }
-        },
-        {
-         "type": "encounter",
-         "name": "Dratini",
-         "image": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pokemon_icon_147_00.png",
-         "shiny": true,
-         "cp": {
-          "min": 397,
-          "max": 430
-         }
-        },
-        {
-         "type": "encounter",
-         "name": "Horsea",
-         "image": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pokemon_icon_116_00.png",
-         "shiny": true,
-         "cp": {
-          "min": 418,
-          "max": 452
-         }
-        }
-       ]
-      },
-      {
-       "text": "Win a raid",
-       "rewards": [
-        {
-         "type": "encounter",
-         "name": "Dratini",
-         "image": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pokemon_icon_147_00.png",
-         "shiny": true,
-         "cp": {
-          "min": 397,
-          "max": 430
-         }
-        },
-        {
-         "type": "item",
-         "name": "Rare Candy",
-         "quantity": 2,
-         "image": "https://cdn.leekduck.com/assets/img/items/Rare Candy.png"
-        },
-        {
-         "type": "encounter",
-         "name": "Scyther",
-         "image": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pokemon_icon_123_00.png",
-         "shiny": true,
-         "cp": {
-          "min": 1104,
-          "max": 1160
-         }
-        }
-       ]
-      },
-      {
-       "text": "Catch 10 Pokémon",
-       "rewards": [
-        {
-         "type": "encounter",
-         "name": "Horsea",
-         "image": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pokemon_icon_116_00.png",
-         "shiny": true,
-         "cp": {
-          "min": 418,
-          "max": 452
-         }
-        },
-        {
-         "type": "encounter",
-         "name": "Aron",
-         "image": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pokemon_icon_304_00.png",
-         "shiny": true,
-         "cp": {
-          "min": 522,
-          "max": 560
-         }
-        },
-        {
-         "type": "encounter",
-         "name": "Skrelp",
-         "image": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pokemon_icon_690_00.png",
-         "shiny": true,
-         "cp": {
-          "min": 421,
-          "max": 455
-         }
-        },
-        {
-         "type": "encounter",
-         "name": "Magnemite",
-         "image": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pokemon_icon_081_00.png",
-         "shiny": true,
-         "cp": {
-          "min": 544,
-          "max": 583
-         }
-        }
-       ]
-      },
-      {
-       "text": "Win a Max Battle",
-       "rewards": [
-        {
-         "type": "encounter",
-         "name": "Bagon",
-         "image": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pokemon_icon_371_00.png",
-         "shiny": true,
-         "cp": {
-          "min": 459,
-          "max": 495
-         }
-        },
-        {
-         "type": "encounter",
-         "name": "Mawile",
-         "image": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pokemon_icon_303_00.png",
-         "shiny": true,
-         "cp": {
-          "min": 658,
-          "max": 700
-         }
-        }
-       ]
-      },
-      {
-       "text": "Catch a Dynamax Machop",
-       "rewards": [
-        {
-         "type": "item",
-         "name": "Machop Candy",
-         "quantity": 25,
-         "image": "https://cdn.leekduck.com/assets/img/candy/regular/66.png"
-        },
-        {
-         "type": "item",
-         "name": "Stardust",
-         "quantity": 5000,
-         "image": "https://cdn.leekduck.com/assets/img/items/Stardust.png"
-        }
-       ]
-      },
-      {
-       "text": "Catch a Dynamax Ralts",
-       "rewards": [
-        {
-         "type": "item",
-         "name": "Ralts Candy",
-         "quantity": 25,
-         "image": "https://cdn.leekduck.com/assets/img/candy/regular/280.png"
-        },
-        {
-         "type": "item",
-         "name": "Stardust",
-         "quantity": 5000,
-         "image": "https://cdn.leekduck.com/assets/img/items/Stardust.png"
-        }
-       ]
-      }
-     ],
-     "rewards": []
-    }
-   ],
-   "pokemon": [
-    {
-     "group": "Wild",
-     "name": "Galarian Meowth",
-     "written": "Galarian Meowth",
-     "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_052_31.png",
-     "shiny": true
-    },
-    {
-     "group": "Wild",
-     "name": "Magnemite",
-     "written": "Magnemite",
-     "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_081_00.png",
-     "shiny": true
-    },
-    {
-     "group": "Wild",
-     "name": "Horsea",
-     "written": "Horsea",
-     "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_116_00.png",
-     "shiny": true
-    },
-    {
-     "group": "Wild",
-     "name": "Scyther",
-     "written": "Scyther",
-     "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_123_00.png",
-     "shiny": true
-    },
-    {
-     "group": "Wild",
-     "name": "Dratini",
-     "written": "Dratini",
-     "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_147_00.png",
-     "shiny": true
-    },
-    {
-     "group": "Wild",
-     "name": "Mareep",
-     "written": "Mareep",
-     "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_179_00.png",
-     "shiny": true
-    },
-    {
-     "group": "Wild",
-     "name": "Mawile",
-     "written": "Mawile",
-     "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_303_00.png",
-     "shiny": true
-    },
-    {
-     "group": "Wild",
-     "name": "Aron",
-     "written": "Aron",
-     "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_304_00.png",
-     "shiny": true
-    },
-    {
-     "group": "Wild",
-     "name": "Bagon",
-     "written": "Bagon",
-     "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_371_00.png",
-     "shiny": true
-    },
-    {
-     "group": "Wild",
-     "name": "Skrelp",
-     "written": "Skrelp",
-     "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_690_00.png",
-     "shiny": true
-    },
-    {
-     "group": "Wild",
-     "name": "Noibat",
-     "written": "Noibat",
-     "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_714_00.png",
-     "shiny": true
-    },
-    {
-     "group": "Wild",
-     "name": "Togedemaru",
-     "written": "Togedemaru",
-     "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm777.icon.png",
-     "shiny": true
-    },
-    {
-     "group": "Max Battles",
-     "name": "Dynamax Ralts",
-     "written": "Ralts",
-     "image": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop_dmax/pokemon_icon_280_00.png",
-     "shiny": true
-    },
-    {
-     "group": "Max Battles",
-     "name": "Dynamax Machop",
-     "written": "Machop",
-     "image": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop_dmax/pokemon_icon_066_00.png",
-     "shiny": true
-    },
-    {
-     "group": "Max Battles",
-     "name": "Dynamax Registeel",
-     "written": "Registeel",
-     "image": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop_dmax/pokemon_icon_379_00.png",
-     "shiny": true
-    },
-    {
-     "group": "Max Battles",
-     "name": "Dynamax Regidrago",
-     "written": "Regidrago",
-     "image": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop_dmax/pm895.icon.png",
-     "shiny": true
-    },
-    {
-     "group": "Max Battles",
-     "name": "Dynamax Latias",
-     "written": "Latias",
-     "image": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop_dmax/pokemon_icon_380_00.png",
-     "shiny": true
-    },
-    {
-     "group": "Max Battles",
-     "name": "Dynamax Latios",
-     "written": "Latios",
-     "image": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop_dmax/pokemon_icon_381_00.png",
-     "shiny": true
-    }
-   ],
-   "shiny": {
-    "notes": [],
-    "pokemon": []
-   },
-   "bonuses": [
-    {
-     "title": null,
-     "description": null,
-     "items": [
-      "Remote Raid limit increased to 30 from Monday, November 9, to Friday, November 13, 2026",
-      "No Remote Raid limit from Saturday, November 14, to Sunday, November 15, 2026",
-      "Chance to encounter Shiny Gimmighoul when using a Coin Bag*",
-      "Chance to encounter Shiny Meltan when opening the Mystery Box*",
-      "Reduced wait time before you can open the Mystery Box again*",
-      "Trainers can receive special event stickers from PokéStops and Gifts"
-     ]
-    },
-    {
-     "title": "Rank 25",
-     "description": null,
-     "items": [
-      "1/2 Hatch Distance for Eggs placed in Incubators during the event"
-     ]
-    },
-    {
-     "title": "Deluxe Rank 1",
-     "description": null,
-     "items": [
-      "5,000 additional XP from completed raids",
-      "5,000 additional XP from completed Max Battles"
-     ]
-    },
-    {
-     "title": "Deluxe Rank 2",
-     "description": null,
-     "items": [
-      "3/4 Max Particle cost for unlocking and powering up Max Moves"
-     ]
-    },
-    {
-     "title": "Deluxe Rank 3",
-     "description": null,
-     "items": [
-      "+1 Candy from raids",
-      "+1 Candy XL from raids (Trainers level 31+)",
-      "+1 Candy from Max Battles",
-      "+1 Candy XL from Max Battles (Trainers level 31+)"
-     ]
-    }
-   ]
-  },
-  "zacian-crowned-sword-zamazenta-crowned-shield-in-5-star-raid-battles-november-2026": {
-   "description": [
-    {
-     "kind": "text",
-     "text": "Zacian (Crowned Sword) and Zamazenta (Crowned Shield) will be in five-star raid battles from November 9, 2026 to November 13, 2026, during the Into the Wild event."
-    },
-    {
-     "kind": "text",
-     "text": "These raids start at 10:00 a.m. local time on November 9 and end at 8:00 p.m. local time on November 13."
-    },
-    {
-     "kind": "text",
-     "text": "Defeating Zacian (Crowned Sword) or Zamazenta (Crowned Shield) in raids will earn you Crowned Sword Energy or Crowned Shield Energy, respectively."
-    },
-    {
-     "kind": "heading",
-     "text": "Raid Hours"
-    },
-    {
-     "kind": "text",
-     "text": "There will also be Raid Hours from 6:00 p.m. to 7:00 p.m. local time on the following dates:"
-    },
-    {
-     "kind": "item",
-     "text": "November 9: Zacian (Crowned Sword)"
-    },
-    {
-     "kind": "item",
-     "text": "November 10: Zamazenta (Crowned Shield)"
-    }
-   ],
-   "research": [],
-   "pokemon": [],
-   "shiny": {
-    "notes": [
-     "If you’re lucky, you may encounter Shiny forms of these Pokémon.",
-     "Zacian (Crowned Sword), Zamazenta (Crowned Shield)"
-    ],
-    "pokemon": [
-     {
-      "name": "Zacian (Crowned Sword)",
-      "written": "Zacian (Crowned Sword)",
-      "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm888.fCROWNED_SWORD.s.icon.png",
-      "shiny": false
-     },
-     {
-      "name": "Zamazenta (Crowned Shield)",
-      "written": "Zamazenta (Crowned Shield)",
-      "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm889.fCROWNED_SHIELD.s.icon.png",
-      "shiny": false
-     }
-    ]
-   },
-   "bonuses": []
-  },
   "pokemon-go-wild-area-2026-global": {
    "description": [
     {
@@ -6467,31 +5598,419 @@
    "description": [
     {
      "kind": "text",
-     "text": "The featured Dynamax Pokémon for November 16–23, 2026 has not been announced. Stay tuned for more details."
+     "text": "There is no Max Monday on November 16, 2026. The Dynamax Trails event is happening instead, so there are no Max Monday-specific bonuses, such as the guaranteed Rare Candy XL."
     },
     {
      "kind": "text",
-     "text": "These Dynamax Pokémon may appear in Max Battles throughout this season. Max Battles will be available from 6:00 a.m. to 9:00 p.m. local time on Mondays."
-    },
-    {
-     "kind": "item",
-     "text": "Power Spots will refresh more frequently."
-    },
-    {
-     "kind": "item",
-     "text": "Additional Power Spots will be active on Mondays compared to the rest of the week."
-    },
-    {
-     "kind": "item",
-     "text": "Max Battles will rotate to feature different Dynamax Pokémon."
+     "text": "All Dynamax Pokémon that have previously appeared in Pokémon GO may appear in Max Battles during Dynamax Trails, excluding Legendary and Mythical Pokémon:"
     },
     {
      "kind": "text",
-     "text": "The featured Pokémon for Max Monday on November 16, 2026 will be announced later."
+     "text": "Bulbasaur, Charmander, Squirtle, Caterpie, Pikachu, Growlithe, Abra, Machop, Gastly, Krabby, Hitmonlee, Hitmonchan, Rhyhorn, Chansey, Electabuzz, Magmar, Magikarp, Eevee, Omanyte, Kabuto, Hoothoot, Shuckle, Sneasel, Hitmontop, Ralts, Sableye, Wailmer, Trapinch, Feebas, Spheal, Beldum, Combee, Pidove, Roggenrola, Woobat, Drilbur, Cottonee, Darumaka, Trubbish, Cryogonal, Deino, Inkay, Bounsweet, Passimian, Drampa, Grookey, Scorbunny, Sobble, Skwovet, Rookidee, Wooloo, Toxtricity (Amped Form), Toxtricity (Low Key Form), Sizzlipede, Hatenna, Falinks, Duraludon"
     }
    ],
    "research": [],
-   "pokemon": [],
+   "pokemon": [
+    {
+     "group": "Max Battles",
+     "name": "Dynamax Bulbasaur",
+     "written": "Bulbasaur",
+     "image": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop_dmax/pokemon_icon_001_00.png",
+     "shiny": true
+    },
+    {
+     "group": "Max Battles",
+     "name": "Dynamax Charmander",
+     "written": "Charmander",
+     "image": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop_dmax/pokemon_icon_004_00.png",
+     "shiny": true
+    },
+    {
+     "group": "Max Battles",
+     "name": "Dynamax Squirtle",
+     "written": "Squirtle",
+     "image": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop_dmax/pokemon_icon_007_00.png",
+     "shiny": true
+    },
+    {
+     "group": "Max Battles",
+     "name": "Dynamax Caterpie",
+     "written": "Caterpie",
+     "image": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop_dmax/pokemon_icon_010_00.png",
+     "shiny": true
+    },
+    {
+     "group": "Max Battles",
+     "name": "Dynamax Pikachu",
+     "written": "Pikachu",
+     "image": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop_dmax/pokemon_icon_025_00.png",
+     "shiny": true
+    },
+    {
+     "group": "Max Battles",
+     "name": "Dynamax Growlithe",
+     "written": "Growlithe",
+     "image": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop_dmax/pokemon_icon_058_00.png",
+     "shiny": true
+    },
+    {
+     "group": "Max Battles",
+     "name": "Dynamax Abra",
+     "written": "Abra",
+     "image": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop_dmax/pokemon_icon_063_00.png",
+     "shiny": true
+    },
+    {
+     "group": "Max Battles",
+     "name": "Dynamax Machop",
+     "written": "Machop",
+     "image": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop_dmax/pokemon_icon_066_00.png",
+     "shiny": true
+    },
+    {
+     "group": "Max Battles",
+     "name": "Dynamax Gastly",
+     "written": "Gastly",
+     "image": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop_dmax/pokemon_icon_092_00.png",
+     "shiny": true
+    },
+    {
+     "group": "Max Battles",
+     "name": "Dynamax Krabby",
+     "written": "Krabby",
+     "image": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop_dmax/pokemon_icon_098_00.png",
+     "shiny": true
+    },
+    {
+     "group": "Max Battles",
+     "name": "Dynamax Hitmonlee",
+     "written": "Hitmonlee",
+     "image": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop_dmax/pokemon_icon_106_00.png",
+     "shiny": true
+    },
+    {
+     "group": "Max Battles",
+     "name": "Dynamax Hitmonchan",
+     "written": "Hitmonchan",
+     "image": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop_dmax/pokemon_icon_107_00.png",
+     "shiny": true
+    },
+    {
+     "group": "Max Battles",
+     "name": "Dynamax Rhyhorn",
+     "written": "Rhyhorn",
+     "image": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop_dmax/pokemon_icon_111_00.png",
+     "shiny": true
+    },
+    {
+     "group": "Max Battles",
+     "name": "Dynamax Chansey",
+     "written": "Chansey",
+     "image": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop_dmax/pokemon_icon_113_00.png",
+     "shiny": true
+    },
+    {
+     "group": "Max Battles",
+     "name": "Dynamax Electabuzz",
+     "written": "Electabuzz",
+     "image": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop_dmax/pokemon_icon_125_00.png",
+     "shiny": true
+    },
+    {
+     "group": "Max Battles",
+     "name": "Dynamax Magmar",
+     "written": "Magmar",
+     "image": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop_dmax/pokemon_icon_126_00.png",
+     "shiny": true
+    },
+    {
+     "group": "Max Battles",
+     "name": "Dynamax Magikarp",
+     "written": "Magikarp",
+     "image": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop_dmax/pokemon_icon_129_00.png",
+     "shiny": true
+    },
+    {
+     "group": "Max Battles",
+     "name": "Dynamax Eevee",
+     "written": "Eevee",
+     "image": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop_dmax/pokemon_icon_133_00.png",
+     "shiny": true
+    },
+    {
+     "group": "Max Battles",
+     "name": "Dynamax Omanyte",
+     "written": "Omanyte",
+     "image": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop_dmax/pokemon_icon_138_00.png",
+     "shiny": true
+    },
+    {
+     "group": "Max Battles",
+     "name": "Dynamax Kabuto",
+     "written": "Kabuto",
+     "image": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop_dmax/pokemon_icon_140_00.png",
+     "shiny": true
+    },
+    {
+     "group": "Max Battles",
+     "name": "Dynamax Hoothoot",
+     "written": "Hoothoot",
+     "image": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop_dmax/pokemon_icon_163_00.png",
+     "shiny": true
+    },
+    {
+     "group": "Max Battles",
+     "name": "Dynamax Shuckle",
+     "written": "Shuckle",
+     "image": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop_dmax/pokemon_icon_213_00.png",
+     "shiny": true
+    },
+    {
+     "group": "Max Battles",
+     "name": "Dynamax Sneasel",
+     "written": "Sneasel",
+     "image": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop_dmax/pokemon_icon_215_00.png",
+     "shiny": true
+    },
+    {
+     "group": "Max Battles",
+     "name": "Dynamax Hitmontop",
+     "written": "Hitmontop",
+     "image": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop_dmax/pokemon_icon_237_00.png",
+     "shiny": true
+    },
+    {
+     "group": "Max Battles",
+     "name": "Dynamax Ralts",
+     "written": "Ralts",
+     "image": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop_dmax/pokemon_icon_280_00.png",
+     "shiny": true
+    },
+    {
+     "group": "Max Battles",
+     "name": "Dynamax Sableye",
+     "written": "Sableye",
+     "image": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop_dmax/pokemon_icon_302_00.png",
+     "shiny": true
+    },
+    {
+     "group": "Max Battles",
+     "name": "Dynamax Wailmer",
+     "written": "Wailmer",
+     "image": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop_dmax/pokemon_icon_320_00.png",
+     "shiny": true
+    },
+    {
+     "group": "Max Battles",
+     "name": "Dynamax Trapinch",
+     "written": "Trapinch",
+     "image": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop_dmax/pokemon_icon_328_00.png",
+     "shiny": true
+    },
+    {
+     "group": "Max Battles",
+     "name": "Dynamax Feebas",
+     "written": "Feebas",
+     "image": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop_dmax/pokemon_icon_349_00.png",
+     "shiny": true
+    },
+    {
+     "group": "Max Battles",
+     "name": "Dynamax Spheal",
+     "written": "Spheal",
+     "image": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop_dmax/pokemon_icon_363_00.png",
+     "shiny": true
+    },
+    {
+     "group": "Max Battles",
+     "name": "Dynamax Beldum",
+     "written": "Beldum",
+     "image": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop_dmax/pokemon_icon_374_00.png",
+     "shiny": true
+    },
+    {
+     "group": "Max Battles",
+     "name": "Dynamax Combee",
+     "written": "Combee",
+     "image": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop_dmax/pokemon_icon_415_00.png",
+     "shiny": true
+    },
+    {
+     "group": "Max Battles",
+     "name": "Dynamax Pidove",
+     "written": "Pidove",
+     "image": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop_dmax/pokemon_icon_519_00.png",
+     "shiny": true
+    },
+    {
+     "group": "Max Battles",
+     "name": "Dynamax Roggenrola",
+     "written": "Roggenrola",
+     "image": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop_dmax/pokemon_icon_524_00.png",
+     "shiny": true
+    },
+    {
+     "group": "Max Battles",
+     "name": "Dynamax Woobat",
+     "written": "Woobat",
+     "image": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop_dmax/pokemon_icon_527_00.png",
+     "shiny": true
+    },
+    {
+     "group": "Max Battles",
+     "name": "Dynamax Drilbur",
+     "written": "Drilbur",
+     "image": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop_dmax/pokemon_icon_529_00.png",
+     "shiny": true
+    },
+    {
+     "group": "Max Battles",
+     "name": "Dynamax Cottonee",
+     "written": "Cottonee",
+     "image": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop_dmax/pokemon_icon_546_00.png",
+     "shiny": true
+    },
+    {
+     "group": "Max Battles",
+     "name": "Dynamax Darumaka",
+     "written": "Darumaka",
+     "image": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop_dmax/pokemon_icon_554_00.png",
+     "shiny": true
+    },
+    {
+     "group": "Max Battles",
+     "name": "Dynamax Trubbish",
+     "written": "Trubbish",
+     "image": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop_dmax/pokemon_icon_568_00.png",
+     "shiny": true
+    },
+    {
+     "group": "Max Battles",
+     "name": "Dynamax Cryogonal",
+     "written": "Cryogonal",
+     "image": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop_dmax/pokemon_icon_615_00.png",
+     "shiny": true
+    },
+    {
+     "group": "Max Battles",
+     "name": "Dynamax Deino",
+     "written": "Deino",
+     "image": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop_dmax/pokemon_icon_633_00.png",
+     "shiny": true
+    },
+    {
+     "group": "Max Battles",
+     "name": "Dynamax Inkay",
+     "written": "Inkay",
+     "image": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop_dmax/pokemon_icon_686_00.png",
+     "shiny": true
+    },
+    {
+     "group": "Max Battles",
+     "name": "Dynamax Bounsweet",
+     "written": "Bounsweet",
+     "image": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop_dmax/pm761.icon.png",
+     "shiny": true
+    },
+    {
+     "group": "Max Battles",
+     "name": "Dynamax Passimian",
+     "written": "Passimian",
+     "image": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop_dmax/pm766.icon.png",
+     "shiny": true
+    },
+    {
+     "group": "Max Battles",
+     "name": "Dynamax Drampa",
+     "written": "Drampa",
+     "image": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop_dmax/pm780.icon.png",
+     "shiny": true
+    },
+    {
+     "group": "Max Battles",
+     "name": "Dynamax Grookey",
+     "written": "Grookey",
+     "image": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop_dmax/pm810.icon.png",
+     "shiny": true
+    },
+    {
+     "group": "Max Battles",
+     "name": "Dynamax Scorbunny",
+     "written": "Scorbunny",
+     "image": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop_dmax/pm813.icon.png",
+     "shiny": true
+    },
+    {
+     "group": "Max Battles",
+     "name": "Dynamax Sobble",
+     "written": "Sobble",
+     "image": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop_dmax/pm816.icon.png",
+     "shiny": true
+    },
+    {
+     "group": "Max Battles",
+     "name": "Dynamax Skwovet",
+     "written": "Skwovet",
+     "image": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop_dmax/pm819.icon.png",
+     "shiny": true
+    },
+    {
+     "group": "Max Battles",
+     "name": "Dynamax Rookidee",
+     "written": "Rookidee",
+     "image": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop_dmax/pm821.icon.png",
+     "shiny": true
+    },
+    {
+     "group": "Max Battles",
+     "name": "Dynamax Wooloo",
+     "written": "Wooloo",
+     "image": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop_dmax/pm831.icon.png",
+     "shiny": true
+    },
+    {
+     "group": "Max Battles",
+     "name": "Dynamax Toxtricity (Amped Form)",
+     "written": "Toxtricity (Amped Form)",
+     "image": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop_dmax/pm849.fAMPED.icon.png",
+     "shiny": true
+    },
+    {
+     "group": "Max Battles",
+     "name": "Dynamax Toxtricity (Low Key Form)",
+     "written": "Toxtricity (Low Key Form)",
+     "image": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop_dmax/pm849.fLOW_KEY.icon.png",
+     "shiny": true
+    },
+    {
+     "group": "Max Battles",
+     "name": "Dynamax Sizzlipede",
+     "written": "Sizzlipede",
+     "image": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop_dmax/pm850.icon.png",
+     "shiny": true
+    },
+    {
+     "group": "Max Battles",
+     "name": "Dynamax Hatenna",
+     "written": "Hatenna",
+     "image": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop_dmax/pm856.icon.png",
+     "shiny": true
+    },
+    {
+     "group": "Max Battles",
+     "name": "Dynamax Falinks",
+     "written": "Falinks",
+     "image": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop_dmax/pm870.icon.png",
+     "shiny": true
+    },
+    {
+     "group": "Max Battles",
+     "name": "Dynamax Duraludon",
+     "written": "Duraludon",
+     "image": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop_dmax/pm884.icon.png",
+     "shiny": true
+    }
+   ],
    "shiny": {
     "notes": [],
     "pokemon": []
@@ -7131,7 +6650,210 @@
      "text": "The Dynamax Trails event will take place from November 16, 2026 at 10 am to November 23, 2026 at 8 pm local time."
     }
    ],
-   "research": [],
+   "research": [
+    {
+     "kind": "field",
+     "title": "Field Research Task Rewards",
+     "step": null,
+     "tasks": [
+      {
+       "text": "Catch 8 Pokémon",
+       "rewards": [
+        {
+         "type": "encounter",
+         "name": "Bulbasaur",
+         "image": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pokemon_icon_001_00.png",
+         "shiny": true,
+         "cp": {
+          "min": 442,
+          "max": 477
+         }
+        },
+        {
+         "type": "encounter",
+         "name": "Charmander",
+         "image": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pokemon_icon_004_00.png",
+         "shiny": true,
+         "cp": {
+          "min": 387,
+          "max": 420
+         }
+        },
+        {
+         "type": "encounter",
+         "name": "Squirtle",
+         "image": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pokemon_icon_007_00.png",
+         "shiny": true,
+         "cp": {
+          "min": 372,
+          "max": 405
+         }
+        },
+        {
+         "type": "encounter",
+         "name": "Grookey",
+         "image": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm810.icon.png",
+         "shiny": true,
+         "cp": {
+          "min": 430,
+          "max": 465
+         }
+        },
+        {
+         "type": "encounter",
+         "name": "Scorbunny",
+         "image": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm813.icon.png",
+         "shiny": true,
+         "cp": {
+          "min": 434,
+          "max": 470
+         }
+        },
+        {
+         "type": "encounter",
+         "name": "Sobble",
+         "image": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm816.icon.png",
+         "shiny": true,
+         "cp": {
+          "min": 434,
+          "max": 470
+         }
+        }
+       ]
+      },
+      {
+       "text": "Power up Pokémon 8 times",
+       "rewards": [
+        {
+         "type": "encounter",
+         "name": "Magikarp",
+         "image": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pokemon_icon_129_00.png",
+         "shiny": true,
+         "cp": {
+          "min": 99,
+          "max": 117
+         }
+        },
+        {
+         "type": "encounter",
+         "name": "Feebas",
+         "image": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pokemon_icon_349_00.png",
+         "shiny": true,
+         "cp": {
+          "min": 99,
+          "max": 117
+         }
+        },
+        {
+         "type": "item",
+         "name": "Pinap Berry",
+         "quantity": 3,
+         "image": "https://cdn.leekduck.com/assets/img/items/Pinap Berry.png"
+        }
+       ]
+      },
+      {
+       "text": "Explore 1 km",
+       "rewards": [
+        {
+         "type": "encounter",
+         "name": "Eevee",
+         "image": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pokemon_icon_133_00.png",
+         "shiny": true,
+         "cp": {
+          "min": 424,
+          "max": 459
+         }
+        },
+        {
+         "type": "item",
+         "name": "Stardust",
+         "quantity": 2000,
+         "image": "https://cdn.leekduck.com/assets/img/items/Stardust.png"
+        }
+       ]
+      },
+      {
+       "text": "Win a Max Battle",
+       "rewards": [
+        {
+         "type": "encounter",
+         "name": "Drampa",
+         "image": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm780.icon.png",
+         "shiny": true,
+         "cp": {
+          "min": 1191,
+          "max": 1249
+         }
+        },
+        {
+         "type": "encounter",
+         "name": "Duraludon",
+         "image": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm884.icon.png",
+         "shiny": true,
+         "cp": {
+          "min": 1255,
+          "max": 1314
+         }
+        },
+        {
+         "type": "item",
+         "name": "Eternatus Candy",
+         "quantity": 10,
+         "image": "https://cdn.leekduck.com/assets/img/candy/regular/890.png"
+        },
+        {
+         "type": "item",
+         "name": "Stardust",
+         "quantity": 2000,
+         "image": "https://cdn.leekduck.com/assets/img/items/Stardust.png"
+        }
+       ]
+      },
+      {
+       "text": "Unlock a Max Move",
+       "rewards": [
+        {
+         "type": "item",
+         "name": "Eternatus Candy",
+         "quantity": 25,
+         "image": "https://cdn.leekduck.com/assets/img/candy/regular/890.png"
+        },
+        {
+         "type": "item",
+         "name": "Stardust",
+         "quantity": 5000,
+         "image": "https://cdn.leekduck.com/assets/img/items/Stardust.png"
+        }
+       ]
+      },
+      {
+       "text": "Make an Excellent Throw",
+       "rewards": [
+        {
+         "type": "item",
+         "name": "Eternatus Candy",
+         "quantity": 25,
+         "image": "https://cdn.leekduck.com/assets/img/candy/regular/890.png"
+        },
+        {
+         "type": "item",
+         "name": "Golden Razz Berry",
+         "quantity": 1,
+         "image": "https://cdn.leekduck.com/assets/img/items/Golden Razz Berry.png"
+        },
+        {
+         "type": "item",
+         "name": "Silver Pinap Berry",
+         "quantity": 1,
+         "image": "https://cdn.leekduck.com/assets/img/items/Silver Pinap Berry.png"
+        }
+       ]
+      }
+     ],
+     "rewards": []
+    }
+   ],
    "pokemon": [
     {
      "group": "Wild",
@@ -7383,13 +7105,6 @@
      "name": "Drilbur",
      "written": "Drilbur",
      "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_529_00.png",
-     "shiny": true
-    },
-    {
-     "group": "Wild",
-     "name": "Excadrill",
-     "written": "Excadrill",
-     "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_530_00.png",
      "shiny": true
     },
     {
@@ -7789,13 +7504,6 @@
      "name": "Dynamax Drilbur",
      "written": "Drilbur",
      "image": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop_dmax/pokemon_icon_529_00.png",
-     "shiny": true
-    },
-    {
-     "group": "Max Battles",
-     "name": "Dynamax Excadrill",
-     "written": "Excadrill",
-     "image": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop_dmax/pokemon_icon_530_00.png",
      "shiny": true
     },
     {

@@ -1,317 +1,26 @@
 {
  "categories": [
   {
-   "title": "Pokémon GO Wild Area 2026: Global - Steel hour Tasks",
+   "title": "Dynamax Trails Tasks",
    "event": true,
    "end": {
-    "time": "2026-11-15T18:00:00",
+    "time": "2026-11-23T20:00:00",
     "kind": "local"
    },
    "tasks": [
     {
-     "text": "Catch 2 mighty Pokémon",
+     "text": "Catch 8 Pokémon",
      "rewards": [
       {
        "type": "encounter",
        "shiny": true,
        "cp": {
-        "min": 1227,
-        "max": 1286
+        "min": 442,
+        "max": 477
        },
-       "slug": "scizor",
-       "name": "Scizor"
+       "slug": "bulbasaur",
+       "name": "Bulbasaur"
       },
-      {
-       "type": "encounter",
-       "shiny": true,
-       "cp": {
-        "min": 1227,
-        "max": 1285
-       },
-       "slug": "aggron",
-       "name": "Aggron"
-      },
-      {
-       "type": "encounter",
-       "shiny": true,
-       "cp": {
-        "min": 1313,
-        "max": 1373
-       },
-       "slug": "magnezone",
-       "name": "Magnezone"
-      },
-      {
-       "type": "encounter",
-       "shiny": true,
-       "cp": {
-        "min": 943,
-        "max": 995
-       },
-       "slug": "ferrothorn",
-       "name": "Ferrothorn"
-      }
-     ]
-    },
-    {
-     "text": "Catch 10 Steel-type Pokémon",
-     "rewards": [
-      {
-       "type": "encounter",
-       "shiny": true,
-       "cp": {
-        "min": 544,
-        "max": 583
-       },
-       "slug": "magnemite",
-       "name": "Magnemite"
-      },
-      {
-       "type": "encounter",
-       "shiny": true,
-       "cp": {
-        "min": 426,
-        "max": 460
-       },
-       "slug": "piplup",
-       "name": "Piplup"
-      },
-      {
-       "type": "encounter",
-       "shiny": true,
-       "cp": {
-        "min": 348,
-        "max": 381
-       },
-       "slug": "shieldon",
-       "name": "Shieldon"
-      },
-      {
-       "type": "encounter",
-       "shiny": true,
-       "cp": {
-        "min": 370,
-        "max": 403
-       },
-       "slug": "ferroseed",
-       "name": "Ferroseed"
-      }
-     ]
-    },
-    {
-     "text": "Catch 4 different species of Steel-type Pokémon",
-     "rewards": [
-      {
-       "type": "encounter",
-       "shiny": true,
-       "cp": {
-        "min": 1102,
-        "max": 1158
-       },
-       "slug": "lucario",
-       "name": "Lucario"
-      },
-      {
-       "type": "encounter",
-       "shiny": true,
-       "cp": {
-        "min": 1255,
-        "max": 1314
-       },
-       "slug": "duraludon",
-       "name": "Duraludon"
-      }
-     ]
-    },
-    {
-     "text": "Make an Excellent Throw",
-     "rewards": [
-      {
-       "type": "item",
-       "quantity": 1,
-       "name": "Golden Razz Berry",
-       "icon": "art/acd7a57acab21994428980ab293400c4.png"
-      },
-      {
-       "type": "item",
-       "quantity": 1,
-       "name": "Silver Pinap Berry",
-       "icon": "art/83d5a65337cea6bbb168a42195889922.png"
-      }
-     ]
-    },
-    {
-     "text": "Use a Steel-type Charged Attack in a battle",
-     "rewards": [
-      {
-       "type": "encounter",
-       "shiny": true,
-       "cp": {
-        "min": 435,
-        "max": 472
-       },
-       "slug": "onix",
-       "name": "Onix"
-      },
-      {
-       "type": "encounter",
-       "shiny": true,
-       "cp": {
-        "min": 854,
-        "max": 903
-       },
-       "slug": "skarmory",
-       "name": "Skarmory"
-      },
-      {
-       "type": "encounter",
-       "shiny": true,
-       "cp": {
-        "min": 229,
-        "max": 258
-       },
-       "slug": "bronzor",
-       "name": "Bronzor"
-      }
-     ]
-    },
-    {
-     "text": "Win 2 Max Battles",
-     "rewards": [
-      {
-       "type": "encounter",
-       "shiny": true,
-       "cp": {
-        "min": 1559,
-        "max": 1625
-       },
-       "slug": "metagross",
-       "name": "Metagross"
-      },
-      {
-       "type": "encounter",
-       "shiny": true,
-       "cp": {
-        "min": 914,
-        "max": 964
-       },
-       "slug": "tinkaton",
-       "name": "Tinkaton"
-      }
-     ]
-    },
-    {
-     "text": "Hatch an Egg",
-     "rewards": [
-      {
-       "type": "encounter",
-       "shiny": true,
-       "cp": {
-        "min": 385,
-        "max": 418
-       },
-       "slug": "beldum",
-       "name": "Beldum"
-      },
-      {
-       "type": "encounter",
-       "shiny": true,
-       "cp": {
-        "min": 229,
-        "max": 258
-       },
-       "slug": "bronzor",
-       "name": "Bronzor"
-      },
-      {
-       "type": "encounter",
-       "shiny": true,
-       "cp": {
-        "min": 549,
-        "max": 589
-       },
-       "slug": "drilbur",
-       "name": "Drilbur"
-      }
-     ]
-    },
-    {
-     "text": "Spin 5 PokéStops or Gyms",
-     "rewards": [
-      {
-       "type": "item",
-       "quantity": 3,
-       "name": "Great Ball",
-       "icon": "art/1ce32fca389db1d8aa234c6a982f0725.png"
-      },
-      {
-       "type": "item",
-       "quantity": 5,
-       "name": "Poké Ball",
-       "icon": "art/ec10e1a5cc6faf5364bc40a98ff2798d.png"
-      },
-      {
-       "type": "item",
-       "quantity": 500,
-       "name": "Stardust",
-       "icon": "art/8091724025f7c21f1479111875b9a2b4.png"
-      },
-      {
-       "type": "item",
-       "quantity": 2,
-       "name": "Ultra Ball",
-       "icon": "art/d78b34b9a25cc6de363ffb231920b27c.png"
-      }
-     ]
-    },
-    {
-     "text": "Power up Steel-type Pokémon 5 times",
-     "rewards": [
-      {
-       "type": "encounter",
-       "shiny": true,
-       "cp": {
-        "min": 516,
-        "max": 554
-       },
-       "slug": "sandshrew-alola",
-       "name": "Alolan Sandshrew"
-      },
-      {
-       "type": "encounter",
-       "shiny": true,
-       "cp": {
-        "min": 264,
-        "max": 292
-       },
-       "slug": "diglett-alola",
-       "name": "Alolan Diglett"
-      },
-      {
-       "type": "encounter",
-       "shiny": true,
-       "cp": {
-        "min": 876,
-        "max": 926
-       },
-       "slug": "stunfisk-galarian",
-       "name": "Galarian Stunfisk"
-      }
-     ]
-    }
-   ]
-  },
-  {
-   "title": "Pokémon GO Wild Area 2026: Global - Dragon hour Tasks",
-   "event": true,
-   "end": {
-    "time": "2026-11-15T18:00:00",
-    "kind": "local"
-   },
-   "tasks": [
-    {
-     "text": "Catch 10 Dragon-type Pokémon",
-     "rewards": [
       {
        "type": "encounter",
        "shiny": true,
@@ -326,46 +35,108 @@
        "type": "encounter",
        "shiny": true,
        "cp": {
-        "min": 507,
-        "max": 546
+        "min": 372,
+        "max": 405
        },
-       "slug": "trapinch",
-       "name": "Trapinch"
+       "slug": "squirtle",
+       "name": "Squirtle"
       },
       {
        "type": "encounter",
        "shiny": true,
        "cp": {
-        "min": 322,
-        "max": 353
+        "min": 430,
+        "max": 465
        },
-       "slug": "swablu",
-       "name": "Swablu"
+       "slug": "grookey",
+       "name": "Grookey"
       },
       {
        "type": "encounter",
        "shiny": true,
        "cp": {
-        "min": 421,
-        "max": 455
+        "min": 434,
+        "max": 470
        },
-       "slug": "skrelp",
-       "name": "Skrelp"
+       "slug": "scorbunny",
+       "name": "Scorbunny"
+      },
+      {
+       "type": "encounter",
+       "shiny": true,
+       "cp": {
+        "min": 434,
+        "max": 470
+       },
+       "slug": "sobble",
+       "name": "Sobble"
       }
      ]
     },
     {
-     "text": "Catch 4 different species of Dragon-type Pokémon",
+     "text": "Power up Pokémon 8 times",
      "rewards": [
       {
        "type": "encounter",
        "shiny": true,
        "cp": {
-        "min": 902,
-        "max": 952
+        "min": 99,
+        "max": 117
        },
-       "slug": "turtonator",
-       "name": "Turtonator"
+       "slug": "magikarp",
+       "name": "Magikarp"
+      },
+      {
+       "type": "encounter",
+       "shiny": true,
+       "cp": {
+        "min": 99,
+        "max": 117
+       },
+       "slug": "feebas",
+       "name": "Feebas"
+      },
+      {
+       "type": "item",
+       "quantity": 3,
+       "name": "Pinap Berry",
+       "icon": "art/506ecd9acd94449a27dfcc4129541eeb.png"
+      }
+     ]
+    },
+    {
+     "text": "Explore 1 km",
+     "rewards": [
+      {
+       "type": "encounter",
+       "shiny": true,
+       "cp": {
+        "min": 424,
+        "max": 459
+       },
+       "slug": "eevee",
+       "name": "Eevee"
+      },
+      {
+       "type": "item",
+       "quantity": 2000,
+       "name": "Stardust",
+       "icon": "art/8091724025f7c21f1479111875b9a2b4.png"
+      }
+     ]
+    },
+    {
+     "text": "Win a Max Battle",
+     "rewards": [
+      {
+       "type": "encounter",
+       "shiny": true,
+       "cp": {
+        "min": 1191,
+        "max": 1249
+       },
+       "slug": "drampa",
+       "name": "Drampa"
       },
       {
        "type": "encounter",
@@ -376,57 +147,47 @@
        },
        "slug": "duraludon",
        "name": "Duraludon"
+      },
+      {
+       "type": "resource",
+       "quantity": 10,
+       "name": "Eternatus Candy",
+       "icon": "art/b78749d8d0ee59a9314845b6c2414148.png"
+      },
+      {
+       "type": "item",
+       "quantity": 2000,
+       "name": "Stardust",
+       "icon": "art/8091724025f7c21f1479111875b9a2b4.png"
       }
      ]
     },
     {
-     "text": "Catch 2 mighty Pokémon",
+     "text": "Unlock a Max Move",
      "rewards": [
       {
-       "type": "encounter",
-       "shiny": true,
-       "cp": {
-        "min": 1233,
-        "max": 1292
-       },
-       "slug": "exeggutor-alola",
-       "name": "Alolan Exeggutor"
+       "type": "resource",
+       "quantity": 25,
+       "name": "Eternatus Candy",
+       "icon": "art/b78749d8d0ee59a9314845b6c2414148.png"
       },
       {
-       "type": "encounter",
-       "shiny": true,
-       "cp": {
-        "min": 1077,
-        "max": 1132
-       },
-       "slug": "kingdra",
-       "name": "Kingdra"
-      },
-      {
-       "type": "encounter",
-       "shiny": true,
-       "cp": {
-        "min": 1475,
-        "max": 1540
-       },
-       "slug": "haxorus",
-       "name": "Haxorus"
-      },
-      {
-       "type": "encounter",
-       "shiny": true,
-       "cp": {
-        "min": 1129,
-        "max": 1184
-       },
-       "slug": "noivern",
-       "name": "Noivern"
+       "type": "item",
+       "quantity": 5000,
+       "name": "Stardust",
+       "icon": "art/8091724025f7c21f1479111875b9a2b4.png"
       }
      ]
     },
     {
      "text": "Make an Excellent Throw",
      "rewards": [
+      {
+       "type": "resource",
+       "quantity": 25,
+       "name": "Eternatus Candy",
+       "icon": "art/b78749d8d0ee59a9314845b6c2414148.png"
+      },
       {
        "type": "item",
        "quantity": 1,
@@ -438,165 +199,6 @@
        "quantity": 1,
        "name": "Silver Pinap Berry",
        "icon": "art/83d5a65337cea6bbb168a42195889922.png"
-      }
-     ]
-    },
-    {
-     "text": "Use a Dragon-type Charged Attack in a battle",
-     "rewards": [
-      {
-       "type": "encounter",
-       "shiny": true,
-       "cp": {
-        "min": 385,
-        "max": 418
-       },
-       "slug": "goomy",
-       "name": "Goomy"
-      },
-      {
-       "type": "encounter",
-       "shiny": true,
-       "cp": {
-        "min": 382,
-        "max": 415
-       },
-       "slug": "jangmo-o",
-       "name": "Jangmo-o"
-      },
-      {
-       "type": "encounter",
-       "shiny": true,
-       "cp": {
-        "min": 496,
-        "max": 534
-       },
-       "slug": "frigibax",
-       "name": "Frigibax"
-      }
-     ]
-    },
-    {
-     "text": "Win 2 raids",
-     "rewards": [
-      {
-       "type": "encounter",
-       "shiny": true,
-       "cp": {
-        "min": 1085,
-        "max": 1140
-       },
-       "slug": "flygon",
-       "name": "Flygon"
-      },
-      {
-       "type": "encounter",
-       "shiny": true,
-       "cp": {
-        "min": 1439,
-        "max": 1502
-       },
-       "slug": "goodra",
-       "name": "Goodra"
-      }
-     ]
-    },
-    {
-     "text": "Hatch an Egg",
-     "rewards": [
-      {
-       "type": "encounter",
-       "shiny": true,
-       "cp": {
-        "min": 547,
-        "max": 586
-       },
-       "slug": "axew",
-       "name": "Axew"
-      },
-      {
-       "type": "encounter",
-       "shiny": true,
-       "cp": {
-        "min": 658,
-        "max": 700
-       },
-       "slug": "tyrunt",
-       "name": "Tyrunt"
-      },
-      {
-       "type": "encounter",
-       "shiny": true,
-       "cp": {
-        "min": 258,
-        "max": 285
-       },
-       "slug": "noibat",
-       "name": "Noibat"
-      }
-     ]
-    },
-    {
-     "text": "Spin 5 PokéStops or Gyms",
-     "rewards": [
-      {
-       "type": "item",
-       "quantity": 3,
-       "name": "Great Ball",
-       "icon": "art/1ce32fca389db1d8aa234c6a982f0725.png"
-      },
-      {
-       "type": "item",
-       "quantity": 5,
-       "name": "Poké Ball",
-       "icon": "art/ec10e1a5cc6faf5364bc40a98ff2798d.png"
-      },
-      {
-       "type": "item",
-       "quantity": 500,
-       "name": "Stardust",
-       "icon": "art/8091724025f7c21f1479111875b9a2b4.png"
-      },
-      {
-       "type": "item",
-       "quantity": 2,
-       "name": "Ultra Ball",
-       "icon": "art/d78b34b9a25cc6de363ffb231920b27c.png"
-      }
-     ]
-    },
-    {
-     "text": "Power up Dragon-type Pokémon 5 times",
-     "rewards": [
-      {
-       "type": "encounter",
-       "shiny": true,
-       "cp": {
-        "min": 397,
-        "max": 430
-       },
-       "slug": "dratini",
-       "name": "Dratini"
-      },
-      {
-       "type": "encounter",
-       "shiny": true,
-       "cp": {
-        "min": 441,
-        "max": 477
-       },
-       "slug": "gible",
-       "name": "Gible"
-      },
-      {
-       "type": "encounter",
-       "shiny": true,
-       "cp": {
-        "min": 420,
-        "max": 455
-       },
-       "slug": "deino",
-       "name": "Deino"
       }
      ]
     }

@@ -1,5 +1,9 @@
 {
  "icons": {
+  "https://cdn.leekduck.com/assets/img/candy/regular/890.png": {
+   "etag": "\"b419f23c51d9bf7375f7885eb63ea520\"",
+   "path": "art/b78749d8d0ee59a9314845b6c2414148.png"
+  },
   "https://cdn.leekduck.com/assets/img/icons/xp.png": {
    "etag": "\"5e8b40b19499a30fa9a45606aaec2787\"",
    "path": "art/efca27988f2eabe34c1ef03983f4e27d.png"

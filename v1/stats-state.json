@@ -1,7 +1,7 @@
 {
  "version": 1,
- "batchId": "1794378339087",
- "uploadTime": "1794421831470",
+ "batchId": "1794791876378",
+ "uploadTime": "1794856173936",
  "gameMaster": {
   "cpMultipliers": [
    0.094,
@@ -2525,7 +2525,7 @@
    "TEMP_EVOLUTION_MEGA_V0609_POKEMON_CHANDELURE": {
     "type": "Ghost",
     "fast": false,
-    "power": 174,
+    "power": 145,
     "energy": -100,
     "ms": 2500
    },
@@ -19426,7 +19426,9 @@
      "MIRROR_SHOT"
     ],
     "eliteFast": [],
-    "eliteCharged": [],
+    "eliteCharged": [
+     "MAGNET_BOMB"
+    ],
     "evolutions": []
    },
    "LICKILICKY": {

@@ -1,70 +1,172 @@
 {
  "catchables": [
   {
-   "slug": "machamp-modern-jacket",
-   "name": "Machamp Modern Jacket",
+   "slug": "meowth-alola",
+   "name": "Alolan Meowth",
    "kind": "raid",
    "level": 20,
    "boostedLevel": 25,
    "floor": 10,
    "boostedFloor": 10,
    "start": {
-    "time": "2026-11-14T10:00:00",
+    "time": "2026-11-16T06:00:00",
     "kind": "local"
    },
    "end": {
-    "time": "2026-11-15T18:00:00",
+    "time": "2026-11-24T10:00:00",
     "kind": "local"
    }
   },
   {
-   "slug": "zekrom",
-   "name": "Zekrom",
+   "slug": "misdreavus",
+   "name": "Misdreavus",
    "kind": "raid",
    "level": 20,
    "boostedLevel": 25,
    "floor": 10,
    "boostedFloor": 10,
    "start": {
-    "time": "2026-11-14T10:00:00",
+    "time": "2026-11-16T06:00:00",
     "kind": "local"
    },
    "end": {
-    "time": "2026-11-15T18:00:00",
+    "time": "2026-11-24T10:00:00",
     "kind": "local"
    }
   },
   {
-   "slug": "kyurem",
-   "name": "Kyurem",
+   "slug": "yamask-galarian",
+   "name": "Galarian Yamask",
    "kind": "raid",
    "level": 20,
    "boostedLevel": 25,
    "floor": 10,
    "boostedFloor": 10,
    "start": {
-    "time": "2026-11-14T10:00:00",
+    "time": "2026-11-16T06:00:00",
     "kind": "local"
    },
    "end": {
-    "time": "2026-11-15T18:00:00",
+    "time": "2026-11-24T10:00:00",
     "kind": "local"
    }
   },
   {
-   "slug": "reshiram",
-   "name": "Reshiram",
+   "slug": "sandygast",
+   "name": "Sandygast",
    "kind": "raid",
    "level": 20,
    "boostedLevel": 25,
    "floor": 10,
    "boostedFloor": 10,
    "start": {
-    "time": "2026-11-14T10:00:00",
+    "time": "2026-11-16T06:00:00",
     "kind": "local"
    },
    "end": {
-    "time": "2026-11-15T18:00:00",
+    "time": "2026-11-24T10:00:00",
+    "kind": "local"
+   }
+  },
+  {
+   "slug": "marowak-alola",
+   "name": "Alolan Marowak",
+   "kind": "raid",
+   "level": 20,
+   "boostedLevel": 25,
+   "floor": 10,
+   "boostedFloor": 10,
+   "start": {
+    "time": "2026-11-16T06:00:00",
+    "kind": "local"
+   },
+   "end": {
+    "time": "2026-11-24T10:00:00",
+    "kind": "local"
+   }
+  },
+  {
+   "slug": "liepard",
+   "name": "Liepard",
+   "kind": "raid",
+   "level": 20,
+   "boostedLevel": 25,
+   "floor": 10,
+   "boostedFloor": 10,
+   "start": {
+    "time": "2026-11-16T06:00:00",
+    "kind": "local"
+   },
+   "end": {
+    "time": "2026-11-24T10:00:00",
+    "kind": "local"
+   }
+  },
+  {
+   "slug": "golurk",
+   "name": "Golurk",
+   "kind": "raid",
+   "level": 20,
+   "boostedLevel": 25,
+   "floor": 10,
+   "boostedFloor": 10,
+   "start": {
+    "time": "2026-11-16T06:00:00",
+    "kind": "local"
+   },
+   "end": {
+    "time": "2026-11-24T10:00:00",
+    "kind": "local"
+   }
+  },
+  {
+   "slug": "cresselia",
+   "name": "Cresselia",
+   "kind": "raid",
+   "level": 20,
+   "boostedLevel": 25,
+   "floor": 10,
+   "boostedFloor": 10,
+   "start": {
+    "time": "2026-11-16T06:00:00",
+    "kind": "local"
+   },
+   "end": {
+    "time": "2026-11-24T10:00:00",
+    "kind": "local"
+   }
+  },
+  {
+   "slug": "darkrai",
+   "name": "Darkrai",
+   "kind": "raid",
+   "level": 20,
+   "boostedLevel": 25,
+   "floor": 10,
+   "boostedFloor": 10,
+   "start": {
+    "time": "2026-11-16T06:00:00",
+    "kind": "local"
+   },
+   "end": {
+    "time": "2026-11-24T10:00:00",
+    "kind": "local"
+   }
+  },
+  {
+   "slug": "banette",
+   "name": "Banette",
+   "kind": "raid",
+   "level": 20,
+   "boostedLevel": 25,
+   "floor": 10,
+   "boostedFloor": 10,
+   "start": {
+    "time": "2026-11-16T06:00:00",
+    "kind": "local"
+   },
+   "end": {
+    "time": "2026-11-24T10:00:00",
     "kind": "local"
    }
   },
@@ -840,40 +942,6 @@
    "boostedFloor": null,
    "start": null,
    "end": null
-  },
-  {
-   "slug": "palkia-dynamax",
-   "name": "Dynamax Palkia",
-   "kind": "max",
-   "level": 20,
-   "boostedLevel": null,
-   "floor": 10,
-   "boostedFloor": null,
-   "start": {
-    "time": "2026-11-15T05:00:00",
-    "kind": "local"
-   },
-   "end": {
-    "time": "2026-11-15T20:00:00",
-    "kind": "local"
-   }
-  },
-  {
-   "slug": "duraludon-gigantamax",
-   "name": "Gigantamax Duraludon",
-   "kind": "max",
-   "level": 20,
-   "boostedLevel": null,
-   "floor": 10,
-   "boostedFloor": null,
-   "start": {
-    "time": "2026-11-14T05:00:00",
-    "kind": "local"
-   },
-   "end": {
-    "time": "2026-11-15T20:00:00",
-    "kind": "local"
-   }
   },
   {
    "slug": "zekrom-shadow",
@@ -1866,262 +1934,8 @@
    "end": null
   },
   {
-   "slug": "scizor",
-   "name": "Scizor",
-   "kind": "research",
-   "level": 15,
-   "boostedLevel": null,
-   "floor": 10,
-   "boostedFloor": null,
-   "start": null,
-   "end": {
-    "time": "2026-11-15T18:00:00",
-    "kind": "local"
-   }
-  },
-  {
-   "slug": "aggron",
-   "name": "Aggron",
-   "kind": "research",
-   "level": 15,
-   "boostedLevel": null,
-   "floor": 10,
-   "boostedFloor": null,
-   "start": null,
-   "end": {
-    "time": "2026-11-15T18:00:00",
-    "kind": "local"
-   }
-  },
-  {
-   "slug": "magnezone",
-   "name": "Magnezone",
-   "kind": "research",
-   "level": 15,
-   "boostedLevel": null,
-   "floor": 10,
-   "boostedFloor": null,
-   "start": null,
-   "end": {
-    "time": "2026-11-15T18:00:00",
-    "kind": "local"
-   }
-  },
-  {
-   "slug": "ferrothorn",
-   "name": "Ferrothorn",
-   "kind": "research",
-   "level": 15,
-   "boostedLevel": null,
-   "floor": 10,
-   "boostedFloor": null,
-   "start": null,
-   "end": {
-    "time": "2026-11-15T18:00:00",
-    "kind": "local"
-   }
-  },
-  {
-   "slug": "magnemite",
-   "name": "Magnemite",
-   "kind": "research",
-   "level": 15,
-   "boostedLevel": null,
-   "floor": 10,
-   "boostedFloor": null,
-   "start": null,
-   "end": {
-    "time": "2026-11-15T18:00:00",
-    "kind": "local"
-   }
-  },
-  {
-   "slug": "piplup",
-   "name": "Piplup",
-   "kind": "research",
-   "level": 15,
-   "boostedLevel": null,
-   "floor": 10,
-   "boostedFloor": null,
-   "start": null,
-   "end": {
-    "time": "2026-11-15T18:00:00",
-    "kind": "local"
-   }
-  },
-  {
-   "slug": "shieldon",
-   "name": "Shieldon",
-   "kind": "research",
-   "level": 15,
-   "boostedLevel": null,
-   "floor": 10,
-   "boostedFloor": null,
-   "start": null,
-   "end": {
-    "time": "2026-11-15T18:00:00",
-    "kind": "local"
-   }
-  },
-  {
-   "slug": "ferroseed",
-   "name": "Ferroseed",
-   "kind": "research",
-   "level": 15,
-   "boostedLevel": null,
-   "floor": 10,
-   "boostedFloor": null,
-   "start": null,
-   "end": null
-  },
-  {
-   "slug": "lucario",
-   "name": "Lucario",
-   "kind": "research",
-   "level": 15,
-   "boostedLevel": null,
-   "floor": 10,
-   "boostedFloor": null,
-   "start": null,
-   "end": {
-    "time": "2026-11-15T18:00:00",
-    "kind": "local"
-   }
-  },
-  {
-   "slug": "duraludon",
-   "name": "Duraludon",
-   "kind": "research",
-   "level": 15,
-   "boostedLevel": null,
-   "floor": 10,
-   "boostedFloor": null,
-   "start": null,
-   "end": {
-    "time": "2026-11-15T18:00:00",
-    "kind": "local"
-   }
-  },
-  {
-   "slug": "onix",
-   "name": "Onix",
-   "kind": "research",
-   "level": 15,
-   "boostedLevel": null,
-   "floor": 10,
-   "boostedFloor": null,
-   "start": null,
-   "end": {
-    "time": "2026-11-15T18:00:00",
-    "kind": "local"
-   }
-  },
-  {
-   "slug": "skarmory",
-   "name": "Skarmory",
-   "kind": "research",
-   "level": 15,
-   "boostedLevel": null,
-   "floor": 10,
-   "boostedFloor": null,
-   "start": null,
-   "end": {
-    "time": "2026-11-15T18:00:00",
-    "kind": "local"
-   }
-  },
-  {
-   "slug": "bronzor",
-   "name": "Bronzor",
-   "kind": "research",
-   "level": 15,
-   "boostedLevel": null,
-   "floor": 10,
-   "boostedFloor": null,
-   "start": null,
-   "end": {
-    "time": "2026-11-15T18:00:00",
-    "kind": "local"
-   }
-  },
-  {
-   "slug": "metagross",
-   "name": "Metagross",
-   "kind": "research",
-   "level": 15,
-   "boostedLevel": null,
-   "floor": 10,
-   "boostedFloor": null,
-   "start": null,
-   "end": {
-    "time": "2026-11-15T18:00:00",
-    "kind": "local"
-   }
-  },
-  {
-   "slug": "tinkaton",
-   "name": "Tinkaton",
-   "kind": "research",
-   "level": 15,
-   "boostedLevel": null,
-   "floor": 10,
-   "boostedFloor": null,
-   "start": null,
-   "end": {
-    "time": "2026-11-15T18:00:00",
-    "kind": "local"
-   }
-  },
-  {
-   "slug": "beldum",
-   "name": "Beldum",
-   "kind": "research",
-   "level": 15,
-   "boostedLevel": null,
-   "floor": 10,
-   "boostedFloor": null,
-   "start": null,
-   "end": null
-  },
-  {
-   "slug": "drilbur",
-   "name": "Drilbur",
-   "kind": "research",
-   "level": 15,
-   "boostedLevel": null,
-   "floor": 10,
-   "boostedFloor": null,
-   "start": null,
-   "end": {
-    "time": "2026-11-15T18:00:00",
-    "kind": "local"
-   }
-  },
-  {
-   "slug": "sandshrew-alola",
-   "name": "Alolan Sandshrew",
-   "kind": "research",
-   "level": 15,
-   "boostedLevel": null,
-   "floor": 10,
-   "boostedFloor": null,
-   "start": null,
-   "end": null
-  },
-  {
-   "slug": "diglett-alola",
-   "name": "Alolan Diglett",
-   "kind": "research",
-   "level": 15,
-   "boostedLevel": null,
-   "floor": 10,
-   "boostedFloor": null,
-   "start": null,
-   "end": null
-  },
-  {
-   "slug": "stunfisk-galarian",
-   "name": "Galarian Stunfisk",
+   "slug": "bulbasaur",
+   "name": "Bulbasaur",
    "kind": "research",
    "level": 15,
    "boostedLevel": null,
@@ -2142,8 +1956,8 @@
    "end": null
   },
   {
-   "slug": "trapinch",
-   "name": "Trapinch",
+   "slug": "squirtle",
+   "name": "Squirtle",
    "kind": "research",
    "level": 15,
    "boostedLevel": null,
@@ -2153,19 +1967,8 @@
    "end": null
   },
   {
-   "slug": "swablu",
-   "name": "Swablu",
-   "kind": "research",
-   "level": 15,
-   "boostedLevel": null,
-   "floor": 10,
-   "boostedFloor": null,
-   "start": null,
-   "end": null
-  },
-  {
-   "slug": "skrelp",
-   "name": "Skrelp",
+   "slug": "grookey",
+   "name": "Grookey",
    "kind": "research",
    "level": 15,
    "boostedLevel": null,
@@ -2173,13 +1976,13 @@
    "boostedFloor": null,
    "start": null,
    "end": {
-    "time": "2026-11-15T18:00:00",
+    "time": "2026-11-23T20:00:00",
     "kind": "local"
    }
   },
   {
-   "slug": "turtonator",
-   "name": "Turtonator",
+   "slug": "scorbunny",
+   "name": "Scorbunny",
    "kind": "research",
    "level": 15,
    "boostedLevel": null,
@@ -2187,24 +1990,13 @@
    "boostedFloor": null,
    "start": null,
    "end": {
-    "time": "2026-11-15T18:00:00",
+    "time": "2026-11-23T20:00:00",
     "kind": "local"
    }
   },
   {
-   "slug": "exeggutor-alola",
-   "name": "Alolan Exeggutor",
-   "kind": "research",
-   "level": 15,
-   "boostedLevel": null,
-   "floor": 10,
-   "boostedFloor": null,
-   "start": null,
-   "end": null
-  },
-  {
-   "slug": "kingdra",
-   "name": "Kingdra",
+   "slug": "sobble",
+   "name": "Sobble",
    "kind": "research",
    "level": 15,
    "boostedLevel": null,
@@ -2212,180 +2004,7 @@
    "boostedFloor": null,
    "start": null,
    "end": {
-    "time": "2026-11-15T18:00:00",
-    "kind": "local"
-   }
-  },
-  {
-   "slug": "haxorus",
-   "name": "Haxorus",
-   "kind": "research",
-   "level": 15,
-   "boostedLevel": null,
-   "floor": 10,
-   "boostedFloor": null,
-   "start": null,
-   "end": {
-    "time": "2026-11-15T18:00:00",
-    "kind": "local"
-   }
-  },
-  {
-   "slug": "noivern",
-   "name": "Noivern",
-   "kind": "research",
-   "level": 15,
-   "boostedLevel": null,
-   "floor": 10,
-   "boostedFloor": null,
-   "start": null,
-   "end": {
-    "time": "2026-11-15T18:00:00",
-    "kind": "local"
-   }
-  },
-  {
-   "slug": "goomy",
-   "name": "Goomy",
-   "kind": "research",
-   "level": 15,
-   "boostedLevel": null,
-   "floor": 10,
-   "boostedFloor": null,
-   "start": null,
-   "end": {
-    "time": "2026-11-15T18:00:00",
-    "kind": "local"
-   }
-  },
-  {
-   "slug": "jangmo-o",
-   "name": "Jangmo-o",
-   "kind": "research",
-   "level": 15,
-   "boostedLevel": null,
-   "floor": 10,
-   "boostedFloor": null,
-   "start": null,
-   "end": {
-    "time": "2026-11-15T18:00:00",
-    "kind": "local"
-   }
-  },
-  {
-   "slug": "frigibax",
-   "name": "Frigibax",
-   "kind": "research",
-   "level": 15,
-   "boostedLevel": null,
-   "floor": 10,
-   "boostedFloor": null,
-   "start": null,
-   "end": {
-    "time": "2026-11-15T18:00:00",
-    "kind": "local"
-   }
-  },
-  {
-   "slug": "flygon",
-   "name": "Flygon",
-   "kind": "research",
-   "level": 15,
-   "boostedLevel": null,
-   "floor": 10,
-   "boostedFloor": null,
-   "start": null,
-   "end": {
-    "time": "2026-11-15T18:00:00",
-    "kind": "local"
-   }
-  },
-  {
-   "slug": "goodra",
-   "name": "Goodra",
-   "kind": "research",
-   "level": 15,
-   "boostedLevel": null,
-   "floor": 10,
-   "boostedFloor": null,
-   "start": null,
-   "end": {
-    "time": "2026-11-15T18:00:00",
-    "kind": "local"
-   }
-  },
-  {
-   "slug": "axew",
-   "name": "Axew",
-   "kind": "research",
-   "level": 15,
-   "boostedLevel": null,
-   "floor": 10,
-   "boostedFloor": null,
-   "start": null,
-   "end": null
-  },
-  {
-   "slug": "tyrunt",
-   "name": "Tyrunt",
-   "kind": "research",
-   "level": 15,
-   "boostedLevel": null,
-   "floor": 10,
-   "boostedFloor": null,
-   "start": null,
-   "end": {
-    "time": "2026-11-15T18:00:00",
-    "kind": "local"
-   }
-  },
-  {
-   "slug": "noibat",
-   "name": "Noibat",
-   "kind": "research",
-   "level": 15,
-   "boostedLevel": null,
-   "floor": 10,
-   "boostedFloor": null,
-   "start": null,
-   "end": {
-    "time": "2026-11-15T18:00:00",
-    "kind": "local"
-   }
-  },
-  {
-   "slug": "dratini",
-   "name": "Dratini",
-   "kind": "research",
-   "level": 15,
-   "boostedLevel": null,
-   "floor": 10,
-   "boostedFloor": null,
-   "start": null,
-   "end": null
-  },
-  {
-   "slug": "gible",
-   "name": "Gible",
-   "kind": "research",
-   "level": 15,
-   "boostedLevel": null,
-   "floor": 10,
-   "boostedFloor": null,
-   "start": null,
-   "end": null
-  },
-  {
-   "slug": "deino",
-   "name": "Deino",
-   "kind": "research",
-   "level": 15,
-   "boostedLevel": null,
-   "floor": 10,
-   "boostedFloor": null,
-   "start": null,
-   "end": {
-    "time": "2026-11-15T18:00:00",
+    "time": "2026-11-23T20:00:00",
     "kind": "local"
    }
   },
@@ -2399,6 +2018,56 @@
    "boostedFloor": null,
    "start": null,
    "end": null
+  },
+  {
+   "slug": "feebas",
+   "name": "Feebas",
+   "kind": "research",
+   "level": 15,
+   "boostedLevel": null,
+   "floor": 10,
+   "boostedFloor": null,
+   "start": null,
+   "end": null
+  },
+  {
+   "slug": "eevee",
+   "name": "Eevee",
+   "kind": "research",
+   "level": 15,
+   "boostedLevel": null,
+   "floor": 10,
+   "boostedFloor": null,
+   "start": null,
+   "end": null
+  },
+  {
+   "slug": "drampa",
+   "name": "Drampa",
+   "kind": "research",
+   "level": 15,
+   "boostedLevel": null,
+   "floor": 10,
+   "boostedFloor": null,
+   "start": null,
+   "end": {
+    "time": "2026-11-23T20:00:00",
+    "kind": "local"
+   }
+  },
+  {
+   "slug": "duraludon",
+   "name": "Duraludon",
+   "kind": "research",
+   "level": 15,
+   "boostedLevel": null,
+   "floor": 10,
+   "boostedFloor": null,
+   "start": null,
+   "end": {
+    "time": "2026-11-23T20:00:00",
+    "kind": "local"
+   }
   },
   {
    "slug": "stufful",
@@ -2423,8 +2092,30 @@
    "end": null
   },
   {
+   "slug": "dratini",
+   "name": "Dratini",
+   "kind": "research",
+   "level": 15,
+   "boostedLevel": null,
+   "floor": 10,
+   "boostedFloor": null,
+   "start": null,
+   "end": null
+  },
+  {
    "slug": "bagon",
    "name": "Bagon",
+   "kind": "research",
+   "level": 15,
+   "boostedLevel": null,
+   "floor": 10,
+   "boostedFloor": null,
+   "start": null,
+   "end": null
+  },
+  {
+   "slug": "axew",
+   "name": "Axew",
    "kind": "research",
    "level": 15,
    "boostedLevel": null,
@@ -2863,6 +2554,17 @@
    "end": null
   },
   {
+   "slug": "swablu",
+   "name": "Swablu",
+   "kind": "research",
+   "level": 15,
+   "boostedLevel": null,
+   "floor": 10,
+   "boostedFloor": null,
+   "start": null,
+   "end": null
+  },
+  {
    "slug": "baltoy",
    "name": "Baltoy",
    "kind": "research",
@@ -2907,6 +2609,17 @@
    "end": null
   },
   {
+   "slug": "ferroseed",
+   "name": "Ferroseed",
+   "kind": "research",
+   "level": 15,
+   "boostedLevel": null,
+   "floor": 10,
+   "boostedFloor": null,
+   "start": null,
+   "end": null
+  },
+  {
    "slug": "lechonk",
    "name": "Lechonk",
    "kind": "research",
@@ -2931,6 +2644,17 @@
   {
    "slug": "nuzleaf",
    "name": "Nuzleaf",
+   "kind": "research",
+   "level": 15,
+   "boostedLevel": null,
+   "floor": 10,
+   "boostedFloor": null,
+   "start": null,
+   "end": null
+  },
+  {
+   "slug": "stunfisk-galarian",
+   "name": "Galarian Stunfisk",
    "kind": "research",
    "level": 15,
    "boostedLevel": null,
@@ -2986,6 +2710,28 @@
   {
    "slug": "larvitar",
    "name": "Larvitar",
+   "kind": "research",
+   "level": 15,
+   "boostedLevel": null,
+   "floor": 10,
+   "boostedFloor": null,
+   "start": null,
+   "end": null
+  },
+  {
+   "slug": "beldum",
+   "name": "Beldum",
+   "kind": "research",
+   "level": 15,
+   "boostedLevel": null,
+   "floor": 10,
+   "boostedFloor": null,
+   "start": null,
+   "end": null
+  },
+  {
+   "slug": "gible",
+   "name": "Gible",
    "kind": "research",
    "level": 15,
    "boostedLevel": null,
@@ -3085,6 +2831,17 @@
   {
    "slug": "spinda-05",
    "name": "Spinda 05",
+   "kind": "research",
+   "level": 15,
+   "boostedLevel": null,
+   "floor": 10,
+   "boostedFloor": null,
+   "start": null,
+   "end": null
+  },
+  {
+   "slug": "diglett-alola",
+   "name": "Alolan Diglett",
    "kind": "research",
    "level": 15,
    "boostedLevel": null,
@@ -3261,6 +3018,17 @@
   {
    "slug": "archen",
    "name": "Archen",
+   "kind": "research",
+   "level": 15,
+   "boostedLevel": null,
+   "floor": 10,
+   "boostedFloor": null,
+   "start": null,
+   "end": null
+  },
+  {
+   "slug": "exeggutor-alola",
+   "name": "Alolan Exeggutor",
    "kind": "research",
    "level": 15,
    "boostedLevel": null,
@@ -3490,17 +3258,6 @@
    "end": null
   },
   {
-   "slug": "feebas",
-   "name": "Feebas",
-   "kind": "research",
-   "level": 15,
-   "boostedLevel": null,
-   "floor": 10,
-   "boostedFloor": null,
-   "start": null,
-   "end": null
-  },
-  {
    "slug": "doduo",
    "name": "Doduo",
    "kind": "research",
@@ -3536,6 +3293,17 @@
   {
    "slug": "aron",
    "name": "Aron",
+   "kind": "research",
+   "level": 15,
+   "boostedLevel": null,
+   "floor": 10,
+   "boostedFloor": null,
+   "start": null,
+   "end": null
+  },
+  {
+   "slug": "sandshrew-alola",
+   "name": "Alolan Sandshrew",
    "kind": "research",
    "level": 15,
    "boostedLevel": null,
@@ -3699,6 +3467,17 @@
    "end": null
   },
   {
+   "slug": "trapinch",
+   "name": "Trapinch",
+   "kind": "research",
+   "level": 15,
+   "boostedLevel": null,
+   "floor": 10,
+   "boostedFloor": null,
+   "start": null,
+   "end": null
+  },
+  {
    "slug": "croagunk",
    "name": "Croagunk",
    "kind": "research",
@@ -3723,17 +3502,6 @@
   {
    "slug": "seadra",
    "name": "Seadra",
-   "kind": "research",
-   "level": 15,
-   "boostedLevel": null,
-   "floor": 10,
-   "boostedFloor": null,
-   "start": null,
-   "end": null
-  },
-  {
-   "slug": "eevee",
-   "name": "Eevee",
    "kind": "research",
    "level": 15,
    "boostedLevel": null,
@@ -3800,28 +3568,6 @@
   {
    "slug": "diggersby",
    "name": "Diggersby",
-   "kind": "research",
-   "level": 15,
-   "boostedLevel": null,
-   "floor": 10,
-   "boostedFloor": null,
-   "start": null,
-   "end": null
-  },
-  {
-   "slug": "bulbasaur",
-   "name": "Bulbasaur",
-   "kind": "research",
-   "level": 15,
-   "boostedLevel": null,
-   "floor": 10,
-   "boostedFloor": null,
-   "start": null,
-   "end": null
-  },
-  {
-   "slug": "squirtle",
-   "name": "Squirtle",
    "kind": "research",
    "level": 15,
    "boostedLevel": null,

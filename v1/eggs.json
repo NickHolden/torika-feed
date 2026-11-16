@@ -325,7 +325,7 @@
   {
    "slug": "sobble",
    "name": "Sobble",
-   "shiny": false,
+   "shiny": true,
    "distance": "1 km",
    "adventureSync": false,
    "giftExchange": false,

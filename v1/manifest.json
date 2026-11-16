@@ -1,75 +1,75 @@
 {
  "schema": 1,
- "built": "2026-11-15T16:40:52Z",
+ "built": "2026-11-16T19:55:20Z",
  "sections": {
   "catalog": {
    "file": "catalog.json",
    "hash": "sha256-1a23dccf4fc3549adb9965ff4d7dcf3984f85f9884d1adf99812efee956caea2",
    "count": 2686,
-   "lastGood": "2026-11-15",
+   "lastGood": "2026-11-16",
    "stale": false
   },
   "raids": {
    "file": "raids.json",
-   "hash": "sha256-7c7a683770f81aac18ec1790610c0efb422baad915039fc7efa4faf75ae353cc",
-   "count": 72,
-   "lastGood": "2026-11-15",
+   "hash": "sha256-c74dba43070704c46c576f7ca6947b9c178e8da3f7e2b9c13e9c00435f395ae1",
+   "count": 75,
+   "lastGood": "2026-11-16",
    "stale": false
   },
   "research": {
    "file": "research.json",
-   "hash": "sha256-ae898f657285085dcd22a3fdd79497c089324dbd7526a7adefc5b346544f1187",
-   "count": 76,
-   "lastGood": "2026-11-15",
+   "hash": "sha256-351791eb02ea1995e9f5d8825ff8f30a2744ee8857f726723c7637173d22d257",
+   "count": 64,
+   "lastGood": "2026-11-16",
    "stale": false
   },
   "shinies": {
    "file": "shinies.json",
    "hash": "sha256-cb6ddb6a7ffb86cd2af14bc274f719c93b6e121b767ec2bdb0c96e62f865730f",
    "count": 1485,
-   "lastGood": "2026-11-15",
+   "lastGood": "2026-11-16",
    "stale": false
   },
   "eggs": {
    "file": "eggs.json",
-   "hash": "sha256-dd17f1e599d67349de2ca3d4095aae84c4f579df66471bff4cbe9258da194309",
+   "hash": "sha256-f2d8d0a7143ec9b233911be69961b65f1cbc2d0691e0993d0a86bfffa2f54d3d",
    "count": 78,
-   "lastGood": "2026-11-15",
+   "lastGood": "2026-11-16",
    "stale": false
   },
   "rocket": {
    "file": "rocket.json",
    "hash": "sha256-e1660f0986d2bbf09209728d529e4d71d10cb10c993a4c256da6e4ae49f39b96",
    "count": 26,
-   "lastGood": "2026-11-15",
+   "lastGood": "2026-11-16",
    "stale": false
   },
   "events": {
    "file": "events.json",
-   "hash": "sha256-6d4647a4ca35216cdc655eaa6cbe789a4e003b2be2bae74cc4768c0db9290228",
-   "count": 46,
-   "lastGood": "2026-11-15",
+   "hash": "sha256-074dd4c0418cd4f5413fe0ff50db107b3097cd6163558d288e0d7c67f1e198bb",
+   "count": 44,
+   "lastGood": "2026-11-16",
    "stale": false
   },
   "stats": {
    "file": "stats.json",
-   "hash": "sha256-42ccc2638f7912286929c712042bd90bb5d4f42aa7bda157880c9f2642424cb2",
+   "hash": "sha256-da04654aa0b3a2b72e2363d9e68909483cb5896ddad7e717138f9f23f94751c3",
    "count": 2381,
-   "lastGood": "2026-11-15",
+   "lastGood": "2026-11-16",
    "stale": false
   },
   "rankings": {
    "file": "rankings.json",
    "hash": "sha256-e6d599c6e68c7f83569cfe120f39247971b0b13d1128be0ff0001a86a665139e",
    "count": 2173,
-   "lastGood": "2026-11-15",
+   "lastGood": "2026-11-16",
    "stale": false
   },
   "catchables": {
    "file": "catchables.json",
-   "hash": "sha256-6bdd868ebf185778294b528fa8facf2aa0bd52ef143eee4c321f17b970d665f3",
-   "count": 352,
-   "lastGood": "2026-11-15",
+   "hash": "sha256-c2ca13b31a91c417fe77994387e6e5b813677ccbfd873299cbb8ad3b3b361dc9",
+   "count": 333,
+   "lastGood": "2026-11-16",
    "stale": false
   }
  }
