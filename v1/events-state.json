@@ -9,878 +9,6 @@
   }
  },
  "pages": {
-  "pokemon-go-wild-area-2026-global": {
-   "readers": [
-    "Claude",
-    "GPT"
-   ],
-   "hash": "sha256-f7eda6a31cfda58a76cf3e091b1a9ff5db389e28ff302093d885a07fee1170ca",
-   "readings": [
-    {
-     "debuts": [
-      {
-       "kind": "gigantamax",
-       "pokemon": [
-        "Duraludon"
-       ],
-       "quote": "Gigantamax Duraludon makes its Pokémon GO debut at Pokémon GO Wild Area! This larger-than-life Pokémon will appear in six-star Max Battles during the event."
-      },
-      {
-       "kind": "dynamax",
-       "pokemon": [
-        "Dialga",
-        "Palkia"
-       ],
-       "quote": "Dynamax Dialga and Dynamax Palkia make their Pokémon GO debuts during GO Wild Area 2026. Both can be Shiny!"
-      }
-     ],
-     "featured_attacks": [
-      {
-       "pokemon": "Machamp wearing a modern jacket",
-       "attack": "Karate Chop",
-       "quote": "Karate ChopFast Attack"
-      },
-      {
-       "pokemon": "Flygon",
-       "attack": "Earth Power",
-       "quote": "Earth PowerCharged Attack"
-      },
-      {
-       "pokemon": "Metagross",
-       "attack": "Meteor Mash",
-       "quote": "Meteor MashCharged Attack"
-      },
-      {
-       "pokemon": "Magnezone",
-       "attack": "Magnet Bomb",
-       "quote": "Magnet BombCharged Attack"
-      },
-      {
-       "pokemon": "Haxorus",
-       "attack": "Breaking Swipe",
-       "quote": "Breaking SwipeCharged Attack"
-      },
-      {
-       "pokemon": "Hydreigon",
-       "attack": "Brutal Swing",
-       "quote": "Brutal SwingCharged Attack"
-      },
-      {
-       "pokemon": "Tinkaton",
-       "attack": "Gigaton Hammer",
-       "quote": "Gigaton HammerCharged Attack"
-      }
-     ],
-     "special_rules": [
-      {
-       "heading": "Private Dynamax Battle Groups",
-       "quote": "Starting with GO Wild Area 2026, Dynamax Battle lobbies offer Battle to match automatically with other Trainers or Private Group to join an existing group using its group code."
-      },
-      {
-       "heading": "Adventure Effects in Battle Lobbies",
-       "quote": "Starting with Into the Wild, select Adventure Effects can be activated while waiting in a raid or Max Battle lobby. Use Crowned Sword Zacian’s Behemoth Blade or Crowned Shield Zamazenta’s Behemoth Bash Adventure Effect before a Max Battle to help your group."
-      },
-      {
-       "heading": "Machamp Wearing a Modern Jacket",
-       "quote": "A new costumed Machamp appears in three-star raids during the event. Lucky Trainers may encounter a Shiny one!"
-      },
-      {
-       "heading": "Special Backgrounds",
-       "quote": "After a successful catch from raids or Max Battles, Machamp wearing a modern jacket, Dynamax Dialga, Dynamax Palkia, Reshiram, Zekrom, Kyurem, and Gigantamax Duraludon have a chance to have a new Special Background."
-      },
-      {
-       "heading": "Backgrounds on Your Trainer Profile",
-       "quote": "Your buddy Pokémon’s eligible Location Background or Special Background can now appear on your Trainer profile, where friends can see it too. Background support rolls out on the following schedule:"
-      },
-      {
-       "heading": "Mighty Latias and Latios",
-       "quote": "Ticket holders may attract mighty Latias and Latios with Incense, excluding Daily Adventure Incense, on both event days. Both can be Shiny and are quick to flee, so keep GO Safari Balls ready."
-      },
-      {
-       "heading": "GO Safari Balls",
-       "quote": "They can only be used from 10:00 a.m. to 6:00 p.m. local time on event days and become inaccessible after the event ends."
-      },
-      {
-       "heading": "Supply Balloons",
-       "quote": "Ticket holders receive a Supply Balloon every hour during event hours. Each one gives 15 GO Safari Balls."
-      },
-      {
-       "heading": "GO Snapshot, Routes, and Party Play",
-       "quote": "Take snapshots for surprise encounters with Steel- and Dragon-type Pokémon. Explore Routes for a chance to find mighty Pokémon, and enjoy Party Play sessions lasting eight hours."
-      }
-     ],
-     "season_groups": []
-    },
-    {
-     "debuts": [
-      {
-       "kind": "gigantamax",
-       "pokemon": [
-        "Duraludon"
-       ],
-       "quote": "Gigantamax Duraludon makes its Pokémon GO debut at Pokémon GO Wild Area! This larger-than-life Pokémon will appear in six-star Max Battles during the event."
-      },
-      {
-       "kind": "dynamax",
-       "pokemon": [
-        "Dialga",
-        "Palkia"
-       ],
-       "quote": "Dynamax Dialga and Dynamax Palkia make their Pokémon GO debuts during GO Wild Area 2026. Both can be Shiny!"
-      }
-     ],
-     "featured_attacks": [
-      {
-       "pokemon": "Machamp wearing a modern jacket",
-       "attack": "Karate Chop",
-       "quote": "Karate ChopFast Attack"
-      },
-      {
-       "pokemon": "Flygon",
-       "attack": "Earth Power",
-       "quote": "Earth PowerCharged Attack"
-      },
-      {
-       "pokemon": "Metagross",
-       "attack": "Meteor Mash",
-       "quote": "Meteor MashCharged Attack"
-      },
-      {
-       "pokemon": "Magnezone",
-       "attack": "Magnet Bomb",
-       "quote": "Magnet BombCharged Attack"
-      },
-      {
-       "pokemon": "Haxorus",
-       "attack": "Breaking Swipe",
-       "quote": "Breaking SwipeCharged Attack"
-      },
-      {
-       "pokemon": "Hydreigon",
-       "attack": "Brutal Swing",
-       "quote": "Brutal SwingCharged Attack"
-      },
-      {
-       "pokemon": "Tinkaton",
-       "attack": "Gigaton Hammer",
-       "quote": "Gigaton HammerCharged Attack"
-      }
-     ],
-     "special_rules": [
-      {
-       "heading": "Gigantamax Duraludon Debuts",
-       "quote": "Ticket-holding Trainers can learn more about Gigantamax Duraludon in the event-exclusive Special Research story. Complete it for an encounter with Gigantamax Duraludon with a Special Background!"
-      },
-      {
-       "heading": "Dynamax Dialga and Dynamax Palkia",
-       "quote": "For Global, Dynamax Dialga appears on Saturday, November 14, and Dynamax Palkia appears on Sunday, November 15."
-      },
-      {
-       "heading": "Private Dynamax Battle Groups",
-       "quote": "Starting with GO Wild Area 2026, Dynamax Battle lobbies offer Battle to match automatically with other Trainers or Private Group to join an existing group using its group code."
-      },
-      {
-       "heading": "Adventure Effects in Battle Lobbies",
-       "quote": "Starting with Into the Wild, select Adventure Effects can be activated while waiting in a raid or Max Battle lobby. Use Crowned Sword Zacian’s Behemoth Blade or Crowned Shield Zamazenta’s Behemoth Bash Adventure Effect before a Max Battle to help your group."
-      },
-      {
-       "heading": "Machamp Wearing a Modern Jacket",
-       "quote": "A new costumed Machamp appears in three-star raids during the event. Lucky Trainers may encounter a Shiny one!"
-      },
-      {
-       "heading": "Special Backgrounds",
-       "quote": "After a successful catch from raids or Max Battles, Machamp wearing a modern jacket, Dynamax Dialga, Dynamax Palkia, Reshiram, Zekrom, Kyurem, and Gigantamax Duraludon have a chance to have a new Special Background."
-      },
-      {
-       "heading": "Backgrounds on Your Trainer Profile",
-       "quote": "Your buddy Pokémon’s eligible Location Background or Special Background can now appear on your Trainer profile, where friends can see it too. Background support rolls out on the following schedule:"
-      },
-      {
-       "heading": "Mighty Latias and Latios",
-       "quote": "Ticket holders may attract mighty Latias and Latios with Incense, excluding Daily Adventure Incense, on both event days. Both can be Shiny and are quick to flee, so keep GO Safari Balls ready."
-      },
-      {
-       "heading": "GO Safari Balls",
-       "quote": "GO Safari Balls improve the chance of catching Pokémon, especially mighty Pokémon. All Trainers can obtain them by spinning PokéStops and Gym Photo Discs during event hours."
-      },
-      {
-       "heading": "Supply Balloons",
-       "quote": "Ticket holders receive a Supply Balloon every hour during event hours. Each one gives 15 GO Safari Balls."
-      },
-      {
-       "heading": "GO Snapshot, Routes, and Party Play",
-       "quote": "Take snapshots for surprise encounters with Steel- and Dragon-type Pokémon. Explore Routes for a chance to find mighty Pokémon, and enjoy Party Play sessions lasting eight hours."
-      }
-     ],
-     "season_groups": []
-    }
-   ],
-   "seen": {
-    "events:3a0dec74.debut.dynamax:7247b053a232": {
-     "item": {
-      "id": "events:3a0dec74.debut.dynamax:7247b053a232",
-      "kind": "auto-read",
-      "held": false,
-      "origin": {
-       "id": "page:pokemon-go-wild-area-2026-global",
-       "title": "Pokémon GO Wild Area 2026: Global",
-       "note": "The event's own page, read by two models"
-      },
-      "field": "Dynamax debuts",
-      "order": 3,
-      "answerFormat": "names",
-      "answerHint": "Names, separated by ;",
-      "readings": [
-       {
-        "who": "Both models",
-        "value": "Dialga; Palkia",
-        "quote": "Dynamax Dialga and Dynamax Palkia make their Pokémon GO debuts during GO Wild Area 2026. Both can be Shiny!",
-        "url": "https://leekduck.com/events/pokemon-go-wild-area-2026-global/"
-       }
-      ],
-      "value": "Dialga; Palkia"
-     },
-     "meta": {
-      "source": "events:3a0dec74.debut.dynamax:7247b053a232",
-      "value": [
-       "Dialga",
-       "Palkia"
-      ],
-      "ja": null
-     }
-    },
-    "events:3a0dec74.debut.gigantamax:c2598af0c0a2": {
-     "item": {
-      "id": "events:3a0dec74.debut.gigantamax:c2598af0c0a2",
-      "kind": "auto-read",
-      "held": false,
-      "origin": {
-       "id": "page:pokemon-go-wild-area-2026-global",
-       "title": "Pokémon GO Wild Area 2026: Global",
-       "note": "The event's own page, read by two models"
-      },
-      "field": "Gigantamax debuts",
-      "order": 4,
-      "answerFormat": "names",
-      "answerHint": "Names, separated by ;",
-      "readings": [
-       {
-        "who": "Both models",
-        "value": "Duraludon",
-        "quote": "Gigantamax Duraludon makes its Pokémon GO debut at Pokémon GO Wild Area! This larger-than-life Pokémon will appear in six-star Max Battles during the event.",
-        "url": "https://leekduck.com/events/pokemon-go-wild-area-2026-global/"
-       }
-      ],
-      "value": "Duraludon"
-     },
-     "meta": {
-      "source": "events:3a0dec74.debut.gigantamax:c2598af0c0a2",
-      "value": [
-       "Duraludon"
-      ],
-      "ja": null
-     }
-    },
-    "events:3a0dec74.attack.c345a4:18b87399bc97": {
-     "item": {
-      "id": "events:3a0dec74.attack.c345a4:18b87399bc97",
-      "kind": "auto-read",
-      "held": false,
-      "origin": {
-       "id": "page:pokemon-go-wild-area-2026-global",
-       "title": "Pokémon GO Wild Area 2026: Global",
-       "note": "The event's own page, read by two models"
-      },
-      "field": "Featured move · Machamp wearing a modern jacket",
-      "order": 5,
-      "answerFormat": "names",
-      "answerHint": "Move names, separated by ;",
-      "readings": [
-       {
-        "who": "Both models",
-        "value": "Karate Chop",
-        "quote": "Karate ChopFast Attack",
-        "url": "https://leekduck.com/events/pokemon-go-wild-area-2026-global/"
-       }
-      ],
-      "value": "Karate Chop"
-     },
-     "meta": {
-      "source": "events:3a0dec74.attack.c345a4:18b87399bc97",
-      "value": [
-       "Karate Chop"
-      ],
-      "ja": null
-     }
-    },
-    "events:3a0dec74.attack.c65d1d:02815806bd24": {
-     "item": {
-      "id": "events:3a0dec74.attack.c65d1d:02815806bd24",
-      "kind": "auto-read",
-      "held": false,
-      "origin": {
-       "id": "page:pokemon-go-wild-area-2026-global",
-       "title": "Pokémon GO Wild Area 2026: Global",
-       "note": "The event's own page, read by two models"
-      },
-      "field": "Featured move · Flygon",
-      "order": 6,
-      "answerFormat": "names",
-      "answerHint": "Move names, separated by ;",
-      "readings": [
-       {
-        "who": "Both models",
-        "value": "Earth Power",
-        "quote": "Earth PowerCharged Attack",
-        "url": "https://leekduck.com/events/pokemon-go-wild-area-2026-global/"
-       }
-      ],
-      "value": "Earth Power"
-     },
-     "meta": {
-      "source": "events:3a0dec74.attack.c65d1d:02815806bd24",
-      "value": [
-       "Earth Power"
-      ],
-      "ja": null
-     }
-    },
-    "events:3a0dec74.attack.78d4db:8954bdf7402f": {
-     "item": {
-      "id": "events:3a0dec74.attack.78d4db:8954bdf7402f",
-      "kind": "auto-read",
-      "held": false,
-      "origin": {
-       "id": "page:pokemon-go-wild-area-2026-global",
-       "title": "Pokémon GO Wild Area 2026: Global",
-       "note": "The event's own page, read by two models"
-      },
-      "field": "Featured move · Metagross",
-      "order": 7,
-      "answerFormat": "names",
-      "answerHint": "Move names, separated by ;",
-      "readings": [
-       {
-        "who": "Both models",
-        "value": "Meteor Mash",
-        "quote": "Meteor MashCharged Attack",
-        "url": "https://leekduck.com/events/pokemon-go-wild-area-2026-global/"
-       }
-      ],
-      "value": "Meteor Mash"
-     },
-     "meta": {
-      "source": "events:3a0dec74.attack.78d4db:8954bdf7402f",
-      "value": [
-       "Meteor Mash"
-      ],
-      "ja": null
-     }
-    },
-    "events:3a0dec74.attack.956aef:bf9bd75cba10": {
-     "item": {
-      "id": "events:3a0dec74.attack.956aef:bf9bd75cba10",
-      "kind": "auto-read",
-      "held": false,
-      "origin": {
-       "id": "page:pokemon-go-wild-area-2026-global",
-       "title": "Pokémon GO Wild Area 2026: Global",
-       "note": "The event's own page, read by two models"
-      },
-      "field": "Featured move · Magnezone",
-      "order": 8,
-      "answerFormat": "names",
-      "answerHint": "Move names, separated by ;",
-      "readings": [
-       {
-        "who": "Both models",
-        "value": "Magnet Bomb",
-        "quote": "Magnet BombCharged Attack",
-        "url": "https://leekduck.com/events/pokemon-go-wild-area-2026-global/"
-       }
-      ],
-      "value": "Magnet Bomb"
-     },
-     "meta": {
-      "source": "events:3a0dec74.attack.956aef:bf9bd75cba10",
-      "value": [
-       "Magnet Bomb"
-      ],
-      "ja": null
-     }
-    },
-    "events:3a0dec74.attack.204cc2:be4ddcfff2a9": {
-     "item": {
-      "id": "events:3a0dec74.attack.204cc2:be4ddcfff2a9",
-      "kind": "auto-read",
-      "held": false,
-      "origin": {
-       "id": "page:pokemon-go-wild-area-2026-global",
-       "title": "Pokémon GO Wild Area 2026: Global",
-       "note": "The event's own page, read by two models"
-      },
-      "field": "Featured move · Haxorus",
-      "order": 9,
-      "answerFormat": "names",
-      "answerHint": "Move names, separated by ;",
-      "readings": [
-       {
-        "who": "Both models",
-        "value": "Breaking Swipe",
-        "quote": "Breaking SwipeCharged Attack",
-        "url": "https://leekduck.com/events/pokemon-go-wild-area-2026-global/"
-       }
-      ],
-      "value": "Breaking Swipe"
-     },
-     "meta": {
-      "source": "events:3a0dec74.attack.204cc2:be4ddcfff2a9",
-      "value": [
-       "Breaking Swipe"
-      ],
-      "ja": null
-     }
-    },
-    "events:3a0dec74.attack.e1e7c0:1c922eeaae4d": {
-     "item": {
-      "id": "events:3a0dec74.attack.e1e7c0:1c922eeaae4d",
-      "kind": "auto-read",
-      "held": false,
-      "origin": {
-       "id": "page:pokemon-go-wild-area-2026-global",
-       "title": "Pokémon GO Wild Area 2026: Global",
-       "note": "The event's own page, read by two models"
-      },
-      "field": "Featured move · Hydreigon",
-      "order": 10,
-      "answerFormat": "names",
-      "answerHint": "Move names, separated by ;",
-      "readings": [
-       {
-        "who": "Both models",
-        "value": "Brutal Swing",
-        "quote": "Brutal SwingCharged Attack",
-        "url": "https://leekduck.com/events/pokemon-go-wild-area-2026-global/"
-       }
-      ],
-      "value": "Brutal Swing"
-     },
-     "meta": {
-      "source": "events:3a0dec74.attack.e1e7c0:1c922eeaae4d",
-      "value": [
-       "Brutal Swing"
-      ],
-      "ja": null
-     }
-    },
-    "events:3a0dec74.attack.f4a5e0:06267a4fbbef": {
-     "item": {
-      "id": "events:3a0dec74.attack.f4a5e0:06267a4fbbef",
-      "kind": "auto-read",
-      "held": false,
-      "origin": {
-       "id": "page:pokemon-go-wild-area-2026-global",
-       "title": "Pokémon GO Wild Area 2026: Global",
-       "note": "The event's own page, read by two models"
-      },
-      "field": "Featured move · Tinkaton",
-      "order": 11,
-      "answerFormat": "names",
-      "answerHint": "Move names, separated by ;",
-      "readings": [
-       {
-        "who": "Both models",
-        "value": "Gigaton Hammer",
-        "quote": "Gigaton HammerCharged Attack",
-        "url": "https://leekduck.com/events/pokemon-go-wild-area-2026-global/"
-       }
-      ],
-      "value": "Gigaton Hammer"
-     },
-     "meta": {
-      "source": "events:3a0dec74.attack.f4a5e0:06267a4fbbef",
-      "value": [
-       "Gigaton Hammer"
-      ],
-      "ja": null
-     }
-    },
-    "events:3a0dec74.rule.7f87e1:faf6630efc00": {
-     "item": {
-      "id": "events:3a0dec74.rule.7f87e1:faf6630efc00",
-      "kind": "model-disagreement",
-      "held": true,
-      "origin": {
-       "id": "page:pokemon-go-wild-area-2026-global",
-       "title": "Pokémon GO Wild Area 2026: Global",
-       "note": "The event's own page, read by two models"
-      },
-      "field": "Special rule · Gigantamax Duraludon Debuts",
-      "order": 12,
-      "answerFormat": "text",
-      "answerHint": "The sentence that states the rule",
-      "readings": [
-       {
-        "who": "Claude",
-        "value": "Not read",
-        "url": "https://leekduck.com/events/pokemon-go-wild-area-2026-global/"
-       },
-       {
-        "who": "GPT",
-        "value": "Ticket-holding Trainers can learn more about Gigantamax Duraludon in the event-exclusive Special Research story. Complete it for an encounter with Gigantamax Duraludon with a Special Background!",
-        "quote": "Ticket-holding Trainers can learn more about Gigantamax Duraludon in the event-exclusive Special Research story. Complete it for an encounter with Gigantamax Duraludon with a Special Background!",
-        "url": "https://leekduck.com/events/pokemon-go-wild-area-2026-global/"
-       }
-      ]
-     },
-     "meta": {
-      "source": "events:3a0dec74.rule.7f87e1:faf6630efc00",
-      "left": {
-       "quote": null,
-       "ja": null
-      },
-      "right": {
-       "value": "Ticket-holding Trainers can learn more about Gigantamax Duraludon in the event-exclusive Special Research story. Complete it for an encounter with Gigantamax Duraludon with a Special Background!",
-       "quote": "Ticket-holding Trainers can learn more about Gigantamax Duraludon in the event-exclusive Special Research story. Complete it for an encounter with Gigantamax Duraludon with a Special Background!",
-       "ja": null
-      }
-     }
-    },
-    "events:3a0dec74.rule.846f3a:32d37be9f942": {
-     "item": {
-      "id": "events:3a0dec74.rule.846f3a:32d37be9f942",
-      "kind": "model-disagreement",
-      "held": true,
-      "origin": {
-       "id": "page:pokemon-go-wild-area-2026-global",
-       "title": "Pokémon GO Wild Area 2026: Global",
-       "note": "The event's own page, read by two models"
-      },
-      "field": "Special rule · Dynamax Dialga and Dynamax Palkia",
-      "order": 13,
-      "answerFormat": "text",
-      "answerHint": "The sentence that states the rule",
-      "readings": [
-       {
-        "who": "Claude",
-        "value": "Not read",
-        "url": "https://leekduck.com/events/pokemon-go-wild-area-2026-global/"
-       },
-       {
-        "who": "GPT",
-        "value": "For Global, Dynamax Dialga appears on Saturday, November 14, and Dynamax Palkia appears on Sunday, November 15.",
-        "quote": "For Global, Dynamax Dialga appears on Saturday, November 14, and Dynamax Palkia appears on Sunday, November 15.",
-        "url": "https://leekduck.com/events/pokemon-go-wild-area-2026-global/"
-       }
-      ]
-     },
-     "meta": {
-      "source": "events:3a0dec74.rule.846f3a:32d37be9f942",
-      "left": {
-       "quote": null,
-       "ja": null
-      },
-      "right": {
-       "value": "For Global, Dynamax Dialga appears on Saturday, November 14, and Dynamax Palkia appears on Sunday, November 15.",
-       "quote": "For Global, Dynamax Dialga appears on Saturday, November 14, and Dynamax Palkia appears on Sunday, November 15.",
-       "ja": null
-      }
-     }
-    },
-    "events:3a0dec74.rule.aa00c4:2732fd334740": {
-     "item": {
-      "id": "events:3a0dec74.rule.aa00c4:2732fd334740",
-      "kind": "auto-read",
-      "held": false,
-      "origin": {
-       "id": "page:pokemon-go-wild-area-2026-global",
-       "title": "Pokémon GO Wild Area 2026: Global",
-       "note": "The event's own page, read by two models"
-      },
-      "field": "Special rule · Private Dynamax Battle Groups",
-      "order": 14,
-      "answerFormat": "text",
-      "answerHint": "The sentence that states the rule",
-      "readings": [
-       {
-        "who": "Both models",
-        "value": "Starting with GO Wild Area 2026, Dynamax Battle lobbies offer Battle to match automatically with other Trainers or Private Group to join an existing group using its group code.",
-        "quote": "Starting with GO Wild Area 2026, Dynamax Battle lobbies offer Battle to match automatically with other Trainers or Private Group to join an existing group using its group code.",
-        "url": "https://leekduck.com/events/pokemon-go-wild-area-2026-global/"
-       }
-      ],
-      "value": "Starting with GO Wild Area 2026, Dynamax Battle lobbies offer Battle to match automatically with other Trainers or Private Group to join an existing group using its group code."
-     },
-     "meta": {
-      "source": "events:3a0dec74.rule.aa00c4:2732fd334740",
-      "value": "Starting with GO Wild Area 2026, Dynamax Battle lobbies offer Battle to match automatically with other Trainers or Private Group to join an existing group using its group code.",
-      "ja": null
-     }
-    },
-    "events:3a0dec74.rule.202595:ecfb144d4b97": {
-     "item": {
-      "id": "events:3a0dec74.rule.202595:ecfb144d4b97",
-      "kind": "auto-read",
-      "held": false,
-      "origin": {
-       "id": "page:pokemon-go-wild-area-2026-global",
-       "title": "Pokémon GO Wild Area 2026: Global",
-       "note": "The event's own page, read by two models"
-      },
-      "field": "Special rule · Adventure Effects in Battle Lobbies",
-      "order": 15,
-      "answerFormat": "text",
-      "answerHint": "The sentence that states the rule",
-      "readings": [
-       {
-        "who": "Both models",
-        "value": "Starting with Into the Wild, select Adventure Effects can be activated while waiting in a raid or Max Battle lobby. Use Crowned Sword Zacian’s Behemoth Blade or Crowned Shield Zamazenta’s Behemoth Bash Adventure Effect before a Max Battle to help your group.",
-        "quote": "Starting with Into the Wild, select Adventure Effects can be activated while waiting in a raid or Max Battle lobby. Use Crowned Sword Zacian’s Behemoth Blade or Crowned Shield Zamazenta’s Behemoth Bash Adventure Effect before a Max Battle to help your group.",
-        "url": "https://leekduck.com/events/pokemon-go-wild-area-2026-global/"
-       }
-      ],
-      "value": "Starting with Into the Wild, select Adventure Effects can be activated while waiting in a raid or Max Battle lobby. Use Crowned Sword Zacian’s Behemoth Blade or Crowned Shield Zamazenta’s Behemoth Bash Adventure Effect before a Max Battle to help your group."
-     },
-     "meta": {
-      "source": "events:3a0dec74.rule.202595:ecfb144d4b97",
-      "value": "Starting with Into the Wild, select Adventure Effects can be activated while waiting in a raid or Max Battle lobby. Use Crowned Sword Zacian’s Behemoth Blade or Crowned Shield Zamazenta’s Behemoth Bash Adventure Effect before a Max Battle to help your group.",
-      "ja": null
-     }
-    },
-    "events:3a0dec74.rule.b1ef1a:7317308dc673": {
-     "item": {
-      "id": "events:3a0dec74.rule.b1ef1a:7317308dc673",
-      "kind": "auto-read",
-      "held": false,
-      "origin": {
-       "id": "page:pokemon-go-wild-area-2026-global",
-       "title": "Pokémon GO Wild Area 2026: Global",
-       "note": "The event's own page, read by two models"
-      },
-      "field": "Special rule · Machamp Wearing a Modern Jacket",
-      "order": 16,
-      "answerFormat": "text",
-      "answerHint": "The sentence that states the rule",
-      "readings": [
-       {
-        "who": "Both models",
-        "value": "A new costumed Machamp appears in three-star raids during the event. Lucky Trainers may encounter a Shiny one!",
-        "quote": "A new costumed Machamp appears in three-star raids during the event. Lucky Trainers may encounter a Shiny one!",
-        "url": "https://leekduck.com/events/pokemon-go-wild-area-2026-global/"
-       }
-      ],
-      "value": "A new costumed Machamp appears in three-star raids during the event. Lucky Trainers may encounter a Shiny one!"
-     },
-     "meta": {
-      "source": "events:3a0dec74.rule.b1ef1a:7317308dc673",
-      "value": "A new costumed Machamp appears in three-star raids during the event. Lucky Trainers may encounter a Shiny one!",
-      "ja": null
-     }
-    },
-    "events:3a0dec74.rule.a8db38:88cec8b27cc2": {
-     "item": {
-      "id": "events:3a0dec74.rule.a8db38:88cec8b27cc2",
-      "kind": "auto-read",
-      "held": false,
-      "origin": {
-       "id": "page:pokemon-go-wild-area-2026-global",
-       "title": "Pokémon GO Wild Area 2026: Global",
-       "note": "The event's own page, read by two models"
-      },
-      "field": "Special rule · Special Backgrounds",
-      "order": 17,
-      "answerFormat": "text",
-      "answerHint": "The sentence that states the rule",
-      "readings": [
-       {
-        "who": "Both models",
-        "value": "After a successful catch from raids or Max Battles, Machamp wearing a modern jacket, Dynamax Dialga, Dynamax Palkia, Reshiram, Zekrom, Kyurem, and Gigantamax Duraludon have a chance to have a new Special Background.",
-        "quote": "After a successful catch from raids or Max Battles, Machamp wearing a modern jacket, Dynamax Dialga, Dynamax Palkia, Reshiram, Zekrom, Kyurem, and Gigantamax Duraludon have a chance to have a new Special Background.",
-        "url": "https://leekduck.com/events/pokemon-go-wild-area-2026-global/"
-       }
-      ],
-      "value": "After a successful catch from raids or Max Battles, Machamp wearing a modern jacket, Dynamax Dialga, Dynamax Palkia, Reshiram, Zekrom, Kyurem, and Gigantamax Duraludon have a chance to have a new Special Background."
-     },
-     "meta": {
-      "source": "events:3a0dec74.rule.a8db38:88cec8b27cc2",
-      "value": "After a successful catch from raids or Max Battles, Machamp wearing a modern jacket, Dynamax Dialga, Dynamax Palkia, Reshiram, Zekrom, Kyurem, and Gigantamax Duraludon have a chance to have a new Special Background.",
-      "ja": null
-     }
-    },
-    "events:3a0dec74.rule.4b289d:589460fbcba3": {
-     "item": {
-      "id": "events:3a0dec74.rule.4b289d:589460fbcba3",
-      "kind": "auto-read",
-      "held": false,
-      "origin": {
-       "id": "page:pokemon-go-wild-area-2026-global",
-       "title": "Pokémon GO Wild Area 2026: Global",
-       "note": "The event's own page, read by two models"
-      },
-      "field": "Special rule · Backgrounds on Your Trainer Profile",
-      "order": 18,
-      "answerFormat": "text",
-      "answerHint": "The sentence that states the rule",
-      "readings": [
-       {
-        "who": "Both models",
-        "value": "Your buddy Pokémon’s eligible Location Background or Special Background can now appear on your Trainer profile, where friends can see it too. Background support rolls out on the following schedule:",
-        "quote": "Your buddy Pokémon’s eligible Location Background or Special Background can now appear on your Trainer profile, where friends can see it too. Background support rolls out on the following schedule:",
-        "url": "https://leekduck.com/events/pokemon-go-wild-area-2026-global/"
-       }
-      ],
-      "value": "Your buddy Pokémon’s eligible Location Background or Special Background can now appear on your Trainer profile, where friends can see it too. Background support rolls out on the following schedule:"
-     },
-     "meta": {
-      "source": "events:3a0dec74.rule.4b289d:589460fbcba3",
-      "value": "Your buddy Pokémon’s eligible Location Background or Special Background can now appear on your Trainer profile, where friends can see it too. Background support rolls out on the following schedule:",
-      "ja": null
-     }
-    },
-    "events:3a0dec74.rule.2becd4:4bdf46466c11": {
-     "item": {
-      "id": "events:3a0dec74.rule.2becd4:4bdf46466c11",
-      "kind": "auto-read",
-      "held": false,
-      "origin": {
-       "id": "page:pokemon-go-wild-area-2026-global",
-       "title": "Pokémon GO Wild Area 2026: Global",
-       "note": "The event's own page, read by two models"
-      },
-      "field": "Special rule · Mighty Latias and Latios",
-      "order": 19,
-      "answerFormat": "text",
-      "answerHint": "The sentence that states the rule",
-      "readings": [
-       {
-        "who": "Both models",
-        "value": "Ticket holders may attract mighty Latias and Latios with Incense, excluding Daily Adventure Incense, on both event days. Both can be Shiny and are quick to flee, so keep GO Safari Balls ready.",
-        "quote": "Ticket holders may attract mighty Latias and Latios with Incense, excluding Daily Adventure Incense, on both event days. Both can be Shiny and are quick to flee, so keep GO Safari Balls ready.",
-        "url": "https://leekduck.com/events/pokemon-go-wild-area-2026-global/"
-       }
-      ],
-      "value": "Ticket holders may attract mighty Latias and Latios with Incense, excluding Daily Adventure Incense, on both event days. Both can be Shiny and are quick to flee, so keep GO Safari Balls ready."
-     },
-     "meta": {
-      "source": "events:3a0dec74.rule.2becd4:4bdf46466c11",
-      "value": "Ticket holders may attract mighty Latias and Latios with Incense, excluding Daily Adventure Incense, on both event days. Both can be Shiny and are quick to flee, so keep GO Safari Balls ready.",
-      "ja": null
-     }
-    },
-    "events:3a0dec74.rule.8f8309:d9cf3bf3ce2b": {
-     "item": {
-      "id": "events:3a0dec74.rule.8f8309:d9cf3bf3ce2b",
-      "kind": "auto-read",
-      "held": false,
-      "origin": {
-       "id": "page:pokemon-go-wild-area-2026-global",
-       "title": "Pokémon GO Wild Area 2026: Global",
-       "note": "The event's own page, read by two models"
-      },
-      "field": "Special rule · GO Safari Balls",
-      "order": 20,
-      "answerFormat": "text",
-      "answerHint": "The sentence that states the rule",
-      "readings": [
-       {
-        "who": "Both models",
-        "value": "They can only be used from 10:00 a.m. to 6:00 p.m. local time on event days and become inaccessible after the event ends.",
-        "quote": "They can only be used from 10:00 a.m. to 6:00 p.m. local time on event days and become inaccessible after the event ends.",
-        "url": "https://leekduck.com/events/pokemon-go-wild-area-2026-global/"
-       }
-      ],
-      "value": "They can only be used from 10:00 a.m. to 6:00 p.m. local time on event days and become inaccessible after the event ends."
-     },
-     "meta": {
-      "source": "events:3a0dec74.rule.8f8309:d9cf3bf3ce2b",
-      "value": "They can only be used from 10:00 a.m. to 6:00 p.m. local time on event days and become inaccessible after the event ends.",
-      "ja": null
-     }
-    },
-    "events:3a0dec74.rule.a7fd34:e91a4c649019": {
-     "item": {
-      "id": "events:3a0dec74.rule.a7fd34:e91a4c649019",
-      "kind": "auto-read",
-      "held": false,
-      "origin": {
-       "id": "page:pokemon-go-wild-area-2026-global",
-       "title": "Pokémon GO Wild Area 2026: Global",
-       "note": "The event's own page, read by two models"
-      },
-      "field": "Special rule · Supply Balloons",
-      "order": 21,
-      "answerFormat": "text",
-      "answerHint": "The sentence that states the rule",
-      "readings": [
-       {
-        "who": "Both models",
-        "value": "Ticket holders receive a Supply Balloon every hour during event hours. Each one gives 15 GO Safari Balls.",
-        "quote": "Ticket holders receive a Supply Balloon every hour during event hours. Each one gives 15 GO Safari Balls.",
-        "url": "https://leekduck.com/events/pokemon-go-wild-area-2026-global/"
-       }
-      ],
-      "value": "Ticket holders receive a Supply Balloon every hour during event hours. Each one gives 15 GO Safari Balls."
-     },
-     "meta": {
-      "source": "events:3a0dec74.rule.a7fd34:e91a4c649019",
-      "value": "Ticket holders receive a Supply Balloon every hour during event hours. Each one gives 15 GO Safari Balls.",
-      "ja": null
-     }
-    },
-    "events:3a0dec74.rule.2220b4:b44291ba69c5": {
-     "item": {
-      "id": "events:3a0dec74.rule.2220b4:b44291ba69c5",
-      "kind": "auto-read",
-      "held": false,
-      "origin": {
-       "id": "page:pokemon-go-wild-area-2026-global",
-       "title": "Pokémon GO Wild Area 2026: Global",
-       "note": "The event's own page, read by two models"
-      },
-      "field": "Special rule · GO Snapshot, Routes, and Party Play",
-      "order": 22,
-      "answerFormat": "text",
-      "answerHint": "The sentence that states the rule",
-      "readings": [
-       {
-        "who": "Both models",
-        "value": "Take snapshots for surprise encounters with Steel- and Dragon-type Pokémon. Explore Routes for a chance to find mighty Pokémon, and enjoy Party Play sessions lasting eight hours.",
-        "quote": "Take snapshots for surprise encounters with Steel- and Dragon-type Pokémon. Explore Routes for a chance to find mighty Pokémon, and enjoy Party Play sessions lasting eight hours.",
-        "url": "https://leekduck.com/events/pokemon-go-wild-area-2026-global/"
-       }
-      ],
-      "value": "Take snapshots for surprise encounters with Steel- and Dragon-type Pokémon. Explore Routes for a chance to find mighty Pokémon, and enjoy Party Play sessions lasting eight hours."
-     },
-     "meta": {
-      "source": "events:3a0dec74.rule.2220b4:b44291ba69c5",
-      "value": "Take snapshots for surprise encounters with Steel- and Dragon-type Pokémon. Explore Routes for a chance to find mighty Pokémon, and enjoy Party Play sessions lasting eight hours.",
-      "ja": null
-     }
-    }
-   },
-   "open": [
-    "events:3a0dec74.debut.dynamax:7247b053a232",
-    "events:3a0dec74.debut.gigantamax:c2598af0c0a2",
-    "events:3a0dec74.attack.c345a4:18b87399bc97",
-    "events:3a0dec74.attack.c65d1d:02815806bd24",
-    "events:3a0dec74.attack.78d4db:8954bdf7402f",
-    "events:3a0dec74.attack.956aef:bf9bd75cba10",
-    "events:3a0dec74.attack.204cc2:be4ddcfff2a9",
-    "events:3a0dec74.attack.e1e7c0:1c922eeaae4d",
-    "events:3a0dec74.attack.f4a5e0:06267a4fbbef",
-    "events:3a0dec74.rule.7f87e1:faf6630efc00",
-    "events:3a0dec74.rule.846f3a:32d37be9f942",
-    "events:3a0dec74.rule.aa00c4:2732fd334740",
-    "events:3a0dec74.rule.202595:ecfb144d4b97",
-    "events:3a0dec74.rule.b1ef1a:7317308dc673",
-    "events:3a0dec74.rule.a8db38:88cec8b27cc2",
-    "events:3a0dec74.rule.4b289d:589460fbcba3",
-    "events:3a0dec74.rule.2becd4:4bdf46466c11",
-    "events:3a0dec74.rule.8f8309:d9cf3bf3ce2b",
-    "events:3a0dec74.rule.a7fd34:e91a4c649019",
-    "events:3a0dec74.rule.2220b4:b44291ba69c5"
-   ]
-  },
   "go-wild-area-gigantamax-machamp-power-up-timed-research": {
    "readers": [
     "Claude",
@@ -1705,7 +833,7 @@
     "Claude",
     "GPT"
    ],
-   "hash": "sha256-16970ba0b79ce630f1df42403514dc787d5887e053e9b57d2807d59e4a6b7234",
+   "hash": "sha256-eeeacd805d3df499f571836d69aa119bf839fbb7fc27218e9e36caf0a3517ced",
    "readings": [
     {
      "debuts": [],
@@ -3344,6 +2472,150 @@
    "seen": {},
    "open": []
   },
+  "duolingo-timed-research-2026": {
+   "readers": [
+    "Claude",
+    "GPT"
+   ],
+   "hash": "sha256-ed456ff0a74a6c59d6db4d16a3b3ee4dee9fed6f39a13993ee4f2ad1b3bb9933",
+   "readings": [
+    {
+     "debuts": [],
+     "featured_attacks": [],
+     "special_rules": [
+      {
+       "heading": "Duo’s Pokémon Party",
+       "quote": "Join Duo’s Pokémon Party, a limited-time quest, on the latest version of the Duolingo app. Do a lesson in any course to earn your first reward, then earn a new reward each day that you do at least one lesson. Rewards include up to four Pokémon suits for your Duolingo avatar and an offer code for Timed Research in Pokémon GO."
+      },
+      {
+       "heading": "How to Get the Timed Research",
+       "quote": "Do at least one lesson a day on seven different days by December 29."
+      },
+      {
+       "heading": "Language Tag",
+       "quote": "Some Pokémon from this Timed Research will have a new language tag on their summary page. Tap the tag to see the Pokémon’s name in other languages."
+      }
+     ],
+     "season_groups": []
+    },
+    {
+     "debuts": [],
+     "featured_attacks": [],
+     "special_rules": [
+      {
+       "heading": "Duo’s Pokémon Party",
+       "quote": "Join Duo’s Pokémon Party, a limited-time quest, on the latest version of the Duolingo app. Do a lesson in any course to earn your first reward, then earn a new reward each day that you do at least one lesson. Rewards include up to four Pokémon suits for your Duolingo avatar and an offer code for Timed Research in Pokémon GO."
+      },
+      {
+       "heading": "How to Get the Timed Research",
+       "quote": "Do at least one lesson a day on seven different days by December 29."
+      },
+      {
+       "heading": "Language Tag",
+       "quote": "Some Pokémon from this Timed Research will have a new language tag on their summary page. Tap the tag to see the Pokémon’s name in other languages."
+      }
+     ],
+     "season_groups": []
+    }
+   ],
+   "seen": {
+    "events:7750f37c.rule.221417:a027d5bab23b": {
+     "item": {
+      "id": "events:7750f37c.rule.221417:a027d5bab23b",
+      "kind": "auto-read",
+      "held": false,
+      "origin": {
+       "id": "page:duolingo-timed-research-2026",
+       "title": "Pokémon GO and Duolingo Timed Research",
+       "note": "The event's own page, read by two models"
+      },
+      "field": "Special rule · Duo’s Pokémon Party",
+      "order": 5,
+      "answerFormat": "text",
+      "answerHint": "The sentence that states the rule",
+      "readings": [
+       {
+        "who": "Both models",
+        "value": "Join Duo’s Pokémon Party, a limited-time quest, on the latest version of the Duolingo app. Do a lesson in any course to earn your first reward, then earn a new reward each day that you do at least one lesson. Rewards include up to four Pokémon suits for your Duolingo avatar and an offer code for Timed Research in Pokémon GO.",
+        "quote": "Join Duo’s Pokémon Party, a limited-time quest, on the latest version of the Duolingo app. Do a lesson in any course to earn your first reward, then earn a new reward each day that you do at least one lesson. Rewards include up to four Pokémon suits for your Duolingo avatar and an offer code for Timed Research in Pokémon GO.",
+        "url": "https://leekduck.com/events/duolingo-timed-research-2026/"
+       }
+      ],
+      "value": "Join Duo’s Pokémon Party, a limited-time quest, on the latest version of the Duolingo app. Do a lesson in any course to earn your first reward, then earn a new reward each day that you do at least one lesson. Rewards include up to four Pokémon suits for your Duolingo avatar and an offer code for Timed Research in Pokémon GO."
+     },
+     "meta": {
+      "source": "events:7750f37c.rule.221417:a027d5bab23b",
+      "value": "Join Duo’s Pokémon Party, a limited-time quest, on the latest version of the Duolingo app. Do a lesson in any course to earn your first reward, then earn a new reward each day that you do at least one lesson. Rewards include up to four Pokémon suits for your Duolingo avatar and an offer code for Timed Research in Pokémon GO.",
+      "ja": null
+     }
+    },
+    "events:7750f37c.rule.40a6c2:c8754601f02d": {
+     "item": {
+      "id": "events:7750f37c.rule.40a6c2:c8754601f02d",
+      "kind": "auto-read",
+      "held": false,
+      "origin": {
+       "id": "page:duolingo-timed-research-2026",
+       "title": "Pokémon GO and Duolingo Timed Research",
+       "note": "The event's own page, read by two models"
+      },
+      "field": "Special rule · How to Get the Timed Research",
+      "order": 6,
+      "answerFormat": "text",
+      "answerHint": "The sentence that states the rule",
+      "readings": [
+       {
+        "who": "Both models",
+        "value": "Do at least one lesson a day on seven different days by December 29.",
+        "quote": "Do at least one lesson a day on seven different days by December 29.",
+        "url": "https://leekduck.com/events/duolingo-timed-research-2026/"
+       }
+      ],
+      "value": "Do at least one lesson a day on seven different days by December 29."
+     },
+     "meta": {
+      "source": "events:7750f37c.rule.40a6c2:c8754601f02d",
+      "value": "Do at least one lesson a day on seven different days by December 29.",
+      "ja": null
+     }
+    },
+    "events:7750f37c.rule.7e88d0:d20c78f4039b": {
+     "item": {
+      "id": "events:7750f37c.rule.7e88d0:d20c78f4039b",
+      "kind": "auto-read",
+      "held": false,
+      "origin": {
+       "id": "page:duolingo-timed-research-2026",
+       "title": "Pokémon GO and Duolingo Timed Research",
+       "note": "The event's own page, read by two models"
+      },
+      "field": "Special rule · Language Tag",
+      "order": 7,
+      "answerFormat": "text",
+      "answerHint": "The sentence that states the rule",
+      "readings": [
+       {
+        "who": "Both models",
+        "value": "Some Pokémon from this Timed Research will have a new language tag on their summary page. Tap the tag to see the Pokémon’s name in other languages.",
+        "quote": "Some Pokémon from this Timed Research will have a new language tag on their summary page. Tap the tag to see the Pokémon’s name in other languages.",
+        "url": "https://leekduck.com/events/duolingo-timed-research-2026/"
+       }
+      ],
+      "value": "Some Pokémon from this Timed Research will have a new language tag on their summary page. Tap the tag to see the Pokémon’s name in other languages."
+     },
+     "meta": {
+      "source": "events:7750f37c.rule.7e88d0:d20c78f4039b",
+      "value": "Some Pokémon from this Timed Research will have a new language tag on their summary page. Tap the tag to see the Pokémon’s name in other languages.",
+      "ja": null
+     }
+    }
+   },
+   "open": [
+    "events:7750f37c.rule.221417:a027d5bab23b",
+    "events:7750f37c.rule.40a6c2:c8754601f02d",
+    "events:7750f37c.rule.7e88d0:d20c78f4039b"
+   ]
+  },
   "january-communitydayclassic2027": {
    "readers": [
     "Claude",
@@ -4237,1261 +3509,6 @@
   }
  },
  "parsed": {
-  "pokemon-go-wild-area-2026-global": {
-   "description": [
-    {
-     "kind": "text",
-     "text": "GO Wild Area returns in 2026 with Steel- and Dragon-type Pokémon, the debuts of Gigantamax Duraludon, Dynamax Dialga, and Dynamax Palkia, and powerful mighty Pokémon. Collect GO Safari Balls to help catch these challenging encounters!"
-    },
-    {
-     "kind": "text",
-     "text": "Dates: November 14 and 15, 2026"
-    },
-    {
-     "kind": "text",
-     "text": "Time: 10:00 a.m. – 6:00 p.m. local time each day"
-    },
-    {
-     "kind": "text",
-     "text": "Location: Worldwide"
-    },
-    {
-     "kind": "text",
-     "text": "All Trainers can participate in the global event. An optional US$11.99 ticket adds Special Research, increased Shiny chances, extra Incense encounters, and additional bonuses across both days. Purchase a ticket from the Pokémon GO Web Store."
-    }
-   ],
-   "research": [
-    {
-     "kind": "field",
-     "title": "Field Research",
-     "step": null,
-     "tasks": [
-      {
-       "text": "Catch 2 mighty Pokémon",
-       "rewards": [
-        {
-         "type": "encounter",
-         "name": "Mighty Aggron",
-         "image": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pokemon_icon_306_00.png",
-         "shiny": true,
-         "cp": {
-          "min": 1227,
-          "max": 1285
-         }
-        },
-        {
-         "type": "encounter",
-         "name": "Mighty Ferrothorn",
-         "image": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pokemon_icon_598_00.png",
-         "shiny": true,
-         "cp": {
-          "min": 943,
-          "max": 995
-         }
-        },
-        {
-         "type": "encounter",
-         "name": "Mighty Magnezone",
-         "image": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pokemon_icon_462_00.png",
-         "shiny": true,
-         "cp": {
-          "min": 1313,
-          "max": 1373
-         }
-        },
-        {
-         "type": "encounter",
-         "name": "Mighty Scizor",
-         "image": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pokemon_icon_212_00.png",
-         "shiny": true,
-         "cp": {
-          "min": 1227,
-          "max": 1286
-         }
-        }
-       ]
-      },
-      {
-       "text": "Catch 10 Steel‑type Pokémon",
-       "rewards": [
-        {
-         "type": "encounter",
-         "name": "Ferroseed",
-         "image": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pokemon_icon_597_00.png",
-         "shiny": true,
-         "cp": {
-          "min": 370,
-          "max": 403
-         }
-        },
-        {
-         "type": "encounter",
-         "name": "Magnemite",
-         "image": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pokemon_icon_081_00.png",
-         "shiny": true,
-         "cp": {
-          "min": 544,
-          "max": 583
-         }
-        },
-        {
-         "type": "encounter",
-         "name": "Piplup",
-         "image": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pokemon_icon_393_00.png",
-         "shiny": true,
-         "cp": {
-          "min": 426,
-          "max": 460
-         }
-        },
-        {
-         "type": "encounter",
-         "name": "Shieldon",
-         "image": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pokemon_icon_410_00.png",
-         "shiny": true,
-         "cp": {
-          "min": 348,
-          "max": 381
-         }
-        }
-       ]
-      },
-      {
-       "text": "Catch 4 different species of Steel‑type Pokémon",
-       "rewards": [
-        {
-         "type": "encounter",
-         "name": "Duraludon",
-         "image": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm884.icon.png",
-         "shiny": true,
-         "cp": {
-          "min": 1255,
-          "max": 1314
-         }
-        },
-        {
-         "type": "encounter",
-         "name": "Lucario",
-         "image": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pokemon_icon_448_00.png",
-         "shiny": true,
-         "cp": {
-          "min": 1102,
-          "max": 1158
-         }
-        }
-       ]
-      },
-      {
-       "text": "Make an Excellent Throw",
-       "rewards": [
-        {
-         "type": "item",
-         "name": "Golden Razz Berry",
-         "quantity": 1,
-         "image": "https://cdn.leekduck.com/assets/img/items/Golden Razz Berry.png"
-        },
-        {
-         "type": "item",
-         "name": "Silver Pinap Berry",
-         "quantity": 1,
-         "image": "https://cdn.leekduck.com/assets/img/items/Silver Pinap Berry.png"
-        }
-       ]
-      },
-      {
-       "text": "Use a Steel‑type Charged Attack in a battle",
-       "rewards": [
-        {
-         "type": "encounter",
-         "name": "Bronzor",
-         "image": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pokemon_icon_436_00.png",
-         "shiny": true,
-         "cp": {
-          "min": 229,
-          "max": 258
-         }
-        },
-        {
-         "type": "encounter",
-         "name": "Onix",
-         "image": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pokemon_icon_095_00.png",
-         "shiny": true,
-         "cp": {
-          "min": 435,
-          "max": 472
-         }
-        },
-        {
-         "type": "encounter",
-         "name": "Skarmory",
-         "image": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pokemon_icon_227_00.png",
-         "shiny": true,
-         "cp": {
-          "min": 854,
-          "max": 903
-         }
-        }
-       ]
-      },
-      {
-       "text": "Win 2 Max Battles",
-       "rewards": [
-        {
-         "type": "encounter",
-         "name": "Mighty Metagross",
-         "image": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pokemon_icon_376_00.png",
-         "shiny": true,
-         "cp": {
-          "min": 1559,
-          "max": 1625
-         }
-        },
-        {
-         "type": "encounter",
-         "name": "Mighty Tinkaton",
-         "image": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm959.icon.png",
-         "shiny": true,
-         "cp": {
-          "min": 914,
-          "max": 964
-         }
-        }
-       ]
-      },
-      {
-       "text": "Hatch an Egg",
-       "rewards": [
-        {
-         "type": "encounter",
-         "name": "Beldum",
-         "image": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pokemon_icon_374_00.png",
-         "shiny": true,
-         "cp": {
-          "min": 385,
-          "max": 418
-         }
-        },
-        {
-         "type": "encounter",
-         "name": "Bronzor",
-         "image": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pokemon_icon_436_00.png",
-         "shiny": true,
-         "cp": {
-          "min": 229,
-          "max": 258
-         }
-        },
-        {
-         "type": "encounter",
-         "name": "Drilbur",
-         "image": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pokemon_icon_529_00.png",
-         "shiny": true,
-         "cp": {
-          "min": 549,
-          "max": 589
-         }
-        }
-       ]
-      },
-      {
-       "text": "Spin 5 PokéStops or Gyms",
-       "rewards": [
-        {
-         "type": "item",
-         "name": "Great Ball",
-         "quantity": 3,
-         "image": "https://cdn.leekduck.com/assets/img/items/Great Ball.png"
-        },
-        {
-         "type": "item",
-         "name": "Poké Ball",
-         "quantity": 5,
-         "image": "https://cdn.leekduck.com/assets/img/items/Poke Ball.png"
-        },
-        {
-         "type": "item",
-         "name": "Stardust",
-         "quantity": 500,
-         "image": "https://cdn.leekduck.com/assets/img/items/Stardust.png"
-        },
-        {
-         "type": "item",
-         "name": "Ultra Ball",
-         "quantity": 2,
-         "image": "https://cdn.leekduck.com/assets/img/items/Ultra Ball.png"
-        }
-       ]
-      },
-      {
-       "text": "Power up Steel‑type Pokémon 5 times",
-       "rewards": [
-        {
-         "type": "encounter",
-         "name": "Alolan Diglett",
-         "image": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pokemon_icon_050_61.png",
-         "shiny": true,
-         "cp": {
-          "min": 264,
-          "max": 292
-         }
-        },
-        {
-         "type": "encounter",
-         "name": "Alolan Sandshrew",
-         "image": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pokemon_icon_027_61.png",
-         "shiny": true,
-         "cp": {
-          "min": 516,
-          "max": 554
-         }
-        },
-        {
-         "type": "encounter",
-         "name": "Galarian Stunfisk",
-         "image": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pokemon_icon_618_31.png",
-         "shiny": true,
-         "cp": {
-          "min": 876,
-          "max": 926
-         }
-        }
-       ]
-      },
-      {
-       "text": "Catch 10 Dragon‑type Pokémon",
-       "rewards": [
-        {
-         "type": "encounter",
-         "name": "Charmander",
-         "image": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pokemon_icon_004_00.png",
-         "shiny": true,
-         "cp": {
-          "min": 387,
-          "max": 420
-         }
-        },
-        {
-         "type": "encounter",
-         "name": "Skrelp",
-         "image": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pokemon_icon_690_00.png",
-         "shiny": true,
-         "cp": {
-          "min": 421,
-          "max": 455
-         }
-        },
-        {
-         "type": "encounter",
-         "name": "Swablu",
-         "image": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pokemon_icon_333_00.png",
-         "shiny": true,
-         "cp": {
-          "min": 322,
-          "max": 353
-         }
-        },
-        {
-         "type": "encounter",
-         "name": "Trapinch",
-         "image": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pokemon_icon_328_00.png",
-         "shiny": true,
-         "cp": {
-          "min": 507,
-          "max": 546
-         }
-        }
-       ]
-      },
-      {
-       "text": "Catch 4 different species of Dragon‑type Pokémon",
-       "rewards": [
-        {
-         "type": "encounter",
-         "name": "Duraludon",
-         "image": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm884.icon.png",
-         "shiny": true,
-         "cp": {
-          "min": 1255,
-          "max": 1314
-         }
-        },
-        {
-         "type": "encounter",
-         "name": "Turtonator",
-         "image": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm776.icon.png",
-         "shiny": true,
-         "cp": {
-          "min": 902,
-          "max": 952
-         }
-        }
-       ]
-      },
-      {
-       "text": "Catch 2 mighty Pokémon",
-       "rewards": [
-        {
-         "type": "encounter",
-         "name": "Mighty Alolan Exeggutor",
-         "image": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pokemon_icon_103_61.png",
-         "shiny": true,
-         "cp": {
-          "min": 1233,
-          "max": 1292
-         }
-        },
-        {
-         "type": "encounter",
-         "name": "Mighty Haxorus",
-         "image": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pokemon_icon_612_00.png",
-         "shiny": true,
-         "cp": {
-          "min": 1475,
-          "max": 1540
-         }
-        },
-        {
-         "type": "encounter",
-         "name": "Mighty Kingdra",
-         "image": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pokemon_icon_230_00.png",
-         "shiny": true,
-         "cp": {
-          "min": 1077,
-          "max": 1132
-         }
-        },
-        {
-         "type": "encounter",
-         "name": "Mighty Noivern",
-         "image": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pokemon_icon_715_00.png",
-         "shiny": true,
-         "cp": {
-          "min": 1129,
-          "max": 1184
-         }
-        }
-       ]
-      },
-      {
-       "text": "Make an Excellent Throw",
-       "rewards": [
-        {
-         "type": "item",
-         "name": "Golden Razz Berry",
-         "quantity": 1,
-         "image": "https://cdn.leekduck.com/assets/img/items/Golden Razz Berry.png"
-        },
-        {
-         "type": "item",
-         "name": "Silver Pinap Berry",
-         "quantity": 1,
-         "image": "https://cdn.leekduck.com/assets/img/items/Silver Pinap Berry.png"
-        }
-       ]
-      },
-      {
-       "text": "Use a Dragon‑type Charged Attack in a battle",
-       "rewards": [
-        {
-         "type": "encounter",
-         "name": "Frigibax",
-         "image": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm996.icon.png",
-         "shiny": true,
-         "cp": {
-          "min": 496,
-          "max": 534
-         }
-        },
-        {
-         "type": "encounter",
-         "name": "Goomy",
-         "image": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pokemon_icon_704_00.png",
-         "shiny": true,
-         "cp": {
-          "min": 385,
-          "max": 418
-         }
-        },
-        {
-         "type": "encounter",
-         "name": "Jangmo-o",
-         "image": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm782.icon.png",
-         "shiny": true,
-         "cp": {
-          "min": 382,
-          "max": 415
-         }
-        }
-       ]
-      },
-      {
-       "text": "Win 2 raids",
-       "rewards": [
-        {
-         "type": "encounter",
-         "name": "Mighty Flygon",
-         "image": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pokemon_icon_330_00.png",
-         "shiny": true,
-         "cp": {
-          "min": 1085,
-          "max": 1140
-         }
-        },
-        {
-         "type": "encounter",
-         "name": "Mighty Goodra",
-         "image": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pokemon_icon_706_00.png",
-         "shiny": true,
-         "cp": {
-          "min": 1439,
-          "max": 1502
-         }
-        }
-       ]
-      },
-      {
-       "text": "Hatch an Egg",
-       "rewards": [
-        {
-         "type": "encounter",
-         "name": "Axew",
-         "image": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pokemon_icon_610_00.png",
-         "shiny": true,
-         "cp": {
-          "min": 547,
-          "max": 586
-         }
-        },
-        {
-         "type": "encounter",
-         "name": "Noibat",
-         "image": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pokemon_icon_714_00.png",
-         "shiny": true,
-         "cp": {
-          "min": 258,
-          "max": 285
-         }
-        },
-        {
-         "type": "encounter",
-         "name": "Tyrunt",
-         "image": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm696.icon.png",
-         "shiny": true,
-         "cp": {
-          "min": 658,
-          "max": 700
-         }
-        }
-       ]
-      },
-      {
-       "text": "Spin 5 PokéStops or Gyms",
-       "rewards": [
-        {
-         "type": "item",
-         "name": "Great Ball",
-         "quantity": 3,
-         "image": "https://cdn.leekduck.com/assets/img/items/Great Ball.png"
-        },
-        {
-         "type": "item",
-         "name": "Poké Ball",
-         "quantity": 5,
-         "image": "https://cdn.leekduck.com/assets/img/items/Poke Ball.png"
-        },
-        {
-         "type": "item",
-         "name": "Stardust",
-         "quantity": 500,
-         "image": "https://cdn.leekduck.com/assets/img/items/Stardust.png"
-        },
-        {
-         "type": "item",
-         "name": "Ultra Ball",
-         "quantity": 2,
-         "image": "https://cdn.leekduck.com/assets/img/items/Ultra Ball.png"
-        }
-       ]
-      },
-      {
-       "text": "Power up Dragon‑type Pokémon 5 times",
-       "rewards": [
-        {
-         "type": "encounter",
-         "name": "Deino",
-         "image": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pokemon_icon_633_00.png",
-         "shiny": true,
-         "cp": {
-          "min": 420,
-          "max": 455
-         }
-        },
-        {
-         "type": "encounter",
-         "name": "Dratini",
-         "image": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pokemon_icon_147_00.png",
-         "shiny": true,
-         "cp": {
-          "min": 397,
-          "max": 430
-         }
-        },
-        {
-         "type": "encounter",
-         "name": "Gible",
-         "image": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pokemon_icon_443_00.png",
-         "shiny": true,
-         "cp": {
-          "min": 441,
-          "max": 477
-         }
-        }
-       ]
-      }
-     ],
-     "rewards": []
-    }
-   ],
-   "pokemon": [
-    {
-     "group": "Wild",
-     "name": "Alolan Sandshrew",
-     "written": "Alolan Sandshrew",
-     "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_027_61.png",
-     "shiny": true
-    },
-    {
-     "group": "Wild",
-     "name": "Alolan Diglett",
-     "written": "Alolan Diglett",
-     "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_050_61.png",
-     "shiny": true
-    },
-    {
-     "group": "Wild",
-     "name": "Magnemite",
-     "written": "Magnemite",
-     "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_081_00.png",
-     "shiny": true
-    },
-    {
-     "group": "Wild",
-     "name": "Shellder",
-     "written": "Shellder",
-     "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_090_00.png",
-     "shiny": true
-    },
-    {
-     "group": "Wild",
-     "name": "Onix",
-     "written": "Onix",
-     "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_095_00.png",
-     "shiny": true
-    },
-    {
-     "group": "Wild",
-     "name": "Porygon",
-     "written": "Porygon",
-     "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_137_00.png",
-     "shiny": true
-    },
-    {
-     "group": "Wild",
-     "name": "Shuckle",
-     "written": "Shuckle",
-     "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_213_00.png",
-     "shiny": true
-    },
-    {
-     "group": "Wild",
-     "name": "Skarmory",
-     "written": "Skarmory",
-     "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_227_00.png",
-     "shiny": true
-    },
-    {
-     "group": "Wild",
-     "name": "Nosepass",
-     "written": "Nosepass",
-     "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_299_00.png",
-     "shiny": true
-    },
-    {
-     "group": "Wild",
-     "name": "Aron",
-     "written": "Aron",
-     "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_304_00.png",
-     "shiny": true
-    },
-    {
-     "group": "Wild",
-     "name": "Beldum",
-     "written": "Beldum",
-     "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_374_00.png",
-     "shiny": true
-    },
-    {
-     "group": "Wild",
-     "name": "Piplup",
-     "written": "Piplup",
-     "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_393_00.png",
-     "shiny": true
-    },
-    {
-     "group": "Wild",
-     "name": "Shieldon",
-     "written": "Shieldon",
-     "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_410_00.png",
-     "shiny": true
-    },
-    {
-     "group": "Wild",
-     "name": "Bronzor",
-     "written": "Bronzor",
-     "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_436_00.png",
-     "shiny": true
-    },
-    {
-     "group": "Wild",
-     "name": "Lucario",
-     "written": "Lucario",
-     "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_448_00.png",
-     "shiny": true
-    },
-    {
-     "group": "Wild",
-     "name": "Drilbur",
-     "written": "Drilbur",
-     "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_529_00.png",
-     "shiny": true
-    },
-    {
-     "group": "Wild",
-     "name": "Ferroseed",
-     "written": "Ferroseed",
-     "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_597_00.png",
-     "shiny": true
-    },
-    {
-     "group": "Wild",
-     "name": "Klink",
-     "written": "Klink",
-     "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_599_00.png",
-     "shiny": true
-    },
-    {
-     "group": "Wild",
-     "name": "Galarian Stunfisk",
-     "written": "Galarian Stunfisk",
-     "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_618_31.png",
-     "shiny": false
-    },
-    {
-     "group": "Wild",
-     "name": "Durant",
-     "written": "Durant",
-     "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_632_00.png",
-     "shiny": true
-    },
-    {
-     "group": "Wild",
-     "name": "Rookidee",
-     "written": "Rookidee",
-     "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm821.icon.png",
-     "shiny": true
-    },
-    {
-     "group": "Wild",
-     "name": "Tinkatink",
-     "written": "Tinkatink",
-     "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm957.icon.png",
-     "shiny": true
-    },
-    {
-     "group": "Wild",
-     "name": "Charmander",
-     "written": "Charmander",
-     "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_004_00.png",
-     "shiny": true
-    },
-    {
-     "group": "Wild",
-     "name": "Magikarp",
-     "written": "Magikarp",
-     "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_129_00.png",
-     "shiny": true
-    },
-    {
-     "group": "Wild",
-     "name": "Dratini",
-     "written": "Dratini",
-     "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_147_00.png",
-     "shiny": true
-    },
-    {
-     "group": "Wild",
-     "name": "Gligar",
-     "written": "Gligar",
-     "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_207_00.png",
-     "shiny": true
-    },
-    {
-     "group": "Wild",
-     "name": "Trapinch",
-     "written": "Trapinch",
-     "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_328_00.png",
-     "shiny": true
-    },
-    {
-     "group": "Wild",
-     "name": "Swablu",
-     "written": "Swablu",
-     "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_333_00.png",
-     "shiny": true
-    },
-    {
-     "group": "Wild",
-     "name": "Barboach",
-     "written": "Barboach",
-     "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_339_00.png",
-     "shiny": true
-    },
-    {
-     "group": "Wild",
-     "name": "Bagon",
-     "written": "Bagon",
-     "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_371_00.png",
-     "shiny": true
-    },
-    {
-     "group": "Wild",
-     "name": "Gible",
-     "written": "Gible",
-     "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_443_00.png",
-     "shiny": true
-    },
-    {
-     "group": "Wild",
-     "name": "Tynamo",
-     "written": "Tynamo",
-     "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_602_00.png",
-     "shiny": true
-    },
-    {
-     "group": "Wild",
-     "name": "Axew",
-     "written": "Axew",
-     "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_610_00.png",
-     "shiny": true
-    },
-    {
-     "group": "Wild",
-     "name": "Heatmor",
-     "written": "Heatmor",
-     "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_631_00.png",
-     "shiny": true
-    },
-    {
-     "group": "Wild",
-     "name": "Deino",
-     "written": "Deino",
-     "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_633_00.png",
-     "shiny": true
-    },
-    {
-     "group": "Wild",
-     "name": "Skrelp",
-     "written": "Skrelp",
-     "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_690_00.png",
-     "shiny": true
-    },
-    {
-     "group": "Wild",
-     "name": "Tyrunt",
-     "written": "Tyrunt",
-     "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm696.icon.png",
-     "shiny": true
-    },
-    {
-     "group": "Wild",
-     "name": "Amaura",
-     "written": "Amaura",
-     "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm698.icon.png",
-     "shiny": true
-    },
-    {
-     "group": "Wild",
-     "name": "Goomy",
-     "written": "Goomy",
-     "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_704_00.png",
-     "shiny": true
-    },
-    {
-     "group": "Wild",
-     "name": "Noibat",
-     "written": "Noibat",
-     "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_714_00.png",
-     "shiny": true
-    },
-    {
-     "group": "Wild",
-     "name": "Turtonator",
-     "written": "Turtonator",
-     "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm776.icon.png",
-     "shiny": true
-    },
-    {
-     "group": "Wild",
-     "name": "Jangmo-o",
-     "written": "Jangmo-o",
-     "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm782.icon.png",
-     "shiny": true
-    },
-    {
-     "group": "Wild",
-     "name": "Sizzlipede",
-     "written": "Sizzlipede",
-     "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm850.icon.png",
-     "shiny": true
-    },
-    {
-     "group": "Wild",
-     "name": "Frigibax",
-     "written": "Frigibax",
-     "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm996.icon.png",
-     "shiny": true
-    },
-    {
-     "group": "Wild",
-     "name": "Alolan Exeggutor",
-     "written": "Alolan Exeggutor",
-     "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_103_61.png",
-     "shiny": true
-    },
-    {
-     "group": "Wild",
-     "name": "Scizor",
-     "written": "Scizor",
-     "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_212_00.png",
-     "shiny": true
-    },
-    {
-     "group": "Wild",
-     "name": "Flygon",
-     "written": "Flygon",
-     "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_330_00.png",
-     "shiny": true
-    },
-    {
-     "group": "Wild",
-     "name": "Walrein",
-     "written": "Walrein",
-     "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_365_00.png",
-     "shiny": true
-    },
-    {
-     "group": "Wild",
-     "name": "Metagross",
-     "written": "Metagross",
-     "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_376_00.png",
-     "shiny": true
-    },
-    {
-     "group": "Wild",
-     "name": "Empoleon",
-     "written": "Empoleon",
-     "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_395_00.png",
-     "shiny": true
-    },
-    {
-     "group": "Wild",
-     "name": "Magnezone",
-     "written": "Magnezone",
-     "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_462_00.png",
-     "shiny": true
-    },
-    {
-     "group": "Wild",
-     "name": "Conkeldurr",
-     "written": "Conkeldurr",
-     "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_534_00.png",
-     "shiny": true
-    },
-    {
-     "group": "Wild",
-     "name": "Haxorus",
-     "written": "Haxorus",
-     "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_612_00.png",
-     "shiny": true
-    },
-    {
-     "group": "Wild",
-     "name": "Azumarill",
-     "written": "Azumarill",
-     "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_184_00.png",
-     "shiny": true
-    },
-    {
-     "group": "Wild",
-     "name": "Kingdra",
-     "written": "Kingdra",
-     "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_230_00.png",
-     "shiny": true
-    },
-    {
-     "group": "Wild",
-     "name": "Aggron",
-     "written": "Aggron",
-     "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_306_00.png",
-     "shiny": true
-    },
-    {
-     "group": "Wild",
-     "name": "Ferrothorn",
-     "written": "Ferrothorn",
-     "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_598_00.png",
-     "shiny": true
-    },
-    {
-     "group": "Wild",
-     "name": "Hydreigon",
-     "written": "Hydreigon",
-     "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_635_00.png",
-     "shiny": true
-    },
-    {
-     "group": "Wild",
-     "name": "Goodra",
-     "written": "Goodra",
-     "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_706_00.png",
-     "shiny": true
-    },
-    {
-     "group": "Wild",
-     "name": "Noivern",
-     "written": "Noivern",
-     "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_715_00.png",
-     "shiny": true
-    },
-    {
-     "group": "Wild",
-     "name": "Tinkaton",
-     "written": "Tinkaton",
-     "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm959.icon.png",
-     "shiny": true
-    },
-    {
-     "group": "Wild",
-     "name": "Clodsire",
-     "written": "Clodsire",
-     "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm980.icon.png",
-     "shiny": true
-    },
-    {
-     "group": "Wild",
-     "name": "Alolan Exeggutor",
-     "written": "Alolan Exeggutor",
-     "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_103_61.png",
-     "shiny": true
-    },
-    {
-     "group": "Wild",
-     "name": "Azumarill",
-     "written": "Azumarill",
-     "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_184_00.png",
-     "shiny": true
-    },
-    {
-     "group": "Wild",
-     "name": "Scizor",
-     "written": "Scizor",
-     "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_212_00.png",
-     "shiny": true
-    },
-    {
-     "group": "Wild",
-     "name": "Kingdra",
-     "written": "Kingdra",
-     "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_230_00.png",
-     "shiny": true
-    },
-    {
-     "group": "Wild",
-     "name": "Aggron",
-     "written": "Aggron",
-     "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_306_00.png",
-     "shiny": true
-    },
-    {
-     "group": "Wild",
-     "name": "Flygon",
-     "written": "Flygon",
-     "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_330_00.png",
-     "shiny": true
-    },
-    {
-     "group": "Wild",
-     "name": "Empoleon",
-     "written": "Empoleon",
-     "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_395_00.png",
-     "shiny": true
-    },
-    {
-     "group": "Wild",
-     "name": "Magnezone",
-     "written": "Magnezone",
-     "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_462_00.png",
-     "shiny": true
-    },
-    {
-     "group": "Wild",
-     "name": "Conkeldurr",
-     "written": "Conkeldurr",
-     "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_534_00.png",
-     "shiny": true
-    },
-    {
-     "group": "Wild",
-     "name": "Hydreigon",
-     "written": "Hydreigon",
-     "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_635_00.png",
-     "shiny": true
-    },
-    {
-     "group": "Wild",
-     "name": "Unown W",
-     "written": "Unown W",
-     "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_201_33.png",
-     "shiny": true
-    },
-    {
-     "group": "Wild",
-     "name": "Unown I",
-     "written": "Unown I",
-     "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_201_19.png",
-     "shiny": true
-    },
-    {
-     "group": "Wild",
-     "name": "Unown L",
-     "written": "Unown L",
-     "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_201_22.png",
-     "shiny": true
-    },
-    {
-     "group": "Wild",
-     "name": "Unown D",
-     "written": "Unown D",
-     "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_201_14.png",
-     "shiny": true
-    },
-    {
-     "group": "Wild",
-     "name": "Latias",
-     "written": "Latias",
-     "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_380_00.png",
-     "shiny": true
-    },
-    {
-     "group": "Wild",
-     "name": "Latios",
-     "written": "Latios",
-     "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_381_00.png",
-     "shiny": true
-    },
-    {
-     "group": "10 km Eggs",
-     "name": "Honedge",
-     "written": "Honedge",
-     "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_679_00.png",
-     "shiny": true
-    },
-    {
-     "group": "10 km Eggs",
-     "name": "Klefki",
-     "written": "Klefki",
-     "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_707_00.png",
-     "shiny": true
-    },
-    {
-     "group": "10 km Eggs",
-     "name": "Drampa",
-     "written": "Drampa",
-     "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm780.icon.png",
-     "shiny": true
-    },
-    {
-     "group": "10 km Eggs",
-     "name": "Duraludon",
-     "written": "Duraludon",
-     "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm884.icon.png",
-     "shiny": true
-    },
-    {
-     "group": "Max Battles",
-     "name": "Gigantamax Duraludon",
-     "written": "Gigantamax Duraludon",
-     "image": "https://cdn.leekduck.com/assets/img/events/article-images/2026/2026-11-14-pokemon-go-wild-area-2026-global/gigantamax-duraludon.png",
-     "shiny": false
-    },
-    {
-     "group": "Max Battles",
-     "name": "Dynamax Dialga",
-     "written": "Dialga",
-     "image": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop_dmax/pokemon_icon_483_00.png",
-     "shiny": true
-    },
-    {
-     "group": "Max Battles",
-     "name": "Dynamax Palkia",
-     "written": "Palkia",
-     "image": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop_dmax/pokemon_icon_484_00.png",
-     "shiny": true
-    }
-   ],
-   "shiny": {
-    "notes": [],
-    "pokemon": []
-   },
-   "bonuses": [
-    {
-     "title": "Bonuses for All Trainers",
-     "description": null,
-     "items": [
-      "Chance to get GO Safari Balls from PokéStops and Gyms",
-      "Up to 3 free Raid Passes per day from Gyms",
-      "Daily Max Particle collection limit increased to 1,600",
-      "3 GO Snapshot surprise encounters per day",
-      "Party Play lasts for 8 hours",
-      "Chance to encounter mighty Pokémon on Routes"
-     ]
-    },
-    {
-     "title": "Additional Ticket Holder Bonuses",
-     "description": null,
-     "items": [
-      "Increased chance to encounter Shiny Pokémon*",
-      "Daily Max Particle collection limit increased to 3,200",
-      "Increased Max Particles from Power Spots and exploration**",
-      "Up to 6 free Raid Passes per day from Gyms",
-      "GO Safari Balls instead of Premier Balls for raids and Max Battles***",
-      "2× Candy for catching Pokémon",
-      "2× Incense duration",
-      "Increased chance of 10 km Eggs from PokéStops and Gyms",
-      "6 GO Snapshot surprise encounters per day",
-      "Lure Modules last for 2 hours"
-     ]
-    },
-    {
-     "title": "Trading Bonuses",
-     "description": null,
-     "items": [
-      "Up to 6 Special Trades per day",
-      "1/2 Stardust cost for trades"
-     ]
-    }
-   ]
-  },
   "go-wild-area-gigantamax-machamp-power-up-timed-research": {
    "description": [
     {
@@ -8775,6 +6792,54 @@
    },
    "bonuses": []
   },
+  "duolingo-timed-research-2026": {
+   "description": [
+    {
+     "kind": "text",
+     "text": "Pokémon GO and Duolingo are teaming up! Do at least one Duolingo lesson a day for seven days to earn an offer code for Timed Research in Pokémon GO. Complete the research to earn XP, Stardust, and encounters with Pikachu, Meowth, Chatot, and Lucario that have a Special Background."
+    },
+    {
+     "kind": "text",
+     "text": "Duo’s Pokémon Party, the limited-time Duolingo quest, starts on Tuesday, November 17, 2026, at 10:00 a.m. JST (Monday, November 16, at 5:00 p.m. PST)."
+    }
+   ],
+   "research": [],
+   "pokemon": [
+    {
+     "group": "Research",
+     "name": "Pikachu",
+     "written": "Pikachu",
+     "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_025_00.png",
+     "shiny": true
+    },
+    {
+     "group": "Research",
+     "name": "Meowth",
+     "written": "Meowth",
+     "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_052_00.png",
+     "shiny": true
+    },
+    {
+     "group": "Research",
+     "name": "Chatot",
+     "written": "Chatot",
+     "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_441_00.png",
+     "shiny": true
+    },
+    {
+     "group": "Research",
+     "name": "Lucario",
+     "written": "Lucario",
+     "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_448_00.png",
+     "shiny": true
+    }
+   ],
+   "shiny": {
+    "notes": [],
+    "pokemon": []
+   },
+   "bonuses": []
+  },
   "january-communitydayclassic2027": {
    "description": [
     {
@@ -9384,10 +7449,6 @@
    "etag": "\"73fc49ded4dc581f7c6d9f7bc09fad28\"",
    "path": "art/98bf20ab2c0ccc3ca542a5d8389811be.png"
   },
-  "https://cdn.leekduck.com/assets/img/items/Golden Razz Berry.png": {
-   "etag": "\"e8d53e4a97ce61c90d471cf5e03b7f50\"",
-   "path": "art/acd7a57acab21994428980ab293400c4.png"
-  },
   "https://cdn.leekduck.com/assets/img/items/Great Ball.png": {
    "etag": "\"03b1d6b6683bd544fb8d3f9ffd8af558\"",
    "path": "art/1ce32fca389db1d8aa234c6a982f0725.png"
@@ -9439,10 +7500,6 @@
   "https://cdn.leekduck.com/assets/img/items/Rocket%20Radar.png": {
    "etag": "\"9eef6ba03725f0ac28e2dbb1956efef1\"",
    "path": "art/176c2164b53736fbb108223d91fb7a8d.png"
-  },
-  "https://cdn.leekduck.com/assets/img/items/Silver Pinap Berry.png": {
-   "etag": "\"4084b7ee18831d69bfc1293a7b87041f\"",
-   "path": "art/83d5a65337cea6bbb168a42195889922.png"
   },
   "https://cdn.leekduck.com/assets/img/items/Silver%20Pinap%20Berry.png": {
    "etag": "\"4084b7ee18831d69bfc1293a7b87041f\"",

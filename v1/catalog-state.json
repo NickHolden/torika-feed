@@ -15546,6 +15546,37 @@
    "at": "2026-11-14",
    "before": null,
    "after": "230008fca2e21fbb"
+  },
+  {
+   "id": "catalog:set:pokemon.pikachu-astronaut:ca106bbb032d",
+   "key": "pokemon:pikachu-astronaut",
+   "what": "Pikachu Astronaut: released no → yes, shiny released no → yes",
+   "at": "2026-11-17",
+   "before": {
+    "id": "pikachu-astronaut",
+    "dex": 25,
+    "name": "Pikachu Astronaut",
+    "species": "pikachu",
+    "regionalForm": null,
+    "released": false,
+    "shinyReleased": false,
+    "costume": true,
+    "mega": false,
+    "shadow": false,
+    "dynamax": false,
+    "gigantamax": false,
+    "types": [
+     "Electric"
+    ],
+    "isBaby": false,
+    "isLegendary": false,
+    "isMythical": false,
+    "isUltraBeast": false,
+    "normal": "art/debb46caf746d2c6744d75d7c9ab8e03.png",
+    "shiny": "art/1338b0526b7aadc91122f7e8232150e6.png",
+    "nameJa": "ピカチュウ（Astronaut）"
+   },
+   "after": "11bdd072d5565e0e"
   }
  ],
  "labels": {

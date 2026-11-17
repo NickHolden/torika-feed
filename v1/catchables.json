@@ -912,17 +912,6 @@
    "end": null
   },
   {
-   "slug": "duraludon-dynamax",
-   "name": "Dynamax Duraludon",
-   "kind": "max",
-   "level": 20,
-   "boostedLevel": null,
-   "floor": 10,
-   "boostedFloor": null,
-   "start": null,
-   "end": null
-  },
-  {
    "slug": null,
    "name": "Toxtricity",
    "candidates": [

@@ -742,11 +742,6 @@
    "tier": 4,
    "bosses": [
     {
-     "slug": "duraludon",
-     "name": "Duraludon",
-     "gigantamax": false
-    },
-    {
      "slug": null,
      "name": "Toxtricity",
      "candidates": [

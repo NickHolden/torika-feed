@@ -1,6 +1,6 @@
 {
  "schema": 1,
- "built": "2026-11-16T19:55:20Z",
+ "built": "2026-11-17T18:50:59Z",
  "items": [
   {
    "id": "catalog:label:background.lc-pokelid-gunma:dbe6f116e0eb",
@@ -428,514 +428,6 @@
      "url": "https://leekduck.com/events/minior-showers-perseids-2027/"
     }
    ],
-   "section": "events",
-   "firstSeen": "2026-11-14"
-  },
-  {
-   "id": "events:3a0dec74.attack.204cc2:be4ddcfff2a9",
-   "kind": "auto-read",
-   "held": false,
-   "origin": {
-    "id": "page:pokemon-go-wild-area-2026-global",
-    "title": "Pokémon GO Wild Area 2026: Global",
-    "note": "The event's own page, read by two models"
-   },
-   "field": "Featured move · Haxorus",
-   "order": 9,
-   "answerFormat": "names",
-   "answerHint": "Move names, separated by ;",
-   "readings": [
-    {
-     "who": "Both models",
-     "value": "Breaking Swipe",
-     "quote": "Breaking SwipeCharged Attack",
-     "url": "https://leekduck.com/events/pokemon-go-wild-area-2026-global/"
-    }
-   ],
-   "value": "Breaking Swipe",
-   "section": "events",
-   "firstSeen": "2026-11-14"
-  },
-  {
-   "id": "events:3a0dec74.attack.78d4db:8954bdf7402f",
-   "kind": "auto-read",
-   "held": false,
-   "origin": {
-    "id": "page:pokemon-go-wild-area-2026-global",
-    "title": "Pokémon GO Wild Area 2026: Global",
-    "note": "The event's own page, read by two models"
-   },
-   "field": "Featured move · Metagross",
-   "order": 7,
-   "answerFormat": "names",
-   "answerHint": "Move names, separated by ;",
-   "readings": [
-    {
-     "who": "Both models",
-     "value": "Meteor Mash",
-     "quote": "Meteor MashCharged Attack",
-     "url": "https://leekduck.com/events/pokemon-go-wild-area-2026-global/"
-    }
-   ],
-   "value": "Meteor Mash",
-   "section": "events",
-   "firstSeen": "2026-11-14"
-  },
-  {
-   "id": "events:3a0dec74.attack.956aef:bf9bd75cba10",
-   "kind": "auto-read",
-   "held": false,
-   "origin": {
-    "id": "page:pokemon-go-wild-area-2026-global",
-    "title": "Pokémon GO Wild Area 2026: Global",
-    "note": "The event's own page, read by two models"
-   },
-   "field": "Featured move · Magnezone",
-   "order": 8,
-   "answerFormat": "names",
-   "answerHint": "Move names, separated by ;",
-   "readings": [
-    {
-     "who": "Both models",
-     "value": "Magnet Bomb",
-     "quote": "Magnet BombCharged Attack",
-     "url": "https://leekduck.com/events/pokemon-go-wild-area-2026-global/"
-    }
-   ],
-   "value": "Magnet Bomb",
-   "section": "events",
-   "firstSeen": "2026-11-14"
-  },
-  {
-   "id": "events:3a0dec74.attack.c345a4:18b87399bc97",
-   "kind": "auto-read",
-   "held": false,
-   "origin": {
-    "id": "page:pokemon-go-wild-area-2026-global",
-    "title": "Pokémon GO Wild Area 2026: Global",
-    "note": "The event's own page, read by two models"
-   },
-   "field": "Featured move · Machamp wearing a modern jacket",
-   "order": 5,
-   "answerFormat": "names",
-   "answerHint": "Move names, separated by ;",
-   "readings": [
-    {
-     "who": "Both models",
-     "value": "Karate Chop",
-     "quote": "Karate ChopFast Attack",
-     "url": "https://leekduck.com/events/pokemon-go-wild-area-2026-global/"
-    }
-   ],
-   "value": "Karate Chop",
-   "section": "events",
-   "firstSeen": "2026-11-14"
-  },
-  {
-   "id": "events:3a0dec74.attack.c65d1d:02815806bd24",
-   "kind": "auto-read",
-   "held": false,
-   "origin": {
-    "id": "page:pokemon-go-wild-area-2026-global",
-    "title": "Pokémon GO Wild Area 2026: Global",
-    "note": "The event's own page, read by two models"
-   },
-   "field": "Featured move · Flygon",
-   "order": 6,
-   "answerFormat": "names",
-   "answerHint": "Move names, separated by ;",
-   "readings": [
-    {
-     "who": "Both models",
-     "value": "Earth Power",
-     "quote": "Earth PowerCharged Attack",
-     "url": "https://leekduck.com/events/pokemon-go-wild-area-2026-global/"
-    }
-   ],
-   "value": "Earth Power",
-   "section": "events",
-   "firstSeen": "2026-11-14"
-  },
-  {
-   "id": "events:3a0dec74.attack.e1e7c0:1c922eeaae4d",
-   "kind": "auto-read",
-   "held": false,
-   "origin": {
-    "id": "page:pokemon-go-wild-area-2026-global",
-    "title": "Pokémon GO Wild Area 2026: Global",
-    "note": "The event's own page, read by two models"
-   },
-   "field": "Featured move · Hydreigon",
-   "order": 10,
-   "answerFormat": "names",
-   "answerHint": "Move names, separated by ;",
-   "readings": [
-    {
-     "who": "Both models",
-     "value": "Brutal Swing",
-     "quote": "Brutal SwingCharged Attack",
-     "url": "https://leekduck.com/events/pokemon-go-wild-area-2026-global/"
-    }
-   ],
-   "value": "Brutal Swing",
-   "section": "events",
-   "firstSeen": "2026-11-14"
-  },
-  {
-   "id": "events:3a0dec74.attack.f4a5e0:06267a4fbbef",
-   "kind": "auto-read",
-   "held": false,
-   "origin": {
-    "id": "page:pokemon-go-wild-area-2026-global",
-    "title": "Pokémon GO Wild Area 2026: Global",
-    "note": "The event's own page, read by two models"
-   },
-   "field": "Featured move · Tinkaton",
-   "order": 11,
-   "answerFormat": "names",
-   "answerHint": "Move names, separated by ;",
-   "readings": [
-    {
-     "who": "Both models",
-     "value": "Gigaton Hammer",
-     "quote": "Gigaton HammerCharged Attack",
-     "url": "https://leekduck.com/events/pokemon-go-wild-area-2026-global/"
-    }
-   ],
-   "value": "Gigaton Hammer",
-   "section": "events",
-   "firstSeen": "2026-11-14"
-  },
-  {
-   "id": "events:3a0dec74.debut.dynamax:7247b053a232",
-   "kind": "auto-read",
-   "held": false,
-   "origin": {
-    "id": "page:pokemon-go-wild-area-2026-global",
-    "title": "Pokémon GO Wild Area 2026: Global",
-    "note": "The event's own page, read by two models"
-   },
-   "field": "Dynamax debuts",
-   "order": 3,
-   "answerFormat": "names",
-   "answerHint": "Names, separated by ;",
-   "readings": [
-    {
-     "who": "Both models",
-     "value": "Dialga; Palkia",
-     "quote": "Dynamax Dialga and Dynamax Palkia make their Pokémon GO debuts during GO Wild Area 2026. Both can be Shiny!",
-     "url": "https://leekduck.com/events/pokemon-go-wild-area-2026-global/"
-    }
-   ],
-   "value": "Dialga; Palkia",
-   "section": "events",
-   "firstSeen": "2026-11-14"
-  },
-  {
-   "id": "events:3a0dec74.debut.gigantamax:c2598af0c0a2",
-   "kind": "auto-read",
-   "held": false,
-   "origin": {
-    "id": "page:pokemon-go-wild-area-2026-global",
-    "title": "Pokémon GO Wild Area 2026: Global",
-    "note": "The event's own page, read by two models"
-   },
-   "field": "Gigantamax debuts",
-   "order": 4,
-   "answerFormat": "names",
-   "answerHint": "Names, separated by ;",
-   "readings": [
-    {
-     "who": "Both models",
-     "value": "Duraludon",
-     "quote": "Gigantamax Duraludon makes its Pokémon GO debut at Pokémon GO Wild Area! This larger-than-life Pokémon will appear in six-star Max Battles during the event.",
-     "url": "https://leekduck.com/events/pokemon-go-wild-area-2026-global/"
-    }
-   ],
-   "value": "Duraludon",
-   "section": "events",
-   "firstSeen": "2026-11-14"
-  },
-  {
-   "id": "events:3a0dec74.rule.202595:ecfb144d4b97",
-   "kind": "auto-read",
-   "held": false,
-   "origin": {
-    "id": "page:pokemon-go-wild-area-2026-global",
-    "title": "Pokémon GO Wild Area 2026: Global",
-    "note": "The event's own page, read by two models"
-   },
-   "field": "Special rule · Adventure Effects in Battle Lobbies",
-   "order": 15,
-   "answerFormat": "text",
-   "answerHint": "The sentence that states the rule",
-   "readings": [
-    {
-     "who": "Both models",
-     "value": "Starting with Into the Wild, select Adventure Effects can be activated while waiting in a raid or Max Battle lobby. Use Crowned Sword Zacian’s Behemoth Blade or Crowned Shield Zamazenta’s Behemoth Bash Adventure Effect before a Max Battle to help your group.",
-     "quote": "Starting with Into the Wild, select Adventure Effects can be activated while waiting in a raid or Max Battle lobby. Use Crowned Sword Zacian’s Behemoth Blade or Crowned Shield Zamazenta’s Behemoth Bash Adventure Effect before a Max Battle to help your group.",
-     "url": "https://leekduck.com/events/pokemon-go-wild-area-2026-global/"
-    }
-   ],
-   "value": "Starting with Into the Wild, select Adventure Effects can be activated while waiting in a raid or Max Battle lobby. Use Crowned Sword Zacian’s Behemoth Blade or Crowned Shield Zamazenta’s Behemoth Bash Adventure Effect before a Max Battle to help your group.",
-   "section": "events",
-   "firstSeen": "2026-11-14"
-  },
-  {
-   "id": "events:3a0dec74.rule.2220b4:b44291ba69c5",
-   "kind": "auto-read",
-   "held": false,
-   "origin": {
-    "id": "page:pokemon-go-wild-area-2026-global",
-    "title": "Pokémon GO Wild Area 2026: Global",
-    "note": "The event's own page, read by two models"
-   },
-   "field": "Special rule · GO Snapshot, Routes, and Party Play",
-   "order": 22,
-   "answerFormat": "text",
-   "answerHint": "The sentence that states the rule",
-   "readings": [
-    {
-     "who": "Both models",
-     "value": "Take snapshots for surprise encounters with Steel- and Dragon-type Pokémon. Explore Routes for a chance to find mighty Pokémon, and enjoy Party Play sessions lasting eight hours.",
-     "quote": "Take snapshots for surprise encounters with Steel- and Dragon-type Pokémon. Explore Routes for a chance to find mighty Pokémon, and enjoy Party Play sessions lasting eight hours.",
-     "url": "https://leekduck.com/events/pokemon-go-wild-area-2026-global/"
-    }
-   ],
-   "value": "Take snapshots for surprise encounters with Steel- and Dragon-type Pokémon. Explore Routes for a chance to find mighty Pokémon, and enjoy Party Play sessions lasting eight hours.",
-   "section": "events",
-   "firstSeen": "2026-11-14"
-  },
-  {
-   "id": "events:3a0dec74.rule.2becd4:4bdf46466c11",
-   "kind": "auto-read",
-   "held": false,
-   "origin": {
-    "id": "page:pokemon-go-wild-area-2026-global",
-    "title": "Pokémon GO Wild Area 2026: Global",
-    "note": "The event's own page, read by two models"
-   },
-   "field": "Special rule · Mighty Latias and Latios",
-   "order": 19,
-   "answerFormat": "text",
-   "answerHint": "The sentence that states the rule",
-   "readings": [
-    {
-     "who": "Both models",
-     "value": "Ticket holders may attract mighty Latias and Latios with Incense, excluding Daily Adventure Incense, on both event days. Both can be Shiny and are quick to flee, so keep GO Safari Balls ready.",
-     "quote": "Ticket holders may attract mighty Latias and Latios with Incense, excluding Daily Adventure Incense, on both event days. Both can be Shiny and are quick to flee, so keep GO Safari Balls ready.",
-     "url": "https://leekduck.com/events/pokemon-go-wild-area-2026-global/"
-    }
-   ],
-   "value": "Ticket holders may attract mighty Latias and Latios with Incense, excluding Daily Adventure Incense, on both event days. Both can be Shiny and are quick to flee, so keep GO Safari Balls ready.",
-   "section": "events",
-   "firstSeen": "2026-11-14"
-  },
-  {
-   "id": "events:3a0dec74.rule.4b289d:589460fbcba3",
-   "kind": "auto-read",
-   "held": false,
-   "origin": {
-    "id": "page:pokemon-go-wild-area-2026-global",
-    "title": "Pokémon GO Wild Area 2026: Global",
-    "note": "The event's own page, read by two models"
-   },
-   "field": "Special rule · Backgrounds on Your Trainer Profile",
-   "order": 18,
-   "answerFormat": "text",
-   "answerHint": "The sentence that states the rule",
-   "readings": [
-    {
-     "who": "Both models",
-     "value": "Your buddy Pokémon’s eligible Location Background or Special Background can now appear on your Trainer profile, where friends can see it too. Background support rolls out on the following schedule:",
-     "quote": "Your buddy Pokémon’s eligible Location Background or Special Background can now appear on your Trainer profile, where friends can see it too. Background support rolls out on the following schedule:",
-     "url": "https://leekduck.com/events/pokemon-go-wild-area-2026-global/"
-    }
-   ],
-   "value": "Your buddy Pokémon’s eligible Location Background or Special Background can now appear on your Trainer profile, where friends can see it too. Background support rolls out on the following schedule:",
-   "section": "events",
-   "firstSeen": "2026-11-14"
-  },
-  {
-   "id": "events:3a0dec74.rule.7f87e1:faf6630efc00",
-   "kind": "model-disagreement",
-   "held": true,
-   "origin": {
-    "id": "page:pokemon-go-wild-area-2026-global",
-    "title": "Pokémon GO Wild Area 2026: Global",
-    "note": "The event's own page, read by two models"
-   },
-   "field": "Special rule · Gigantamax Duraludon Debuts",
-   "order": 12,
-   "answerFormat": "text",
-   "answerHint": "The sentence that states the rule",
-   "readings": [
-    {
-     "who": "Claude",
-     "value": "Not read",
-     "url": "https://leekduck.com/events/pokemon-go-wild-area-2026-global/"
-    },
-    {
-     "who": "GPT",
-     "value": "Ticket-holding Trainers can learn more about Gigantamax Duraludon in the event-exclusive Special Research story. Complete it for an encounter with Gigantamax Duraludon with a Special Background!",
-     "quote": "Ticket-holding Trainers can learn more about Gigantamax Duraludon in the event-exclusive Special Research story. Complete it for an encounter with Gigantamax Duraludon with a Special Background!",
-     "url": "https://leekduck.com/events/pokemon-go-wild-area-2026-global/"
-    }
-   ],
-   "section": "events",
-   "firstSeen": "2026-11-14"
-  },
-  {
-   "id": "events:3a0dec74.rule.846f3a:32d37be9f942",
-   "kind": "model-disagreement",
-   "held": true,
-   "origin": {
-    "id": "page:pokemon-go-wild-area-2026-global",
-    "title": "Pokémon GO Wild Area 2026: Global",
-    "note": "The event's own page, read by two models"
-   },
-   "field": "Special rule · Dynamax Dialga and Dynamax Palkia",
-   "order": 13,
-   "answerFormat": "text",
-   "answerHint": "The sentence that states the rule",
-   "readings": [
-    {
-     "who": "Claude",
-     "value": "Not read",
-     "url": "https://leekduck.com/events/pokemon-go-wild-area-2026-global/"
-    },
-    {
-     "who": "GPT",
-     "value": "For Global, Dynamax Dialga appears on Saturday, November 14, and Dynamax Palkia appears on Sunday, November 15.",
-     "quote": "For Global, Dynamax Dialga appears on Saturday, November 14, and Dynamax Palkia appears on Sunday, November 15.",
-     "url": "https://leekduck.com/events/pokemon-go-wild-area-2026-global/"
-    }
-   ],
-   "section": "events",
-   "firstSeen": "2026-11-14"
-  },
-  {
-   "id": "events:3a0dec74.rule.8f8309:d9cf3bf3ce2b",
-   "kind": "auto-read",
-   "held": false,
-   "origin": {
-    "id": "page:pokemon-go-wild-area-2026-global",
-    "title": "Pokémon GO Wild Area 2026: Global",
-    "note": "The event's own page, read by two models"
-   },
-   "field": "Special rule · GO Safari Balls",
-   "order": 20,
-   "answerFormat": "text",
-   "answerHint": "The sentence that states the rule",
-   "readings": [
-    {
-     "who": "Both models",
-     "value": "They can only be used from 10:00 a.m. to 6:00 p.m. local time on event days and become inaccessible after the event ends.",
-     "quote": "They can only be used from 10:00 a.m. to 6:00 p.m. local time on event days and become inaccessible after the event ends.",
-     "url": "https://leekduck.com/events/pokemon-go-wild-area-2026-global/"
-    }
-   ],
-   "value": "They can only be used from 10:00 a.m. to 6:00 p.m. local time on event days and become inaccessible after the event ends.",
-   "section": "events",
-   "firstSeen": "2026-11-15"
-  },
-  {
-   "id": "events:3a0dec74.rule.a7fd34:e91a4c649019",
-   "kind": "auto-read",
-   "held": false,
-   "origin": {
-    "id": "page:pokemon-go-wild-area-2026-global",
-    "title": "Pokémon GO Wild Area 2026: Global",
-    "note": "The event's own page, read by two models"
-   },
-   "field": "Special rule · Supply Balloons",
-   "order": 21,
-   "answerFormat": "text",
-   "answerHint": "The sentence that states the rule",
-   "readings": [
-    {
-     "who": "Both models",
-     "value": "Ticket holders receive a Supply Balloon every hour during event hours. Each one gives 15 GO Safari Balls.",
-     "quote": "Ticket holders receive a Supply Balloon every hour during event hours. Each one gives 15 GO Safari Balls.",
-     "url": "https://leekduck.com/events/pokemon-go-wild-area-2026-global/"
-    }
-   ],
-   "value": "Ticket holders receive a Supply Balloon every hour during event hours. Each one gives 15 GO Safari Balls.",
-   "section": "events",
-   "firstSeen": "2026-11-14"
-  },
-  {
-   "id": "events:3a0dec74.rule.a8db38:88cec8b27cc2",
-   "kind": "auto-read",
-   "held": false,
-   "origin": {
-    "id": "page:pokemon-go-wild-area-2026-global",
-    "title": "Pokémon GO Wild Area 2026: Global",
-    "note": "The event's own page, read by two models"
-   },
-   "field": "Special rule · Special Backgrounds",
-   "order": 17,
-   "answerFormat": "text",
-   "answerHint": "The sentence that states the rule",
-   "readings": [
-    {
-     "who": "Both models",
-     "value": "After a successful catch from raids or Max Battles, Machamp wearing a modern jacket, Dynamax Dialga, Dynamax Palkia, Reshiram, Zekrom, Kyurem, and Gigantamax Duraludon have a chance to have a new Special Background.",
-     "quote": "After a successful catch from raids or Max Battles, Machamp wearing a modern jacket, Dynamax Dialga, Dynamax Palkia, Reshiram, Zekrom, Kyurem, and Gigantamax Duraludon have a chance to have a new Special Background.",
-     "url": "https://leekduck.com/events/pokemon-go-wild-area-2026-global/"
-    }
-   ],
-   "value": "After a successful catch from raids or Max Battles, Machamp wearing a modern jacket, Dynamax Dialga, Dynamax Palkia, Reshiram, Zekrom, Kyurem, and Gigantamax Duraludon have a chance to have a new Special Background.",
-   "section": "events",
-   "firstSeen": "2026-11-14"
-  },
-  {
-   "id": "events:3a0dec74.rule.aa00c4:2732fd334740",
-   "kind": "auto-read",
-   "held": false,
-   "origin": {
-    "id": "page:pokemon-go-wild-area-2026-global",
-    "title": "Pokémon GO Wild Area 2026: Global",
-    "note": "The event's own page, read by two models"
-   },
-   "field": "Special rule · Private Dynamax Battle Groups",
-   "order": 14,
-   "answerFormat": "text",
-   "answerHint": "The sentence that states the rule",
-   "readings": [
-    {
-     "who": "Both models",
-     "value": "Starting with GO Wild Area 2026, Dynamax Battle lobbies offer Battle to match automatically with other Trainers or Private Group to join an existing group using its group code.",
-     "quote": "Starting with GO Wild Area 2026, Dynamax Battle lobbies offer Battle to match automatically with other Trainers or Private Group to join an existing group using its group code.",
-     "url": "https://leekduck.com/events/pokemon-go-wild-area-2026-global/"
-    }
-   ],
-   "value": "Starting with GO Wild Area 2026, Dynamax Battle lobbies offer Battle to match automatically with other Trainers or Private Group to join an existing group using its group code.",
-   "section": "events",
-   "firstSeen": "2026-11-14"
-  },
-  {
-   "id": "events:3a0dec74.rule.b1ef1a:7317308dc673",
-   "kind": "auto-read",
-   "held": false,
-   "origin": {
-    "id": "page:pokemon-go-wild-area-2026-global",
-    "title": "Pokémon GO Wild Area 2026: Global",
-    "note": "The event's own page, read by two models"
-   },
-   "field": "Special rule · Machamp Wearing a Modern Jacket",
-   "order": 16,
-   "answerFormat": "text",
-   "answerHint": "The sentence that states the rule",
-   "readings": [
-    {
-     "who": "Both models",
-     "value": "A new costumed Machamp appears in three-star raids during the event. Lucky Trainers may encounter a Shiny one!",
-     "quote": "A new costumed Machamp appears in three-star raids during the event. Lucky Trainers may encounter a Shiny one!",
-     "url": "https://leekduck.com/events/pokemon-go-wild-area-2026-global/"
-    }
-   ],
-   "value": "A new costumed Machamp appears in three-star raids during the event. Lucky Trainers may encounter a Shiny one!",
    "section": "events",
    "firstSeen": "2026-11-14"
   },
@@ -1371,6 +863,81 @@
    "value": "Reach Major Milestones on your GO Pass to unlock the following bonuses.",
    "section": "events",
    "firstSeen": "2026-11-14"
+  },
+  {
+   "id": "events:7750f37c.rule.221417:a027d5bab23b",
+   "kind": "auto-read",
+   "held": false,
+   "origin": {
+    "id": "page:duolingo-timed-research-2026",
+    "title": "Pokémon GO and Duolingo Timed Research",
+    "note": "The event's own page, read by two models"
+   },
+   "field": "Special rule · Duo’s Pokémon Party",
+   "order": 5,
+   "answerFormat": "text",
+   "answerHint": "The sentence that states the rule",
+   "readings": [
+    {
+     "who": "Both models",
+     "value": "Join Duo’s Pokémon Party, a limited-time quest, on the latest version of the Duolingo app. Do a lesson in any course to earn your first reward, then earn a new reward each day that you do at least one lesson. Rewards include up to four Pokémon suits for your Duolingo avatar and an offer code for Timed Research in Pokémon GO.",
+     "quote": "Join Duo’s Pokémon Party, a limited-time quest, on the latest version of the Duolingo app. Do a lesson in any course to earn your first reward, then earn a new reward each day that you do at least one lesson. Rewards include up to four Pokémon suits for your Duolingo avatar and an offer code for Timed Research in Pokémon GO.",
+     "url": "https://leekduck.com/events/duolingo-timed-research-2026/"
+    }
+   ],
+   "value": "Join Duo’s Pokémon Party, a limited-time quest, on the latest version of the Duolingo app. Do a lesson in any course to earn your first reward, then earn a new reward each day that you do at least one lesson. Rewards include up to four Pokémon suits for your Duolingo avatar and an offer code for Timed Research in Pokémon GO.",
+   "section": "events",
+   "firstSeen": "2026-11-17"
+  },
+  {
+   "id": "events:7750f37c.rule.40a6c2:c8754601f02d",
+   "kind": "auto-read",
+   "held": false,
+   "origin": {
+    "id": "page:duolingo-timed-research-2026",
+    "title": "Pokémon GO and Duolingo Timed Research",
+    "note": "The event's own page, read by two models"
+   },
+   "field": "Special rule · How to Get the Timed Research",
+   "order": 6,
+   "answerFormat": "text",
+   "answerHint": "The sentence that states the rule",
+   "readings": [
+    {
+     "who": "Both models",
+     "value": "Do at least one lesson a day on seven different days by December 29.",
+     "quote": "Do at least one lesson a day on seven different days by December 29.",
+     "url": "https://leekduck.com/events/duolingo-timed-research-2026/"
+    }
+   ],
+   "value": "Do at least one lesson a day on seven different days by December 29.",
+   "section": "events",
+   "firstSeen": "2026-11-17"
+  },
+  {
+   "id": "events:7750f37c.rule.7e88d0:d20c78f4039b",
+   "kind": "auto-read",
+   "held": false,
+   "origin": {
+    "id": "page:duolingo-timed-research-2026",
+    "title": "Pokémon GO and Duolingo Timed Research",
+    "note": "The event's own page, read by two models"
+   },
+   "field": "Special rule · Language Tag",
+   "order": 7,
+   "answerFormat": "text",
+   "answerHint": "The sentence that states the rule",
+   "readings": [
+    {
+     "who": "Both models",
+     "value": "Some Pokémon from this Timed Research will have a new language tag on their summary page. Tap the tag to see the Pokémon’s name in other languages.",
+     "quote": "Some Pokémon from this Timed Research will have a new language tag on their summary page. Tap the tag to see the Pokémon’s name in other languages.",
+     "url": "https://leekduck.com/events/duolingo-timed-research-2026/"
+    }
+   ],
+   "value": "Some Pokémon from this Timed Research will have a new language tag on their summary page. Tap the tag to see the Pokémon’s name in other languages.",
+   "section": "events",
+   "firstSeen": "2026-11-17"
   },
   {
    "id": "events:79a17a8c.attack.f36fc3:3e4678f62890",
@@ -1929,7 +1496,7 @@
    "firstSeen": "2026-11-16"
   },
   {
-   "id": "raids:tier-5:3e639fd7f95c",
+   "id": "raids:tier-5:6e2d3a5b669e",
    "kind": "source-disagreement",
    "held": false,
    "origin": {
@@ -1946,17 +1513,31 @@
     },
     {
      "who": "Pokebattler",
-     "value": "Cresselia, Darkrai, Kyurem White",
+     "value": "Cresselia, Darkrai, Kyurem Black, Kyurem White",
      "url": "https://www.pokebattler.com/raids"
     }
    ],
    "showing": 0,
    "answerHint": "Boss names, separated by commas",
    "section": "raids",
-   "firstSeen": "2026-11-16"
+   "firstSeen": "2026-11-17"
   }
  ],
  "applied": [
+  {
+   "id": "catalog:set:pokemon.pikachu-astronaut:ca106bbb032d",
+   "kind": "catalog-applied",
+   "origin": {
+    "id": "catalog",
+    "title": "Catalog",
+    "note": "Dittobase import"
+   },
+   "field": "Pikachu Astronaut",
+   "what": "Pikachu Astronaut: released no → yes, shiny released no → yes",
+   "source": "Dittobase",
+   "at": "2026-11-17",
+   "section": "catalog"
+  },
   {
    "id": "catalog:set:link.lc-wild-area-sendai-2026.tinkaton:13e4a35b4457",
    "kind": "catalog-applied",
