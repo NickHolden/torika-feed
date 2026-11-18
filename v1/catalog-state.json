@@ -15577,6 +15577,1904 @@
     "nameJa": "ピカチュウ（Astronaut）"
    },
    "after": "11bdd072d5565e0e"
+  },
+  {
+   "id": "catalog:set:link.sb-go-fest-2025-dark-skies.abra-dynamax:3a23c78edcb7",
+   "key": "link:sb-go-fest-2025-dark-skies:abra-dynamax",
+   "what": "Dynamax Abra added to GO Fest 2025 Dark Skies",
+   "at": "2026-11-18",
+   "before": null,
+   "after": "e0f9718c1d90a46a"
+  },
+  {
+   "id": "catalog:set:link.sb-go-fest-2025-dark-skies.alakazam-dynamax:7efcdd5e339c",
+   "key": "link:sb-go-fest-2025-dark-skies:alakazam-dynamax",
+   "what": "Dynamax Alakazam added to GO Fest 2025 Dark Skies",
+   "at": "2026-11-18",
+   "before": null,
+   "after": "0a1526b414471d15"
+  },
+  {
+   "id": "catalog:set:link.sb-go-fest-2025-dark-skies.arcanine-dynamax:53e4bcfde3e2",
+   "key": "link:sb-go-fest-2025-dark-skies:arcanine-dynamax",
+   "what": "Dynamax Arcanine added to GO Fest 2025 Dark Skies",
+   "at": "2026-11-18",
+   "before": null,
+   "after": "6b8748316d313eee"
+  },
+  {
+   "id": "catalog:set:link.sb-go-fest-2025-dark-skies.beldum-dynamax:94154acf36a4",
+   "key": "link:sb-go-fest-2025-dark-skies:beldum-dynamax",
+   "what": "Dynamax Beldum on GO Fest 2025 Dark Skies: events changed",
+   "at": "2026-11-18",
+   "before": {
+    "pokemon": "beldum-dynamax",
+    "canBeShiny": true,
+    "evolvedOnly": false,
+    "events": [
+     {
+      "name": "Dark Skies",
+      "start": "2025-08-18T10:00:00.000Z",
+      "end": "2025-08-23T10:00:00.000Z",
+      "shiny": true,
+      "evolved": false
+     }
+    ]
+   },
+   "after": "9666c12262e3260b"
+  },
+  {
+   "id": "catalog:set:link.sb-go-fest-2025-dark-skies.blastoise-dynamax:009b34e164eb",
+   "key": "link:sb-go-fest-2025-dark-skies:blastoise-dynamax",
+   "what": "Dynamax Blastoise on GO Fest 2025 Dark Skies: events changed",
+   "at": "2026-11-18",
+   "before": {
+    "pokemon": "blastoise-dynamax",
+    "canBeShiny": true,
+    "evolvedOnly": true,
+    "events": [
+     {
+      "name": "Dark Skies",
+      "start": "2025-08-18T10:00:00.000Z",
+      "end": "2025-08-23T10:00:00.000Z",
+      "shiny": true,
+      "evolved": true
+     }
+    ]
+   },
+   "after": "0c708e1a4b91d959"
+  },
+  {
+   "id": "catalog:set:link.sb-go-fest-2025-dark-skies.blissey-dynamax:cdcac9d17a22",
+   "key": "link:sb-go-fest-2025-dark-skies:blissey-dynamax",
+   "what": "Dynamax Blissey on GO Fest 2025 Dark Skies: events changed",
+   "at": "2026-11-18",
+   "before": {
+    "pokemon": "blissey-dynamax",
+    "canBeShiny": true,
+    "evolvedOnly": true,
+    "events": [
+     {
+      "name": "Dark Skies",
+      "start": "2025-08-18T10:00:00.000Z",
+      "end": "2025-08-23T10:00:00.000Z",
+      "shiny": true,
+      "evolved": true
+     }
+    ]
+   },
+   "after": "24afee0a373d204d"
+  },
+  {
+   "id": "catalog:set:link.sb-go-fest-2025-dark-skies.boldore-dynamax:31b7f60db64a",
+   "key": "link:sb-go-fest-2025-dark-skies:boldore-dynamax",
+   "what": "Dynamax Boldore added to GO Fest 2025 Dark Skies",
+   "at": "2026-11-18",
+   "before": null,
+   "after": "2e260fc6c311f9f1"
+  },
+  {
+   "id": "catalog:set:link.sb-go-fest-2025-dark-skies.bounsweet-dynamax:1e13f4fd6f6e",
+   "key": "link:sb-go-fest-2025-dark-skies:bounsweet-dynamax",
+   "what": "Dynamax Bounsweet added to GO Fest 2025 Dark Skies",
+   "at": "2026-11-18",
+   "before": null,
+   "after": "2f0e0ac54db1ec50"
+  },
+  {
+   "id": "catalog:set:link.sb-go-fest-2025-dark-skies.bulbasaur-dynamax:132d03b2ef6b",
+   "key": "link:sb-go-fest-2025-dark-skies:bulbasaur-dynamax",
+   "what": "Dynamax Bulbasaur on GO Fest 2025 Dark Skies: events changed",
+   "at": "2026-11-18",
+   "before": {
+    "pokemon": "bulbasaur-dynamax",
+    "canBeShiny": true,
+    "evolvedOnly": false,
+    "events": [
+     {
+      "name": "Dark Skies",
+      "start": "2025-08-18T10:00:00.000Z",
+      "end": "2025-08-23T10:00:00.000Z",
+      "shiny": true,
+      "evolved": false
+     }
+    ]
+   },
+   "after": "07988a816fd0f9f7"
+  },
+  {
+   "id": "catalog:set:link.sb-go-fest-2025-dark-skies.butterfree-dynamax:4e5c71d75906",
+   "key": "link:sb-go-fest-2025-dark-skies:butterfree-dynamax",
+   "what": "Dynamax Butterfree on GO Fest 2025 Dark Skies: events changed",
+   "at": "2026-11-18",
+   "before": {
+    "pokemon": "butterfree-dynamax",
+    "canBeShiny": true,
+    "evolvedOnly": true,
+    "events": [
+     {
+      "name": "Dark Skies",
+      "start": "2025-08-18T10:00:00.000Z",
+      "end": "2025-08-23T10:00:00.000Z",
+      "shiny": true,
+      "evolved": true
+     }
+    ]
+   },
+   "after": "ff7ffc324905341c"
+  },
+  {
+   "id": "catalog:set:link.sb-go-fest-2025-dark-skies.caterpie-dynamax:0eb1f2623bed",
+   "key": "link:sb-go-fest-2025-dark-skies:caterpie-dynamax",
+   "what": "Dynamax Caterpie on GO Fest 2025 Dark Skies: events changed",
+   "at": "2026-11-18",
+   "before": {
+    "pokemon": "caterpie-dynamax",
+    "canBeShiny": true,
+    "evolvedOnly": false,
+    "events": [
+     {
+      "name": "Dark Skies",
+      "start": "2025-08-18T10:00:00.000Z",
+      "end": "2025-08-23T10:00:00.000Z",
+      "shiny": true,
+      "evolved": false
+     }
+    ]
+   },
+   "after": "fbace7a1bee48916"
+  },
+  {
+   "id": "catalog:set:link.sb-go-fest-2025-dark-skies.centiskorch-dynamax:43680f405d15",
+   "key": "link:sb-go-fest-2025-dark-skies:centiskorch-dynamax",
+   "what": "Dynamax Centiskorch added to GO Fest 2025 Dark Skies",
+   "at": "2026-11-18",
+   "before": null,
+   "after": "c2de7d4eebd4c00d"
+  },
+  {
+   "id": "catalog:set:link.sb-go-fest-2025-dark-skies.chansey-dynamax:d8488456b99d",
+   "key": "link:sb-go-fest-2025-dark-skies:chansey-dynamax",
+   "what": "Dynamax Chansey on GO Fest 2025 Dark Skies: events changed",
+   "at": "2026-11-18",
+   "before": {
+    "pokemon": "chansey-dynamax",
+    "canBeShiny": true,
+    "evolvedOnly": false,
+    "events": [
+     {
+      "name": "Dark Skies",
+      "start": "2025-08-18T10:00:00.000Z",
+      "end": "2025-08-23T10:00:00.000Z",
+      "shiny": true,
+      "evolved": false
+     }
+    ]
+   },
+   "after": "5cf1f0b48bf87bce"
+  },
+  {
+   "id": "catalog:set:link.sb-go-fest-2025-dark-skies.charizard-dynamax:3e899f421460",
+   "key": "link:sb-go-fest-2025-dark-skies:charizard-dynamax",
+   "what": "Dynamax Charizard on GO Fest 2025 Dark Skies: events changed",
+   "at": "2026-11-18",
+   "before": {
+    "pokemon": "charizard-dynamax",
+    "canBeShiny": true,
+    "evolvedOnly": true,
+    "events": [
+     {
+      "name": "Dark Skies",
+      "start": "2025-08-18T10:00:00.000Z",
+      "end": "2025-08-23T10:00:00.000Z",
+      "shiny": true,
+      "evolved": true
+     }
+    ]
+   },
+   "after": "26344703fae5f17f"
+  },
+  {
+   "id": "catalog:set:link.sb-go-fest-2025-dark-skies.charmander-dynamax:95754be152d4",
+   "key": "link:sb-go-fest-2025-dark-skies:charmander-dynamax",
+   "what": "Dynamax Charmander on GO Fest 2025 Dark Skies: events changed",
+   "at": "2026-11-18",
+   "before": {
+    "pokemon": "charmander-dynamax",
+    "canBeShiny": true,
+    "evolvedOnly": false,
+    "events": [
+     {
+      "name": "Dark Skies",
+      "start": "2025-08-18T10:00:00.000Z",
+      "end": "2025-08-23T10:00:00.000Z",
+      "shiny": true,
+      "evolved": false
+     }
+    ]
+   },
+   "after": "1ca5299a9b7bf161"
+  },
+  {
+   "id": "catalog:set:link.sb-go-fest-2025-dark-skies.charmeleon-dynamax:18a6f28f32f5",
+   "key": "link:sb-go-fest-2025-dark-skies:charmeleon-dynamax",
+   "what": "Dynamax Charmeleon on GO Fest 2025 Dark Skies: events changed",
+   "at": "2026-11-18",
+   "before": {
+    "pokemon": "charmeleon-dynamax",
+    "canBeShiny": true,
+    "evolvedOnly": true,
+    "events": [
+     {
+      "name": "Dark Skies",
+      "start": "2025-08-18T10:00:00.000Z",
+      "end": "2025-08-23T10:00:00.000Z",
+      "shiny": true,
+      "evolved": true
+     }
+    ]
+   },
+   "after": "0df055ed05f68ea9"
+  },
+  {
+   "id": "catalog:set:link.sb-go-fest-2025-dark-skies.cinderace-dynamax:88d5dc6dc592",
+   "key": "link:sb-go-fest-2025-dark-skies:cinderace-dynamax",
+   "what": "Dynamax Cinderace on GO Fest 2025 Dark Skies: can be shiny no → yes, events changed",
+   "at": "2026-11-18",
+   "before": {
+    "pokemon": "cinderace-dynamax",
+    "canBeShiny": false,
+    "evolvedOnly": true,
+    "events": [
+     {
+      "name": "Dark Skies",
+      "start": "2025-08-18T10:00:00.000Z",
+      "end": "2025-08-23T10:00:00.000Z",
+      "shiny": false,
+      "evolved": true
+     }
+    ]
+   },
+   "after": "00dc9fcc5f16c05c"
+  },
+  {
+   "id": "catalog:set:link.sb-go-fest-2025-dark-skies.combee-dynamax:a329a083a1b2",
+   "key": "link:sb-go-fest-2025-dark-skies:combee-dynamax",
+   "what": "Dynamax Combee added to GO Fest 2025 Dark Skies",
+   "at": "2026-11-18",
+   "before": null,
+   "after": "ee3a12cbdd1181a8"
+  },
+  {
+   "id": "catalog:set:link.sb-go-fest-2025-dark-skies.corviknight-dynamax:c01bc9cd80ae",
+   "key": "link:sb-go-fest-2025-dark-skies:corviknight-dynamax",
+   "what": "Dynamax Corviknight on GO Fest 2025 Dark Skies: events changed",
+   "at": "2026-11-18",
+   "before": {
+    "pokemon": "corviknight-dynamax",
+    "canBeShiny": true,
+    "evolvedOnly": true,
+    "events": [
+     {
+      "name": "Dark Skies",
+      "start": "2025-08-18T10:00:00.000Z",
+      "end": "2025-08-23T10:00:00.000Z",
+      "shiny": true,
+      "evolved": true
+     }
+    ]
+   },
+   "after": "33523e99da8bfa43"
+  },
+  {
+   "id": "catalog:set:link.sb-go-fest-2025-dark-skies.corvisquire-dynamax:72f84de035f1",
+   "key": "link:sb-go-fest-2025-dark-skies:corvisquire-dynamax",
+   "what": "Dynamax Corvisquire on GO Fest 2025 Dark Skies: events changed",
+   "at": "2026-11-18",
+   "before": {
+    "pokemon": "corvisquire-dynamax",
+    "canBeShiny": true,
+    "evolvedOnly": true,
+    "events": [
+     {
+      "name": "Dark Skies",
+      "start": "2025-08-18T10:00:00.000Z",
+      "end": "2025-08-23T10:00:00.000Z",
+      "shiny": true,
+      "evolved": true
+     }
+    ]
+   },
+   "after": "d2d99c06500f870b"
+  },
+  {
+   "id": "catalog:set:link.sb-go-fest-2025-dark-skies.cottonee-dynamax:fb65beb27766",
+   "key": "link:sb-go-fest-2025-dark-skies:cottonee-dynamax",
+   "what": "Dynamax Cottonee added to GO Fest 2025 Dark Skies",
+   "at": "2026-11-18",
+   "before": null,
+   "after": "c5312c8edf6c4497"
+  },
+  {
+   "id": "catalog:set:link.sb-go-fest-2025-dark-skies.cryogonal-dynamax:acfd930e952b",
+   "key": "link:sb-go-fest-2025-dark-skies:cryogonal-dynamax",
+   "what": "Dynamax Cryogonal on GO Fest 2025 Dark Skies: events changed",
+   "at": "2026-11-18",
+   "before": {
+    "pokemon": "cryogonal-dynamax",
+    "canBeShiny": true,
+    "evolvedOnly": false,
+    "events": [
+     {
+      "name": "Dark Skies",
+      "start": "2025-08-18T10:00:00.000Z",
+      "end": "2025-08-23T10:00:00.000Z",
+      "shiny": true,
+      "evolved": false
+     }
+    ]
+   },
+   "after": "ae5a0d4b45c769b0"
+  },
+  {
+   "id": "catalog:set:link.sb-go-fest-2025-dark-skies.darmanitan-standard-dynamax:49e872e007a7",
+   "key": "link:sb-go-fest-2025-dark-skies:darmanitan-standard-dynamax",
+   "what": "Dynamax Darmanitan Standard on GO Fest 2025 Dark Skies: events changed",
+   "at": "2026-11-18",
+   "before": {
+    "pokemon": "darmanitan-standard-dynamax",
+    "canBeShiny": true,
+    "evolvedOnly": true,
+    "events": [
+     {
+      "name": "Dark Skies",
+      "start": "2025-08-18T10:00:00.000Z",
+      "end": "2025-08-23T10:00:00.000Z",
+      "shiny": true,
+      "evolved": true
+     }
+    ]
+   },
+   "after": "1de51d96655295f4"
+  },
+  {
+   "id": "catalog:set:link.sb-go-fest-2025-dark-skies.darumaka-dynamax:4cbe4abad061",
+   "key": "link:sb-go-fest-2025-dark-skies:darumaka-dynamax",
+   "what": "Dynamax Darumaka on GO Fest 2025 Dark Skies: events changed",
+   "at": "2026-11-18",
+   "before": {
+    "pokemon": "darumaka-dynamax",
+    "canBeShiny": true,
+    "evolvedOnly": false,
+    "events": [
+     {
+      "name": "Dark Skies",
+      "start": "2025-08-18T10:00:00.000Z",
+      "end": "2025-08-23T10:00:00.000Z",
+      "shiny": true,
+      "evolved": false
+     }
+    ]
+   },
+   "after": "66ec20564dc8e40f"
+  },
+  {
+   "id": "catalog:set:link.sb-go-fest-2025-dark-skies.deino-dynamax:aa9db14670ad",
+   "key": "link:sb-go-fest-2025-dark-skies:deino-dynamax",
+   "what": "Dynamax Deino added to GO Fest 2025 Dark Skies",
+   "at": "2026-11-18",
+   "before": null,
+   "after": "900621c3f6f12367"
+  },
+  {
+   "id": "catalog:set:link.sb-go-fest-2025-dark-skies.drilbur-dynamax:1df955be8249",
+   "key": "link:sb-go-fest-2025-dark-skies:drilbur-dynamax",
+   "what": "Dynamax Drilbur on GO Fest 2025 Dark Skies: events changed",
+   "at": "2026-11-18",
+   "before": {
+    "pokemon": "drilbur-dynamax",
+    "canBeShiny": true,
+    "evolvedOnly": false,
+    "events": [
+     {
+      "name": "Dark Skies",
+      "start": "2025-08-18T10:00:00.000Z",
+      "end": "2025-08-23T10:00:00.000Z",
+      "shiny": true,
+      "evolved": false
+     }
+    ]
+   },
+   "after": "3835e89f4f1d4286"
+  },
+  {
+   "id": "catalog:set:link.sb-go-fest-2025-dark-skies.drizzile-dynamax:b6a7f9106ae9",
+   "key": "link:sb-go-fest-2025-dark-skies:drizzile-dynamax",
+   "what": "Dynamax Drizzile on GO Fest 2025 Dark Skies: can be shiny no → yes, events changed",
+   "at": "2026-11-18",
+   "before": {
+    "pokemon": "drizzile-dynamax",
+    "canBeShiny": false,
+    "evolvedOnly": true,
+    "events": [
+     {
+      "name": "Dark Skies",
+      "start": "2025-08-18T10:00:00.000Z",
+      "end": "2025-08-23T10:00:00.000Z",
+      "shiny": false,
+      "evolved": true
+     }
+    ]
+   },
+   "after": "c770762ca9e56c32"
+  },
+  {
+   "id": "catalog:set:link.sb-go-fest-2025-dark-skies.dubwool-dynamax:f1c13c940233",
+   "key": "link:sb-go-fest-2025-dark-skies:dubwool-dynamax",
+   "what": "Dynamax Dubwool on GO Fest 2025 Dark Skies: events changed",
+   "at": "2026-11-18",
+   "before": {
+    "pokemon": "dubwool-dynamax",
+    "canBeShiny": true,
+    "evolvedOnly": true,
+    "events": [
+     {
+      "name": "Dark Skies",
+      "start": "2025-08-18T10:00:00.000Z",
+      "end": "2025-08-23T10:00:00.000Z",
+      "shiny": true,
+      "evolved": true
+     }
+    ]
+   },
+   "after": "3894c4732f2ca87b"
+  },
+  {
+   "id": "catalog:set:link.sb-go-fest-2025-dark-skies.duraludon-dynamax:a4bc53fd7d56",
+   "key": "link:sb-go-fest-2025-dark-skies:duraludon-dynamax",
+   "what": "Dynamax Duraludon added to GO Fest 2025 Dark Skies",
+   "at": "2026-11-18",
+   "before": null,
+   "after": "86f2212185dd4e91"
+  },
+  {
+   "id": "catalog:set:link.sb-go-fest-2025-dark-skies.eevee-dynamax:ad42180427c4",
+   "key": "link:sb-go-fest-2025-dark-skies:eevee-dynamax",
+   "what": "Dynamax Eevee added to GO Fest 2025 Dark Skies",
+   "at": "2026-11-18",
+   "before": null,
+   "after": "00c7b9525bf2b8dd"
+  },
+  {
+   "id": "catalog:set:link.sb-go-fest-2025-dark-skies.electabuzz-dynamax:81dff9a9bc55",
+   "key": "link:sb-go-fest-2025-dark-skies:electabuzz-dynamax",
+   "what": "Dynamax Electabuzz added to GO Fest 2025 Dark Skies",
+   "at": "2026-11-18",
+   "before": null,
+   "after": "2aee1f043e5706dc"
+  },
+  {
+   "id": "catalog:set:link.sb-go-fest-2025-dark-skies.electivire-dynamax:e18c6cbd8b7d",
+   "key": "link:sb-go-fest-2025-dark-skies:electivire-dynamax",
+   "what": "Dynamax Electivire added to GO Fest 2025 Dark Skies",
+   "at": "2026-11-18",
+   "before": null,
+   "after": "2f7a91b673f0dce2"
+  },
+  {
+   "id": "catalog:set:link.sb-go-fest-2025-dark-skies.espeon-dynamax:88a793dcb9dc",
+   "key": "link:sb-go-fest-2025-dark-skies:espeon-dynamax",
+   "what": "Dynamax Espeon added to GO Fest 2025 Dark Skies",
+   "at": "2026-11-18",
+   "before": null,
+   "after": "a6360be2b4b1e2c1"
+  },
+  {
+   "id": "catalog:set:link.sb-go-fest-2025-dark-skies.excadrill-dynamax:6b5bbe3b1cdc",
+   "key": "link:sb-go-fest-2025-dark-skies:excadrill-dynamax",
+   "what": "Dynamax Excadrill on GO Fest 2025 Dark Skies: events changed",
+   "at": "2026-11-18",
+   "before": {
+    "pokemon": "excadrill-dynamax",
+    "canBeShiny": true,
+    "evolvedOnly": true,
+    "events": [
+     {
+      "name": "Dark Skies",
+      "start": "2025-08-18T10:00:00.000Z",
+      "end": "2025-08-23T10:00:00.000Z",
+      "shiny": true,
+      "evolved": true
+     }
+    ]
+   },
+   "after": "769e1b70ac452e9c"
+  },
+  {
+   "id": "catalog:set:link.sb-go-fest-2025-dark-skies.falinks-dynamax:f42d067de06f",
+   "key": "link:sb-go-fest-2025-dark-skies:falinks-dynamax",
+   "what": "Dynamax Falinks on GO Fest 2025 Dark Skies: events changed",
+   "at": "2026-11-18",
+   "before": {
+    "pokemon": "falinks-dynamax",
+    "canBeShiny": true,
+    "evolvedOnly": false,
+    "events": [
+     {
+      "name": "Dark Skies",
+      "start": "2025-08-18T10:00:00.000Z",
+      "end": "2025-08-23T10:00:00.000Z",
+      "shiny": true,
+      "evolved": false
+     }
+    ]
+   },
+   "after": "bc21f643a72eac7c"
+  },
+  {
+   "id": "catalog:set:link.sb-go-fest-2025-dark-skies.feebas-dynamax:03afa2e74b98",
+   "key": "link:sb-go-fest-2025-dark-skies:feebas-dynamax",
+   "what": "Dynamax Feebas added to GO Fest 2025 Dark Skies",
+   "at": "2026-11-18",
+   "before": null,
+   "after": "3b3821f2c3e023d8"
+  },
+  {
+   "id": "catalog:set:link.sb-go-fest-2025-dark-skies.flareon-dynamax:2d73a3345c3f",
+   "key": "link:sb-go-fest-2025-dark-skies:flareon-dynamax",
+   "what": "Dynamax Flareon added to GO Fest 2025 Dark Skies",
+   "at": "2026-11-18",
+   "before": null,
+   "after": "064df1f23817ff90"
+  },
+  {
+   "id": "catalog:set:link.sb-go-fest-2025-dark-skies.flygon-dynamax:16dbf4490f2b",
+   "key": "link:sb-go-fest-2025-dark-skies:flygon-dynamax",
+   "what": "Dynamax Flygon added to GO Fest 2025 Dark Skies",
+   "at": "2026-11-18",
+   "before": null,
+   "after": "d5b0f3fe7591becc"
+  },
+  {
+   "id": "catalog:set:link.sb-go-fest-2025-dark-skies.gallade-dynamax:f6fe446cf644",
+   "key": "link:sb-go-fest-2025-dark-skies:gallade-dynamax",
+   "what": "Dynamax Gallade added to GO Fest 2025 Dark Skies",
+   "at": "2026-11-18",
+   "before": null,
+   "after": "d18812459fdc594c"
+  },
+  {
+   "id": "catalog:set:link.sb-go-fest-2025-dark-skies.garbodor-dynamax:3e18671bba07",
+   "key": "link:sb-go-fest-2025-dark-skies:garbodor-dynamax",
+   "what": "Dynamax Garbodor on GO Fest 2025 Dark Skies: events changed",
+   "at": "2026-11-18",
+   "before": {
+    "pokemon": "garbodor-dynamax",
+    "canBeShiny": true,
+    "evolvedOnly": true,
+    "events": [
+     {
+      "name": "Dark Skies",
+      "start": "2025-08-18T10:00:00.000Z",
+      "end": "2025-08-23T10:00:00.000Z",
+      "shiny": true,
+      "evolved": true
+     }
+    ]
+   },
+   "after": "f66a956b6000758a"
+  },
+  {
+   "id": "catalog:set:link.sb-go-fest-2025-dark-skies.gardevoir-dynamax:01efdd8240ed",
+   "key": "link:sb-go-fest-2025-dark-skies:gardevoir-dynamax",
+   "what": "Dynamax Gardevoir added to GO Fest 2025 Dark Skies",
+   "at": "2026-11-18",
+   "before": null,
+   "after": "7158a637d0aaeb73"
+  },
+  {
+   "id": "catalog:set:link.sb-go-fest-2025-dark-skies.gastly-dynamax:b56bd7a10b92",
+   "key": "link:sb-go-fest-2025-dark-skies:gastly-dynamax",
+   "what": "Dynamax Gastly on GO Fest 2025 Dark Skies: events changed",
+   "at": "2026-11-18",
+   "before": {
+    "pokemon": "gastly-dynamax",
+    "canBeShiny": true,
+    "evolvedOnly": false,
+    "events": [
+     {
+      "name": "Dark Skies",
+      "start": "2025-08-18T10:00:00.000Z",
+      "end": "2025-08-23T10:00:00.000Z",
+      "shiny": true,
+      "evolved": false
+     }
+    ]
+   },
+   "after": "4a19f8fb4df5a685"
+  },
+  {
+   "id": "catalog:set:link.sb-go-fest-2025-dark-skies.gengar-dynamax:51007afbc0e3",
+   "key": "link:sb-go-fest-2025-dark-skies:gengar-dynamax",
+   "what": "Dynamax Gengar on GO Fest 2025 Dark Skies: events changed",
+   "at": "2026-11-18",
+   "before": {
+    "pokemon": "gengar-dynamax",
+    "canBeShiny": true,
+    "evolvedOnly": true,
+    "events": [
+     {
+      "name": "Dark Skies",
+      "start": "2025-08-18T10:00:00.000Z",
+      "end": "2025-08-23T10:00:00.000Z",
+      "shiny": true,
+      "evolved": true
+     }
+    ]
+   },
+   "after": "58830e5faf7e13b7"
+  },
+  {
+   "id": "catalog:set:link.sb-go-fest-2025-dark-skies.gigalith-dynamax:51ab71ac59e9",
+   "key": "link:sb-go-fest-2025-dark-skies:gigalith-dynamax",
+   "what": "Dynamax Gigalith added to GO Fest 2025 Dark Skies",
+   "at": "2026-11-18",
+   "before": null,
+   "after": "ad2cc96a791cd0e3"
+  },
+  {
+   "id": "catalog:set:link.sb-go-fest-2025-dark-skies.glaceon-dynamax:8397a8978391",
+   "key": "link:sb-go-fest-2025-dark-skies:glaceon-dynamax",
+   "what": "Dynamax Glaceon added to GO Fest 2025 Dark Skies",
+   "at": "2026-11-18",
+   "before": null,
+   "after": "651e481144e76428"
+  },
+  {
+   "id": "catalog:set:link.sb-go-fest-2025-dark-skies.greedent-dynamax:245d0fdd1bf5",
+   "key": "link:sb-go-fest-2025-dark-skies:greedent-dynamax",
+   "what": "Dynamax Greedent on GO Fest 2025 Dark Skies: events changed",
+   "at": "2026-11-18",
+   "before": {
+    "pokemon": "greedent-dynamax",
+    "canBeShiny": true,
+    "evolvedOnly": true,
+    "events": [
+     {
+      "name": "Dark Skies",
+      "start": "2025-08-18T10:00:00.000Z",
+      "end": "2025-08-23T10:00:00.000Z",
+      "shiny": true,
+      "evolved": true
+     }
+    ]
+   },
+   "after": "ab1619b605ad50ca"
+  },
+  {
+   "id": "catalog:set:link.sb-go-fest-2025-dark-skies.grookey-dynamax:d76a7f848f3c",
+   "key": "link:sb-go-fest-2025-dark-skies:grookey-dynamax",
+   "what": "Dynamax Grookey on GO Fest 2025 Dark Skies: can be shiny no → yes, events changed",
+   "at": "2026-11-18",
+   "before": {
+    "pokemon": "grookey-dynamax",
+    "canBeShiny": false,
+    "evolvedOnly": false,
+    "events": [
+     {
+      "name": "Dark Skies",
+      "start": "2025-08-18T10:00:00.000Z",
+      "end": "2025-08-23T10:00:00.000Z",
+      "shiny": false,
+      "evolved": false
+     }
+    ]
+   },
+   "after": "a4036dd5be2ca49f"
+  },
+  {
+   "id": "catalog:set:link.sb-go-fest-2025-dark-skies.growlithe-dynamax:84a7593238ae",
+   "key": "link:sb-go-fest-2025-dark-skies:growlithe-dynamax",
+   "what": "Dynamax Growlithe added to GO Fest 2025 Dark Skies",
+   "at": "2026-11-18",
+   "before": null,
+   "after": "c368d9ea63c63e4d"
+  },
+  {
+   "id": "catalog:set:link.sb-go-fest-2025-dark-skies.gyarados-dynamax:c0923546f424",
+   "key": "link:sb-go-fest-2025-dark-skies:gyarados-dynamax",
+   "what": "Dynamax Gyarados added to GO Fest 2025 Dark Skies",
+   "at": "2026-11-18",
+   "before": null,
+   "after": "1e174f1600634b56"
+  },
+  {
+   "id": "catalog:set:link.sb-go-fest-2025-dark-skies.hatenna-dynamax:19055982edb7",
+   "key": "link:sb-go-fest-2025-dark-skies:hatenna-dynamax",
+   "what": "Dynamax Hatenna on GO Fest 2025 Dark Skies: can be shiny no → yes, events changed",
+   "at": "2026-11-18",
+   "before": {
+    "pokemon": "hatenna-dynamax",
+    "canBeShiny": false,
+    "evolvedOnly": false,
+    "events": [
+     {
+      "name": "Dark Skies",
+      "start": "2025-08-18T10:00:00.000Z",
+      "end": "2025-08-23T10:00:00.000Z",
+      "shiny": false,
+      "evolved": false
+     }
+    ]
+   },
+   "after": "07c4a8347aac57f0"
+  },
+  {
+   "id": "catalog:set:link.sb-go-fest-2025-dark-skies.hatterene-dynamax:ef462e5c45ae",
+   "key": "link:sb-go-fest-2025-dark-skies:hatterene-dynamax",
+   "what": "Dynamax Hatterene on GO Fest 2025 Dark Skies: can be shiny no → yes, events changed",
+   "at": "2026-11-18",
+   "before": {
+    "pokemon": "hatterene-dynamax",
+    "canBeShiny": false,
+    "evolvedOnly": true,
+    "events": [
+     {
+      "name": "Dark Skies",
+      "start": "2025-08-18T10:00:00.000Z",
+      "end": "2025-08-23T10:00:00.000Z",
+      "shiny": false,
+      "evolved": true
+     }
+    ]
+   },
+   "after": "2d935bf834f5ac4c"
+  },
+  {
+   "id": "catalog:set:link.sb-go-fest-2025-dark-skies.hattrem-dynamax:849bd1fc0330",
+   "key": "link:sb-go-fest-2025-dark-skies:hattrem-dynamax",
+   "what": "Dynamax Hattrem on GO Fest 2025 Dark Skies: can be shiny no → yes, events changed",
+   "at": "2026-11-18",
+   "before": {
+    "pokemon": "hattrem-dynamax",
+    "canBeShiny": false,
+    "evolvedOnly": true,
+    "events": [
+     {
+      "name": "Dark Skies",
+      "start": "2025-08-18T10:00:00.000Z",
+      "end": "2025-08-23T10:00:00.000Z",
+      "shiny": false,
+      "evolved": true
+     }
+    ]
+   },
+   "after": "bc8357552dcacef4"
+  },
+  {
+   "id": "catalog:set:link.sb-go-fest-2025-dark-skies.haunter-dynamax:f76abc09e438",
+   "key": "link:sb-go-fest-2025-dark-skies:haunter-dynamax",
+   "what": "Dynamax Haunter on GO Fest 2025 Dark Skies: events changed",
+   "at": "2026-11-18",
+   "before": {
+    "pokemon": "haunter-dynamax",
+    "canBeShiny": true,
+    "evolvedOnly": true,
+    "events": [
+     {
+      "name": "Dark Skies",
+      "start": "2025-08-18T10:00:00.000Z",
+      "end": "2025-08-23T10:00:00.000Z",
+      "shiny": true,
+      "evolved": true
+     }
+    ]
+   },
+   "after": "74a745be84af4b49"
+  },
+  {
+   "id": "catalog:set:link.sb-go-fest-2025-dark-skies.hitmonchan-dynamax:25afa8240ed4",
+   "key": "link:sb-go-fest-2025-dark-skies:hitmonchan-dynamax",
+   "what": "Dynamax Hitmonchan added to GO Fest 2025 Dark Skies",
+   "at": "2026-11-18",
+   "before": null,
+   "after": "f2d5dbf14dd2163b"
+  },
+  {
+   "id": "catalog:set:link.sb-go-fest-2025-dark-skies.hitmonlee-dynamax:b15c14b40d37",
+   "key": "link:sb-go-fest-2025-dark-skies:hitmonlee-dynamax",
+   "what": "Dynamax Hitmonlee added to GO Fest 2025 Dark Skies",
+   "at": "2026-11-18",
+   "before": null,
+   "after": "980d0e76b487e7c3"
+  },
+  {
+   "id": "catalog:set:link.sb-go-fest-2025-dark-skies.hitmontop-dynamax:e225d6164d3b",
+   "key": "link:sb-go-fest-2025-dark-skies:hitmontop-dynamax",
+   "what": "Dynamax Hitmontop added to GO Fest 2025 Dark Skies",
+   "at": "2026-11-18",
+   "before": null,
+   "after": "6ca5acddaff53409"
+  },
+  {
+   "id": "catalog:set:link.sb-go-fest-2025-dark-skies.hoothoot-dynamax:007510b066a4",
+   "key": "link:sb-go-fest-2025-dark-skies:hoothoot-dynamax",
+   "what": "Dynamax Hoothoot added to GO Fest 2025 Dark Skies",
+   "at": "2026-11-18",
+   "before": null,
+   "after": "f620487179abfb91"
+  },
+  {
+   "id": "catalog:set:link.sb-go-fest-2025-dark-skies.hydreigon-dynamax:9c44050ad3ef",
+   "key": "link:sb-go-fest-2025-dark-skies:hydreigon-dynamax",
+   "what": "Dynamax Hydreigon added to GO Fest 2025 Dark Skies",
+   "at": "2026-11-18",
+   "before": null,
+   "after": "444d773358405a3f"
+  },
+  {
+   "id": "catalog:set:link.sb-go-fest-2025-dark-skies.inkay-dynamax:208f064a300f",
+   "key": "link:sb-go-fest-2025-dark-skies:inkay-dynamax",
+   "what": "Dynamax Inkay added to GO Fest 2025 Dark Skies",
+   "at": "2026-11-18",
+   "before": null,
+   "after": "3798a24f430a494b"
+  },
+  {
+   "id": "catalog:set:link.sb-go-fest-2025-dark-skies.inteleon-dynamax:991d62242f81",
+   "key": "link:sb-go-fest-2025-dark-skies:inteleon-dynamax",
+   "what": "Dynamax Inteleon on GO Fest 2025 Dark Skies: can be shiny no → yes, events changed",
+   "at": "2026-11-18",
+   "before": {
+    "pokemon": "inteleon-dynamax",
+    "canBeShiny": false,
+    "evolvedOnly": true,
+    "events": [
+     {
+      "name": "Dark Skies",
+      "start": "2025-08-18T10:00:00.000Z",
+      "end": "2025-08-23T10:00:00.000Z",
+      "shiny": false,
+      "evolved": true
+     }
+    ]
+   },
+   "after": "bd8b8965bba1e0d9"
+  },
+  {
+   "id": "catalog:set:link.sb-go-fest-2025-dark-skies.ivysaur-dynamax:12132bb96ff5",
+   "key": "link:sb-go-fest-2025-dark-skies:ivysaur-dynamax",
+   "what": "Dynamax Ivysaur on GO Fest 2025 Dark Skies: events changed",
+   "at": "2026-11-18",
+   "before": {
+    "pokemon": "ivysaur-dynamax",
+    "canBeShiny": true,
+    "evolvedOnly": true,
+    "events": [
+     {
+      "name": "Dark Skies",
+      "start": "2025-08-18T10:00:00.000Z",
+      "end": "2025-08-23T10:00:00.000Z",
+      "shiny": true,
+      "evolved": true
+     }
+    ]
+   },
+   "after": "c6b4078b6b93c665"
+  },
+  {
+   "id": "catalog:set:link.sb-go-fest-2025-dark-skies.jolteon-dynamax:4e450c786989",
+   "key": "link:sb-go-fest-2025-dark-skies:jolteon-dynamax",
+   "what": "Dynamax Jolteon added to GO Fest 2025 Dark Skies",
+   "at": "2026-11-18",
+   "before": null,
+   "after": "7c39a5afc9890b27"
+  },
+  {
+   "id": "catalog:set:link.sb-go-fest-2025-dark-skies.kabuto-dynamax:437c0822971e",
+   "key": "link:sb-go-fest-2025-dark-skies:kabuto-dynamax",
+   "what": "Dynamax Kabuto on GO Fest 2025 Dark Skies: events changed",
+   "at": "2026-11-18",
+   "before": {
+    "pokemon": "kabuto-dynamax",
+    "canBeShiny": true,
+    "evolvedOnly": false,
+    "events": [
+     {
+      "name": "Dark Skies",
+      "start": "2025-08-18T10:00:00.000Z",
+      "end": "2025-08-23T10:00:00.000Z",
+      "shiny": true,
+      "evolved": false
+     }
+    ]
+   },
+   "after": "084d90097f21b06c"
+  },
+  {
+   "id": "catalog:set:link.sb-go-fest-2025-dark-skies.kabutops-dynamax:8fb494955da4",
+   "key": "link:sb-go-fest-2025-dark-skies:kabutops-dynamax",
+   "what": "Dynamax Kabutops on GO Fest 2025 Dark Skies: events changed",
+   "at": "2026-11-18",
+   "before": {
+    "pokemon": "kabutops-dynamax",
+    "canBeShiny": true,
+    "evolvedOnly": true,
+    "events": [
+     {
+      "name": "Dark Skies",
+      "start": "2025-08-18T10:00:00.000Z",
+      "end": "2025-08-23T10:00:00.000Z",
+      "shiny": true,
+      "evolved": true
+     }
+    ]
+   },
+   "after": "af62b46ada93735f"
+  },
+  {
+   "id": "catalog:set:link.sb-go-fest-2025-dark-skies.kadabra-dynamax:25cc598c72b5",
+   "key": "link:sb-go-fest-2025-dark-skies:kadabra-dynamax",
+   "what": "Dynamax Kadabra added to GO Fest 2025 Dark Skies",
+   "at": "2026-11-18",
+   "before": null,
+   "after": "9fc3e1540da7d63e"
+  },
+  {
+   "id": "catalog:set:link.sb-go-fest-2025-dark-skies.kingler-dynamax:b8dcbd965ee2",
+   "key": "link:sb-go-fest-2025-dark-skies:kingler-dynamax",
+   "what": "Dynamax Kingler on GO Fest 2025 Dark Skies: events changed",
+   "at": "2026-11-18",
+   "before": {
+    "pokemon": "kingler-dynamax",
+    "canBeShiny": true,
+    "evolvedOnly": true,
+    "events": [
+     {
+      "name": "Dark Skies",
+      "start": "2025-08-18T10:00:00.000Z",
+      "end": "2025-08-23T10:00:00.000Z",
+      "shiny": true,
+      "evolved": true
+     }
+    ]
+   },
+   "after": "4bf0ba9c5a094673"
+  },
+  {
+   "id": "catalog:set:link.sb-go-fest-2025-dark-skies.kirlia-dynamax:bae8ea93d3ea",
+   "key": "link:sb-go-fest-2025-dark-skies:kirlia-dynamax",
+   "what": "Dynamax Kirlia added to GO Fest 2025 Dark Skies",
+   "at": "2026-11-18",
+   "before": null,
+   "after": "6d9640cbc199af90"
+  },
+  {
+   "id": "catalog:set:link.sb-go-fest-2025-dark-skies.krabby-dynamax:fa4f3b14ab2f",
+   "key": "link:sb-go-fest-2025-dark-skies:krabby-dynamax",
+   "what": "Dynamax Krabby on GO Fest 2025 Dark Skies: events changed",
+   "at": "2026-11-18",
+   "before": {
+    "pokemon": "krabby-dynamax",
+    "canBeShiny": true,
+    "evolvedOnly": false,
+    "events": [
+     {
+      "name": "Dark Skies",
+      "start": "2025-08-18T10:00:00.000Z",
+      "end": "2025-08-23T10:00:00.000Z",
+      "shiny": true,
+      "evolved": false
+     }
+    ]
+   },
+   "after": "3c2b66dbd28273e4"
+  },
+  {
+   "id": "catalog:set:link.sb-go-fest-2025-dark-skies.leafeon-dynamax:f5608724f262",
+   "key": "link:sb-go-fest-2025-dark-skies:leafeon-dynamax",
+   "what": "Dynamax Leafeon added to GO Fest 2025 Dark Skies",
+   "at": "2026-11-18",
+   "before": null,
+   "after": "a04997ae70966923"
+  },
+  {
+   "id": "catalog:set:link.sb-go-fest-2025-dark-skies.machamp-dynamax:1b61d81c47f9",
+   "key": "link:sb-go-fest-2025-dark-skies:machamp-dynamax",
+   "what": "Dynamax Machamp on GO Fest 2025 Dark Skies: events changed",
+   "at": "2026-11-18",
+   "before": {
+    "pokemon": "machamp-dynamax",
+    "canBeShiny": true,
+    "evolvedOnly": true,
+    "events": [
+     {
+      "name": "Dark Skies",
+      "start": "2025-08-18T10:00:00.000Z",
+      "end": "2025-08-23T10:00:00.000Z",
+      "shiny": true,
+      "evolved": true
+     }
+    ]
+   },
+   "after": "d23afbc16da85bba"
+  },
+  {
+   "id": "catalog:set:link.sb-go-fest-2025-dark-skies.machoke-dynamax:b24696abe4b4",
+   "key": "link:sb-go-fest-2025-dark-skies:machoke-dynamax",
+   "what": "Dynamax Machoke on GO Fest 2025 Dark Skies: events changed",
+   "at": "2026-11-18",
+   "before": {
+    "pokemon": "machoke-dynamax",
+    "canBeShiny": true,
+    "evolvedOnly": true,
+    "events": [
+     {
+      "name": "Dark Skies",
+      "start": "2025-08-18T10:00:00.000Z",
+      "end": "2025-08-23T10:00:00.000Z",
+      "shiny": true,
+      "evolved": true
+     }
+    ]
+   },
+   "after": "62c89cdec39f2e83"
+  },
+  {
+   "id": "catalog:set:link.sb-go-fest-2025-dark-skies.machop-dynamax:a3c87f9e7638",
+   "key": "link:sb-go-fest-2025-dark-skies:machop-dynamax",
+   "what": "Dynamax Machop on GO Fest 2025 Dark Skies: events changed",
+   "at": "2026-11-18",
+   "before": {
+    "pokemon": "machop-dynamax",
+    "canBeShiny": true,
+    "evolvedOnly": false,
+    "events": [
+     {
+      "name": "Dark Skies",
+      "start": "2025-08-18T10:00:00.000Z",
+      "end": "2025-08-23T10:00:00.000Z",
+      "shiny": true,
+      "evolved": false
+     }
+    ]
+   },
+   "after": "891a828d4cb0cbd4"
+  },
+  {
+   "id": "catalog:set:link.sb-go-fest-2025-dark-skies.magikarp-dynamax:6359bb2cc497",
+   "key": "link:sb-go-fest-2025-dark-skies:magikarp-dynamax",
+   "what": "Dynamax Magikarp added to GO Fest 2025 Dark Skies",
+   "at": "2026-11-18",
+   "before": null,
+   "after": "2014a775f5b6783d"
+  },
+  {
+   "id": "catalog:set:link.sb-go-fest-2025-dark-skies.magmar-dynamax:ff5c2d9fdb55",
+   "key": "link:sb-go-fest-2025-dark-skies:magmar-dynamax",
+   "what": "Dynamax Magmar added to GO Fest 2025 Dark Skies",
+   "at": "2026-11-18",
+   "before": null,
+   "after": "f9a42611ff5a03bf"
+  },
+  {
+   "id": "catalog:set:link.sb-go-fest-2025-dark-skies.magmortar-dynamax:56048ed60f2f",
+   "key": "link:sb-go-fest-2025-dark-skies:magmortar-dynamax",
+   "what": "Dynamax Magmortar added to GO Fest 2025 Dark Skies",
+   "at": "2026-11-18",
+   "before": null,
+   "after": "c97a3e3bb910d50d"
+  },
+  {
+   "id": "catalog:set:link.sb-go-fest-2025-dark-skies.malamar-dynamax:201aa8f8ee26",
+   "key": "link:sb-go-fest-2025-dark-skies:malamar-dynamax",
+   "what": "Dynamax Malamar added to GO Fest 2025 Dark Skies",
+   "at": "2026-11-18",
+   "before": null,
+   "after": "55f50e2fde53c654"
+  },
+  {
+   "id": "catalog:set:link.sb-go-fest-2025-dark-skies.metagross-dynamax:1d3a78643129",
+   "key": "link:sb-go-fest-2025-dark-skies:metagross-dynamax",
+   "what": "Dynamax Metagross on GO Fest 2025 Dark Skies: events changed",
+   "at": "2026-11-18",
+   "before": {
+    "pokemon": "metagross-dynamax",
+    "canBeShiny": true,
+    "evolvedOnly": true,
+    "events": [
+     {
+      "name": "Dark Skies",
+      "start": "2025-08-18T10:00:00.000Z",
+      "end": "2025-08-23T10:00:00.000Z",
+      "shiny": true,
+      "evolved": true
+     }
+    ]
+   },
+   "after": "16ab7cf3ebc324cf"
+  },
+  {
+   "id": "catalog:set:link.sb-go-fest-2025-dark-skies.metang-dynamax:aef8440c47d1",
+   "key": "link:sb-go-fest-2025-dark-skies:metang-dynamax",
+   "what": "Dynamax Metang on GO Fest 2025 Dark Skies: events changed",
+   "at": "2026-11-18",
+   "before": {
+    "pokemon": "metang-dynamax",
+    "canBeShiny": true,
+    "evolvedOnly": true,
+    "events": [
+     {
+      "name": "Dark Skies",
+      "start": "2025-08-18T10:00:00.000Z",
+      "end": "2025-08-23T10:00:00.000Z",
+      "shiny": true,
+      "evolved": true
+     }
+    ]
+   },
+   "after": "260ec612ab7b5a6e"
+  },
+  {
+   "id": "catalog:set:link.sb-go-fest-2025-dark-skies.metapod-dynamax:54cd5759d44d",
+   "key": "link:sb-go-fest-2025-dark-skies:metapod-dynamax",
+   "what": "Dynamax Metapod on GO Fest 2025 Dark Skies: events changed",
+   "at": "2026-11-18",
+   "before": {
+    "pokemon": "metapod-dynamax",
+    "canBeShiny": true,
+    "evolvedOnly": true,
+    "events": [
+     {
+      "name": "Dark Skies",
+      "start": "2025-08-18T10:00:00.000Z",
+      "end": "2025-08-23T10:00:00.000Z",
+      "shiny": true,
+      "evolved": true
+     }
+    ]
+   },
+   "after": "6f64a07d3dc903f8"
+  },
+  {
+   "id": "catalog:set:link.sb-go-fest-2025-dark-skies.milotic-dynamax:744e74d69c0c",
+   "key": "link:sb-go-fest-2025-dark-skies:milotic-dynamax",
+   "what": "Dynamax Milotic added to GO Fest 2025 Dark Skies",
+   "at": "2026-11-18",
+   "before": null,
+   "after": "4fd1a42ff4cbaab3"
+  },
+  {
+   "id": "catalog:set:link.sb-go-fest-2025-dark-skies.noctowl-dynamax:fab7cdeeff8e",
+   "key": "link:sb-go-fest-2025-dark-skies:noctowl-dynamax",
+   "what": "Dynamax Noctowl added to GO Fest 2025 Dark Skies",
+   "at": "2026-11-18",
+   "before": null,
+   "after": "eabda9f3621bd269"
+  },
+  {
+   "id": "catalog:set:link.sb-go-fest-2025-dark-skies.omanyte-dynamax:b2a9ce3acfc5",
+   "key": "link:sb-go-fest-2025-dark-skies:omanyte-dynamax",
+   "what": "Dynamax Omanyte on GO Fest 2025 Dark Skies: events changed",
+   "at": "2026-11-18",
+   "before": {
+    "pokemon": "omanyte-dynamax",
+    "canBeShiny": true,
+    "evolvedOnly": false,
+    "events": [
+     {
+      "name": "Dark Skies",
+      "start": "2025-08-18T10:00:00.000Z",
+      "end": "2025-08-23T10:00:00.000Z",
+      "shiny": true,
+      "evolved": false
+     }
+    ]
+   },
+   "after": "04793bd2b8a8cad7"
+  },
+  {
+   "id": "catalog:set:link.sb-go-fest-2025-dark-skies.omastar-dynamax:b753175e3c10",
+   "key": "link:sb-go-fest-2025-dark-skies:omastar-dynamax",
+   "what": "Dynamax Omastar on GO Fest 2025 Dark Skies: events changed",
+   "at": "2026-11-18",
+   "before": {
+    "pokemon": "omastar-dynamax",
+    "canBeShiny": true,
+    "evolvedOnly": true,
+    "events": [
+     {
+      "name": "Dark Skies",
+      "start": "2025-08-18T10:00:00.000Z",
+      "end": "2025-08-23T10:00:00.000Z",
+      "shiny": true,
+      "evolved": true
+     }
+    ]
+   },
+   "after": "42d66b27c5afc250"
+  },
+  {
+   "id": "catalog:set:link.sb-go-fest-2025-dark-skies.passimian-dynamax:efe62211ee5a",
+   "key": "link:sb-go-fest-2025-dark-skies:passimian-dynamax",
+   "what": "Dynamax Passimian on GO Fest 2025 Dark Skies: events changed",
+   "at": "2026-11-18",
+   "before": {
+    "pokemon": "passimian-dynamax",
+    "canBeShiny": true,
+    "evolvedOnly": false,
+    "events": [
+     {
+      "name": "Dark Skies",
+      "start": "2025-08-18T10:00:00.000Z",
+      "end": "2025-08-23T10:00:00.000Z",
+      "shiny": true,
+      "evolved": false
+     }
+    ]
+   },
+   "after": "a437fa5ccc649b3f"
+  },
+  {
+   "id": "catalog:set:link.sb-go-fest-2025-dark-skies.pidove-dynamax:12c5818b5f40",
+   "key": "link:sb-go-fest-2025-dark-skies:pidove-dynamax",
+   "what": "Dynamax Pidove on GO Fest 2025 Dark Skies: events changed",
+   "at": "2026-11-18",
+   "before": {
+    "pokemon": "pidove-dynamax",
+    "canBeShiny": true,
+    "evolvedOnly": false,
+    "events": [
+     {
+      "name": "Dark Skies",
+      "start": "2025-08-18T10:00:00.000Z",
+      "end": "2025-08-23T10:00:00.000Z",
+      "shiny": true,
+      "evolved": false
+     }
+    ]
+   },
+   "after": "21471a0e2706eb29"
+  },
+  {
+   "id": "catalog:set:link.sb-go-fest-2025-dark-skies.pikachu-dynamax:b76119e10cac",
+   "key": "link:sb-go-fest-2025-dark-skies:pikachu-dynamax",
+   "what": "Dynamax Pikachu added to GO Fest 2025 Dark Skies",
+   "at": "2026-11-18",
+   "before": null,
+   "after": "fa4361938adb6818"
+  },
+  {
+   "id": "catalog:set:link.sb-go-fest-2025-dark-skies.raboot-dynamax:6fcdf186a185",
+   "key": "link:sb-go-fest-2025-dark-skies:raboot-dynamax",
+   "what": "Dynamax Raboot on GO Fest 2025 Dark Skies: can be shiny no → yes, events changed",
+   "at": "2026-11-18",
+   "before": {
+    "pokemon": "raboot-dynamax",
+    "canBeShiny": false,
+    "evolvedOnly": true,
+    "events": [
+     {
+      "name": "Dark Skies",
+      "start": "2025-08-18T10:00:00.000Z",
+      "end": "2025-08-23T10:00:00.000Z",
+      "shiny": false,
+      "evolved": true
+     }
+    ]
+   },
+   "after": "2ce9dbca716940ca"
+  },
+  {
+   "id": "catalog:set:link.sb-go-fest-2025-dark-skies.raichu-dynamax:c1f11eafecb2",
+   "key": "link:sb-go-fest-2025-dark-skies:raichu-dynamax",
+   "what": "Dynamax Raichu added to GO Fest 2025 Dark Skies",
+   "at": "2026-11-18",
+   "before": null,
+   "after": "6daf74b99a8fb80d"
+  },
+  {
+   "id": "catalog:set:link.sb-go-fest-2025-dark-skies.ralts-dynamax:d4ead328a113",
+   "key": "link:sb-go-fest-2025-dark-skies:ralts-dynamax",
+   "what": "Dynamax Ralts added to GO Fest 2025 Dark Skies",
+   "at": "2026-11-18",
+   "before": null,
+   "after": "e2009107c251a623"
+  },
+  {
+   "id": "catalog:set:link.sb-go-fest-2025-dark-skies.rhydon-dynamax:8e12538b5d15",
+   "key": "link:sb-go-fest-2025-dark-skies:rhydon-dynamax",
+   "what": "Dynamax Rhydon added to GO Fest 2025 Dark Skies",
+   "at": "2026-11-18",
+   "before": null,
+   "after": "428a5e6a73ca14b5"
+  },
+  {
+   "id": "catalog:set:link.sb-go-fest-2025-dark-skies.rhyhorn-dynamax:e61697440b8b",
+   "key": "link:sb-go-fest-2025-dark-skies:rhyhorn-dynamax",
+   "what": "Dynamax Rhyhorn added to GO Fest 2025 Dark Skies",
+   "at": "2026-11-18",
+   "before": null,
+   "after": "6318017549075b83"
+  },
+  {
+   "id": "catalog:set:link.sb-go-fest-2025-dark-skies.rhyperior-dynamax:a21d85ed8174",
+   "key": "link:sb-go-fest-2025-dark-skies:rhyperior-dynamax",
+   "what": "Dynamax Rhyperior added to GO Fest 2025 Dark Skies",
+   "at": "2026-11-18",
+   "before": null,
+   "after": "47dc96d4149674cc"
+  },
+  {
+   "id": "catalog:set:link.sb-go-fest-2025-dark-skies.rillaboom-dynamax:3408d62408e6",
+   "key": "link:sb-go-fest-2025-dark-skies:rillaboom-dynamax",
+   "what": "Dynamax Rillaboom on GO Fest 2025 Dark Skies: can be shiny no → yes, events changed",
+   "at": "2026-11-18",
+   "before": {
+    "pokemon": "rillaboom-dynamax",
+    "canBeShiny": false,
+    "evolvedOnly": true,
+    "events": [
+     {
+      "name": "Dark Skies",
+      "start": "2025-08-18T10:00:00.000Z",
+      "end": "2025-08-23T10:00:00.000Z",
+      "shiny": false,
+      "evolved": true
+     }
+    ]
+   },
+   "after": "d33a75e0800c73c1"
+  },
+  {
+   "id": "catalog:set:link.sb-go-fest-2025-dark-skies.roggenrola-dynamax:b00b31b6badc",
+   "key": "link:sb-go-fest-2025-dark-skies:roggenrola-dynamax",
+   "what": "Dynamax Roggenrola added to GO Fest 2025 Dark Skies",
+   "at": "2026-11-18",
+   "before": null,
+   "after": "80e02567c2791a43"
+  },
+  {
+   "id": "catalog:set:link.sb-go-fest-2025-dark-skies.rookidee-dynamax:0675ff655bf6",
+   "key": "link:sb-go-fest-2025-dark-skies:rookidee-dynamax",
+   "what": "Dynamax Rookidee on GO Fest 2025 Dark Skies: events changed",
+   "at": "2026-11-18",
+   "before": {
+    "pokemon": "rookidee-dynamax",
+    "canBeShiny": true,
+    "evolvedOnly": false,
+    "events": [
+     {
+      "name": "Dark Skies",
+      "start": "2025-08-18T10:00:00.000Z",
+      "end": "2025-08-23T10:00:00.000Z",
+      "shiny": true,
+      "evolved": false
+     }
+    ]
+   },
+   "after": "0c52debeb31e8d07"
+  },
+  {
+   "id": "catalog:set:link.sb-go-fest-2025-dark-skies.sableye-dynamax:d4e802cbe1d7",
+   "key": "link:sb-go-fest-2025-dark-skies:sableye-dynamax",
+   "what": "Dynamax Sableye on GO Fest 2025 Dark Skies: events changed",
+   "at": "2026-11-18",
+   "before": {
+    "pokemon": "sableye-dynamax",
+    "canBeShiny": true,
+    "evolvedOnly": false,
+    "events": [
+     {
+      "name": "Dark Skies",
+      "start": "2025-08-18T10:00:00.000Z",
+      "end": "2025-08-23T10:00:00.000Z",
+      "shiny": true,
+      "evolved": false
+     }
+    ]
+   },
+   "after": "de538e62a9faba28"
+  },
+  {
+   "id": "catalog:set:link.sb-go-fest-2025-dark-skies.scorbunny-dynamax:52363010081b",
+   "key": "link:sb-go-fest-2025-dark-skies:scorbunny-dynamax",
+   "what": "Dynamax Scorbunny on GO Fest 2025 Dark Skies: can be shiny no → yes, events changed",
+   "at": "2026-11-18",
+   "before": {
+    "pokemon": "scorbunny-dynamax",
+    "canBeShiny": false,
+    "evolvedOnly": false,
+    "events": [
+     {
+      "name": "Dark Skies",
+      "start": "2025-08-18T10:00:00.000Z",
+      "end": "2025-08-23T10:00:00.000Z",
+      "shiny": false,
+      "evolved": false
+     }
+    ]
+   },
+   "after": "af855375fb0d04ee"
+  },
+  {
+   "id": "catalog:set:link.sb-go-fest-2025-dark-skies.sealeo-dynamax:512b2690b807",
+   "key": "link:sb-go-fest-2025-dark-skies:sealeo-dynamax",
+   "what": "Dynamax Sealeo added to GO Fest 2025 Dark Skies",
+   "at": "2026-11-18",
+   "before": null,
+   "after": "563082e515501035"
+  },
+  {
+   "id": "catalog:set:link.sb-go-fest-2025-dark-skies.shuckle-dynamax:54e4457ceb45",
+   "key": "link:sb-go-fest-2025-dark-skies:shuckle-dynamax",
+   "what": "Dynamax Shuckle on GO Fest 2025 Dark Skies: events changed",
+   "at": "2026-11-18",
+   "before": {
+    "pokemon": "shuckle-dynamax",
+    "canBeShiny": true,
+    "evolvedOnly": false,
+    "events": [
+     {
+      "name": "Dark Skies",
+      "start": "2025-08-18T10:00:00.000Z",
+      "end": "2025-08-23T10:00:00.000Z",
+      "shiny": true,
+      "evolved": false
+     }
+    ]
+   },
+   "after": "9a6be1628b463212"
+  },
+  {
+   "id": "catalog:set:link.sb-go-fest-2025-dark-skies.sizzlipede-dynamax:412e0b0161a4",
+   "key": "link:sb-go-fest-2025-dark-skies:sizzlipede-dynamax",
+   "what": "Dynamax Sizzlipede added to GO Fest 2025 Dark Skies",
+   "at": "2026-11-18",
+   "before": null,
+   "after": "9438d125e8bb1e8c"
+  },
+  {
+   "id": "catalog:set:link.sb-go-fest-2025-dark-skies.skwovet-dynamax:71e876cc21c7",
+   "key": "link:sb-go-fest-2025-dark-skies:skwovet-dynamax",
+   "what": "Dynamax Skwovet on GO Fest 2025 Dark Skies: events changed",
+   "at": "2026-11-18",
+   "before": {
+    "pokemon": "skwovet-dynamax",
+    "canBeShiny": true,
+    "evolvedOnly": false,
+    "events": [
+     {
+      "name": "Dark Skies",
+      "start": "2025-08-18T10:00:00.000Z",
+      "end": "2025-08-23T10:00:00.000Z",
+      "shiny": true,
+      "evolved": false
+     }
+    ]
+   },
+   "after": "7b85c813f4360561"
+  },
+  {
+   "id": "catalog:set:link.sb-go-fest-2025-dark-skies.sneasel-dynamax:14a15886c473",
+   "key": "link:sb-go-fest-2025-dark-skies:sneasel-dynamax",
+   "what": "Dynamax Sneasel added to GO Fest 2025 Dark Skies",
+   "at": "2026-11-18",
+   "before": null,
+   "after": "c2546f75c5ecb9e2"
+  },
+  {
+   "id": "catalog:set:link.sb-go-fest-2025-dark-skies.sobble-dynamax:fa3c1de449d2",
+   "key": "link:sb-go-fest-2025-dark-skies:sobble-dynamax",
+   "what": "Dynamax Sobble on GO Fest 2025 Dark Skies: can be shiny no → yes, events changed",
+   "at": "2026-11-18",
+   "before": {
+    "pokemon": "sobble-dynamax",
+    "canBeShiny": false,
+    "evolvedOnly": false,
+    "events": [
+     {
+      "name": "Dark Skies",
+      "start": "2025-08-18T10:00:00.000Z",
+      "end": "2025-08-23T10:00:00.000Z",
+      "shiny": false,
+      "evolved": false
+     }
+    ]
+   },
+   "after": "c3aeddfe30d5888d"
+  },
+  {
+   "id": "catalog:set:link.sb-go-fest-2025-dark-skies.spheal-dynamax:6b46dfa62c7b",
+   "key": "link:sb-go-fest-2025-dark-skies:spheal-dynamax",
+   "what": "Dynamax Spheal added to GO Fest 2025 Dark Skies",
+   "at": "2026-11-18",
+   "before": null,
+   "after": "333d3b75b7eefbce"
+  },
+  {
+   "id": "catalog:set:link.sb-go-fest-2025-dark-skies.squirtle-dynamax:a4cc997ba5b5",
+   "key": "link:sb-go-fest-2025-dark-skies:squirtle-dynamax",
+   "what": "Dynamax Squirtle on GO Fest 2025 Dark Skies: events changed",
+   "at": "2026-11-18",
+   "before": {
+    "pokemon": "squirtle-dynamax",
+    "canBeShiny": true,
+    "evolvedOnly": false,
+    "events": [
+     {
+      "name": "Dark Skies",
+      "start": "2025-08-18T10:00:00.000Z",
+      "end": "2025-08-23T10:00:00.000Z",
+      "shiny": true,
+      "evolved": false
+     }
+    ]
+   },
+   "after": "fc056d737ce2c40a"
+  },
+  {
+   "id": "catalog:set:link.sb-go-fest-2025-dark-skies.steenee-dynamax:21d4d35173f0",
+   "key": "link:sb-go-fest-2025-dark-skies:steenee-dynamax",
+   "what": "Dynamax Steenee added to GO Fest 2025 Dark Skies",
+   "at": "2026-11-18",
+   "before": null,
+   "after": "af1e03cdf299a107"
+  },
+  {
+   "id": "catalog:set:link.sb-go-fest-2025-dark-skies.swoobat-dynamax:97d7977b094c",
+   "key": "link:sb-go-fest-2025-dark-skies:swoobat-dynamax",
+   "what": "Dynamax Swoobat added to GO Fest 2025 Dark Skies",
+   "at": "2026-11-18",
+   "before": null,
+   "after": "648cc4df10e6bc70"
+  },
+  {
+   "id": "catalog:set:link.sb-go-fest-2025-dark-skies.sylveon-dynamax:b4ddfd5f0049",
+   "key": "link:sb-go-fest-2025-dark-skies:sylveon-dynamax",
+   "what": "Dynamax Sylveon added to GO Fest 2025 Dark Skies",
+   "at": "2026-11-18",
+   "before": null,
+   "after": "0cbbf7a567f57c81"
+  },
+  {
+   "id": "catalog:set:link.sb-go-fest-2025-dark-skies.thwackey-dynamax:d8527c07cd47",
+   "key": "link:sb-go-fest-2025-dark-skies:thwackey-dynamax",
+   "what": "Dynamax Thwackey on GO Fest 2025 Dark Skies: can be shiny no → yes, events changed",
+   "at": "2026-11-18",
+   "before": {
+    "pokemon": "thwackey-dynamax",
+    "canBeShiny": false,
+    "evolvedOnly": true,
+    "events": [
+     {
+      "name": "Dark Skies",
+      "start": "2025-08-18T10:00:00.000Z",
+      "end": "2025-08-23T10:00:00.000Z",
+      "shiny": false,
+      "evolved": true
+     }
+    ]
+   },
+   "after": "625e192517d614c5"
+  },
+  {
+   "id": "catalog:set:link.sb-go-fest-2025-dark-skies.toxtricity-amped-dynamax:44fc40185652",
+   "key": "link:sb-go-fest-2025-dark-skies:toxtricity-amped-dynamax",
+   "what": "Dynamax Toxtricity Amped on GO Fest 2025 Dark Skies: events changed",
+   "at": "2026-11-18",
+   "before": {
+    "pokemon": "toxtricity-amped-dynamax",
+    "canBeShiny": true,
+    "evolvedOnly": false,
+    "events": [
+     {
+      "name": "Dark Skies",
+      "start": "2025-08-18T10:00:00.000Z",
+      "end": "2025-08-23T10:00:00.000Z",
+      "shiny": true,
+      "evolved": false
+     }
+    ]
+   },
+   "after": "6c42ddb9eb7ddafd"
+  },
+  {
+   "id": "catalog:set:link.sb-go-fest-2025-dark-skies.toxtricity-low-key-dynamax:d19d7e6d5b34",
+   "key": "link:sb-go-fest-2025-dark-skies:toxtricity-low-key-dynamax",
+   "what": "Dynamax Toxtricity Low Key on GO Fest 2025 Dark Skies: events changed",
+   "at": "2026-11-18",
+   "before": {
+    "pokemon": "toxtricity-low-key-dynamax",
+    "canBeShiny": true,
+    "evolvedOnly": false,
+    "events": [
+     {
+      "name": "Dark Skies",
+      "start": "2025-08-18T10:00:00.000Z",
+      "end": "2025-08-23T10:00:00.000Z",
+      "shiny": true,
+      "evolved": false
+     }
+    ]
+   },
+   "after": "019d0ea6b720c731"
+  },
+  {
+   "id": "catalog:set:link.sb-go-fest-2025-dark-skies.tranquill-dynamax:85b6fc50bcb3",
+   "key": "link:sb-go-fest-2025-dark-skies:tranquill-dynamax",
+   "what": "Dynamax Tranquill on GO Fest 2025 Dark Skies: events changed",
+   "at": "2026-11-18",
+   "before": {
+    "pokemon": "tranquill-dynamax",
+    "canBeShiny": true,
+    "evolvedOnly": true,
+    "events": [
+     {
+      "name": "Dark Skies",
+      "start": "2025-08-18T10:00:00.000Z",
+      "end": "2025-08-23T10:00:00.000Z",
+      "shiny": true,
+      "evolved": true
+     }
+    ]
+   },
+   "after": "11bcbb4ff9170d8f"
+  },
+  {
+   "id": "catalog:set:link.sb-go-fest-2025-dark-skies.trapinch-dynamax:bd19cd194e25",
+   "key": "link:sb-go-fest-2025-dark-skies:trapinch-dynamax",
+   "what": "Dynamax Trapinch added to GO Fest 2025 Dark Skies",
+   "at": "2026-11-18",
+   "before": null,
+   "after": "6d525f3c22872421"
+  },
+  {
+   "id": "catalog:set:link.sb-go-fest-2025-dark-skies.trubbish-dynamax:f7e9b713af1c",
+   "key": "link:sb-go-fest-2025-dark-skies:trubbish-dynamax",
+   "what": "Dynamax Trubbish on GO Fest 2025 Dark Skies: events changed",
+   "at": "2026-11-18",
+   "before": {
+    "pokemon": "trubbish-dynamax",
+    "canBeShiny": true,
+    "evolvedOnly": false,
+    "events": [
+     {
+      "name": "Dark Skies",
+      "start": "2025-08-18T10:00:00.000Z",
+      "end": "2025-08-23T10:00:00.000Z",
+      "shiny": true,
+      "evolved": false
+     }
+    ]
+   },
+   "after": "4d319037acb4fb99"
+  },
+  {
+   "id": "catalog:set:link.sb-go-fest-2025-dark-skies.tsareena-dynamax:dc4c4218f1d6",
+   "key": "link:sb-go-fest-2025-dark-skies:tsareena-dynamax",
+   "what": "Dynamax Tsareena added to GO Fest 2025 Dark Skies",
+   "at": "2026-11-18",
+   "before": null,
+   "after": "a8639d653ac0a21f"
+  },
+  {
+   "id": "catalog:set:link.sb-go-fest-2025-dark-skies.umbreon-dynamax:546f4ab895cb",
+   "key": "link:sb-go-fest-2025-dark-skies:umbreon-dynamax",
+   "what": "Dynamax Umbreon added to GO Fest 2025 Dark Skies",
+   "at": "2026-11-18",
+   "before": null,
+   "after": "8158f515b165d46a"
+  },
+  {
+   "id": "catalog:set:link.sb-go-fest-2025-dark-skies.unfezant-dynamax:2f0c8045260c",
+   "key": "link:sb-go-fest-2025-dark-skies:unfezant-dynamax",
+   "what": "Dynamax Unfezant on GO Fest 2025 Dark Skies: events changed",
+   "at": "2026-11-18",
+   "before": {
+    "pokemon": "unfezant-dynamax",
+    "canBeShiny": true,
+    "evolvedOnly": true,
+    "events": [
+     {
+      "name": "Dark Skies",
+      "start": "2025-08-18T10:00:00.000Z",
+      "end": "2025-08-23T10:00:00.000Z",
+      "shiny": true,
+      "evolved": true
+     }
+    ]
+   },
+   "after": "f035d9609c10cb9c"
+  },
+  {
+   "id": "catalog:set:link.sb-go-fest-2025-dark-skies.vaporeon-dynamax:e61eda3d9d19",
+   "key": "link:sb-go-fest-2025-dark-skies:vaporeon-dynamax",
+   "what": "Dynamax Vaporeon added to GO Fest 2025 Dark Skies",
+   "at": "2026-11-18",
+   "before": null,
+   "after": "5ac0552bfdcdcaf2"
+  },
+  {
+   "id": "catalog:set:link.sb-go-fest-2025-dark-skies.venusaur-dynamax:e2ff82374556",
+   "key": "link:sb-go-fest-2025-dark-skies:venusaur-dynamax",
+   "what": "Dynamax Venusaur on GO Fest 2025 Dark Skies: events changed",
+   "at": "2026-11-18",
+   "before": {
+    "pokemon": "venusaur-dynamax",
+    "canBeShiny": true,
+    "evolvedOnly": true,
+    "events": [
+     {
+      "name": "Dark Skies",
+      "start": "2025-08-18T10:00:00.000Z",
+      "end": "2025-08-23T10:00:00.000Z",
+      "shiny": true,
+      "evolved": true
+     }
+    ]
+   },
+   "after": "0ca56851cab4e7e6"
+  },
+  {
+   "id": "catalog:set:link.sb-go-fest-2025-dark-skies.vespiquen-dynamax:83aeba4f362d",
+   "key": "link:sb-go-fest-2025-dark-skies:vespiquen-dynamax",
+   "what": "Dynamax Vespiquen added to GO Fest 2025 Dark Skies",
+   "at": "2026-11-18",
+   "before": null,
+   "after": "b78943b4aad01ea2"
+  },
+  {
+   "id": "catalog:set:link.sb-go-fest-2025-dark-skies.vibrava-dynamax:397a53f629b0",
+   "key": "link:sb-go-fest-2025-dark-skies:vibrava-dynamax",
+   "what": "Dynamax Vibrava added to GO Fest 2025 Dark Skies",
+   "at": "2026-11-18",
+   "before": null,
+   "after": "89ac070dcb408f85"
+  },
+  {
+   "id": "catalog:set:link.sb-go-fest-2025-dark-skies.wailmer-dynamax:7c67dfa73fae",
+   "key": "link:sb-go-fest-2025-dark-skies:wailmer-dynamax",
+   "what": "Dynamax Wailmer on GO Fest 2025 Dark Skies: events changed",
+   "at": "2026-11-18",
+   "before": {
+    "pokemon": "wailmer-dynamax",
+    "canBeShiny": true,
+    "evolvedOnly": false,
+    "events": [
+     {
+      "name": "Dark Skies",
+      "start": "2025-08-18T10:00:00.000Z",
+      "end": "2025-08-23T10:00:00.000Z",
+      "shiny": true,
+      "evolved": false
+     }
+    ]
+   },
+   "after": "3ea98951e75dbc12"
+  },
+  {
+   "id": "catalog:set:link.sb-go-fest-2025-dark-skies.wailord-dynamax:e7eb8a0cf3ee",
+   "key": "link:sb-go-fest-2025-dark-skies:wailord-dynamax",
+   "what": "Dynamax Wailord on GO Fest 2025 Dark Skies: events changed",
+   "at": "2026-11-18",
+   "before": {
+    "pokemon": "wailord-dynamax",
+    "canBeShiny": true,
+    "evolvedOnly": true,
+    "events": [
+     {
+      "name": "Dark Skies",
+      "start": "2025-08-18T10:00:00.000Z",
+      "end": "2025-08-23T10:00:00.000Z",
+      "shiny": true,
+      "evolved": true
+     }
+    ]
+   },
+   "after": "1554936e445f980d"
+  },
+  {
+   "id": "catalog:set:link.sb-go-fest-2025-dark-skies.walrein-dynamax:6d9613be7159",
+   "key": "link:sb-go-fest-2025-dark-skies:walrein-dynamax",
+   "what": "Dynamax Walrein added to GO Fest 2025 Dark Skies",
+   "at": "2026-11-18",
+   "before": null,
+   "after": "32e833f674383838"
+  },
+  {
+   "id": "catalog:set:link.sb-go-fest-2025-dark-skies.wartortle-dynamax:ba367ba5f3e5",
+   "key": "link:sb-go-fest-2025-dark-skies:wartortle-dynamax",
+   "what": "Dynamax Wartortle on GO Fest 2025 Dark Skies: events changed",
+   "at": "2026-11-18",
+   "before": {
+    "pokemon": "wartortle-dynamax",
+    "canBeShiny": true,
+    "evolvedOnly": true,
+    "events": [
+     {
+      "name": "Dark Skies",
+      "start": "2025-08-18T10:00:00.000Z",
+      "end": "2025-08-23T10:00:00.000Z",
+      "shiny": true,
+      "evolved": true
+     }
+    ]
+   },
+   "after": "39d747f75f790be5"
+  },
+  {
+   "id": "catalog:set:link.sb-go-fest-2025-dark-skies.weavile-dynamax:90b261cda215",
+   "key": "link:sb-go-fest-2025-dark-skies:weavile-dynamax",
+   "what": "Dynamax Weavile added to GO Fest 2025 Dark Skies",
+   "at": "2026-11-18",
+   "before": null,
+   "after": "e1f953ccc6ec5d22"
+  },
+  {
+   "id": "catalog:set:link.sb-go-fest-2025-dark-skies.whimsicott-dynamax:b0151b3670ec",
+   "key": "link:sb-go-fest-2025-dark-skies:whimsicott-dynamax",
+   "what": "Dynamax Whimsicott added to GO Fest 2025 Dark Skies",
+   "at": "2026-11-18",
+   "before": null,
+   "after": "1909f1225a3e15ca"
+  },
+  {
+   "id": "catalog:set:link.sb-go-fest-2025-dark-skies.woobat-dynamax:bc12b6827bb1",
+   "key": "link:sb-go-fest-2025-dark-skies:woobat-dynamax",
+   "what": "Dynamax Woobat added to GO Fest 2025 Dark Skies",
+   "at": "2026-11-18",
+   "before": null,
+   "after": "5bf4b6e0b89dbadb"
+  },
+  {
+   "id": "catalog:set:link.sb-go-fest-2025-dark-skies.wooloo-dynamax:57c9ad9a6c2c",
+   "key": "link:sb-go-fest-2025-dark-skies:wooloo-dynamax",
+   "what": "Dynamax Wooloo on GO Fest 2025 Dark Skies: events changed",
+   "at": "2026-11-18",
+   "before": {
+    "pokemon": "wooloo-dynamax",
+    "canBeShiny": true,
+    "evolvedOnly": false,
+    "events": [
+     {
+      "name": "Dark Skies",
+      "start": "2025-08-18T10:00:00.000Z",
+      "end": "2025-08-23T10:00:00.000Z",
+      "shiny": true,
+      "evolved": false
+     }
+    ]
+   },
+   "after": "7891b7aba76a5d9c"
+  },
+  {
+   "id": "catalog:set:link.sb-go-fest-2025-dark-skies.zweilous-dynamax:02de32f46522",
+   "key": "link:sb-go-fest-2025-dark-skies:zweilous-dynamax",
+   "what": "Dynamax Zweilous added to GO Fest 2025 Dark Skies",
+   "at": "2026-11-18",
+   "before": null,
+   "after": "6bade57240e8c91c"
   }
  ],
  "labels": {

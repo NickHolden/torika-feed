@@ -77519,6 +77519,48 @@
    "nameJa": "GO Fest 2025 ダークスカイ",
    "pokemon": [
     {
+     "pokemon": "abra-dynamax",
+     "canBeShiny": true,
+     "evolvedOnly": false,
+     "events": [
+      {
+       "name": "Dynamax Trails",
+       "start": "2026-11-16T15:00:00.000Z",
+       "end": "2026-11-24T01:00:00.000Z",
+       "shiny": true,
+       "evolved": false
+      }
+     ]
+    },
+    {
+     "pokemon": "alakazam-dynamax",
+     "canBeShiny": true,
+     "evolvedOnly": true,
+     "events": [
+      {
+       "name": "Dynamax Trails",
+       "start": "2026-11-16T15:00:00.000Z",
+       "end": "2026-11-24T01:00:00.000Z",
+       "shiny": true,
+       "evolved": true
+      }
+     ]
+    },
+    {
+     "pokemon": "arcanine-dynamax",
+     "canBeShiny": true,
+     "evolvedOnly": true,
+     "events": [
+      {
+       "name": "Dynamax Trails",
+       "start": "2026-11-16T15:00:00.000Z",
+       "end": "2026-11-24T01:00:00.000Z",
+       "shiny": true,
+       "evolved": true
+      }
+     ]
+    },
+    {
      "pokemon": "articuno-dynamax",
      "canBeShiny": true,
      "evolvedOnly": false,
@@ -77543,6 +77585,13 @@
        "end": "2025-08-23T10:00:00.000Z",
        "shiny": true,
        "evolved": false
+      },
+      {
+       "name": "Dynamax Trails",
+       "start": "2026-11-16T15:00:00.000Z",
+       "end": "2026-11-24T01:00:00.000Z",
+       "shiny": true,
+       "evolved": false
       }
      ]
     },
@@ -77555,6 +77604,13 @@
        "name": "Dark Skies",
        "start": "2025-08-18T10:00:00.000Z",
        "end": "2025-08-23T10:00:00.000Z",
+       "shiny": true,
+       "evolved": true
+      },
+      {
+       "name": "Dynamax Trails",
+       "start": "2026-11-16T15:00:00.000Z",
+       "end": "2026-11-24T01:00:00.000Z",
        "shiny": true,
        "evolved": true
       }
@@ -77585,6 +77641,41 @@
        "end": "2025-08-23T10:00:00.000Z",
        "shiny": true,
        "evolved": true
+      },
+      {
+       "name": "Dynamax Trails",
+       "start": "2026-11-16T15:00:00.000Z",
+       "end": "2026-11-24T01:00:00.000Z",
+       "shiny": true,
+       "evolved": true
+      }
+     ]
+    },
+    {
+     "pokemon": "boldore-dynamax",
+     "canBeShiny": true,
+     "evolvedOnly": true,
+     "events": [
+      {
+       "name": "Dynamax Trails",
+       "start": "2026-11-16T15:00:00.000Z",
+       "end": "2026-11-24T01:00:00.000Z",
+       "shiny": true,
+       "evolved": true
+      }
+     ]
+    },
+    {
+     "pokemon": "bounsweet-dynamax",
+     "canBeShiny": true,
+     "evolvedOnly": false,
+     "events": [
+      {
+       "name": "Dynamax Trails",
+       "start": "2026-11-16T15:00:00.000Z",
+       "end": "2026-11-24T01:00:00.000Z",
+       "shiny": true,
+       "evolved": false
       }
      ]
     },
@@ -77599,6 +77690,13 @@
        "end": "2025-08-23T10:00:00.000Z",
        "shiny": true,
        "evolved": false
+      },
+      {
+       "name": "Dynamax Trails",
+       "start": "2026-11-16T15:00:00.000Z",
+       "end": "2026-11-24T01:00:00.000Z",
+       "shiny": true,
+       "evolved": false
       }
      ]
     },
@@ -77611,6 +77709,13 @@
        "name": "Dark Skies",
        "start": "2025-08-18T10:00:00.000Z",
        "end": "2025-08-23T10:00:00.000Z",
+       "shiny": true,
+       "evolved": true
+      },
+      {
+       "name": "Dynamax Trails",
+       "start": "2026-11-16T15:00:00.000Z",
+       "end": "2026-11-24T01:00:00.000Z",
        "shiny": true,
        "evolved": true
       }
@@ -77641,6 +77746,27 @@
        "end": "2025-08-23T10:00:00.000Z",
        "shiny": true,
        "evolved": false
+      },
+      {
+       "name": "Dynamax Trails",
+       "start": "2026-11-16T15:00:00.000Z",
+       "end": "2026-11-24T01:00:00.000Z",
+       "shiny": true,
+       "evolved": false
+      }
+     ]
+    },
+    {
+     "pokemon": "centiskorch-dynamax",
+     "canBeShiny": true,
+     "evolvedOnly": true,
+     "events": [
+      {
+       "name": "Dynamax Trails",
+       "start": "2026-11-16T15:00:00.000Z",
+       "end": "2026-11-24T01:00:00.000Z",
+       "shiny": true,
+       "evolved": true
       }
      ]
     },
@@ -77655,6 +77781,13 @@
        "end": "2025-08-23T10:00:00.000Z",
        "shiny": true,
        "evolved": false
+      },
+      {
+       "name": "Dynamax Trails",
+       "start": "2026-11-16T15:00:00.000Z",
+       "end": "2026-11-24T01:00:00.000Z",
+       "shiny": true,
+       "evolved": false
       }
      ]
     },
@@ -77667,6 +77800,13 @@
        "name": "Dark Skies",
        "start": "2025-08-18T10:00:00.000Z",
        "end": "2025-08-23T10:00:00.000Z",
+       "shiny": true,
+       "evolved": true
+      },
+      {
+       "name": "Dynamax Trails",
+       "start": "2026-11-16T15:00:00.000Z",
+       "end": "2026-11-24T01:00:00.000Z",
        "shiny": true,
        "evolved": true
       }
@@ -77697,6 +77837,13 @@
        "end": "2025-08-23T10:00:00.000Z",
        "shiny": true,
        "evolved": false
+      },
+      {
+       "name": "Dynamax Trails",
+       "start": "2026-11-16T15:00:00.000Z",
+       "end": "2026-11-24T01:00:00.000Z",
+       "shiny": true,
+       "evolved": false
       }
      ]
     },
@@ -77711,12 +77858,19 @@
        "end": "2025-08-23T10:00:00.000Z",
        "shiny": true,
        "evolved": true
+      },
+      {
+       "name": "Dynamax Trails",
+       "start": "2026-11-16T15:00:00.000Z",
+       "end": "2026-11-24T01:00:00.000Z",
+       "shiny": true,
+       "evolved": true
       }
      ]
     },
     {
      "pokemon": "cinderace-dynamax",
-     "canBeShiny": false,
+     "canBeShiny": true,
      "evolvedOnly": true,
      "events": [
       {
@@ -77724,6 +77878,13 @@
        "start": "2025-08-18T10:00:00.000Z",
        "end": "2025-08-23T10:00:00.000Z",
        "shiny": false,
+       "evolved": true
+      },
+      {
+       "name": "Dynamax Trails",
+       "start": "2026-11-16T15:00:00.000Z",
+       "end": "2026-11-24T01:00:00.000Z",
+       "shiny": true,
        "evolved": true
       }
      ]
@@ -77743,6 +77904,20 @@
      ]
     },
     {
+     "pokemon": "combee-dynamax",
+     "canBeShiny": true,
+     "evolvedOnly": false,
+     "events": [
+      {
+       "name": "Dynamax Trails",
+       "start": "2026-11-16T15:00:00.000Z",
+       "end": "2026-11-24T01:00:00.000Z",
+       "shiny": true,
+       "evolved": false
+      }
+     ]
+    },
+    {
      "pokemon": "corviknight-dynamax",
      "canBeShiny": true,
      "evolvedOnly": true,
@@ -77751,6 +77926,13 @@
        "name": "Dark Skies",
        "start": "2025-08-18T10:00:00.000Z",
        "end": "2025-08-23T10:00:00.000Z",
+       "shiny": true,
+       "evolved": true
+      },
+      {
+       "name": "Dynamax Trails",
+       "start": "2026-11-16T15:00:00.000Z",
+       "end": "2026-11-24T01:00:00.000Z",
        "shiny": true,
        "evolved": true
       }
@@ -77767,6 +77949,27 @@
        "end": "2025-08-23T10:00:00.000Z",
        "shiny": true,
        "evolved": true
+      },
+      {
+       "name": "Dynamax Trails",
+       "start": "2026-11-16T15:00:00.000Z",
+       "end": "2026-11-24T01:00:00.000Z",
+       "shiny": true,
+       "evolved": true
+      }
+     ]
+    },
+    {
+     "pokemon": "cottonee-dynamax",
+     "canBeShiny": true,
+     "evolvedOnly": false,
+     "events": [
+      {
+       "name": "Dynamax Trails",
+       "start": "2026-11-16T15:00:00.000Z",
+       "end": "2026-11-24T01:00:00.000Z",
+       "shiny": true,
+       "evolved": false
       }
      ]
     },
@@ -77779,6 +77982,13 @@
        "name": "Dark Skies",
        "start": "2025-08-18T10:00:00.000Z",
        "end": "2025-08-23T10:00:00.000Z",
+       "shiny": true,
+       "evolved": false
+      },
+      {
+       "name": "Dynamax Trails",
+       "start": "2026-11-16T15:00:00.000Z",
+       "end": "2026-11-24T01:00:00.000Z",
        "shiny": true,
        "evolved": false
       }
@@ -77795,6 +78005,13 @@
        "end": "2025-08-23T10:00:00.000Z",
        "shiny": true,
        "evolved": true
+      },
+      {
+       "name": "Dynamax Trails",
+       "start": "2026-11-16T15:00:00.000Z",
+       "end": "2026-11-24T01:00:00.000Z",
+       "shiny": true,
+       "evolved": true
       }
      ]
     },
@@ -77807,6 +78024,27 @@
        "name": "Dark Skies",
        "start": "2025-08-18T10:00:00.000Z",
        "end": "2025-08-23T10:00:00.000Z",
+       "shiny": true,
+       "evolved": false
+      },
+      {
+       "name": "Dynamax Trails",
+       "start": "2026-11-16T15:00:00.000Z",
+       "end": "2026-11-24T01:00:00.000Z",
+       "shiny": true,
+       "evolved": false
+      }
+     ]
+    },
+    {
+     "pokemon": "deino-dynamax",
+     "canBeShiny": true,
+     "evolvedOnly": false,
+     "events": [
+      {
+       "name": "Dynamax Trails",
+       "start": "2026-11-16T15:00:00.000Z",
+       "end": "2026-11-24T01:00:00.000Z",
        "shiny": true,
        "evolved": false
       }
@@ -77823,12 +78061,19 @@
        "end": "2025-08-23T10:00:00.000Z",
        "shiny": true,
        "evolved": false
+      },
+      {
+       "name": "Dynamax Trails",
+       "start": "2026-11-16T15:00:00.000Z",
+       "end": "2026-11-24T01:00:00.000Z",
+       "shiny": true,
+       "evolved": false
       }
      ]
     },
     {
      "pokemon": "drizzile-dynamax",
-     "canBeShiny": false,
+     "canBeShiny": true,
      "evolvedOnly": true,
      "events": [
       {
@@ -77836,6 +78081,13 @@
        "start": "2025-08-18T10:00:00.000Z",
        "end": "2025-08-23T10:00:00.000Z",
        "shiny": false,
+       "evolved": true
+      },
+      {
+       "name": "Dynamax Trails",
+       "start": "2026-11-16T15:00:00.000Z",
+       "end": "2026-11-24T01:00:00.000Z",
+       "shiny": true,
        "evolved": true
       }
      ]
@@ -77849,6 +78101,69 @@
        "name": "Dark Skies",
        "start": "2025-08-18T10:00:00.000Z",
        "end": "2025-08-23T10:00:00.000Z",
+       "shiny": true,
+       "evolved": true
+      },
+      {
+       "name": "Dynamax Trails",
+       "start": "2026-11-16T15:00:00.000Z",
+       "end": "2026-11-24T01:00:00.000Z",
+       "shiny": true,
+       "evolved": true
+      }
+     ]
+    },
+    {
+     "pokemon": "duraludon-dynamax",
+     "canBeShiny": true,
+     "evolvedOnly": false,
+     "events": [
+      {
+       "name": "Dynamax Trails",
+       "start": "2026-11-16T15:00:00.000Z",
+       "end": "2026-11-24T01:00:00.000Z",
+       "shiny": true,
+       "evolved": false
+      }
+     ]
+    },
+    {
+     "pokemon": "eevee-dynamax",
+     "canBeShiny": true,
+     "evolvedOnly": false,
+     "events": [
+      {
+       "name": "Dynamax Trails",
+       "start": "2026-11-16T15:00:00.000Z",
+       "end": "2026-11-24T01:00:00.000Z",
+       "shiny": true,
+       "evolved": false
+      }
+     ]
+    },
+    {
+     "pokemon": "electabuzz-dynamax",
+     "canBeShiny": true,
+     "evolvedOnly": false,
+     "events": [
+      {
+       "name": "Dynamax Trails",
+       "start": "2026-11-16T15:00:00.000Z",
+       "end": "2026-11-24T01:00:00.000Z",
+       "shiny": true,
+       "evolved": false
+      }
+     ]
+    },
+    {
+     "pokemon": "electivire-dynamax",
+     "canBeShiny": true,
+     "evolvedOnly": true,
+     "events": [
+      {
+       "name": "Dynamax Trails",
+       "start": "2026-11-16T15:00:00.000Z",
+       "end": "2026-11-24T01:00:00.000Z",
        "shiny": true,
        "evolved": true
       }
@@ -77869,6 +78184,20 @@
      ]
     },
     {
+     "pokemon": "espeon-dynamax",
+     "canBeShiny": true,
+     "evolvedOnly": true,
+     "events": [
+      {
+       "name": "Dynamax Trails",
+       "start": "2026-11-16T15:00:00.000Z",
+       "end": "2026-11-24T01:00:00.000Z",
+       "shiny": true,
+       "evolved": true
+      }
+     ]
+    },
+    {
      "pokemon": "excadrill-dynamax",
      "canBeShiny": true,
      "evolvedOnly": true,
@@ -77877,6 +78206,13 @@
        "name": "Dark Skies",
        "start": "2025-08-18T10:00:00.000Z",
        "end": "2025-08-23T10:00:00.000Z",
+       "shiny": true,
+       "evolved": true
+      },
+      {
+       "name": "Dynamax Trails",
+       "start": "2026-11-16T15:00:00.000Z",
+       "end": "2026-11-24T01:00:00.000Z",
        "shiny": true,
        "evolved": true
       }
@@ -77893,6 +78229,69 @@
        "end": "2025-08-23T10:00:00.000Z",
        "shiny": true,
        "evolved": false
+      },
+      {
+       "name": "Dynamax Trails",
+       "start": "2026-11-16T15:00:00.000Z",
+       "end": "2026-11-24T01:00:00.000Z",
+       "shiny": true,
+       "evolved": false
+      }
+     ]
+    },
+    {
+     "pokemon": "feebas-dynamax",
+     "canBeShiny": true,
+     "evolvedOnly": false,
+     "events": [
+      {
+       "name": "Dynamax Trails",
+       "start": "2026-11-16T15:00:00.000Z",
+       "end": "2026-11-24T01:00:00.000Z",
+       "shiny": true,
+       "evolved": false
+      }
+     ]
+    },
+    {
+     "pokemon": "flareon-dynamax",
+     "canBeShiny": true,
+     "evolvedOnly": true,
+     "events": [
+      {
+       "name": "Dynamax Trails",
+       "start": "2026-11-16T15:00:00.000Z",
+       "end": "2026-11-24T01:00:00.000Z",
+       "shiny": true,
+       "evolved": true
+      }
+     ]
+    },
+    {
+     "pokemon": "flygon-dynamax",
+     "canBeShiny": true,
+     "evolvedOnly": true,
+     "events": [
+      {
+       "name": "Dynamax Trails",
+       "start": "2026-11-16T15:00:00.000Z",
+       "end": "2026-11-24T01:00:00.000Z",
+       "shiny": true,
+       "evolved": true
+      }
+     ]
+    },
+    {
+     "pokemon": "gallade-dynamax",
+     "canBeShiny": true,
+     "evolvedOnly": true,
+     "events": [
+      {
+       "name": "Dynamax Trails",
+       "start": "2026-11-16T15:00:00.000Z",
+       "end": "2026-11-24T01:00:00.000Z",
+       "shiny": true,
+       "evolved": true
       }
      ]
     },
@@ -77905,6 +78304,27 @@
        "name": "Dark Skies",
        "start": "2025-08-18T10:00:00.000Z",
        "end": "2025-08-23T10:00:00.000Z",
+       "shiny": true,
+       "evolved": true
+      },
+      {
+       "name": "Dynamax Trails",
+       "start": "2026-11-16T15:00:00.000Z",
+       "end": "2026-11-24T01:00:00.000Z",
+       "shiny": true,
+       "evolved": true
+      }
+     ]
+    },
+    {
+     "pokemon": "gardevoir-dynamax",
+     "canBeShiny": true,
+     "evolvedOnly": true,
+     "events": [
+      {
+       "name": "Dynamax Trails",
+       "start": "2026-11-16T15:00:00.000Z",
+       "end": "2026-11-24T01:00:00.000Z",
        "shiny": true,
        "evolved": true
       }
@@ -77921,6 +78341,13 @@
        "end": "2025-08-23T10:00:00.000Z",
        "shiny": true,
        "evolved": false
+      },
+      {
+       "name": "Dynamax Trails",
+       "start": "2026-11-16T15:00:00.000Z",
+       "end": "2026-11-24T01:00:00.000Z",
+       "shiny": true,
+       "evolved": false
       }
      ]
     },
@@ -77933,6 +78360,13 @@
        "name": "Dark Skies",
        "start": "2025-08-18T10:00:00.000Z",
        "end": "2025-08-23T10:00:00.000Z",
+       "shiny": true,
+       "evolved": true
+      },
+      {
+       "name": "Dynamax Trails",
+       "start": "2026-11-16T15:00:00.000Z",
+       "end": "2026-11-24T01:00:00.000Z",
        "shiny": true,
        "evolved": true
       }
@@ -77953,6 +78387,34 @@
      ]
     },
     {
+     "pokemon": "gigalith-dynamax",
+     "canBeShiny": true,
+     "evolvedOnly": true,
+     "events": [
+      {
+       "name": "Dynamax Trails",
+       "start": "2026-11-16T15:00:00.000Z",
+       "end": "2026-11-24T01:00:00.000Z",
+       "shiny": true,
+       "evolved": true
+      }
+     ]
+    },
+    {
+     "pokemon": "glaceon-dynamax",
+     "canBeShiny": true,
+     "evolvedOnly": true,
+     "events": [
+      {
+       "name": "Dynamax Trails",
+       "start": "2026-11-16T15:00:00.000Z",
+       "end": "2026-11-24T01:00:00.000Z",
+       "shiny": true,
+       "evolved": true
+      }
+     ]
+    },
+    {
      "pokemon": "greedent-dynamax",
      "canBeShiny": true,
      "evolvedOnly": true,
@@ -77963,12 +78425,19 @@
        "end": "2025-08-23T10:00:00.000Z",
        "shiny": true,
        "evolved": true
+      },
+      {
+       "name": "Dynamax Trails",
+       "start": "2026-11-16T15:00:00.000Z",
+       "end": "2026-11-24T01:00:00.000Z",
+       "shiny": true,
+       "evolved": true
       }
      ]
     },
     {
      "pokemon": "grookey-dynamax",
-     "canBeShiny": false,
+     "canBeShiny": true,
      "evolvedOnly": false,
      "events": [
       {
@@ -77977,12 +78446,47 @@
        "end": "2025-08-23T10:00:00.000Z",
        "shiny": false,
        "evolved": false
+      },
+      {
+       "name": "Dynamax Trails",
+       "start": "2026-11-16T15:00:00.000Z",
+       "end": "2026-11-24T01:00:00.000Z",
+       "shiny": true,
+       "evolved": false
+      }
+     ]
+    },
+    {
+     "pokemon": "growlithe-dynamax",
+     "canBeShiny": true,
+     "evolvedOnly": false,
+     "events": [
+      {
+       "name": "Dynamax Trails",
+       "start": "2026-11-16T15:00:00.000Z",
+       "end": "2026-11-24T01:00:00.000Z",
+       "shiny": true,
+       "evolved": false
+      }
+     ]
+    },
+    {
+     "pokemon": "gyarados-dynamax",
+     "canBeShiny": true,
+     "evolvedOnly": true,
+     "events": [
+      {
+       "name": "Dynamax Trails",
+       "start": "2026-11-16T15:00:00.000Z",
+       "end": "2026-11-24T01:00:00.000Z",
+       "shiny": true,
+       "evolved": true
       }
      ]
     },
     {
      "pokemon": "hatenna-dynamax",
-     "canBeShiny": false,
+     "canBeShiny": true,
      "evolvedOnly": false,
      "events": [
       {
@@ -77990,13 +78494,20 @@
        "start": "2025-08-18T10:00:00.000Z",
        "end": "2025-08-23T10:00:00.000Z",
        "shiny": false,
+       "evolved": false
+      },
+      {
+       "name": "Dynamax Trails",
+       "start": "2026-11-16T15:00:00.000Z",
+       "end": "2026-11-24T01:00:00.000Z",
+       "shiny": true,
        "evolved": false
       }
      ]
     },
     {
      "pokemon": "hatterene-dynamax",
-     "canBeShiny": false,
+     "canBeShiny": true,
      "evolvedOnly": true,
      "events": [
       {
@@ -78005,12 +78516,19 @@
        "end": "2025-08-23T10:00:00.000Z",
        "shiny": false,
        "evolved": true
+      },
+      {
+       "name": "Dynamax Trails",
+       "start": "2026-11-16T15:00:00.000Z",
+       "end": "2026-11-24T01:00:00.000Z",
+       "shiny": true,
+       "evolved": true
       }
      ]
     },
     {
      "pokemon": "hattrem-dynamax",
-     "canBeShiny": false,
+     "canBeShiny": true,
      "evolvedOnly": true,
      "events": [
       {
@@ -78018,6 +78536,13 @@
        "start": "2025-08-18T10:00:00.000Z",
        "end": "2025-08-23T10:00:00.000Z",
        "shiny": false,
+       "evolved": true
+      },
+      {
+       "name": "Dynamax Trails",
+       "start": "2026-11-16T15:00:00.000Z",
+       "end": "2026-11-24T01:00:00.000Z",
+       "shiny": true,
        "evolved": true
       }
      ]
@@ -78033,12 +78558,103 @@
        "end": "2025-08-23T10:00:00.000Z",
        "shiny": true,
        "evolved": true
+      },
+      {
+       "name": "Dynamax Trails",
+       "start": "2026-11-16T15:00:00.000Z",
+       "end": "2026-11-24T01:00:00.000Z",
+       "shiny": true,
+       "evolved": true
+      }
+     ]
+    },
+    {
+     "pokemon": "hitmonchan-dynamax",
+     "canBeShiny": true,
+     "evolvedOnly": false,
+     "events": [
+      {
+       "name": "Dynamax Trails",
+       "start": "2026-11-16T15:00:00.000Z",
+       "end": "2026-11-24T01:00:00.000Z",
+       "shiny": true,
+       "evolved": false
+      }
+     ]
+    },
+    {
+     "pokemon": "hitmonlee-dynamax",
+     "canBeShiny": true,
+     "evolvedOnly": false,
+     "events": [
+      {
+       "name": "Dynamax Trails",
+       "start": "2026-11-16T15:00:00.000Z",
+       "end": "2026-11-24T01:00:00.000Z",
+       "shiny": true,
+       "evolved": false
+      }
+     ]
+    },
+    {
+     "pokemon": "hitmontop-dynamax",
+     "canBeShiny": true,
+     "evolvedOnly": false,
+     "events": [
+      {
+       "name": "Dynamax Trails",
+       "start": "2026-11-16T15:00:00.000Z",
+       "end": "2026-11-24T01:00:00.000Z",
+       "shiny": true,
+       "evolved": false
+      }
+     ]
+    },
+    {
+     "pokemon": "hoothoot-dynamax",
+     "canBeShiny": true,
+     "evolvedOnly": false,
+     "events": [
+      {
+       "name": "Dynamax Trails",
+       "start": "2026-11-16T15:00:00.000Z",
+       "end": "2026-11-24T01:00:00.000Z",
+       "shiny": true,
+       "evolved": false
+      }
+     ]
+    },
+    {
+     "pokemon": "hydreigon-dynamax",
+     "canBeShiny": true,
+     "evolvedOnly": true,
+     "events": [
+      {
+       "name": "Dynamax Trails",
+       "start": "2026-11-16T15:00:00.000Z",
+       "end": "2026-11-24T01:00:00.000Z",
+       "shiny": true,
+       "evolved": true
+      }
+     ]
+    },
+    {
+     "pokemon": "inkay-dynamax",
+     "canBeShiny": true,
+     "evolvedOnly": false,
+     "events": [
+      {
+       "name": "Dynamax Trails",
+       "start": "2026-11-16T15:00:00.000Z",
+       "end": "2026-11-24T01:00:00.000Z",
+       "shiny": true,
+       "evolved": false
       }
      ]
     },
     {
      "pokemon": "inteleon-dynamax",
-     "canBeShiny": false,
+     "canBeShiny": true,
      "evolvedOnly": true,
      "events": [
       {
@@ -78046,6 +78662,13 @@
        "start": "2025-08-18T10:00:00.000Z",
        "end": "2025-08-23T10:00:00.000Z",
        "shiny": false,
+       "evolved": true
+      },
+      {
+       "name": "Dynamax Trails",
+       "start": "2026-11-16T15:00:00.000Z",
+       "end": "2026-11-24T01:00:00.000Z",
+       "shiny": true,
        "evolved": true
       }
      ]
@@ -78075,6 +78698,27 @@
        "end": "2025-08-23T10:00:00.000Z",
        "shiny": true,
        "evolved": true
+      },
+      {
+       "name": "Dynamax Trails",
+       "start": "2026-11-16T15:00:00.000Z",
+       "end": "2026-11-24T01:00:00.000Z",
+       "shiny": true,
+       "evolved": true
+      }
+     ]
+    },
+    {
+     "pokemon": "jolteon-dynamax",
+     "canBeShiny": true,
+     "evolvedOnly": true,
+     "events": [
+      {
+       "name": "Dynamax Trails",
+       "start": "2026-11-16T15:00:00.000Z",
+       "end": "2026-11-24T01:00:00.000Z",
+       "shiny": true,
+       "evolved": true
       }
      ]
     },
@@ -78087,6 +78731,13 @@
        "name": "Dark Skies",
        "start": "2025-08-18T10:00:00.000Z",
        "end": "2025-08-23T10:00:00.000Z",
+       "shiny": true,
+       "evolved": false
+      },
+      {
+       "name": "Dynamax Trails",
+       "start": "2026-11-16T15:00:00.000Z",
+       "end": "2026-11-24T01:00:00.000Z",
        "shiny": true,
        "evolved": false
       }
@@ -78103,6 +78754,27 @@
        "end": "2025-08-23T10:00:00.000Z",
        "shiny": true,
        "evolved": true
+      },
+      {
+       "name": "Dynamax Trails",
+       "start": "2026-11-16T15:00:00.000Z",
+       "end": "2026-11-24T01:00:00.000Z",
+       "shiny": true,
+       "evolved": true
+      }
+     ]
+    },
+    {
+     "pokemon": "kadabra-dynamax",
+     "canBeShiny": true,
+     "evolvedOnly": true,
+     "events": [
+      {
+       "name": "Dynamax Trails",
+       "start": "2026-11-16T15:00:00.000Z",
+       "end": "2026-11-24T01:00:00.000Z",
+       "shiny": true,
+       "evolved": true
       }
      ]
     },
@@ -78115,6 +78787,13 @@
        "name": "Dark Skies",
        "start": "2025-08-18T10:00:00.000Z",
        "end": "2025-08-23T10:00:00.000Z",
+       "shiny": true,
+       "evolved": true
+      },
+      {
+       "name": "Dynamax Trails",
+       "start": "2026-11-16T15:00:00.000Z",
+       "end": "2026-11-24T01:00:00.000Z",
        "shiny": true,
        "evolved": true
       }
@@ -78135,6 +78814,20 @@
      ]
     },
     {
+     "pokemon": "kirlia-dynamax",
+     "canBeShiny": true,
+     "evolvedOnly": true,
+     "events": [
+      {
+       "name": "Dynamax Trails",
+       "start": "2026-11-16T15:00:00.000Z",
+       "end": "2026-11-24T01:00:00.000Z",
+       "shiny": true,
+       "evolved": true
+      }
+     ]
+    },
+    {
      "pokemon": "krabby-dynamax",
      "canBeShiny": true,
      "evolvedOnly": false,
@@ -78143,6 +78836,13 @@
        "name": "Dark Skies",
        "start": "2025-08-18T10:00:00.000Z",
        "end": "2025-08-23T10:00:00.000Z",
+       "shiny": true,
+       "evolved": false
+      },
+      {
+       "name": "Dynamax Trails",
+       "start": "2026-11-16T15:00:00.000Z",
+       "end": "2026-11-24T01:00:00.000Z",
        "shiny": true,
        "evolved": false
       }
@@ -78191,6 +78891,20 @@
      ]
     },
     {
+     "pokemon": "leafeon-dynamax",
+     "canBeShiny": true,
+     "evolvedOnly": true,
+     "events": [
+      {
+       "name": "Dynamax Trails",
+       "start": "2026-11-16T15:00:00.000Z",
+       "end": "2026-11-24T01:00:00.000Z",
+       "shiny": true,
+       "evolved": true
+      }
+     ]
+    },
+    {
      "pokemon": "machamp-dynamax",
      "canBeShiny": true,
      "evolvedOnly": true,
@@ -78199,6 +78913,13 @@
        "name": "Dark Skies",
        "start": "2025-08-18T10:00:00.000Z",
        "end": "2025-08-23T10:00:00.000Z",
+       "shiny": true,
+       "evolved": true
+      },
+      {
+       "name": "Dynamax Trails",
+       "start": "2026-11-16T15:00:00.000Z",
+       "end": "2026-11-24T01:00:00.000Z",
        "shiny": true,
        "evolved": true
       }
@@ -78229,6 +78950,13 @@
        "end": "2025-08-23T10:00:00.000Z",
        "shiny": true,
        "evolved": true
+      },
+      {
+       "name": "Dynamax Trails",
+       "start": "2026-11-16T15:00:00.000Z",
+       "end": "2026-11-24T01:00:00.000Z",
+       "shiny": true,
+       "evolved": true
       }
      ]
     },
@@ -78243,6 +78971,69 @@
        "end": "2025-08-23T10:00:00.000Z",
        "shiny": true,
        "evolved": false
+      },
+      {
+       "name": "Dynamax Trails",
+       "start": "2026-11-16T15:00:00.000Z",
+       "end": "2026-11-24T01:00:00.000Z",
+       "shiny": true,
+       "evolved": false
+      }
+     ]
+    },
+    {
+     "pokemon": "magikarp-dynamax",
+     "canBeShiny": true,
+     "evolvedOnly": false,
+     "events": [
+      {
+       "name": "Dynamax Trails",
+       "start": "2026-11-16T15:00:00.000Z",
+       "end": "2026-11-24T01:00:00.000Z",
+       "shiny": true,
+       "evolved": false
+      }
+     ]
+    },
+    {
+     "pokemon": "magmar-dynamax",
+     "canBeShiny": true,
+     "evolvedOnly": false,
+     "events": [
+      {
+       "name": "Dynamax Trails",
+       "start": "2026-11-16T15:00:00.000Z",
+       "end": "2026-11-24T01:00:00.000Z",
+       "shiny": true,
+       "evolved": false
+      }
+     ]
+    },
+    {
+     "pokemon": "magmortar-dynamax",
+     "canBeShiny": true,
+     "evolvedOnly": true,
+     "events": [
+      {
+       "name": "Dynamax Trails",
+       "start": "2026-11-16T15:00:00.000Z",
+       "end": "2026-11-24T01:00:00.000Z",
+       "shiny": true,
+       "evolved": true
+      }
+     ]
+    },
+    {
+     "pokemon": "malamar-dynamax",
+     "canBeShiny": true,
+     "evolvedOnly": true,
+     "events": [
+      {
+       "name": "Dynamax Trails",
+       "start": "2026-11-16T15:00:00.000Z",
+       "end": "2026-11-24T01:00:00.000Z",
+       "shiny": true,
+       "evolved": true
       }
      ]
     },
@@ -78255,6 +79046,13 @@
        "name": "Dark Skies",
        "start": "2025-08-18T10:00:00.000Z",
        "end": "2025-08-23T10:00:00.000Z",
+       "shiny": true,
+       "evolved": true
+      },
+      {
+       "name": "Dynamax Trails",
+       "start": "2026-11-16T15:00:00.000Z",
+       "end": "2026-11-24T01:00:00.000Z",
        "shiny": true,
        "evolved": true
       }
@@ -78271,6 +79069,13 @@
        "end": "2025-08-23T10:00:00.000Z",
        "shiny": true,
        "evolved": true
+      },
+      {
+       "name": "Dynamax Trails",
+       "start": "2026-11-16T15:00:00.000Z",
+       "end": "2026-11-24T01:00:00.000Z",
+       "shiny": true,
+       "evolved": true
       }
      ]
     },
@@ -78283,6 +79088,27 @@
        "name": "Dark Skies",
        "start": "2025-08-18T10:00:00.000Z",
        "end": "2025-08-23T10:00:00.000Z",
+       "shiny": true,
+       "evolved": true
+      },
+      {
+       "name": "Dynamax Trails",
+       "start": "2026-11-16T15:00:00.000Z",
+       "end": "2026-11-24T01:00:00.000Z",
+       "shiny": true,
+       "evolved": true
+      }
+     ]
+    },
+    {
+     "pokemon": "milotic-dynamax",
+     "canBeShiny": true,
+     "evolvedOnly": true,
+     "events": [
+      {
+       "name": "Dynamax Trails",
+       "start": "2026-11-16T15:00:00.000Z",
+       "end": "2026-11-24T01:00:00.000Z",
        "shiny": true,
        "evolved": true
       }
@@ -78303,6 +79129,20 @@
      ]
     },
     {
+     "pokemon": "noctowl-dynamax",
+     "canBeShiny": true,
+     "evolvedOnly": true,
+     "events": [
+      {
+       "name": "Dynamax Trails",
+       "start": "2026-11-16T15:00:00.000Z",
+       "end": "2026-11-24T01:00:00.000Z",
+       "shiny": true,
+       "evolved": true
+      }
+     ]
+    },
+    {
      "pokemon": "omanyte-dynamax",
      "canBeShiny": true,
      "evolvedOnly": false,
@@ -78311,6 +79151,13 @@
        "name": "Dark Skies",
        "start": "2025-08-18T10:00:00.000Z",
        "end": "2025-08-23T10:00:00.000Z",
+       "shiny": true,
+       "evolved": false
+      },
+      {
+       "name": "Dynamax Trails",
+       "start": "2026-11-16T15:00:00.000Z",
+       "end": "2026-11-24T01:00:00.000Z",
        "shiny": true,
        "evolved": false
       }
@@ -78327,6 +79174,13 @@
        "end": "2025-08-23T10:00:00.000Z",
        "shiny": true,
        "evolved": true
+      },
+      {
+       "name": "Dynamax Trails",
+       "start": "2026-11-16T15:00:00.000Z",
+       "end": "2026-11-24T01:00:00.000Z",
+       "shiny": true,
+       "evolved": true
       }
      ]
     },
@@ -78339,6 +79193,13 @@
        "name": "Dark Skies",
        "start": "2025-08-18T10:00:00.000Z",
        "end": "2025-08-23T10:00:00.000Z",
+       "shiny": true,
+       "evolved": false
+      },
+      {
+       "name": "Dynamax Trails",
+       "start": "2026-11-16T15:00:00.000Z",
+       "end": "2026-11-24T01:00:00.000Z",
        "shiny": true,
        "evolved": false
       }
@@ -78355,12 +79216,33 @@
        "end": "2025-08-23T10:00:00.000Z",
        "shiny": true,
        "evolved": false
+      },
+      {
+       "name": "Dynamax Trails",
+       "start": "2026-11-16T15:00:00.000Z",
+       "end": "2026-11-24T01:00:00.000Z",
+       "shiny": true,
+       "evolved": false
+      }
+     ]
+    },
+    {
+     "pokemon": "pikachu-dynamax",
+     "canBeShiny": true,
+     "evolvedOnly": false,
+     "events": [
+      {
+       "name": "Dynamax Trails",
+       "start": "2026-11-16T15:00:00.000Z",
+       "end": "2026-11-24T01:00:00.000Z",
+       "shiny": true,
+       "evolved": false
       }
      ]
     },
     {
      "pokemon": "raboot-dynamax",
-     "canBeShiny": false,
+     "canBeShiny": true,
      "evolvedOnly": true,
      "events": [
       {
@@ -78368,6 +79250,27 @@
        "start": "2025-08-18T10:00:00.000Z",
        "end": "2025-08-23T10:00:00.000Z",
        "shiny": false,
+       "evolved": true
+      },
+      {
+       "name": "Dynamax Trails",
+       "start": "2026-11-16T15:00:00.000Z",
+       "end": "2026-11-24T01:00:00.000Z",
+       "shiny": true,
+       "evolved": true
+      }
+     ]
+    },
+    {
+     "pokemon": "raichu-dynamax",
+     "canBeShiny": true,
+     "evolvedOnly": true,
+     "events": [
+      {
+       "name": "Dynamax Trails",
+       "start": "2026-11-16T15:00:00.000Z",
+       "end": "2026-11-24T01:00:00.000Z",
+       "shiny": true,
        "evolved": true
       }
      ]
@@ -78387,8 +79290,64 @@
      ]
     },
     {
+     "pokemon": "ralts-dynamax",
+     "canBeShiny": true,
+     "evolvedOnly": false,
+     "events": [
+      {
+       "name": "Dynamax Trails",
+       "start": "2026-11-16T15:00:00.000Z",
+       "end": "2026-11-24T01:00:00.000Z",
+       "shiny": true,
+       "evolved": false
+      }
+     ]
+    },
+    {
+     "pokemon": "rhydon-dynamax",
+     "canBeShiny": true,
+     "evolvedOnly": true,
+     "events": [
+      {
+       "name": "Dynamax Trails",
+       "start": "2026-11-16T15:00:00.000Z",
+       "end": "2026-11-24T01:00:00.000Z",
+       "shiny": true,
+       "evolved": true
+      }
+     ]
+    },
+    {
+     "pokemon": "rhyhorn-dynamax",
+     "canBeShiny": true,
+     "evolvedOnly": false,
+     "events": [
+      {
+       "name": "Dynamax Trails",
+       "start": "2026-11-16T15:00:00.000Z",
+       "end": "2026-11-24T01:00:00.000Z",
+       "shiny": true,
+       "evolved": false
+      }
+     ]
+    },
+    {
+     "pokemon": "rhyperior-dynamax",
+     "canBeShiny": true,
+     "evolvedOnly": true,
+     "events": [
+      {
+       "name": "Dynamax Trails",
+       "start": "2026-11-16T15:00:00.000Z",
+       "end": "2026-11-24T01:00:00.000Z",
+       "shiny": true,
+       "evolved": true
+      }
+     ]
+    },
+    {
      "pokemon": "rillaboom-dynamax",
-     "canBeShiny": false,
+     "canBeShiny": true,
      "evolvedOnly": true,
      "events": [
       {
@@ -78396,6 +79355,13 @@
        "start": "2025-08-18T10:00:00.000Z",
        "end": "2025-08-23T10:00:00.000Z",
        "shiny": false,
+       "evolved": true
+      },
+      {
+       "name": "Dynamax Trails",
+       "start": "2026-11-16T15:00:00.000Z",
+       "end": "2026-11-24T01:00:00.000Z",
+       "shiny": true,
        "evolved": true
       }
      ]
@@ -78415,6 +79381,20 @@
      ]
     },
     {
+     "pokemon": "roggenrola-dynamax",
+     "canBeShiny": true,
+     "evolvedOnly": false,
+     "events": [
+      {
+       "name": "Dynamax Trails",
+       "start": "2026-11-16T15:00:00.000Z",
+       "end": "2026-11-24T01:00:00.000Z",
+       "shiny": true,
+       "evolved": false
+      }
+     ]
+    },
+    {
      "pokemon": "rookidee-dynamax",
      "canBeShiny": true,
      "evolvedOnly": false,
@@ -78423,6 +79403,13 @@
        "name": "Dark Skies",
        "start": "2025-08-18T10:00:00.000Z",
        "end": "2025-08-23T10:00:00.000Z",
+       "shiny": true,
+       "evolved": false
+      },
+      {
+       "name": "Dynamax Trails",
+       "start": "2026-11-16T15:00:00.000Z",
+       "end": "2026-11-24T01:00:00.000Z",
        "shiny": true,
        "evolved": false
       }
@@ -78439,12 +79426,19 @@
        "end": "2025-08-23T10:00:00.000Z",
        "shiny": true,
        "evolved": false
+      },
+      {
+       "name": "Dynamax Trails",
+       "start": "2026-11-16T15:00:00.000Z",
+       "end": "2026-11-24T01:00:00.000Z",
+       "shiny": true,
+       "evolved": false
       }
      ]
     },
     {
      "pokemon": "scorbunny-dynamax",
-     "canBeShiny": false,
+     "canBeShiny": true,
      "evolvedOnly": false,
      "events": [
       {
@@ -78453,6 +79447,27 @@
        "end": "2025-08-23T10:00:00.000Z",
        "shiny": false,
        "evolved": false
+      },
+      {
+       "name": "Dynamax Trails",
+       "start": "2026-11-16T15:00:00.000Z",
+       "end": "2026-11-24T01:00:00.000Z",
+       "shiny": true,
+       "evolved": false
+      }
+     ]
+    },
+    {
+     "pokemon": "sealeo-dynamax",
+     "canBeShiny": true,
+     "evolvedOnly": true,
+     "events": [
+      {
+       "name": "Dynamax Trails",
+       "start": "2026-11-16T15:00:00.000Z",
+       "end": "2026-11-24T01:00:00.000Z",
+       "shiny": true,
+       "evolved": true
       }
      ]
     },
@@ -78467,6 +79482,27 @@
        "end": "2025-08-23T10:00:00.000Z",
        "shiny": true,
        "evolved": false
+      },
+      {
+       "name": "Dynamax Trails",
+       "start": "2026-11-16T15:00:00.000Z",
+       "end": "2026-11-24T01:00:00.000Z",
+       "shiny": true,
+       "evolved": false
+      }
+     ]
+    },
+    {
+     "pokemon": "sizzlipede-dynamax",
+     "canBeShiny": true,
+     "evolvedOnly": false,
+     "events": [
+      {
+       "name": "Dynamax Trails",
+       "start": "2026-11-16T15:00:00.000Z",
+       "end": "2026-11-24T01:00:00.000Z",
+       "shiny": true,
+       "evolved": false
       }
      ]
     },
@@ -78479,6 +79515,27 @@
        "name": "Dark Skies",
        "start": "2025-08-18T10:00:00.000Z",
        "end": "2025-08-23T10:00:00.000Z",
+       "shiny": true,
+       "evolved": false
+      },
+      {
+       "name": "Dynamax Trails",
+       "start": "2026-11-16T15:00:00.000Z",
+       "end": "2026-11-24T01:00:00.000Z",
+       "shiny": true,
+       "evolved": false
+      }
+     ]
+    },
+    {
+     "pokemon": "sneasel-dynamax",
+     "canBeShiny": true,
+     "evolvedOnly": false,
+     "events": [
+      {
+       "name": "Dynamax Trails",
+       "start": "2026-11-16T15:00:00.000Z",
+       "end": "2026-11-24T01:00:00.000Z",
        "shiny": true,
        "evolved": false
       }
@@ -78500,7 +79557,7 @@
     },
     {
      "pokemon": "sobble-dynamax",
-     "canBeShiny": false,
+     "canBeShiny": true,
      "evolvedOnly": false,
      "events": [
       {
@@ -78508,6 +79565,27 @@
        "start": "2025-08-18T10:00:00.000Z",
        "end": "2025-08-23T10:00:00.000Z",
        "shiny": false,
+       "evolved": false
+      },
+      {
+       "name": "Dynamax Trails",
+       "start": "2026-11-16T15:00:00.000Z",
+       "end": "2026-11-24T01:00:00.000Z",
+       "shiny": true,
+       "evolved": false
+      }
+     ]
+    },
+    {
+     "pokemon": "spheal-dynamax",
+     "canBeShiny": true,
+     "evolvedOnly": false,
+     "events": [
+      {
+       "name": "Dynamax Trails",
+       "start": "2026-11-16T15:00:00.000Z",
+       "end": "2026-11-24T01:00:00.000Z",
+       "shiny": true,
        "evolved": false
       }
      ]
@@ -78523,6 +79601,27 @@
        "end": "2025-08-23T10:00:00.000Z",
        "shiny": true,
        "evolved": false
+      },
+      {
+       "name": "Dynamax Trails",
+       "start": "2026-11-16T15:00:00.000Z",
+       "end": "2026-11-24T01:00:00.000Z",
+       "shiny": true,
+       "evolved": false
+      }
+     ]
+    },
+    {
+     "pokemon": "steenee-dynamax",
+     "canBeShiny": true,
+     "evolvedOnly": true,
+     "events": [
+      {
+       "name": "Dynamax Trails",
+       "start": "2026-11-16T15:00:00.000Z",
+       "end": "2026-11-24T01:00:00.000Z",
+       "shiny": true,
+       "evolved": true
       }
      ]
     },
@@ -78541,8 +79640,36 @@
      ]
     },
     {
+     "pokemon": "swoobat-dynamax",
+     "canBeShiny": true,
+     "evolvedOnly": true,
+     "events": [
+      {
+       "name": "Dynamax Trails",
+       "start": "2026-11-16T15:00:00.000Z",
+       "end": "2026-11-24T01:00:00.000Z",
+       "shiny": true,
+       "evolved": true
+      }
+     ]
+    },
+    {
+     "pokemon": "sylveon-dynamax",
+     "canBeShiny": true,
+     "evolvedOnly": true,
+     "events": [
+      {
+       "name": "Dynamax Trails",
+       "start": "2026-11-16T15:00:00.000Z",
+       "end": "2026-11-24T01:00:00.000Z",
+       "shiny": true,
+       "evolved": true
+      }
+     ]
+    },
+    {
      "pokemon": "thwackey-dynamax",
-     "canBeShiny": false,
+     "canBeShiny": true,
      "evolvedOnly": true,
      "events": [
       {
@@ -78550,6 +79677,13 @@
        "start": "2025-08-18T10:00:00.000Z",
        "end": "2025-08-23T10:00:00.000Z",
        "shiny": false,
+       "evolved": true
+      },
+      {
+       "name": "Dynamax Trails",
+       "start": "2026-11-16T15:00:00.000Z",
+       "end": "2026-11-24T01:00:00.000Z",
+       "shiny": true,
        "evolved": true
       }
      ]
@@ -78563,6 +79697,13 @@
        "name": "Dark Skies",
        "start": "2025-08-18T10:00:00.000Z",
        "end": "2025-08-23T10:00:00.000Z",
+       "shiny": true,
+       "evolved": false
+      },
+      {
+       "name": "Dynamax Trails",
+       "start": "2026-11-16T15:00:00.000Z",
+       "end": "2026-11-24T01:00:00.000Z",
        "shiny": true,
        "evolved": false
       }
@@ -78593,6 +79734,13 @@
        "end": "2025-08-23T10:00:00.000Z",
        "shiny": true,
        "evolved": false
+      },
+      {
+       "name": "Dynamax Trails",
+       "start": "2026-11-16T15:00:00.000Z",
+       "end": "2026-11-24T01:00:00.000Z",
+       "shiny": true,
+       "evolved": false
       }
      ]
     },
@@ -78607,6 +79755,27 @@
        "end": "2025-08-23T10:00:00.000Z",
        "shiny": true,
        "evolved": true
+      },
+      {
+       "name": "Dynamax Trails",
+       "start": "2026-11-16T15:00:00.000Z",
+       "end": "2026-11-24T01:00:00.000Z",
+       "shiny": true,
+       "evolved": true
+      }
+     ]
+    },
+    {
+     "pokemon": "trapinch-dynamax",
+     "canBeShiny": true,
+     "evolvedOnly": false,
+     "events": [
+      {
+       "name": "Dynamax Trails",
+       "start": "2026-11-16T15:00:00.000Z",
+       "end": "2026-11-24T01:00:00.000Z",
+       "shiny": true,
+       "evolved": false
       }
      ]
     },
@@ -78621,6 +79790,41 @@
        "end": "2025-08-23T10:00:00.000Z",
        "shiny": true,
        "evolved": false
+      },
+      {
+       "name": "Dynamax Trails",
+       "start": "2026-11-16T15:00:00.000Z",
+       "end": "2026-11-24T01:00:00.000Z",
+       "shiny": true,
+       "evolved": false
+      }
+     ]
+    },
+    {
+     "pokemon": "tsareena-dynamax",
+     "canBeShiny": true,
+     "evolvedOnly": true,
+     "events": [
+      {
+       "name": "Dynamax Trails",
+       "start": "2026-11-16T15:00:00.000Z",
+       "end": "2026-11-24T01:00:00.000Z",
+       "shiny": true,
+       "evolved": true
+      }
+     ]
+    },
+    {
+     "pokemon": "umbreon-dynamax",
+     "canBeShiny": true,
+     "evolvedOnly": true,
+     "events": [
+      {
+       "name": "Dynamax Trails",
+       "start": "2026-11-16T15:00:00.000Z",
+       "end": "2026-11-24T01:00:00.000Z",
+       "shiny": true,
+       "evolved": true
       }
      ]
     },
@@ -78635,6 +79839,27 @@
        "end": "2025-08-23T10:00:00.000Z",
        "shiny": true,
        "evolved": true
+      },
+      {
+       "name": "Dynamax Trails",
+       "start": "2026-11-16T15:00:00.000Z",
+       "end": "2026-11-24T01:00:00.000Z",
+       "shiny": true,
+       "evolved": true
+      }
+     ]
+    },
+    {
+     "pokemon": "vaporeon-dynamax",
+     "canBeShiny": true,
+     "evolvedOnly": true,
+     "events": [
+      {
+       "name": "Dynamax Trails",
+       "start": "2026-11-16T15:00:00.000Z",
+       "end": "2026-11-24T01:00:00.000Z",
+       "shiny": true,
+       "evolved": true
       }
      ]
     },
@@ -78647,6 +79872,13 @@
        "name": "Dark Skies",
        "start": "2025-08-18T10:00:00.000Z",
        "end": "2025-08-23T10:00:00.000Z",
+       "shiny": true,
+       "evolved": true
+      },
+      {
+       "name": "Dynamax Trails",
+       "start": "2026-11-16T15:00:00.000Z",
+       "end": "2026-11-24T01:00:00.000Z",
        "shiny": true,
        "evolved": true
       }
@@ -78667,6 +79899,34 @@
      ]
     },
     {
+     "pokemon": "vespiquen-dynamax",
+     "canBeShiny": true,
+     "evolvedOnly": true,
+     "events": [
+      {
+       "name": "Dynamax Trails",
+       "start": "2026-11-16T15:00:00.000Z",
+       "end": "2026-11-24T01:00:00.000Z",
+       "shiny": true,
+       "evolved": true
+      }
+     ]
+    },
+    {
+     "pokemon": "vibrava-dynamax",
+     "canBeShiny": true,
+     "evolvedOnly": true,
+     "events": [
+      {
+       "name": "Dynamax Trails",
+       "start": "2026-11-16T15:00:00.000Z",
+       "end": "2026-11-24T01:00:00.000Z",
+       "shiny": true,
+       "evolved": true
+      }
+     ]
+    },
+    {
      "pokemon": "wailmer-dynamax",
      "canBeShiny": true,
      "evolvedOnly": false,
@@ -78675,6 +79935,13 @@
        "name": "Dark Skies",
        "start": "2025-08-18T10:00:00.000Z",
        "end": "2025-08-23T10:00:00.000Z",
+       "shiny": true,
+       "evolved": false
+      },
+      {
+       "name": "Dynamax Trails",
+       "start": "2026-11-16T15:00:00.000Z",
+       "end": "2026-11-24T01:00:00.000Z",
        "shiny": true,
        "evolved": false
       }
@@ -78691,6 +79958,27 @@
        "end": "2025-08-23T10:00:00.000Z",
        "shiny": true,
        "evolved": true
+      },
+      {
+       "name": "Dynamax Trails",
+       "start": "2026-11-16T15:00:00.000Z",
+       "end": "2026-11-24T01:00:00.000Z",
+       "shiny": true,
+       "evolved": true
+      }
+     ]
+    },
+    {
+     "pokemon": "walrein-dynamax",
+     "canBeShiny": true,
+     "evolvedOnly": true,
+     "events": [
+      {
+       "name": "Dynamax Trails",
+       "start": "2026-11-16T15:00:00.000Z",
+       "end": "2026-11-24T01:00:00.000Z",
+       "shiny": true,
+       "evolved": true
       }
      ]
     },
@@ -78705,6 +79993,55 @@
        "end": "2025-08-23T10:00:00.000Z",
        "shiny": true,
        "evolved": true
+      },
+      {
+       "name": "Dynamax Trails",
+       "start": "2026-11-16T15:00:00.000Z",
+       "end": "2026-11-24T01:00:00.000Z",
+       "shiny": true,
+       "evolved": true
+      }
+     ]
+    },
+    {
+     "pokemon": "weavile-dynamax",
+     "canBeShiny": true,
+     "evolvedOnly": true,
+     "events": [
+      {
+       "name": "Dynamax Trails",
+       "start": "2026-11-16T15:00:00.000Z",
+       "end": "2026-11-24T01:00:00.000Z",
+       "shiny": true,
+       "evolved": true
+      }
+     ]
+    },
+    {
+     "pokemon": "whimsicott-dynamax",
+     "canBeShiny": true,
+     "evolvedOnly": true,
+     "events": [
+      {
+       "name": "Dynamax Trails",
+       "start": "2026-11-16T15:00:00.000Z",
+       "end": "2026-11-24T01:00:00.000Z",
+       "shiny": true,
+       "evolved": true
+      }
+     ]
+    },
+    {
+     "pokemon": "woobat-dynamax",
+     "canBeShiny": true,
+     "evolvedOnly": false,
+     "events": [
+      {
+       "name": "Dynamax Trails",
+       "start": "2026-11-16T15:00:00.000Z",
+       "end": "2026-11-24T01:00:00.000Z",
+       "shiny": true,
+       "evolved": false
       }
      ]
     },
@@ -78717,6 +80054,13 @@
        "name": "Dark Skies",
        "start": "2025-08-18T10:00:00.000Z",
        "end": "2025-08-23T10:00:00.000Z",
+       "shiny": true,
+       "evolved": false
+      },
+      {
+       "name": "Dynamax Trails",
+       "start": "2026-11-16T15:00:00.000Z",
+       "end": "2026-11-24T01:00:00.000Z",
        "shiny": true,
        "evolved": false
       }
@@ -78733,6 +80077,20 @@
        "end": "2025-08-23T10:00:00.000Z",
        "shiny": true,
        "evolved": false
+      }
+     ]
+    },
+    {
+     "pokemon": "zweilous-dynamax",
+     "canBeShiny": true,
+     "evolvedOnly": true,
+     "events": [
+      {
+       "name": "Dynamax Trails",
+       "start": "2026-11-16T15:00:00.000Z",
+       "end": "2026-11-24T01:00:00.000Z",
+       "shiny": true,
+       "evolved": true
       }
      ]
     }

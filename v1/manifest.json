@@ -1,75 +1,75 @@
 {
  "schema": 1,
- "built": "2026-11-17T18:50:59Z",
+ "built": "2026-11-18T18:29:24Z",
  "sections": {
   "catalog": {
    "file": "catalog.json",
-   "hash": "sha256-50c6486ebaf358fb2960606d385721056307fbc5e3deb19ccafed21ccac50af0",
+   "hash": "sha256-603d1b2f4ea544156ec9514727807a7a5cac4b58a4bc462bbf986da299eb99b8",
    "count": 2686,
-   "lastGood": "2026-11-17",
+   "lastGood": "2026-11-18",
    "stale": false
   },
   "raids": {
    "file": "raids.json",
    "hash": "sha256-38caa2f490ada7dd9ee50865451db0c91efcf9b72af46937aa65696cbca73225",
    "count": 74,
-   "lastGood": "2026-11-17",
+   "lastGood": "2026-11-18",
    "stale": false
   },
   "research": {
    "file": "research.json",
    "hash": "sha256-351791eb02ea1995e9f5d8825ff8f30a2744ee8857f726723c7637173d22d257",
    "count": 64,
-   "lastGood": "2026-11-17",
+   "lastGood": "2026-11-18",
    "stale": false
   },
   "shinies": {
    "file": "shinies.json",
    "hash": "sha256-cb6ddb6a7ffb86cd2af14bc274f719c93b6e121b767ec2bdb0c96e62f865730f",
    "count": 1485,
-   "lastGood": "2026-11-17",
+   "lastGood": "2026-11-18",
    "stale": false
   },
   "eggs": {
    "file": "eggs.json",
    "hash": "sha256-f2d8d0a7143ec9b233911be69961b65f1cbc2d0691e0993d0a86bfffa2f54d3d",
    "count": 78,
-   "lastGood": "2026-11-17",
+   "lastGood": "2026-11-18",
    "stale": false
   },
   "rocket": {
    "file": "rocket.json",
    "hash": "sha256-e1660f0986d2bbf09209728d529e4d71d10cb10c993a4c256da6e4ae49f39b96",
    "count": 26,
-   "lastGood": "2026-11-17",
+   "lastGood": "2026-11-18",
    "stale": false
   },
   "events": {
    "file": "events.json",
-   "hash": "sha256-caea9662d066afd5e7fb0acfab68c40d62731ae27764d050b8ee664dc89ebb06",
+   "hash": "sha256-5bcd8a3fb11865db2b5cac7c3da84e1dd66d12838bdba88819a1eab9172980a7",
    "count": 44,
-   "lastGood": "2026-11-17",
+   "lastGood": "2026-11-18",
    "stale": false
   },
   "stats": {
    "file": "stats.json",
    "hash": "sha256-01f6c3d6ab3c286456babd8e6c360c9b1ecb03a6d12e91104becf0ab8c9726c0",
    "count": 2381,
-   "lastGood": "2026-11-17",
+   "lastGood": "2026-11-18",
    "stale": false
   },
   "rankings": {
    "file": "rankings.json",
    "hash": "sha256-6e740ce9ab654fefdde3db9b8b2cb13f6811ec117f034dbbbdf72fcae32ea205",
    "count": 2177,
-   "lastGood": "2026-11-17",
+   "lastGood": "2026-11-18",
    "stale": false
   },
   "catchables": {
    "file": "catchables.json",
    "hash": "sha256-e2e2cc5b76948144730974ff8b039ac66796ba60e9f71636438d3eaeced8a62b",
    "count": 332,
-   "lastGood": "2026-11-17",
+   "lastGood": "2026-11-18",
    "stale": false
   }
  }

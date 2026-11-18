@@ -1,6 +1,6 @@
 {
  "schema": 1,
- "built": "2026-11-17T18:50:59Z",
+ "built": "2026-11-18T18:29:24Z",
  "items": [
   {
    "id": "catalog:label:background.lc-pokelid-gunma:dbe6f116e0eb",
@@ -1524,6 +1524,1826 @@
   }
  ],
  "applied": [
+  {
+   "id": "catalog:set:link.sb-go-fest-2025-dark-skies.zweilous-dynamax:02de32f46522",
+   "kind": "catalog-applied",
+   "origin": {
+    "id": "catalog",
+    "title": "Catalog",
+    "note": "Dittobase import"
+   },
+   "field": "Dynamax Zweilous on GO Fest 2025 Dark Skies",
+   "what": "Dynamax Zweilous added to GO Fest 2025 Dark Skies",
+   "source": "Dittobase",
+   "at": "2026-11-18",
+   "section": "catalog"
+  },
+  {
+   "id": "catalog:set:link.sb-go-fest-2025-dark-skies.wooloo-dynamax:57c9ad9a6c2c",
+   "kind": "catalog-applied",
+   "origin": {
+    "id": "catalog",
+    "title": "Catalog",
+    "note": "Dittobase import"
+   },
+   "field": "Dynamax Wooloo on GO Fest 2025 Dark Skies",
+   "what": "Dynamax Wooloo on GO Fest 2025 Dark Skies: events changed",
+   "source": "Dittobase",
+   "at": "2026-11-18",
+   "section": "catalog"
+  },
+  {
+   "id": "catalog:set:link.sb-go-fest-2025-dark-skies.woobat-dynamax:bc12b6827bb1",
+   "kind": "catalog-applied",
+   "origin": {
+    "id": "catalog",
+    "title": "Catalog",
+    "note": "Dittobase import"
+   },
+   "field": "Dynamax Woobat on GO Fest 2025 Dark Skies",
+   "what": "Dynamax Woobat added to GO Fest 2025 Dark Skies",
+   "source": "Dittobase",
+   "at": "2026-11-18",
+   "section": "catalog"
+  },
+  {
+   "id": "catalog:set:link.sb-go-fest-2025-dark-skies.whimsicott-dynamax:b0151b3670ec",
+   "kind": "catalog-applied",
+   "origin": {
+    "id": "catalog",
+    "title": "Catalog",
+    "note": "Dittobase import"
+   },
+   "field": "Dynamax Whimsicott on GO Fest 2025 Dark Skies",
+   "what": "Dynamax Whimsicott added to GO Fest 2025 Dark Skies",
+   "source": "Dittobase",
+   "at": "2026-11-18",
+   "section": "catalog"
+  },
+  {
+   "id": "catalog:set:link.sb-go-fest-2025-dark-skies.weavile-dynamax:90b261cda215",
+   "kind": "catalog-applied",
+   "origin": {
+    "id": "catalog",
+    "title": "Catalog",
+    "note": "Dittobase import"
+   },
+   "field": "Dynamax Weavile on GO Fest 2025 Dark Skies",
+   "what": "Dynamax Weavile added to GO Fest 2025 Dark Skies",
+   "source": "Dittobase",
+   "at": "2026-11-18",
+   "section": "catalog"
+  },
+  {
+   "id": "catalog:set:link.sb-go-fest-2025-dark-skies.wartortle-dynamax:ba367ba5f3e5",
+   "kind": "catalog-applied",
+   "origin": {
+    "id": "catalog",
+    "title": "Catalog",
+    "note": "Dittobase import"
+   },
+   "field": "Dynamax Wartortle on GO Fest 2025 Dark Skies",
+   "what": "Dynamax Wartortle on GO Fest 2025 Dark Skies: events changed",
+   "source": "Dittobase",
+   "at": "2026-11-18",
+   "section": "catalog"
+  },
+  {
+   "id": "catalog:set:link.sb-go-fest-2025-dark-skies.walrein-dynamax:6d9613be7159",
+   "kind": "catalog-applied",
+   "origin": {
+    "id": "catalog",
+    "title": "Catalog",
+    "note": "Dittobase import"
+   },
+   "field": "Dynamax Walrein on GO Fest 2025 Dark Skies",
+   "what": "Dynamax Walrein added to GO Fest 2025 Dark Skies",
+   "source": "Dittobase",
+   "at": "2026-11-18",
+   "section": "catalog"
+  },
+  {
+   "id": "catalog:set:link.sb-go-fest-2025-dark-skies.wailord-dynamax:e7eb8a0cf3ee",
+   "kind": "catalog-applied",
+   "origin": {
+    "id": "catalog",
+    "title": "Catalog",
+    "note": "Dittobase import"
+   },
+   "field": "Dynamax Wailord on GO Fest 2025 Dark Skies",
+   "what": "Dynamax Wailord on GO Fest 2025 Dark Skies: events changed",
+   "source": "Dittobase",
+   "at": "2026-11-18",
+   "section": "catalog"
+  },
+  {
+   "id": "catalog:set:link.sb-go-fest-2025-dark-skies.wailmer-dynamax:7c67dfa73fae",
+   "kind": "catalog-applied",
+   "origin": {
+    "id": "catalog",
+    "title": "Catalog",
+    "note": "Dittobase import"
+   },
+   "field": "Dynamax Wailmer on GO Fest 2025 Dark Skies",
+   "what": "Dynamax Wailmer on GO Fest 2025 Dark Skies: events changed",
+   "source": "Dittobase",
+   "at": "2026-11-18",
+   "section": "catalog"
+  },
+  {
+   "id": "catalog:set:link.sb-go-fest-2025-dark-skies.vibrava-dynamax:397a53f629b0",
+   "kind": "catalog-applied",
+   "origin": {
+    "id": "catalog",
+    "title": "Catalog",
+    "note": "Dittobase import"
+   },
+   "field": "Dynamax Vibrava on GO Fest 2025 Dark Skies",
+   "what": "Dynamax Vibrava added to GO Fest 2025 Dark Skies",
+   "source": "Dittobase",
+   "at": "2026-11-18",
+   "section": "catalog"
+  },
+  {
+   "id": "catalog:set:link.sb-go-fest-2025-dark-skies.vespiquen-dynamax:83aeba4f362d",
+   "kind": "catalog-applied",
+   "origin": {
+    "id": "catalog",
+    "title": "Catalog",
+    "note": "Dittobase import"
+   },
+   "field": "Dynamax Vespiquen on GO Fest 2025 Dark Skies",
+   "what": "Dynamax Vespiquen added to GO Fest 2025 Dark Skies",
+   "source": "Dittobase",
+   "at": "2026-11-18",
+   "section": "catalog"
+  },
+  {
+   "id": "catalog:set:link.sb-go-fest-2025-dark-skies.venusaur-dynamax:e2ff82374556",
+   "kind": "catalog-applied",
+   "origin": {
+    "id": "catalog",
+    "title": "Catalog",
+    "note": "Dittobase import"
+   },
+   "field": "Dynamax Venusaur on GO Fest 2025 Dark Skies",
+   "what": "Dynamax Venusaur on GO Fest 2025 Dark Skies: events changed",
+   "source": "Dittobase",
+   "at": "2026-11-18",
+   "section": "catalog"
+  },
+  {
+   "id": "catalog:set:link.sb-go-fest-2025-dark-skies.vaporeon-dynamax:e61eda3d9d19",
+   "kind": "catalog-applied",
+   "origin": {
+    "id": "catalog",
+    "title": "Catalog",
+    "note": "Dittobase import"
+   },
+   "field": "Dynamax Vaporeon on GO Fest 2025 Dark Skies",
+   "what": "Dynamax Vaporeon added to GO Fest 2025 Dark Skies",
+   "source": "Dittobase",
+   "at": "2026-11-18",
+   "section": "catalog"
+  },
+  {
+   "id": "catalog:set:link.sb-go-fest-2025-dark-skies.unfezant-dynamax:2f0c8045260c",
+   "kind": "catalog-applied",
+   "origin": {
+    "id": "catalog",
+    "title": "Catalog",
+    "note": "Dittobase import"
+   },
+   "field": "Dynamax Unfezant on GO Fest 2025 Dark Skies",
+   "what": "Dynamax Unfezant on GO Fest 2025 Dark Skies: events changed",
+   "source": "Dittobase",
+   "at": "2026-11-18",
+   "section": "catalog"
+  },
+  {
+   "id": "catalog:set:link.sb-go-fest-2025-dark-skies.umbreon-dynamax:546f4ab895cb",
+   "kind": "catalog-applied",
+   "origin": {
+    "id": "catalog",
+    "title": "Catalog",
+    "note": "Dittobase import"
+   },
+   "field": "Dynamax Umbreon on GO Fest 2025 Dark Skies",
+   "what": "Dynamax Umbreon added to GO Fest 2025 Dark Skies",
+   "source": "Dittobase",
+   "at": "2026-11-18",
+   "section": "catalog"
+  },
+  {
+   "id": "catalog:set:link.sb-go-fest-2025-dark-skies.tsareena-dynamax:dc4c4218f1d6",
+   "kind": "catalog-applied",
+   "origin": {
+    "id": "catalog",
+    "title": "Catalog",
+    "note": "Dittobase import"
+   },
+   "field": "Dynamax Tsareena on GO Fest 2025 Dark Skies",
+   "what": "Dynamax Tsareena added to GO Fest 2025 Dark Skies",
+   "source": "Dittobase",
+   "at": "2026-11-18",
+   "section": "catalog"
+  },
+  {
+   "id": "catalog:set:link.sb-go-fest-2025-dark-skies.trubbish-dynamax:f7e9b713af1c",
+   "kind": "catalog-applied",
+   "origin": {
+    "id": "catalog",
+    "title": "Catalog",
+    "note": "Dittobase import"
+   },
+   "field": "Dynamax Trubbish on GO Fest 2025 Dark Skies",
+   "what": "Dynamax Trubbish on GO Fest 2025 Dark Skies: events changed",
+   "source": "Dittobase",
+   "at": "2026-11-18",
+   "section": "catalog"
+  },
+  {
+   "id": "catalog:set:link.sb-go-fest-2025-dark-skies.trapinch-dynamax:bd19cd194e25",
+   "kind": "catalog-applied",
+   "origin": {
+    "id": "catalog",
+    "title": "Catalog",
+    "note": "Dittobase import"
+   },
+   "field": "Dynamax Trapinch on GO Fest 2025 Dark Skies",
+   "what": "Dynamax Trapinch added to GO Fest 2025 Dark Skies",
+   "source": "Dittobase",
+   "at": "2026-11-18",
+   "section": "catalog"
+  },
+  {
+   "id": "catalog:set:link.sb-go-fest-2025-dark-skies.tranquill-dynamax:85b6fc50bcb3",
+   "kind": "catalog-applied",
+   "origin": {
+    "id": "catalog",
+    "title": "Catalog",
+    "note": "Dittobase import"
+   },
+   "field": "Dynamax Tranquill on GO Fest 2025 Dark Skies",
+   "what": "Dynamax Tranquill on GO Fest 2025 Dark Skies: events changed",
+   "source": "Dittobase",
+   "at": "2026-11-18",
+   "section": "catalog"
+  },
+  {
+   "id": "catalog:set:link.sb-go-fest-2025-dark-skies.toxtricity-low-key-dynamax:d19d7e6d5b34",
+   "kind": "catalog-applied",
+   "origin": {
+    "id": "catalog",
+    "title": "Catalog",
+    "note": "Dittobase import"
+   },
+   "field": "Dynamax Toxtricity Low Key on GO Fest 2025 Dark Skies",
+   "what": "Dynamax Toxtricity Low Key on GO Fest 2025 Dark Skies: events changed",
+   "source": "Dittobase",
+   "at": "2026-11-18",
+   "section": "catalog"
+  },
+  {
+   "id": "catalog:set:link.sb-go-fest-2025-dark-skies.toxtricity-amped-dynamax:44fc40185652",
+   "kind": "catalog-applied",
+   "origin": {
+    "id": "catalog",
+    "title": "Catalog",
+    "note": "Dittobase import"
+   },
+   "field": "Dynamax Toxtricity Amped on GO Fest 2025 Dark Skies",
+   "what": "Dynamax Toxtricity Amped on GO Fest 2025 Dark Skies: events changed",
+   "source": "Dittobase",
+   "at": "2026-11-18",
+   "section": "catalog"
+  },
+  {
+   "id": "catalog:set:link.sb-go-fest-2025-dark-skies.thwackey-dynamax:d8527c07cd47",
+   "kind": "catalog-applied",
+   "origin": {
+    "id": "catalog",
+    "title": "Catalog",
+    "note": "Dittobase import"
+   },
+   "field": "Dynamax Thwackey on GO Fest 2025 Dark Skies",
+   "what": "Dynamax Thwackey on GO Fest 2025 Dark Skies: can be shiny no → yes, events changed",
+   "source": "Dittobase",
+   "at": "2026-11-18",
+   "section": "catalog"
+  },
+  {
+   "id": "catalog:set:link.sb-go-fest-2025-dark-skies.sylveon-dynamax:b4ddfd5f0049",
+   "kind": "catalog-applied",
+   "origin": {
+    "id": "catalog",
+    "title": "Catalog",
+    "note": "Dittobase import"
+   },
+   "field": "Dynamax Sylveon on GO Fest 2025 Dark Skies",
+   "what": "Dynamax Sylveon added to GO Fest 2025 Dark Skies",
+   "source": "Dittobase",
+   "at": "2026-11-18",
+   "section": "catalog"
+  },
+  {
+   "id": "catalog:set:link.sb-go-fest-2025-dark-skies.swoobat-dynamax:97d7977b094c",
+   "kind": "catalog-applied",
+   "origin": {
+    "id": "catalog",
+    "title": "Catalog",
+    "note": "Dittobase import"
+   },
+   "field": "Dynamax Swoobat on GO Fest 2025 Dark Skies",
+   "what": "Dynamax Swoobat added to GO Fest 2025 Dark Skies",
+   "source": "Dittobase",
+   "at": "2026-11-18",
+   "section": "catalog"
+  },
+  {
+   "id": "catalog:set:link.sb-go-fest-2025-dark-skies.steenee-dynamax:21d4d35173f0",
+   "kind": "catalog-applied",
+   "origin": {
+    "id": "catalog",
+    "title": "Catalog",
+    "note": "Dittobase import"
+   },
+   "field": "Dynamax Steenee on GO Fest 2025 Dark Skies",
+   "what": "Dynamax Steenee added to GO Fest 2025 Dark Skies",
+   "source": "Dittobase",
+   "at": "2026-11-18",
+   "section": "catalog"
+  },
+  {
+   "id": "catalog:set:link.sb-go-fest-2025-dark-skies.squirtle-dynamax:a4cc997ba5b5",
+   "kind": "catalog-applied",
+   "origin": {
+    "id": "catalog",
+    "title": "Catalog",
+    "note": "Dittobase import"
+   },
+   "field": "Dynamax Squirtle on GO Fest 2025 Dark Skies",
+   "what": "Dynamax Squirtle on GO Fest 2025 Dark Skies: events changed",
+   "source": "Dittobase",
+   "at": "2026-11-18",
+   "section": "catalog"
+  },
+  {
+   "id": "catalog:set:link.sb-go-fest-2025-dark-skies.spheal-dynamax:6b46dfa62c7b",
+   "kind": "catalog-applied",
+   "origin": {
+    "id": "catalog",
+    "title": "Catalog",
+    "note": "Dittobase import"
+   },
+   "field": "Dynamax Spheal on GO Fest 2025 Dark Skies",
+   "what": "Dynamax Spheal added to GO Fest 2025 Dark Skies",
+   "source": "Dittobase",
+   "at": "2026-11-18",
+   "section": "catalog"
+  },
+  {
+   "id": "catalog:set:link.sb-go-fest-2025-dark-skies.sobble-dynamax:fa3c1de449d2",
+   "kind": "catalog-applied",
+   "origin": {
+    "id": "catalog",
+    "title": "Catalog",
+    "note": "Dittobase import"
+   },
+   "field": "Dynamax Sobble on GO Fest 2025 Dark Skies",
+   "what": "Dynamax Sobble on GO Fest 2025 Dark Skies: can be shiny no → yes, events changed",
+   "source": "Dittobase",
+   "at": "2026-11-18",
+   "section": "catalog"
+  },
+  {
+   "id": "catalog:set:link.sb-go-fest-2025-dark-skies.sneasel-dynamax:14a15886c473",
+   "kind": "catalog-applied",
+   "origin": {
+    "id": "catalog",
+    "title": "Catalog",
+    "note": "Dittobase import"
+   },
+   "field": "Dynamax Sneasel on GO Fest 2025 Dark Skies",
+   "what": "Dynamax Sneasel added to GO Fest 2025 Dark Skies",
+   "source": "Dittobase",
+   "at": "2026-11-18",
+   "section": "catalog"
+  },
+  {
+   "id": "catalog:set:link.sb-go-fest-2025-dark-skies.skwovet-dynamax:71e876cc21c7",
+   "kind": "catalog-applied",
+   "origin": {
+    "id": "catalog",
+    "title": "Catalog",
+    "note": "Dittobase import"
+   },
+   "field": "Dynamax Skwovet on GO Fest 2025 Dark Skies",
+   "what": "Dynamax Skwovet on GO Fest 2025 Dark Skies: events changed",
+   "source": "Dittobase",
+   "at": "2026-11-18",
+   "section": "catalog"
+  },
+  {
+   "id": "catalog:set:link.sb-go-fest-2025-dark-skies.sizzlipede-dynamax:412e0b0161a4",
+   "kind": "catalog-applied",
+   "origin": {
+    "id": "catalog",
+    "title": "Catalog",
+    "note": "Dittobase import"
+   },
+   "field": "Dynamax Sizzlipede on GO Fest 2025 Dark Skies",
+   "what": "Dynamax Sizzlipede added to GO Fest 2025 Dark Skies",
+   "source": "Dittobase",
+   "at": "2026-11-18",
+   "section": "catalog"
+  },
+  {
+   "id": "catalog:set:link.sb-go-fest-2025-dark-skies.shuckle-dynamax:54e4457ceb45",
+   "kind": "catalog-applied",
+   "origin": {
+    "id": "catalog",
+    "title": "Catalog",
+    "note": "Dittobase import"
+   },
+   "field": "Dynamax Shuckle on GO Fest 2025 Dark Skies",
+   "what": "Dynamax Shuckle on GO Fest 2025 Dark Skies: events changed",
+   "source": "Dittobase",
+   "at": "2026-11-18",
+   "section": "catalog"
+  },
+  {
+   "id": "catalog:set:link.sb-go-fest-2025-dark-skies.sealeo-dynamax:512b2690b807",
+   "kind": "catalog-applied",
+   "origin": {
+    "id": "catalog",
+    "title": "Catalog",
+    "note": "Dittobase import"
+   },
+   "field": "Dynamax Sealeo on GO Fest 2025 Dark Skies",
+   "what": "Dynamax Sealeo added to GO Fest 2025 Dark Skies",
+   "source": "Dittobase",
+   "at": "2026-11-18",
+   "section": "catalog"
+  },
+  {
+   "id": "catalog:set:link.sb-go-fest-2025-dark-skies.scorbunny-dynamax:52363010081b",
+   "kind": "catalog-applied",
+   "origin": {
+    "id": "catalog",
+    "title": "Catalog",
+    "note": "Dittobase import"
+   },
+   "field": "Dynamax Scorbunny on GO Fest 2025 Dark Skies",
+   "what": "Dynamax Scorbunny on GO Fest 2025 Dark Skies: can be shiny no → yes, events changed",
+   "source": "Dittobase",
+   "at": "2026-11-18",
+   "section": "catalog"
+  },
+  {
+   "id": "catalog:set:link.sb-go-fest-2025-dark-skies.sableye-dynamax:d4e802cbe1d7",
+   "kind": "catalog-applied",
+   "origin": {
+    "id": "catalog",
+    "title": "Catalog",
+    "note": "Dittobase import"
+   },
+   "field": "Dynamax Sableye on GO Fest 2025 Dark Skies",
+   "what": "Dynamax Sableye on GO Fest 2025 Dark Skies: events changed",
+   "source": "Dittobase",
+   "at": "2026-11-18",
+   "section": "catalog"
+  },
+  {
+   "id": "catalog:set:link.sb-go-fest-2025-dark-skies.rookidee-dynamax:0675ff655bf6",
+   "kind": "catalog-applied",
+   "origin": {
+    "id": "catalog",
+    "title": "Catalog",
+    "note": "Dittobase import"
+   },
+   "field": "Dynamax Rookidee on GO Fest 2025 Dark Skies",
+   "what": "Dynamax Rookidee on GO Fest 2025 Dark Skies: events changed",
+   "source": "Dittobase",
+   "at": "2026-11-18",
+   "section": "catalog"
+  },
+  {
+   "id": "catalog:set:link.sb-go-fest-2025-dark-skies.roggenrola-dynamax:b00b31b6badc",
+   "kind": "catalog-applied",
+   "origin": {
+    "id": "catalog",
+    "title": "Catalog",
+    "note": "Dittobase import"
+   },
+   "field": "Dynamax Roggenrola on GO Fest 2025 Dark Skies",
+   "what": "Dynamax Roggenrola added to GO Fest 2025 Dark Skies",
+   "source": "Dittobase",
+   "at": "2026-11-18",
+   "section": "catalog"
+  },
+  {
+   "id": "catalog:set:link.sb-go-fest-2025-dark-skies.rillaboom-dynamax:3408d62408e6",
+   "kind": "catalog-applied",
+   "origin": {
+    "id": "catalog",
+    "title": "Catalog",
+    "note": "Dittobase import"
+   },
+   "field": "Dynamax Rillaboom on GO Fest 2025 Dark Skies",
+   "what": "Dynamax Rillaboom on GO Fest 2025 Dark Skies: can be shiny no → yes, events changed",
+   "source": "Dittobase",
+   "at": "2026-11-18",
+   "section": "catalog"
+  },
+  {
+   "id": "catalog:set:link.sb-go-fest-2025-dark-skies.rhyperior-dynamax:a21d85ed8174",
+   "kind": "catalog-applied",
+   "origin": {
+    "id": "catalog",
+    "title": "Catalog",
+    "note": "Dittobase import"
+   },
+   "field": "Dynamax Rhyperior on GO Fest 2025 Dark Skies",
+   "what": "Dynamax Rhyperior added to GO Fest 2025 Dark Skies",
+   "source": "Dittobase",
+   "at": "2026-11-18",
+   "section": "catalog"
+  },
+  {
+   "id": "catalog:set:link.sb-go-fest-2025-dark-skies.rhyhorn-dynamax:e61697440b8b",
+   "kind": "catalog-applied",
+   "origin": {
+    "id": "catalog",
+    "title": "Catalog",
+    "note": "Dittobase import"
+   },
+   "field": "Dynamax Rhyhorn on GO Fest 2025 Dark Skies",
+   "what": "Dynamax Rhyhorn added to GO Fest 2025 Dark Skies",
+   "source": "Dittobase",
+   "at": "2026-11-18",
+   "section": "catalog"
+  },
+  {
+   "id": "catalog:set:link.sb-go-fest-2025-dark-skies.rhydon-dynamax:8e12538b5d15",
+   "kind": "catalog-applied",
+   "origin": {
+    "id": "catalog",
+    "title": "Catalog",
+    "note": "Dittobase import"
+   },
+   "field": "Dynamax Rhydon on GO Fest 2025 Dark Skies",
+   "what": "Dynamax Rhydon added to GO Fest 2025 Dark Skies",
+   "source": "Dittobase",
+   "at": "2026-11-18",
+   "section": "catalog"
+  },
+  {
+   "id": "catalog:set:link.sb-go-fest-2025-dark-skies.ralts-dynamax:d4ead328a113",
+   "kind": "catalog-applied",
+   "origin": {
+    "id": "catalog",
+    "title": "Catalog",
+    "note": "Dittobase import"
+   },
+   "field": "Dynamax Ralts on GO Fest 2025 Dark Skies",
+   "what": "Dynamax Ralts added to GO Fest 2025 Dark Skies",
+   "source": "Dittobase",
+   "at": "2026-11-18",
+   "section": "catalog"
+  },
+  {
+   "id": "catalog:set:link.sb-go-fest-2025-dark-skies.raichu-dynamax:c1f11eafecb2",
+   "kind": "catalog-applied",
+   "origin": {
+    "id": "catalog",
+    "title": "Catalog",
+    "note": "Dittobase import"
+   },
+   "field": "Dynamax Raichu on GO Fest 2025 Dark Skies",
+   "what": "Dynamax Raichu added to GO Fest 2025 Dark Skies",
+   "source": "Dittobase",
+   "at": "2026-11-18",
+   "section": "catalog"
+  },
+  {
+   "id": "catalog:set:link.sb-go-fest-2025-dark-skies.raboot-dynamax:6fcdf186a185",
+   "kind": "catalog-applied",
+   "origin": {
+    "id": "catalog",
+    "title": "Catalog",
+    "note": "Dittobase import"
+   },
+   "field": "Dynamax Raboot on GO Fest 2025 Dark Skies",
+   "what": "Dynamax Raboot on GO Fest 2025 Dark Skies: can be shiny no → yes, events changed",
+   "source": "Dittobase",
+   "at": "2026-11-18",
+   "section": "catalog"
+  },
+  {
+   "id": "catalog:set:link.sb-go-fest-2025-dark-skies.pikachu-dynamax:b76119e10cac",
+   "kind": "catalog-applied",
+   "origin": {
+    "id": "catalog",
+    "title": "Catalog",
+    "note": "Dittobase import"
+   },
+   "field": "Dynamax Pikachu on GO Fest 2025 Dark Skies",
+   "what": "Dynamax Pikachu added to GO Fest 2025 Dark Skies",
+   "source": "Dittobase",
+   "at": "2026-11-18",
+   "section": "catalog"
+  },
+  {
+   "id": "catalog:set:link.sb-go-fest-2025-dark-skies.pidove-dynamax:12c5818b5f40",
+   "kind": "catalog-applied",
+   "origin": {
+    "id": "catalog",
+    "title": "Catalog",
+    "note": "Dittobase import"
+   },
+   "field": "Dynamax Pidove on GO Fest 2025 Dark Skies",
+   "what": "Dynamax Pidove on GO Fest 2025 Dark Skies: events changed",
+   "source": "Dittobase",
+   "at": "2026-11-18",
+   "section": "catalog"
+  },
+  {
+   "id": "catalog:set:link.sb-go-fest-2025-dark-skies.passimian-dynamax:efe62211ee5a",
+   "kind": "catalog-applied",
+   "origin": {
+    "id": "catalog",
+    "title": "Catalog",
+    "note": "Dittobase import"
+   },
+   "field": "Dynamax Passimian on GO Fest 2025 Dark Skies",
+   "what": "Dynamax Passimian on GO Fest 2025 Dark Skies: events changed",
+   "source": "Dittobase",
+   "at": "2026-11-18",
+   "section": "catalog"
+  },
+  {
+   "id": "catalog:set:link.sb-go-fest-2025-dark-skies.omastar-dynamax:b753175e3c10",
+   "kind": "catalog-applied",
+   "origin": {
+    "id": "catalog",
+    "title": "Catalog",
+    "note": "Dittobase import"
+   },
+   "field": "Dynamax Omastar on GO Fest 2025 Dark Skies",
+   "what": "Dynamax Omastar on GO Fest 2025 Dark Skies: events changed",
+   "source": "Dittobase",
+   "at": "2026-11-18",
+   "section": "catalog"
+  },
+  {
+   "id": "catalog:set:link.sb-go-fest-2025-dark-skies.omanyte-dynamax:b2a9ce3acfc5",
+   "kind": "catalog-applied",
+   "origin": {
+    "id": "catalog",
+    "title": "Catalog",
+    "note": "Dittobase import"
+   },
+   "field": "Dynamax Omanyte on GO Fest 2025 Dark Skies",
+   "what": "Dynamax Omanyte on GO Fest 2025 Dark Skies: events changed",
+   "source": "Dittobase",
+   "at": "2026-11-18",
+   "section": "catalog"
+  },
+  {
+   "id": "catalog:set:link.sb-go-fest-2025-dark-skies.noctowl-dynamax:fab7cdeeff8e",
+   "kind": "catalog-applied",
+   "origin": {
+    "id": "catalog",
+    "title": "Catalog",
+    "note": "Dittobase import"
+   },
+   "field": "Dynamax Noctowl on GO Fest 2025 Dark Skies",
+   "what": "Dynamax Noctowl added to GO Fest 2025 Dark Skies",
+   "source": "Dittobase",
+   "at": "2026-11-18",
+   "section": "catalog"
+  },
+  {
+   "id": "catalog:set:link.sb-go-fest-2025-dark-skies.milotic-dynamax:744e74d69c0c",
+   "kind": "catalog-applied",
+   "origin": {
+    "id": "catalog",
+    "title": "Catalog",
+    "note": "Dittobase import"
+   },
+   "field": "Dynamax Milotic on GO Fest 2025 Dark Skies",
+   "what": "Dynamax Milotic added to GO Fest 2025 Dark Skies",
+   "source": "Dittobase",
+   "at": "2026-11-18",
+   "section": "catalog"
+  },
+  {
+   "id": "catalog:set:link.sb-go-fest-2025-dark-skies.metapod-dynamax:54cd5759d44d",
+   "kind": "catalog-applied",
+   "origin": {
+    "id": "catalog",
+    "title": "Catalog",
+    "note": "Dittobase import"
+   },
+   "field": "Dynamax Metapod on GO Fest 2025 Dark Skies",
+   "what": "Dynamax Metapod on GO Fest 2025 Dark Skies: events changed",
+   "source": "Dittobase",
+   "at": "2026-11-18",
+   "section": "catalog"
+  },
+  {
+   "id": "catalog:set:link.sb-go-fest-2025-dark-skies.metang-dynamax:aef8440c47d1",
+   "kind": "catalog-applied",
+   "origin": {
+    "id": "catalog",
+    "title": "Catalog",
+    "note": "Dittobase import"
+   },
+   "field": "Dynamax Metang on GO Fest 2025 Dark Skies",
+   "what": "Dynamax Metang on GO Fest 2025 Dark Skies: events changed",
+   "source": "Dittobase",
+   "at": "2026-11-18",
+   "section": "catalog"
+  },
+  {
+   "id": "catalog:set:link.sb-go-fest-2025-dark-skies.metagross-dynamax:1d3a78643129",
+   "kind": "catalog-applied",
+   "origin": {
+    "id": "catalog",
+    "title": "Catalog",
+    "note": "Dittobase import"
+   },
+   "field": "Dynamax Metagross on GO Fest 2025 Dark Skies",
+   "what": "Dynamax Metagross on GO Fest 2025 Dark Skies: events changed",
+   "source": "Dittobase",
+   "at": "2026-11-18",
+   "section": "catalog"
+  },
+  {
+   "id": "catalog:set:link.sb-go-fest-2025-dark-skies.malamar-dynamax:201aa8f8ee26",
+   "kind": "catalog-applied",
+   "origin": {
+    "id": "catalog",
+    "title": "Catalog",
+    "note": "Dittobase import"
+   },
+   "field": "Dynamax Malamar on GO Fest 2025 Dark Skies",
+   "what": "Dynamax Malamar added to GO Fest 2025 Dark Skies",
+   "source": "Dittobase",
+   "at": "2026-11-18",
+   "section": "catalog"
+  },
+  {
+   "id": "catalog:set:link.sb-go-fest-2025-dark-skies.magmortar-dynamax:56048ed60f2f",
+   "kind": "catalog-applied",
+   "origin": {
+    "id": "catalog",
+    "title": "Catalog",
+    "note": "Dittobase import"
+   },
+   "field": "Dynamax Magmortar on GO Fest 2025 Dark Skies",
+   "what": "Dynamax Magmortar added to GO Fest 2025 Dark Skies",
+   "source": "Dittobase",
+   "at": "2026-11-18",
+   "section": "catalog"
+  },
+  {
+   "id": "catalog:set:link.sb-go-fest-2025-dark-skies.magmar-dynamax:ff5c2d9fdb55",
+   "kind": "catalog-applied",
+   "origin": {
+    "id": "catalog",
+    "title": "Catalog",
+    "note": "Dittobase import"
+   },
+   "field": "Dynamax Magmar on GO Fest 2025 Dark Skies",
+   "what": "Dynamax Magmar added to GO Fest 2025 Dark Skies",
+   "source": "Dittobase",
+   "at": "2026-11-18",
+   "section": "catalog"
+  },
+  {
+   "id": "catalog:set:link.sb-go-fest-2025-dark-skies.magikarp-dynamax:6359bb2cc497",
+   "kind": "catalog-applied",
+   "origin": {
+    "id": "catalog",
+    "title": "Catalog",
+    "note": "Dittobase import"
+   },
+   "field": "Dynamax Magikarp on GO Fest 2025 Dark Skies",
+   "what": "Dynamax Magikarp added to GO Fest 2025 Dark Skies",
+   "source": "Dittobase",
+   "at": "2026-11-18",
+   "section": "catalog"
+  },
+  {
+   "id": "catalog:set:link.sb-go-fest-2025-dark-skies.machop-dynamax:a3c87f9e7638",
+   "kind": "catalog-applied",
+   "origin": {
+    "id": "catalog",
+    "title": "Catalog",
+    "note": "Dittobase import"
+   },
+   "field": "Dynamax Machop on GO Fest 2025 Dark Skies",
+   "what": "Dynamax Machop on GO Fest 2025 Dark Skies: events changed",
+   "source": "Dittobase",
+   "at": "2026-11-18",
+   "section": "catalog"
+  },
+  {
+   "id": "catalog:set:link.sb-go-fest-2025-dark-skies.machoke-dynamax:b24696abe4b4",
+   "kind": "catalog-applied",
+   "origin": {
+    "id": "catalog",
+    "title": "Catalog",
+    "note": "Dittobase import"
+   },
+   "field": "Dynamax Machoke on GO Fest 2025 Dark Skies",
+   "what": "Dynamax Machoke on GO Fest 2025 Dark Skies: events changed",
+   "source": "Dittobase",
+   "at": "2026-11-18",
+   "section": "catalog"
+  },
+  {
+   "id": "catalog:set:link.sb-go-fest-2025-dark-skies.machamp-dynamax:1b61d81c47f9",
+   "kind": "catalog-applied",
+   "origin": {
+    "id": "catalog",
+    "title": "Catalog",
+    "note": "Dittobase import"
+   },
+   "field": "Dynamax Machamp on GO Fest 2025 Dark Skies",
+   "what": "Dynamax Machamp on GO Fest 2025 Dark Skies: events changed",
+   "source": "Dittobase",
+   "at": "2026-11-18",
+   "section": "catalog"
+  },
+  {
+   "id": "catalog:set:link.sb-go-fest-2025-dark-skies.leafeon-dynamax:f5608724f262",
+   "kind": "catalog-applied",
+   "origin": {
+    "id": "catalog",
+    "title": "Catalog",
+    "note": "Dittobase import"
+   },
+   "field": "Dynamax Leafeon on GO Fest 2025 Dark Skies",
+   "what": "Dynamax Leafeon added to GO Fest 2025 Dark Skies",
+   "source": "Dittobase",
+   "at": "2026-11-18",
+   "section": "catalog"
+  },
+  {
+   "id": "catalog:set:link.sb-go-fest-2025-dark-skies.krabby-dynamax:fa4f3b14ab2f",
+   "kind": "catalog-applied",
+   "origin": {
+    "id": "catalog",
+    "title": "Catalog",
+    "note": "Dittobase import"
+   },
+   "field": "Dynamax Krabby on GO Fest 2025 Dark Skies",
+   "what": "Dynamax Krabby on GO Fest 2025 Dark Skies: events changed",
+   "source": "Dittobase",
+   "at": "2026-11-18",
+   "section": "catalog"
+  },
+  {
+   "id": "catalog:set:link.sb-go-fest-2025-dark-skies.kirlia-dynamax:bae8ea93d3ea",
+   "kind": "catalog-applied",
+   "origin": {
+    "id": "catalog",
+    "title": "Catalog",
+    "note": "Dittobase import"
+   },
+   "field": "Dynamax Kirlia on GO Fest 2025 Dark Skies",
+   "what": "Dynamax Kirlia added to GO Fest 2025 Dark Skies",
+   "source": "Dittobase",
+   "at": "2026-11-18",
+   "section": "catalog"
+  },
+  {
+   "id": "catalog:set:link.sb-go-fest-2025-dark-skies.kingler-dynamax:b8dcbd965ee2",
+   "kind": "catalog-applied",
+   "origin": {
+    "id": "catalog",
+    "title": "Catalog",
+    "note": "Dittobase import"
+   },
+   "field": "Dynamax Kingler on GO Fest 2025 Dark Skies",
+   "what": "Dynamax Kingler on GO Fest 2025 Dark Skies: events changed",
+   "source": "Dittobase",
+   "at": "2026-11-18",
+   "section": "catalog"
+  },
+  {
+   "id": "catalog:set:link.sb-go-fest-2025-dark-skies.kadabra-dynamax:25cc598c72b5",
+   "kind": "catalog-applied",
+   "origin": {
+    "id": "catalog",
+    "title": "Catalog",
+    "note": "Dittobase import"
+   },
+   "field": "Dynamax Kadabra on GO Fest 2025 Dark Skies",
+   "what": "Dynamax Kadabra added to GO Fest 2025 Dark Skies",
+   "source": "Dittobase",
+   "at": "2026-11-18",
+   "section": "catalog"
+  },
+  {
+   "id": "catalog:set:link.sb-go-fest-2025-dark-skies.kabutops-dynamax:8fb494955da4",
+   "kind": "catalog-applied",
+   "origin": {
+    "id": "catalog",
+    "title": "Catalog",
+    "note": "Dittobase import"
+   },
+   "field": "Dynamax Kabutops on GO Fest 2025 Dark Skies",
+   "what": "Dynamax Kabutops on GO Fest 2025 Dark Skies: events changed",
+   "source": "Dittobase",
+   "at": "2026-11-18",
+   "section": "catalog"
+  },
+  {
+   "id": "catalog:set:link.sb-go-fest-2025-dark-skies.kabuto-dynamax:437c0822971e",
+   "kind": "catalog-applied",
+   "origin": {
+    "id": "catalog",
+    "title": "Catalog",
+    "note": "Dittobase import"
+   },
+   "field": "Dynamax Kabuto on GO Fest 2025 Dark Skies",
+   "what": "Dynamax Kabuto on GO Fest 2025 Dark Skies: events changed",
+   "source": "Dittobase",
+   "at": "2026-11-18",
+   "section": "catalog"
+  },
+  {
+   "id": "catalog:set:link.sb-go-fest-2025-dark-skies.jolteon-dynamax:4e450c786989",
+   "kind": "catalog-applied",
+   "origin": {
+    "id": "catalog",
+    "title": "Catalog",
+    "note": "Dittobase import"
+   },
+   "field": "Dynamax Jolteon on GO Fest 2025 Dark Skies",
+   "what": "Dynamax Jolteon added to GO Fest 2025 Dark Skies",
+   "source": "Dittobase",
+   "at": "2026-11-18",
+   "section": "catalog"
+  },
+  {
+   "id": "catalog:set:link.sb-go-fest-2025-dark-skies.ivysaur-dynamax:12132bb96ff5",
+   "kind": "catalog-applied",
+   "origin": {
+    "id": "catalog",
+    "title": "Catalog",
+    "note": "Dittobase import"
+   },
+   "field": "Dynamax Ivysaur on GO Fest 2025 Dark Skies",
+   "what": "Dynamax Ivysaur on GO Fest 2025 Dark Skies: events changed",
+   "source": "Dittobase",
+   "at": "2026-11-18",
+   "section": "catalog"
+  },
+  {
+   "id": "catalog:set:link.sb-go-fest-2025-dark-skies.inteleon-dynamax:991d62242f81",
+   "kind": "catalog-applied",
+   "origin": {
+    "id": "catalog",
+    "title": "Catalog",
+    "note": "Dittobase import"
+   },
+   "field": "Dynamax Inteleon on GO Fest 2025 Dark Skies",
+   "what": "Dynamax Inteleon on GO Fest 2025 Dark Skies: can be shiny no → yes, events changed",
+   "source": "Dittobase",
+   "at": "2026-11-18",
+   "section": "catalog"
+  },
+  {
+   "id": "catalog:set:link.sb-go-fest-2025-dark-skies.inkay-dynamax:208f064a300f",
+   "kind": "catalog-applied",
+   "origin": {
+    "id": "catalog",
+    "title": "Catalog",
+    "note": "Dittobase import"
+   },
+   "field": "Dynamax Inkay on GO Fest 2025 Dark Skies",
+   "what": "Dynamax Inkay added to GO Fest 2025 Dark Skies",
+   "source": "Dittobase",
+   "at": "2026-11-18",
+   "section": "catalog"
+  },
+  {
+   "id": "catalog:set:link.sb-go-fest-2025-dark-skies.hydreigon-dynamax:9c44050ad3ef",
+   "kind": "catalog-applied",
+   "origin": {
+    "id": "catalog",
+    "title": "Catalog",
+    "note": "Dittobase import"
+   },
+   "field": "Dynamax Hydreigon on GO Fest 2025 Dark Skies",
+   "what": "Dynamax Hydreigon added to GO Fest 2025 Dark Skies",
+   "source": "Dittobase",
+   "at": "2026-11-18",
+   "section": "catalog"
+  },
+  {
+   "id": "catalog:set:link.sb-go-fest-2025-dark-skies.hoothoot-dynamax:007510b066a4",
+   "kind": "catalog-applied",
+   "origin": {
+    "id": "catalog",
+    "title": "Catalog",
+    "note": "Dittobase import"
+   },
+   "field": "Dynamax Hoothoot on GO Fest 2025 Dark Skies",
+   "what": "Dynamax Hoothoot added to GO Fest 2025 Dark Skies",
+   "source": "Dittobase",
+   "at": "2026-11-18",
+   "section": "catalog"
+  },
+  {
+   "id": "catalog:set:link.sb-go-fest-2025-dark-skies.hitmontop-dynamax:e225d6164d3b",
+   "kind": "catalog-applied",
+   "origin": {
+    "id": "catalog",
+    "title": "Catalog",
+    "note": "Dittobase import"
+   },
+   "field": "Dynamax Hitmontop on GO Fest 2025 Dark Skies",
+   "what": "Dynamax Hitmontop added to GO Fest 2025 Dark Skies",
+   "source": "Dittobase",
+   "at": "2026-11-18",
+   "section": "catalog"
+  },
+  {
+   "id": "catalog:set:link.sb-go-fest-2025-dark-skies.hitmonlee-dynamax:b15c14b40d37",
+   "kind": "catalog-applied",
+   "origin": {
+    "id": "catalog",
+    "title": "Catalog",
+    "note": "Dittobase import"
+   },
+   "field": "Dynamax Hitmonlee on GO Fest 2025 Dark Skies",
+   "what": "Dynamax Hitmonlee added to GO Fest 2025 Dark Skies",
+   "source": "Dittobase",
+   "at": "2026-11-18",
+   "section": "catalog"
+  },
+  {
+   "id": "catalog:set:link.sb-go-fest-2025-dark-skies.hitmonchan-dynamax:25afa8240ed4",
+   "kind": "catalog-applied",
+   "origin": {
+    "id": "catalog",
+    "title": "Catalog",
+    "note": "Dittobase import"
+   },
+   "field": "Dynamax Hitmonchan on GO Fest 2025 Dark Skies",
+   "what": "Dynamax Hitmonchan added to GO Fest 2025 Dark Skies",
+   "source": "Dittobase",
+   "at": "2026-11-18",
+   "section": "catalog"
+  },
+  {
+   "id": "catalog:set:link.sb-go-fest-2025-dark-skies.haunter-dynamax:f76abc09e438",
+   "kind": "catalog-applied",
+   "origin": {
+    "id": "catalog",
+    "title": "Catalog",
+    "note": "Dittobase import"
+   },
+   "field": "Dynamax Haunter on GO Fest 2025 Dark Skies",
+   "what": "Dynamax Haunter on GO Fest 2025 Dark Skies: events changed",
+   "source": "Dittobase",
+   "at": "2026-11-18",
+   "section": "catalog"
+  },
+  {
+   "id": "catalog:set:link.sb-go-fest-2025-dark-skies.hattrem-dynamax:849bd1fc0330",
+   "kind": "catalog-applied",
+   "origin": {
+    "id": "catalog",
+    "title": "Catalog",
+    "note": "Dittobase import"
+   },
+   "field": "Dynamax Hattrem on GO Fest 2025 Dark Skies",
+   "what": "Dynamax Hattrem on GO Fest 2025 Dark Skies: can be shiny no → yes, events changed",
+   "source": "Dittobase",
+   "at": "2026-11-18",
+   "section": "catalog"
+  },
+  {
+   "id": "catalog:set:link.sb-go-fest-2025-dark-skies.hatterene-dynamax:ef462e5c45ae",
+   "kind": "catalog-applied",
+   "origin": {
+    "id": "catalog",
+    "title": "Catalog",
+    "note": "Dittobase import"
+   },
+   "field": "Dynamax Hatterene on GO Fest 2025 Dark Skies",
+   "what": "Dynamax Hatterene on GO Fest 2025 Dark Skies: can be shiny no → yes, events changed",
+   "source": "Dittobase",
+   "at": "2026-11-18",
+   "section": "catalog"
+  },
+  {
+   "id": "catalog:set:link.sb-go-fest-2025-dark-skies.hatenna-dynamax:19055982edb7",
+   "kind": "catalog-applied",
+   "origin": {
+    "id": "catalog",
+    "title": "Catalog",
+    "note": "Dittobase import"
+   },
+   "field": "Dynamax Hatenna on GO Fest 2025 Dark Skies",
+   "what": "Dynamax Hatenna on GO Fest 2025 Dark Skies: can be shiny no → yes, events changed",
+   "source": "Dittobase",
+   "at": "2026-11-18",
+   "section": "catalog"
+  },
+  {
+   "id": "catalog:set:link.sb-go-fest-2025-dark-skies.gyarados-dynamax:c0923546f424",
+   "kind": "catalog-applied",
+   "origin": {
+    "id": "catalog",
+    "title": "Catalog",
+    "note": "Dittobase import"
+   },
+   "field": "Dynamax Gyarados on GO Fest 2025 Dark Skies",
+   "what": "Dynamax Gyarados added to GO Fest 2025 Dark Skies",
+   "source": "Dittobase",
+   "at": "2026-11-18",
+   "section": "catalog"
+  },
+  {
+   "id": "catalog:set:link.sb-go-fest-2025-dark-skies.growlithe-dynamax:84a7593238ae",
+   "kind": "catalog-applied",
+   "origin": {
+    "id": "catalog",
+    "title": "Catalog",
+    "note": "Dittobase import"
+   },
+   "field": "Dynamax Growlithe on GO Fest 2025 Dark Skies",
+   "what": "Dynamax Growlithe added to GO Fest 2025 Dark Skies",
+   "source": "Dittobase",
+   "at": "2026-11-18",
+   "section": "catalog"
+  },
+  {
+   "id": "catalog:set:link.sb-go-fest-2025-dark-skies.grookey-dynamax:d76a7f848f3c",
+   "kind": "catalog-applied",
+   "origin": {
+    "id": "catalog",
+    "title": "Catalog",
+    "note": "Dittobase import"
+   },
+   "field": "Dynamax Grookey on GO Fest 2025 Dark Skies",
+   "what": "Dynamax Grookey on GO Fest 2025 Dark Skies: can be shiny no → yes, events changed",
+   "source": "Dittobase",
+   "at": "2026-11-18",
+   "section": "catalog"
+  },
+  {
+   "id": "catalog:set:link.sb-go-fest-2025-dark-skies.greedent-dynamax:245d0fdd1bf5",
+   "kind": "catalog-applied",
+   "origin": {
+    "id": "catalog",
+    "title": "Catalog",
+    "note": "Dittobase import"
+   },
+   "field": "Dynamax Greedent on GO Fest 2025 Dark Skies",
+   "what": "Dynamax Greedent on GO Fest 2025 Dark Skies: events changed",
+   "source": "Dittobase",
+   "at": "2026-11-18",
+   "section": "catalog"
+  },
+  {
+   "id": "catalog:set:link.sb-go-fest-2025-dark-skies.glaceon-dynamax:8397a8978391",
+   "kind": "catalog-applied",
+   "origin": {
+    "id": "catalog",
+    "title": "Catalog",
+    "note": "Dittobase import"
+   },
+   "field": "Dynamax Glaceon on GO Fest 2025 Dark Skies",
+   "what": "Dynamax Glaceon added to GO Fest 2025 Dark Skies",
+   "source": "Dittobase",
+   "at": "2026-11-18",
+   "section": "catalog"
+  },
+  {
+   "id": "catalog:set:link.sb-go-fest-2025-dark-skies.gigalith-dynamax:51ab71ac59e9",
+   "kind": "catalog-applied",
+   "origin": {
+    "id": "catalog",
+    "title": "Catalog",
+    "note": "Dittobase import"
+   },
+   "field": "Dynamax Gigalith on GO Fest 2025 Dark Skies",
+   "what": "Dynamax Gigalith added to GO Fest 2025 Dark Skies",
+   "source": "Dittobase",
+   "at": "2026-11-18",
+   "section": "catalog"
+  },
+  {
+   "id": "catalog:set:link.sb-go-fest-2025-dark-skies.gengar-dynamax:51007afbc0e3",
+   "kind": "catalog-applied",
+   "origin": {
+    "id": "catalog",
+    "title": "Catalog",
+    "note": "Dittobase import"
+   },
+   "field": "Dynamax Gengar on GO Fest 2025 Dark Skies",
+   "what": "Dynamax Gengar on GO Fest 2025 Dark Skies: events changed",
+   "source": "Dittobase",
+   "at": "2026-11-18",
+   "section": "catalog"
+  },
+  {
+   "id": "catalog:set:link.sb-go-fest-2025-dark-skies.gastly-dynamax:b56bd7a10b92",
+   "kind": "catalog-applied",
+   "origin": {
+    "id": "catalog",
+    "title": "Catalog",
+    "note": "Dittobase import"
+   },
+   "field": "Dynamax Gastly on GO Fest 2025 Dark Skies",
+   "what": "Dynamax Gastly on GO Fest 2025 Dark Skies: events changed",
+   "source": "Dittobase",
+   "at": "2026-11-18",
+   "section": "catalog"
+  },
+  {
+   "id": "catalog:set:link.sb-go-fest-2025-dark-skies.gardevoir-dynamax:01efdd8240ed",
+   "kind": "catalog-applied",
+   "origin": {
+    "id": "catalog",
+    "title": "Catalog",
+    "note": "Dittobase import"
+   },
+   "field": "Dynamax Gardevoir on GO Fest 2025 Dark Skies",
+   "what": "Dynamax Gardevoir added to GO Fest 2025 Dark Skies",
+   "source": "Dittobase",
+   "at": "2026-11-18",
+   "section": "catalog"
+  },
+  {
+   "id": "catalog:set:link.sb-go-fest-2025-dark-skies.garbodor-dynamax:3e18671bba07",
+   "kind": "catalog-applied",
+   "origin": {
+    "id": "catalog",
+    "title": "Catalog",
+    "note": "Dittobase import"
+   },
+   "field": "Dynamax Garbodor on GO Fest 2025 Dark Skies",
+   "what": "Dynamax Garbodor on GO Fest 2025 Dark Skies: events changed",
+   "source": "Dittobase",
+   "at": "2026-11-18",
+   "section": "catalog"
+  },
+  {
+   "id": "catalog:set:link.sb-go-fest-2025-dark-skies.gallade-dynamax:f6fe446cf644",
+   "kind": "catalog-applied",
+   "origin": {
+    "id": "catalog",
+    "title": "Catalog",
+    "note": "Dittobase import"
+   },
+   "field": "Dynamax Gallade on GO Fest 2025 Dark Skies",
+   "what": "Dynamax Gallade added to GO Fest 2025 Dark Skies",
+   "source": "Dittobase",
+   "at": "2026-11-18",
+   "section": "catalog"
+  },
+  {
+   "id": "catalog:set:link.sb-go-fest-2025-dark-skies.flygon-dynamax:16dbf4490f2b",
+   "kind": "catalog-applied",
+   "origin": {
+    "id": "catalog",
+    "title": "Catalog",
+    "note": "Dittobase import"
+   },
+   "field": "Dynamax Flygon on GO Fest 2025 Dark Skies",
+   "what": "Dynamax Flygon added to GO Fest 2025 Dark Skies",
+   "source": "Dittobase",
+   "at": "2026-11-18",
+   "section": "catalog"
+  },
+  {
+   "id": "catalog:set:link.sb-go-fest-2025-dark-skies.flareon-dynamax:2d73a3345c3f",
+   "kind": "catalog-applied",
+   "origin": {
+    "id": "catalog",
+    "title": "Catalog",
+    "note": "Dittobase import"
+   },
+   "field": "Dynamax Flareon on GO Fest 2025 Dark Skies",
+   "what": "Dynamax Flareon added to GO Fest 2025 Dark Skies",
+   "source": "Dittobase",
+   "at": "2026-11-18",
+   "section": "catalog"
+  },
+  {
+   "id": "catalog:set:link.sb-go-fest-2025-dark-skies.feebas-dynamax:03afa2e74b98",
+   "kind": "catalog-applied",
+   "origin": {
+    "id": "catalog",
+    "title": "Catalog",
+    "note": "Dittobase import"
+   },
+   "field": "Dynamax Feebas on GO Fest 2025 Dark Skies",
+   "what": "Dynamax Feebas added to GO Fest 2025 Dark Skies",
+   "source": "Dittobase",
+   "at": "2026-11-18",
+   "section": "catalog"
+  },
+  {
+   "id": "catalog:set:link.sb-go-fest-2025-dark-skies.falinks-dynamax:f42d067de06f",
+   "kind": "catalog-applied",
+   "origin": {
+    "id": "catalog",
+    "title": "Catalog",
+    "note": "Dittobase import"
+   },
+   "field": "Dynamax Falinks on GO Fest 2025 Dark Skies",
+   "what": "Dynamax Falinks on GO Fest 2025 Dark Skies: events changed",
+   "source": "Dittobase",
+   "at": "2026-11-18",
+   "section": "catalog"
+  },
+  {
+   "id": "catalog:set:link.sb-go-fest-2025-dark-skies.excadrill-dynamax:6b5bbe3b1cdc",
+   "kind": "catalog-applied",
+   "origin": {
+    "id": "catalog",
+    "title": "Catalog",
+    "note": "Dittobase import"
+   },
+   "field": "Dynamax Excadrill on GO Fest 2025 Dark Skies",
+   "what": "Dynamax Excadrill on GO Fest 2025 Dark Skies: events changed",
+   "source": "Dittobase",
+   "at": "2026-11-18",
+   "section": "catalog"
+  },
+  {
+   "id": "catalog:set:link.sb-go-fest-2025-dark-skies.espeon-dynamax:88a793dcb9dc",
+   "kind": "catalog-applied",
+   "origin": {
+    "id": "catalog",
+    "title": "Catalog",
+    "note": "Dittobase import"
+   },
+   "field": "Dynamax Espeon on GO Fest 2025 Dark Skies",
+   "what": "Dynamax Espeon added to GO Fest 2025 Dark Skies",
+   "source": "Dittobase",
+   "at": "2026-11-18",
+   "section": "catalog"
+  },
+  {
+   "id": "catalog:set:link.sb-go-fest-2025-dark-skies.electivire-dynamax:e18c6cbd8b7d",
+   "kind": "catalog-applied",
+   "origin": {
+    "id": "catalog",
+    "title": "Catalog",
+    "note": "Dittobase import"
+   },
+   "field": "Dynamax Electivire on GO Fest 2025 Dark Skies",
+   "what": "Dynamax Electivire added to GO Fest 2025 Dark Skies",
+   "source": "Dittobase",
+   "at": "2026-11-18",
+   "section": "catalog"
+  },
+  {
+   "id": "catalog:set:link.sb-go-fest-2025-dark-skies.electabuzz-dynamax:81dff9a9bc55",
+   "kind": "catalog-applied",
+   "origin": {
+    "id": "catalog",
+    "title": "Catalog",
+    "note": "Dittobase import"
+   },
+   "field": "Dynamax Electabuzz on GO Fest 2025 Dark Skies",
+   "what": "Dynamax Electabuzz added to GO Fest 2025 Dark Skies",
+   "source": "Dittobase",
+   "at": "2026-11-18",
+   "section": "catalog"
+  },
+  {
+   "id": "catalog:set:link.sb-go-fest-2025-dark-skies.eevee-dynamax:ad42180427c4",
+   "kind": "catalog-applied",
+   "origin": {
+    "id": "catalog",
+    "title": "Catalog",
+    "note": "Dittobase import"
+   },
+   "field": "Dynamax Eevee on GO Fest 2025 Dark Skies",
+   "what": "Dynamax Eevee added to GO Fest 2025 Dark Skies",
+   "source": "Dittobase",
+   "at": "2026-11-18",
+   "section": "catalog"
+  },
+  {
+   "id": "catalog:set:link.sb-go-fest-2025-dark-skies.duraludon-dynamax:a4bc53fd7d56",
+   "kind": "catalog-applied",
+   "origin": {
+    "id": "catalog",
+    "title": "Catalog",
+    "note": "Dittobase import"
+   },
+   "field": "Dynamax Duraludon on GO Fest 2025 Dark Skies",
+   "what": "Dynamax Duraludon added to GO Fest 2025 Dark Skies",
+   "source": "Dittobase",
+   "at": "2026-11-18",
+   "section": "catalog"
+  },
+  {
+   "id": "catalog:set:link.sb-go-fest-2025-dark-skies.dubwool-dynamax:f1c13c940233",
+   "kind": "catalog-applied",
+   "origin": {
+    "id": "catalog",
+    "title": "Catalog",
+    "note": "Dittobase import"
+   },
+   "field": "Dynamax Dubwool on GO Fest 2025 Dark Skies",
+   "what": "Dynamax Dubwool on GO Fest 2025 Dark Skies: events changed",
+   "source": "Dittobase",
+   "at": "2026-11-18",
+   "section": "catalog"
+  },
+  {
+   "id": "catalog:set:link.sb-go-fest-2025-dark-skies.drizzile-dynamax:b6a7f9106ae9",
+   "kind": "catalog-applied",
+   "origin": {
+    "id": "catalog",
+    "title": "Catalog",
+    "note": "Dittobase import"
+   },
+   "field": "Dynamax Drizzile on GO Fest 2025 Dark Skies",
+   "what": "Dynamax Drizzile on GO Fest 2025 Dark Skies: can be shiny no → yes, events changed",
+   "source": "Dittobase",
+   "at": "2026-11-18",
+   "section": "catalog"
+  },
+  {
+   "id": "catalog:set:link.sb-go-fest-2025-dark-skies.drilbur-dynamax:1df955be8249",
+   "kind": "catalog-applied",
+   "origin": {
+    "id": "catalog",
+    "title": "Catalog",
+    "note": "Dittobase import"
+   },
+   "field": "Dynamax Drilbur on GO Fest 2025 Dark Skies",
+   "what": "Dynamax Drilbur on GO Fest 2025 Dark Skies: events changed",
+   "source": "Dittobase",
+   "at": "2026-11-18",
+   "section": "catalog"
+  },
+  {
+   "id": "catalog:set:link.sb-go-fest-2025-dark-skies.deino-dynamax:aa9db14670ad",
+   "kind": "catalog-applied",
+   "origin": {
+    "id": "catalog",
+    "title": "Catalog",
+    "note": "Dittobase import"
+   },
+   "field": "Dynamax Deino on GO Fest 2025 Dark Skies",
+   "what": "Dynamax Deino added to GO Fest 2025 Dark Skies",
+   "source": "Dittobase",
+   "at": "2026-11-18",
+   "section": "catalog"
+  },
+  {
+   "id": "catalog:set:link.sb-go-fest-2025-dark-skies.darumaka-dynamax:4cbe4abad061",
+   "kind": "catalog-applied",
+   "origin": {
+    "id": "catalog",
+    "title": "Catalog",
+    "note": "Dittobase import"
+   },
+   "field": "Dynamax Darumaka on GO Fest 2025 Dark Skies",
+   "what": "Dynamax Darumaka on GO Fest 2025 Dark Skies: events changed",
+   "source": "Dittobase",
+   "at": "2026-11-18",
+   "section": "catalog"
+  },
+  {
+   "id": "catalog:set:link.sb-go-fest-2025-dark-skies.darmanitan-standard-dynamax:49e872e007a7",
+   "kind": "catalog-applied",
+   "origin": {
+    "id": "catalog",
+    "title": "Catalog",
+    "note": "Dittobase import"
+   },
+   "field": "Dynamax Darmanitan Standard on GO Fest 2025 Dark Skies",
+   "what": "Dynamax Darmanitan Standard on GO Fest 2025 Dark Skies: events changed",
+   "source": "Dittobase",
+   "at": "2026-11-18",
+   "section": "catalog"
+  },
+  {
+   "id": "catalog:set:link.sb-go-fest-2025-dark-skies.cryogonal-dynamax:acfd930e952b",
+   "kind": "catalog-applied",
+   "origin": {
+    "id": "catalog",
+    "title": "Catalog",
+    "note": "Dittobase import"
+   },
+   "field": "Dynamax Cryogonal on GO Fest 2025 Dark Skies",
+   "what": "Dynamax Cryogonal on GO Fest 2025 Dark Skies: events changed",
+   "source": "Dittobase",
+   "at": "2026-11-18",
+   "section": "catalog"
+  },
+  {
+   "id": "catalog:set:link.sb-go-fest-2025-dark-skies.cottonee-dynamax:fb65beb27766",
+   "kind": "catalog-applied",
+   "origin": {
+    "id": "catalog",
+    "title": "Catalog",
+    "note": "Dittobase import"
+   },
+   "field": "Dynamax Cottonee on GO Fest 2025 Dark Skies",
+   "what": "Dynamax Cottonee added to GO Fest 2025 Dark Skies",
+   "source": "Dittobase",
+   "at": "2026-11-18",
+   "section": "catalog"
+  },
+  {
+   "id": "catalog:set:link.sb-go-fest-2025-dark-skies.corvisquire-dynamax:72f84de035f1",
+   "kind": "catalog-applied",
+   "origin": {
+    "id": "catalog",
+    "title": "Catalog",
+    "note": "Dittobase import"
+   },
+   "field": "Dynamax Corvisquire on GO Fest 2025 Dark Skies",
+   "what": "Dynamax Corvisquire on GO Fest 2025 Dark Skies: events changed",
+   "source": "Dittobase",
+   "at": "2026-11-18",
+   "section": "catalog"
+  },
+  {
+   "id": "catalog:set:link.sb-go-fest-2025-dark-skies.corviknight-dynamax:c01bc9cd80ae",
+   "kind": "catalog-applied",
+   "origin": {
+    "id": "catalog",
+    "title": "Catalog",
+    "note": "Dittobase import"
+   },
+   "field": "Dynamax Corviknight on GO Fest 2025 Dark Skies",
+   "what": "Dynamax Corviknight on GO Fest 2025 Dark Skies: events changed",
+   "source": "Dittobase",
+   "at": "2026-11-18",
+   "section": "catalog"
+  },
+  {
+   "id": "catalog:set:link.sb-go-fest-2025-dark-skies.combee-dynamax:a329a083a1b2",
+   "kind": "catalog-applied",
+   "origin": {
+    "id": "catalog",
+    "title": "Catalog",
+    "note": "Dittobase import"
+   },
+   "field": "Dynamax Combee on GO Fest 2025 Dark Skies",
+   "what": "Dynamax Combee added to GO Fest 2025 Dark Skies",
+   "source": "Dittobase",
+   "at": "2026-11-18",
+   "section": "catalog"
+  },
+  {
+   "id": "catalog:set:link.sb-go-fest-2025-dark-skies.cinderace-dynamax:88d5dc6dc592",
+   "kind": "catalog-applied",
+   "origin": {
+    "id": "catalog",
+    "title": "Catalog",
+    "note": "Dittobase import"
+   },
+   "field": "Dynamax Cinderace on GO Fest 2025 Dark Skies",
+   "what": "Dynamax Cinderace on GO Fest 2025 Dark Skies: can be shiny no → yes, events changed",
+   "source": "Dittobase",
+   "at": "2026-11-18",
+   "section": "catalog"
+  },
+  {
+   "id": "catalog:set:link.sb-go-fest-2025-dark-skies.charmeleon-dynamax:18a6f28f32f5",
+   "kind": "catalog-applied",
+   "origin": {
+    "id": "catalog",
+    "title": "Catalog",
+    "note": "Dittobase import"
+   },
+   "field": "Dynamax Charmeleon on GO Fest 2025 Dark Skies",
+   "what": "Dynamax Charmeleon on GO Fest 2025 Dark Skies: events changed",
+   "source": "Dittobase",
+   "at": "2026-11-18",
+   "section": "catalog"
+  },
+  {
+   "id": "catalog:set:link.sb-go-fest-2025-dark-skies.charmander-dynamax:95754be152d4",
+   "kind": "catalog-applied",
+   "origin": {
+    "id": "catalog",
+    "title": "Catalog",
+    "note": "Dittobase import"
+   },
+   "field": "Dynamax Charmander on GO Fest 2025 Dark Skies",
+   "what": "Dynamax Charmander on GO Fest 2025 Dark Skies: events changed",
+   "source": "Dittobase",
+   "at": "2026-11-18",
+   "section": "catalog"
+  },
+  {
+   "id": "catalog:set:link.sb-go-fest-2025-dark-skies.charizard-dynamax:3e899f421460",
+   "kind": "catalog-applied",
+   "origin": {
+    "id": "catalog",
+    "title": "Catalog",
+    "note": "Dittobase import"
+   },
+   "field": "Dynamax Charizard on GO Fest 2025 Dark Skies",
+   "what": "Dynamax Charizard on GO Fest 2025 Dark Skies: events changed",
+   "source": "Dittobase",
+   "at": "2026-11-18",
+   "section": "catalog"
+  },
+  {
+   "id": "catalog:set:link.sb-go-fest-2025-dark-skies.chansey-dynamax:d8488456b99d",
+   "kind": "catalog-applied",
+   "origin": {
+    "id": "catalog",
+    "title": "Catalog",
+    "note": "Dittobase import"
+   },
+   "field": "Dynamax Chansey on GO Fest 2025 Dark Skies",
+   "what": "Dynamax Chansey on GO Fest 2025 Dark Skies: events changed",
+   "source": "Dittobase",
+   "at": "2026-11-18",
+   "section": "catalog"
+  },
+  {
+   "id": "catalog:set:link.sb-go-fest-2025-dark-skies.centiskorch-dynamax:43680f405d15",
+   "kind": "catalog-applied",
+   "origin": {
+    "id": "catalog",
+    "title": "Catalog",
+    "note": "Dittobase import"
+   },
+   "field": "Dynamax Centiskorch on GO Fest 2025 Dark Skies",
+   "what": "Dynamax Centiskorch added to GO Fest 2025 Dark Skies",
+   "source": "Dittobase",
+   "at": "2026-11-18",
+   "section": "catalog"
+  },
+  {
+   "id": "catalog:set:link.sb-go-fest-2025-dark-skies.caterpie-dynamax:0eb1f2623bed",
+   "kind": "catalog-applied",
+   "origin": {
+    "id": "catalog",
+    "title": "Catalog",
+    "note": "Dittobase import"
+   },
+   "field": "Dynamax Caterpie on GO Fest 2025 Dark Skies",
+   "what": "Dynamax Caterpie on GO Fest 2025 Dark Skies: events changed",
+   "source": "Dittobase",
+   "at": "2026-11-18",
+   "section": "catalog"
+  },
+  {
+   "id": "catalog:set:link.sb-go-fest-2025-dark-skies.butterfree-dynamax:4e5c71d75906",
+   "kind": "catalog-applied",
+   "origin": {
+    "id": "catalog",
+    "title": "Catalog",
+    "note": "Dittobase import"
+   },
+   "field": "Dynamax Butterfree on GO Fest 2025 Dark Skies",
+   "what": "Dynamax Butterfree on GO Fest 2025 Dark Skies: events changed",
+   "source": "Dittobase",
+   "at": "2026-11-18",
+   "section": "catalog"
+  },
+  {
+   "id": "catalog:set:link.sb-go-fest-2025-dark-skies.bulbasaur-dynamax:132d03b2ef6b",
+   "kind": "catalog-applied",
+   "origin": {
+    "id": "catalog",
+    "title": "Catalog",
+    "note": "Dittobase import"
+   },
+   "field": "Dynamax Bulbasaur on GO Fest 2025 Dark Skies",
+   "what": "Dynamax Bulbasaur on GO Fest 2025 Dark Skies: events changed",
+   "source": "Dittobase",
+   "at": "2026-11-18",
+   "section": "catalog"
+  },
+  {
+   "id": "catalog:set:link.sb-go-fest-2025-dark-skies.bounsweet-dynamax:1e13f4fd6f6e",
+   "kind": "catalog-applied",
+   "origin": {
+    "id": "catalog",
+    "title": "Catalog",
+    "note": "Dittobase import"
+   },
+   "field": "Dynamax Bounsweet on GO Fest 2025 Dark Skies",
+   "what": "Dynamax Bounsweet added to GO Fest 2025 Dark Skies",
+   "source": "Dittobase",
+   "at": "2026-11-18",
+   "section": "catalog"
+  },
+  {
+   "id": "catalog:set:link.sb-go-fest-2025-dark-skies.boldore-dynamax:31b7f60db64a",
+   "kind": "catalog-applied",
+   "origin": {
+    "id": "catalog",
+    "title": "Catalog",
+    "note": "Dittobase import"
+   },
+   "field": "Dynamax Boldore on GO Fest 2025 Dark Skies",
+   "what": "Dynamax Boldore added to GO Fest 2025 Dark Skies",
+   "source": "Dittobase",
+   "at": "2026-11-18",
+   "section": "catalog"
+  },
+  {
+   "id": "catalog:set:link.sb-go-fest-2025-dark-skies.blissey-dynamax:cdcac9d17a22",
+   "kind": "catalog-applied",
+   "origin": {
+    "id": "catalog",
+    "title": "Catalog",
+    "note": "Dittobase import"
+   },
+   "field": "Dynamax Blissey on GO Fest 2025 Dark Skies",
+   "what": "Dynamax Blissey on GO Fest 2025 Dark Skies: events changed",
+   "source": "Dittobase",
+   "at": "2026-11-18",
+   "section": "catalog"
+  },
+  {
+   "id": "catalog:set:link.sb-go-fest-2025-dark-skies.blastoise-dynamax:009b34e164eb",
+   "kind": "catalog-applied",
+   "origin": {
+    "id": "catalog",
+    "title": "Catalog",
+    "note": "Dittobase import"
+   },
+   "field": "Dynamax Blastoise on GO Fest 2025 Dark Skies",
+   "what": "Dynamax Blastoise on GO Fest 2025 Dark Skies: events changed",
+   "source": "Dittobase",
+   "at": "2026-11-18",
+   "section": "catalog"
+  },
+  {
+   "id": "catalog:set:link.sb-go-fest-2025-dark-skies.beldum-dynamax:94154acf36a4",
+   "kind": "catalog-applied",
+   "origin": {
+    "id": "catalog",
+    "title": "Catalog",
+    "note": "Dittobase import"
+   },
+   "field": "Dynamax Beldum on GO Fest 2025 Dark Skies",
+   "what": "Dynamax Beldum on GO Fest 2025 Dark Skies: events changed",
+   "source": "Dittobase",
+   "at": "2026-11-18",
+   "section": "catalog"
+  },
+  {
+   "id": "catalog:set:link.sb-go-fest-2025-dark-skies.arcanine-dynamax:53e4bcfde3e2",
+   "kind": "catalog-applied",
+   "origin": {
+    "id": "catalog",
+    "title": "Catalog",
+    "note": "Dittobase import"
+   },
+   "field": "Dynamax Arcanine on GO Fest 2025 Dark Skies",
+   "what": "Dynamax Arcanine added to GO Fest 2025 Dark Skies",
+   "source": "Dittobase",
+   "at": "2026-11-18",
+   "section": "catalog"
+  },
+  {
+   "id": "catalog:set:link.sb-go-fest-2025-dark-skies.alakazam-dynamax:7efcdd5e339c",
+   "kind": "catalog-applied",
+   "origin": {
+    "id": "catalog",
+    "title": "Catalog",
+    "note": "Dittobase import"
+   },
+   "field": "Dynamax Alakazam on GO Fest 2025 Dark Skies",
+   "what": "Dynamax Alakazam added to GO Fest 2025 Dark Skies",
+   "source": "Dittobase",
+   "at": "2026-11-18",
+   "section": "catalog"
+  },
+  {
+   "id": "catalog:set:link.sb-go-fest-2025-dark-skies.abra-dynamax:3a23c78edcb7",
+   "kind": "catalog-applied",
+   "origin": {
+    "id": "catalog",
+    "title": "Catalog",
+    "note": "Dittobase import"
+   },
+   "field": "Dynamax Abra on GO Fest 2025 Dark Skies",
+   "what": "Dynamax Abra added to GO Fest 2025 Dark Skies",
+   "source": "Dittobase",
+   "at": "2026-11-18",
+   "section": "catalog"
+  },
   {
    "id": "catalog:set:pokemon.pikachu-astronaut:ca106bbb032d",
    "kind": "catalog-applied",
