@@ -1,6 +1,6 @@
 {
  "schema": 1,
- "built": "2026-11-19T18:43:19Z",
+ "built": "2026-11-20T18:04:44Z",
  "sections": {
   "catalog": {
    "file": "catalog.json",
@@ -13,63 +13,63 @@
    "file": "raids.json",
    "hash": "sha256-38caa2f490ada7dd9ee50865451db0c91efcf9b72af46937aa65696cbca73225",
    "count": 74,
-   "lastGood": "2026-11-19",
+   "lastGood": "2026-11-20",
    "stale": false
   },
   "research": {
    "file": "research.json",
    "hash": "sha256-351791eb02ea1995e9f5d8825ff8f30a2744ee8857f726723c7637173d22d257",
    "count": 64,
-   "lastGood": "2026-11-19",
+   "lastGood": "2026-11-20",
    "stale": false
   },
   "shinies": {
    "file": "shinies.json",
    "hash": "sha256-cb6ddb6a7ffb86cd2af14bc274f719c93b6e121b767ec2bdb0c96e62f865730f",
    "count": 1485,
-   "lastGood": "2026-11-19",
+   "lastGood": "2026-11-20",
    "stale": false
   },
   "eggs": {
    "file": "eggs.json",
    "hash": "sha256-f2d8d0a7143ec9b233911be69961b65f1cbc2d0691e0993d0a86bfffa2f54d3d",
    "count": 78,
-   "lastGood": "2026-11-19",
+   "lastGood": "2026-11-20",
    "stale": false
   },
   "rocket": {
    "file": "rocket.json",
    "hash": "sha256-e1660f0986d2bbf09209728d529e4d71d10cb10c993a4c256da6e4ae49f39b96",
    "count": 26,
-   "lastGood": "2026-11-19",
+   "lastGood": "2026-11-20",
    "stale": false
   },
   "events": {
    "file": "events.json",
-   "hash": "sha256-915269f03487836972edf6aedf174b9fbec22605437362c2327614ab4f688803",
-   "count": 44,
-   "lastGood": "2026-11-19",
+   "hash": "sha256-3313a59e371ac305a46a60d411efa2284e460e84a20b9ce36ebcbb5e076bdd1e",
+   "count": 41,
+   "lastGood": "2026-11-20",
    "stale": false
   },
   "stats": {
    "file": "stats.json",
    "hash": "sha256-2d875034de7dabe485cd5139918ffc36e7bb3244a4f8de46af5bf9c43605e82f",
    "count": 2381,
-   "lastGood": "2026-11-19",
+   "lastGood": "2026-11-20",
    "stale": false
   },
   "rankings": {
    "file": "rankings.json",
-   "hash": "sha256-6e740ce9ab654fefdde3db9b8b2cb13f6811ec117f034dbbbdf72fcae32ea205",
+   "hash": "sha256-4cfc8771c7d4d73d73289c8328e47175c9d1adb6ed0c299d3430e60f78d4c984",
    "count": 2177,
-   "lastGood": "2026-11-19",
+   "lastGood": "2026-11-20",
    "stale": false
   },
   "catchables": {
    "file": "catchables.json",
    "hash": "sha256-e2e2cc5b76948144730974ff8b039ac66796ba60e9f71636438d3eaeced8a62b",
    "count": 332,
-   "lastGood": "2026-11-19",
+   "lastGood": "2026-11-20",
    "stale": false
   }
  }
