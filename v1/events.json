@@ -2,48 +2,6 @@
  "source": "fork",
  "events": [
   {
-   "id": "raidhour20261118",
-   "name": "Cresselia and Darkrai Raid Hour",
-   "type": "raid-hour",
-   "types": [
-    "raid-hour"
-   ],
-   "heading": "Raid Hour",
-   "link": "https://leekduck.com/events/raidhour20261118/",
-   "image": "https://cdn.leekduck.com/assets/img/events/raidhour.jpg",
-   "start": {
-    "time": "2026-11-18T18:00:00",
-    "kind": "local"
-   },
-   "end": {
-    "time": "2026-11-18T19:00:00",
-    "kind": "local"
-   },
-   "inPerson": false,
-   "venueOffset": null,
-   "bonuses": [],
-   "times": [],
-   "notes": [],
-   "daily": null,
-   "promoCodes": [],
-   "encounters": [],
-   "research": [],
-   "sources": [
-    {
-     "name": "LeekDuck",
-     "url": "https://leekduck.com/events/raidhour20261118/",
-     "read": "2026-11-20T18:04:44Z"
-    }
-   ],
-   "listed": true,
-   "description": [
-    {
-     "kind": "text",
-     "text": "A Raid Hour featuring Cresselia and Darkrai is scheduled from 6:00 p.m. to 7:00 p.m. local time. During this hour there will be an increased number of five-star raids."
-    }
-   ]
-  },
-  {
    "id": "pokemonspotlighthour2026-11-19",
    "name": "Grookey, Scorbunny, and Sobble Spotlight Hour",
    "type": "pokemon-spotlight-hour",
@@ -109,7 +67,7 @@
     {
      "name": "LeekDuck",
      "url": "https://leekduck.com/events/pokemonspotlighthour2026-11-19/",
-     "read": "2026-11-20T18:04:44Z"
+     "read": "2026-11-21T17:00:11Z"
     }
    ],
    "listed": true,
@@ -216,7 +174,7 @@
     {
      "name": "LeekDuck",
      "url": "https://leekduck.com/events/minior-showers-leonids-2026/",
-     "read": "2026-11-20T18:04:44Z"
+     "read": "2026-11-21T17:00:11Z"
     }
    ],
    "listed": true,
@@ -326,7 +284,7 @@
     {
      "name": "LeekDuck",
      "url": "https://leekduck.com/events/eternamax-eternatus-max-battles-2026/",
-     "read": "2026-11-20T18:04:44Z"
+     "read": "2026-11-21T17:00:11Z"
     }
    ],
    "listed": true,
@@ -457,7 +415,7 @@
    "research": [
     {
      "kind": "special",
-     "title": "Pawniard Community Day (1/3)",
+     "title": "Once a Pawn a Time (1/3)",
      "step": 1,
      "tasks": [
       {
@@ -545,7 +503,7 @@
     },
     {
      "kind": "special",
-     "title": "Pawniard Community Day (2/3)",
+     "title": "Once a Pawn a Time (2/3)",
      "step": 2,
      "tasks": [
       {
@@ -633,7 +591,7 @@
     },
     {
      "kind": "special",
-     "title": "Pawniard Community Day (3/3)",
+     "title": "Once a Pawn a Time (3/3)",
      "step": 3,
      "tasks": [
       {
@@ -802,7 +760,7 @@
     {
      "name": "LeekDuck",
      "url": "https://leekduck.com/events/november-communityday2026/",
-     "read": "2026-11-20T18:04:44Z"
+     "read": "2026-11-21T17:00:11Z"
     }
    ],
    "listed": true,
@@ -832,10 +790,7 @@
     "rules": [
      {
       "heading": "Kowtow Cleave (Dark-type)",
-      "value": "Trainer Battles: 75 power",
-      "status": "auto-read",
-      "quote": "Trainer Battles: 75 power",
-      "url": "https://leekduck.com/events/november-communityday2026/"
+      "status": "held"
      },
      {
       "heading": "Limited-time Evolution Requirement",
@@ -862,6 +817,249 @@
     "groups": [],
     "read": true
    }
+  },
+  {
+   "id": "pokemon-latin-america-international-championships-2027-timed-research-twitch-drops",
+   "name": "Twitch Drops for 2027 Pokémon Latin America International Championships",
+   "type": "twitch-drops",
+   "types": [
+    "twitch-drops",
+    "research"
+   ],
+   "heading": "Twitch Drops",
+   "link": "https://leekduck.com/events/pokemon-latin-america-international-championships-2027-timed-research-twitch-drops/",
+   "image": "https://cdn.leekduck.com/assets/img/events/article-images/2026/2026-11-20-pokemon-latin-america-international-championships-2027-timed-research-twitch-drops/2027-laic-go-drops.jpg",
+   "start": {
+    "time": "2026-11-20T12:00:00Z",
+    "kind": "global"
+   },
+   "end": {
+    "time": "2026-11-22T23:00:00Z",
+    "kind": "global"
+   },
+   "inPerson": false,
+   "venueOffset": null,
+   "bonuses": [],
+   "times": [],
+   "notes": [],
+   "daily": null,
+   "promoCodes": [],
+   "encounters": [
+    {
+     "group": "Research",
+     "pokemon": [
+      {
+       "slug": "samurott",
+       "name": "Samurott",
+       "shiny": false
+      }
+     ]
+    }
+   ],
+   "research": [
+    {
+     "kind": "timed",
+     "title": "2026 Pokémon NAIC's Champion: Bonus Timed Research (1/2)",
+     "step": 1,
+     "subtitle": "Twitch Drop-exclusive Timed Research",
+     "intro": [
+      "Trainers who redeem the live stream code will get exclusive Timed Research that honors PsyRhino, the 2026 Pokémon GO North America International Championships Champion, and Samurott, a key Pokémon that helped them become Champion! Watch for 30 minutes to unlock this two-step Timed Research.*",
+      "* Tasks must be completed and rewards claimed before Friday, December 4, 2026, at 12:00 p.m. PST. Trainers can only claim each Timed Research code once."
+     ],
+     "tasks": [
+      {
+       "text": "Catch 10 Water-type Pokémon",
+       "rewards": [
+        {
+         "type": "item",
+         "name": "Oshawott Candy",
+         "quantity": 20,
+         "icon": "art/a8485957d7651cf31c70b3656a12d564.png"
+        }
+       ]
+      },
+      {
+       "text": "Catch 20 Pokémon",
+       "rewards": [
+        {
+         "type": "item",
+         "name": "Charged TM",
+         "quantity": 10,
+         "icon": "art/98bf20ab2c0ccc3ca542a5d8389811be.png"
+        }
+       ]
+      },
+      {
+       "text": "Evolve a Pokémon",
+       "rewards": [
+        {
+         "type": "item",
+         "name": "Fast TM",
+         "quantity": 10,
+         "icon": "art/8d0599ae61a7ccc0e4216f6a1d042ca1.png"
+        }
+       ]
+      }
+     ],
+     "rewards": [
+      {
+       "type": "item",
+       "name": "Stardust",
+       "quantity": 2026,
+       "icon": "art/8091724025f7c21f1479111875b9a2b4.png"
+      },
+      {
+       "type": "item",
+       "name": "XP",
+       "quantity": 503,
+       "icon": "art/efca27988f2eabe34c1ef03983f4e27d.png"
+      },
+      {
+       "type": "encounter",
+       "slug": "samurott",
+       "name": "Samurott",
+       "shiny": false
+      }
+     ],
+     "from": "page"
+    },
+    {
+     "kind": "timed",
+     "title": "2026 Pokémon NAIC's Champion: Bonus Timed Research (2/2)",
+     "step": 2,
+     "notes": [],
+     "tasks": [
+      {
+       "text": "Power up Pokémon 10 times",
+       "rewards": [
+        {
+         "type": "item",
+         "name": "Oshawott Candy XL",
+         "quantity": 5,
+         "icon": "art/684ce857c39e1c9716045b905dcb45e1.png"
+        }
+       ]
+      },
+      {
+       "text": "Battle another Trainer in the Great League",
+       "rewards": [
+        {
+         "type": "item",
+         "name": "Oshawott Candy XL",
+         "quantity": 5,
+         "icon": "art/684ce857c39e1c9716045b905dcb45e1.png"
+        }
+       ]
+      },
+      {
+       "text": "Win 3 Trainer Battles in the Great League",
+       "rewards": [
+        {
+         "type": "item",
+         "name": "Oshawott Candy XL",
+         "quantity": 5,
+         "icon": "art/684ce857c39e1c9716045b905dcb45e1.png"
+        }
+       ]
+      }
+     ],
+     "rewards": [
+      {
+       "type": "item",
+       "name": "Oshawott Candy XL",
+       "quantity": 5,
+       "icon": "art/684ce857c39e1c9716045b905dcb45e1.png"
+      },
+      {
+       "type": "item",
+       "name": "XP",
+       "quantity": 503,
+       "icon": "art/efca27988f2eabe34c1ef03983f4e27d.png"
+      },
+      {
+       "type": "item",
+       "name": "Stardust",
+       "quantity": 2026,
+       "icon": "art/8091724025f7c21f1479111875b9a2b4.png"
+      }
+     ],
+     "from": "page"
+    }
+   ],
+   "sources": [
+    {
+     "name": "LeekDuck",
+     "url": "https://leekduck.com/events/pokemon-latin-america-international-championships-2027-timed-research-twitch-drops/",
+     "read": "2026-11-21T17:00:11Z"
+    }
+   ],
+   "listed": true,
+   "description": [
+    {
+     "kind": "text",
+     "text": "Get codes for exclusive Timed Research and a Battle Bundle during the 2027 Pokémon Latin America International Championships Twitch broadcast."
+    },
+    {
+     "kind": "text",
+     "text": "PsyRhino took home the gold at the 2026 Pokémon GO North America International Championships with a powerful Shadow Samurott on their team. Watch the 2027 LAIC stream, and you can get a Samurott inspired by PsyRhino’s NAIC-winning team."
+    },
+    {
+     "kind": "text",
+     "text": "Tune in to Twitch.tv/PokemonGO on November 20 and 21, or Twitch.tv/Pokemon on November 22, and you’ll earn rewards the longer you watch. Here’s what you can get:"
+    },
+    {
+     "kind": "text",
+     "text": "Watch for 30 minutes: Unique Timed Research that includes the following."
+    },
+    {
+     "kind": "item",
+     "text": "An encounter with a Samurott inspired by PsyRhino’s NAIC-winning team"
+    },
+    {
+     "kind": "item",
+     "text": "20 Oshawott Candy"
+    },
+    {
+     "kind": "item",
+     "text": "20 Oshawott Candy XL"
+    },
+    {
+     "kind": "item",
+     "text": "10 Charged TMs"
+    },
+    {
+     "kind": "item",
+     "text": "10 Fast TMs"
+    },
+    {
+     "kind": "text",
+     "text": "Watch for 45 minutes: An LAIC Battle Bundle that includes the following."
+    },
+    {
+     "kind": "item",
+     "text": "1 Elite Charged TM"
+    },
+    {
+     "kind": "item",
+     "text": "1 Rare Candy XL"
+    },
+    {
+     "kind": "item",
+     "text": "25 Charged TMs"
+    },
+    {
+     "kind": "item",
+     "text": "25 Fast TMs"
+    },
+    {
+     "kind": "text",
+     "text": "Timed Research tasks must be completed and rewards claimed before Friday, December 4, 2026, at 12:00 p.m. PST."
+    },
+    {
+     "kind": "text",
+     "text": "Find more information on the Timed Research from the Twitch Drops in the Research section."
+    }
+   ]
   },
   {
    "id": "dynamax-trails-2026",
@@ -1760,7 +1958,7 @@
     {
      "name": "LeekDuck",
      "url": "https://leekduck.com/events/dynamax-trails-2026/",
-     "read": "2026-11-20T18:04:44Z"
+     "read": "2026-11-21T17:00:11Z"
     }
    ],
    "listed": true,
@@ -1841,7 +2039,7 @@
     {
      "name": "LeekDuck",
      "url": "https://leekduck.com/events/max-mondays-2026-11-23/",
-     "read": "2026-11-20T18:04:44Z"
+     "read": "2026-11-21T17:00:11Z"
     }
    ],
    "listed": true,
@@ -1932,7 +2130,7 @@
     {
      "name": "LeekDuck",
      "url": "https://leekduck.com/events/cresselia-darkrai-in-5-star-raid-battles-november-2026/",
-     "read": "2026-11-20T18:04:44Z"
+     "read": "2026-11-21T17:00:11Z"
     }
    ],
    "listed": true,
@@ -2006,7 +2204,7 @@
     {
      "name": "LeekDuck",
      "url": "https://leekduck.com/events/mega-banette-in-mega-raids-november-2026/",
-     "read": "2026-11-20T18:04:44Z"
+     "read": "2026-11-21T17:00:11Z"
     }
    ],
    "listed": true,
@@ -2052,7 +2250,7 @@
     {
      "name": "LeekDuck",
      "url": "https://leekduck.com/events/gbl-twilight-trails_ultra-league_master-league-mega-edition_2026-go-laic-cup/",
-     "read": "2026-11-20T18:04:44Z"
+     "read": "2026-11-21T17:00:11Z"
     }
    ],
    "listed": true,
@@ -2146,7 +2344,7 @@
     {
      "name": "LeekDuck",
      "url": "https://leekduck.com/events/raidhour20261125/",
-     "read": "2026-11-20T18:04:44Z"
+     "read": "2026-11-21T17:00:11Z"
     }
    ],
    "listed": true,
@@ -2213,7 +2411,7 @@
     {
      "name": "LeekDuck",
      "url": "https://leekduck.com/events/pokemonspotlighthour2026-11-26/",
-     "read": "2026-11-20T18:04:44Z"
+     "read": "2026-11-21T17:00:11Z"
     }
    ],
    "listed": true,
@@ -2401,7 +2599,7 @@
     {
      "name": "LeekDuck",
      "url": "https://leekduck.com/events/clefable-super-mega-raid-day-2026/",
-     "read": "2026-11-20T18:04:44Z"
+     "read": "2026-11-21T17:00:11Z"
     }
    ],
    "listed": true,
@@ -2607,7 +2805,7 @@
     {
      "name": "LeekDuck",
      "url": "https://leekduck.com/events/twilight-wishes-2026/",
-     "read": "2026-11-20T18:04:44Z"
+     "read": "2026-11-21T17:00:11Z"
     }
    ],
    "listed": true,
@@ -2683,7 +2881,7 @@
     {
      "name": "LeekDuck",
      "url": "https://leekduck.com/events/max-mondays-2026-11-30/",
-     "read": "2026-11-20T18:04:44Z"
+     "read": "2026-11-21T17:00:11Z"
     }
    ],
    "listed": true,
@@ -3048,7 +3246,7 @@
     {
      "name": "LeekDuck",
      "url": "https://leekduck.com/events/season-24-twilight-trails/",
-     "read": "2026-11-20T18:04:44Z"
+     "read": "2026-11-21T17:00:11Z"
     }
    ],
    "listed": true,
@@ -3194,7 +3392,7 @@
     {
      "name": "LeekDuck",
      "url": "https://leekduck.com/events/go-pass-november-2026/",
-     "read": "2026-11-20T18:04:44Z"
+     "read": "2026-11-21T17:00:11Z"
     }
    ],
    "listed": true,
@@ -3304,7 +3502,7 @@
     {
      "name": "LeekDuck",
      "url": "https://leekduck.com/events/gbl-twilight-trails_master-league_mega-catch-cup-great-league-edition/",
-     "read": "2026-11-20T18:04:44Z"
+     "read": "2026-11-21T17:00:11Z"
     }
    ],
    "listed": true,
@@ -3393,7 +3591,7 @@
     {
      "name": "LeekDuck",
      "url": "https://leekduck.com/events/shadow-tornadus-incarnate-forme-in-shadow-raids-november-16-2026/",
-     "read": "2026-11-20T18:04:44Z"
+     "read": "2026-11-21T17:00:11Z"
     }
    ],
    "listed": true,
@@ -3470,7 +3668,7 @@
     {
      "name": "LeekDuck",
      "url": "https://leekduck.com/events/deoxys-normal-defense-attack-speed-formes-in-5-star-raid-battles-november-2026/",
-     "read": "2026-11-20T18:04:44Z"
+     "read": "2026-11-21T17:00:11Z"
     }
    ],
    "listed": true,
@@ -3544,7 +3742,7 @@
     {
      "name": "LeekDuck",
      "url": "https://leekduck.com/events/mega-metagross-in-mega-raids-november-2026/",
-     "read": "2026-11-20T18:04:44Z"
+     "read": "2026-11-21T17:00:11Z"
     }
    ],
    "listed": true,
@@ -3590,7 +3788,7 @@
     {
      "name": "LeekDuck",
      "url": "https://leekduck.com/events/max-battle-day-december-2026/",
-     "read": "2026-11-20T18:04:44Z"
+     "read": "2026-11-21T17:00:11Z"
     }
    ],
    "listed": true,
@@ -3603,14 +3801,14 @@
   },
   {
    "id": "december-communityday2026",
-   "name": "December Community Day",
+   "name": "December Community Day 2026",
    "type": "community-day",
    "types": [
     "community-day"
    ],
    "heading": "Community Day",
    "link": "https://leekduck.com/events/december-communityday2026/",
-   "image": "https://cdn.leekduck.com/assets/img/events/cd-default.jpg",
+   "image": "https://cdn.leekduck.com/assets/img/events/article-images/2026/2026-12-12-december-communityday2026/december-2026-community-day.jpg",
    "start": {
     "time": "2026-12-12T14:00:00",
     "kind": "local"
@@ -3621,27 +3819,474 @@
    },
    "inPerson": false,
    "venueOffset": null,
-   "bonuses": [],
-   "times": [],
-   "notes": [],
+   "bonuses": [
+    {
+     "title": null,
+     "description": null,
+     "items": [
+      "Increased Spawns",
+      "2x XP for catching Pokémon",
+      "2x Stardust for catching Pokémon",
+      "1/2 Hatch Distance when Eggs are placed into Incubators during the event period",
+      "2x Catch Candy",
+      "2x Chance for Trainers level 31 and up to receive Candy XL from catching Pokémon",
+      "3-hour Incense**",
+      "1-hour Lures*",
+      "Up to two Special Trades can be made per day*",
+      "Trades made will require 50% less Stardust*"
+     ],
+     "notes": [
+      "* While most bonuses are only active on December 12 and 13 from 2:00 p.m. to 5:00 p.m. local time, these bonuses will be active from Saturday, December 12, at 9:00 a.m. to Sunday, December 13, at 9:00 p.m. local time.",
+      "** The three-hour Incense bonus excludes Daily Adventure Incense."
+     ]
+    }
+   ],
+   "times": [
+    {
+     "label": "Wild",
+     "detail": null,
+     "when": [
+      {
+       "date": null,
+       "endDate": null,
+       "from": "2:00 p.m.",
+       "to": "5:00 p.m.",
+       "allDay": false,
+       "everyDay": true
+      },
+      {
+       "date": null,
+       "endDate": null,
+       "from": "9:00 a.m.",
+       "to": "9:00 p.m.",
+       "allDay": false,
+       "everyDay": true
+      },
+      {
+       "date": null,
+       "endDate": null,
+       "from": "2:00 p.m.",
+       "to": "5:00 p.m.",
+       "allDay": false,
+       "everyDay": true
+      },
+      {
+       "date": null,
+       "endDate": null,
+       "from": "2:00 p.m.",
+       "to": "5:00 p.m.",
+       "allDay": false,
+       "everyDay": true
+      }
+     ]
+    }
+   ],
+   "notes": [
+    {
+     "title": "Wild",
+     "text": "A different set of Pokémon will be featured on each event day—Saturday, December 12, and Sunday, December 13, 2026—from 2:00 p.m. to 5:00 p.m. local time."
+    },
+    {
+     "title": "Wild",
+     "text": "The Pokémon that appear during this time will have the same chance of appearing as a Shiny Pokémon as those that appeared during their original Community Days, and they may also appear with a Special Background. Outside of these times, any of the featured Pokémon may appear from 9:00 a.m. to 9:00 p.m. local time on either Saturday or Sunday!"
+    },
+    {
+     "title": "Wild",
+     "text": "The following Pokémon will be featured on Saturday, December 12, 2026, from 2:00 p.m. to 5:00 p.m. local time."
+    },
+    {
+     "title": "Wild",
+     "text": "You might even encounter Piplup!"
+    },
+    {
+     "title": "Wild",
+     "text": "The following Pokémon will be featured on Sunday, December 13, 2026, from 2:00 p.m. to 5:00 p.m. local time."
+    },
+    {
+     "title": "Wild",
+     "text": "You might even encounter the following Pokémon!"
+    },
+    {
+     "title": "Shiny",
+     "text": "Shiny Pokémon from 2026 Community Days"
+    },
+    {
+     "title": "Shiny",
+     "text": "This is a list of every available shiny Pokémon featured in Community Day events in 2026 that are available during this event. They are available either through encounters in the wild or via evolution."
+    },
+    {
+     "title": "Shiny",
+     "text": "Vulpix, Ninetales, Alolan Vulpix, Alolan Ninetales, Grookey, Thwackey, Rillaboom, Scorbunny, Raboot, Cinderace, Lechonk, Oinkologne, Oinkologne, Tinkatink, Tinkatuff, Tinkaton, Piplup, Prinplup, Empoleon, Zorua, Zoroark, Pawniard, Bisharp, Kingambit, Sobble, Drizzile, Inteleon, Nickit, Thievul, Frigibax, Arctibax, Baxcalibur, Gible, Gabite, Garchomp, Deino, Zweilous, Hydreigon"
+    }
+   ],
    "daily": null,
    "promoCodes": [],
-   "encounters": [],
+   "encounters": [
+    {
+     "group": "Wild",
+     "pokemon": [
+      {
+       "slug": "vulpix",
+       "name": "Vulpix",
+       "shiny": true
+      },
+      {
+       "slug": "vulpix-alola",
+       "name": "Alolan Vulpix",
+       "shiny": true
+      },
+      {
+       "slug": "grookey",
+       "name": "Grookey",
+       "shiny": true
+      },
+      {
+       "slug": "scorbunny",
+       "name": "Scorbunny",
+       "shiny": true
+      },
+      {
+       "slug": "lechonk",
+       "name": "Lechonk",
+       "shiny": true
+      },
+      {
+       "slug": "tinkatink",
+       "name": "Tinkatink",
+       "shiny": true
+      },
+      {
+       "slug": "piplup",
+       "name": "Piplup",
+       "shiny": true
+      },
+      {
+       "slug": "zorua",
+       "name": "Zorua",
+       "shiny": true
+      },
+      {
+       "slug": "pawniard",
+       "name": "Pawniard",
+       "shiny": true
+      },
+      {
+       "slug": "sobble",
+       "name": "Sobble",
+       "shiny": true
+      },
+      {
+       "slug": "nickit",
+       "name": "Nickit",
+       "shiny": true
+      },
+      {
+       "slug": "frigibax",
+       "name": "Frigibax",
+       "shiny": true
+      },
+      {
+       "slug": "gible",
+       "name": "Gible",
+       "shiny": true
+      },
+      {
+       "slug": "deino",
+       "name": "Deino",
+       "shiny": true
+      },
+      {
+       "slug": "ninetales",
+       "name": "Ninetales",
+       "shiny": true
+      },
+      {
+       "slug": "ninetales-alola",
+       "name": "Alolan Ninetales",
+       "shiny": true
+      },
+      {
+       "slug": "thwackey",
+       "name": "Thwackey",
+       "shiny": true
+      },
+      {
+       "slug": "rillaboom",
+       "name": "Rillaboom",
+       "shiny": true
+      },
+      {
+       "slug": "raboot",
+       "name": "Raboot",
+       "shiny": true
+      },
+      {
+       "slug": "cinderace",
+       "name": "Cinderace",
+       "shiny": true
+      },
+      {
+       "slug": "oinkologne",
+       "name": "Oinkologne",
+       "shiny": true
+      },
+      {
+       "slug": "oinkologne-female",
+       "name": "Oinkologne Female",
+       "shiny": true
+      },
+      {
+       "slug": "tinkatuff",
+       "name": "Tinkatuff",
+       "shiny": true
+      },
+      {
+       "slug": "tinkaton",
+       "name": "Tinkaton",
+       "shiny": true
+      },
+      {
+       "slug": "prinplup",
+       "name": "Prinplup",
+       "shiny": true
+      },
+      {
+       "slug": "empoleon",
+       "name": "Empoleon",
+       "shiny": true
+      },
+      {
+       "slug": "zoroark",
+       "name": "Zoroark",
+       "shiny": true
+      },
+      {
+       "slug": "bisharp",
+       "name": "Bisharp",
+       "shiny": true
+      },
+      {
+       "slug": "kingambit",
+       "name": "Kingambit",
+       "shiny": true
+      },
+      {
+       "slug": "drizzile",
+       "name": "Drizzile",
+       "shiny": true
+      },
+      {
+       "slug": "inteleon",
+       "name": "Inteleon",
+       "shiny": true
+      },
+      {
+       "slug": "thievul",
+       "name": "Thievul",
+       "shiny": true
+      },
+      {
+       "slug": "arctibax",
+       "name": "Arctibax",
+       "shiny": true
+      },
+      {
+       "slug": "baxcalibur",
+       "name": "Baxcalibur",
+       "shiny": true
+      },
+      {
+       "slug": "gabite",
+       "name": "Gabite",
+       "shiny": true
+      },
+      {
+       "slug": "garchomp",
+       "name": "Garchomp",
+       "shiny": true
+      },
+      {
+       "slug": "zweilous",
+       "name": "Zweilous",
+       "shiny": true
+      },
+      {
+       "slug": "hydreigon",
+       "name": "Hydreigon",
+       "shiny": true
+      }
+     ]
+    }
+   ],
    "research": [],
    "sources": [
     {
      "name": "LeekDuck",
      "url": "https://leekduck.com/events/december-communityday2026/",
-     "read": "2026-11-20T18:04:44Z"
+     "read": "2026-11-21T17:00:11Z"
     }
    ],
    "listed": true,
    "description": [
     {
      "kind": "text",
-     "text": "The December Community Day event will take place on December 12 and December 13, 2026 from 2 pm to 5 pm each day. Stay tuned for more details."
+     "text": "Pokémon from Community Days in 2026 return for an end of the year celebration!"
+    },
+    {
+     "kind": "text",
+     "text": "The year is nearly behind us, which means it’s time to reflect on all the fun everyone had during this year’s Community Days. If you missed any, now’s your chance to catch up!"
+    },
+    {
+     "kind": "text",
+     "text": "The last Community Day of 2026 will take place over two days—Saturday, December 12, 2026, and Sunday, December 13, 2026, from 2:00 p.m. to 5:00 p.m. local time."
+    },
+    {
+     "kind": "text",
+     "text": "Note: The only difference between Day 1 and Day 2 are the Pokémon appearing more frequently in the wild."
     }
-   ]
+   ],
+   "freeText": {
+    "debuts": [],
+    "attacks": [
+     {
+      "pokemon": "Ninetales",
+      "value": [
+       "Energy Ball"
+      ],
+      "status": "auto-read",
+      "quote": "Evolve Vulpix to get a Ninetales that knows the Charged Attack Energy Ball.",
+      "url": "https://leekduck.com/events/december-communityday2026/"
+     },
+     {
+      "pokemon": "Alolan Ninetales",
+      "value": [
+       "Chilling Water"
+      ],
+      "status": "auto-read",
+      "quote": "Evolve Alolan Vulpix to get an Alolan Ninetales that knows the Charged Attack Chilling Water.",
+      "url": "https://leekduck.com/events/december-communityday2026/"
+     },
+     {
+      "pokemon": "Empoleon",
+      "value": [
+       "Hydro Cannon"
+      ],
+      "status": "auto-read",
+      "quote": "Evolve Prinplup (Piplup’s Evolution) to get an Empoleon that knows the Charged Attack Hydro Cannon.",
+      "url": "https://leekduck.com/events/december-communityday2026/"
+     },
+     {
+      "pokemon": "Garchomp",
+      "value": [
+       "Earth Power"
+      ],
+      "status": "auto-read",
+      "quote": "Evolve Gabite (Gible’s Evolution) to get a Garchomp that knows the Charged Attack Earth Power.",
+      "url": "https://leekduck.com/events/december-communityday2026/"
+     },
+     {
+      "pokemon": "Zoroark",
+      "value": [
+       "Sucker Punch"
+      ],
+      "status": "auto-read",
+      "quote": "Evolve Zorua to get a Zoroark that knows the Fast Attack Sucker Punch.",
+      "url": "https://leekduck.com/events/december-communityday2026/"
+     },
+     {
+      "pokemon": "Hydreigon",
+      "value": [
+       "Brutal Swing"
+      ],
+      "status": "auto-read",
+      "quote": "Evolve Zweilous (Deino’s Evolution) to get a Hydreigon that knows the Charged Attack Brutal Swing.",
+      "url": "https://leekduck.com/events/december-communityday2026/"
+     },
+     {
+      "pokemon": "Rillaboom",
+      "value": [
+       "Frenzy Plant"
+      ],
+      "status": "auto-read",
+      "quote": "Evolve Thwackey (Grookey’s Evolution) to get a Rillaboom that knows the Charged Attack Frenzy Plant.",
+      "url": "https://leekduck.com/events/december-communityday2026/"
+     },
+     {
+      "pokemon": "Cinderace",
+      "value": [
+       "Blast Burn"
+      ],
+      "status": "auto-read",
+      "quote": "Evolve Raboot (Scorbunny’s Evolution) to get a Cinderace that knows the Charged Attack Blast Burn.",
+      "url": "https://leekduck.com/events/december-communityday2026/"
+     },
+     {
+      "pokemon": "Inteleon",
+      "value": [
+       "Hydro Cannon"
+      ],
+      "status": "auto-read",
+      "quote": "Evolve Drizzile (Sobble’s Evolution) to get an Inteleon that knows the Charged Attack Hydro Cannon.",
+      "url": "https://leekduck.com/events/december-communityday2026/"
+     },
+     {
+      "pokemon": "Thievul",
+      "value": [
+       "Icy Wind"
+      ],
+      "status": "auto-read",
+      "quote": "Evolve Nickit to get a Thievul that knows the Charged Attack Icy Wind.",
+      "url": "https://leekduck.com/events/december-communityday2026/"
+     },
+     {
+      "pokemon": "Oinkologne",
+      "value": [
+       "Mud Slap"
+      ],
+      "status": "auto-read",
+      "quote": "Evolve Lechonk to get an Oinkologne that knows the Fast Attack Mud Slap.",
+      "url": "https://leekduck.com/events/december-communityday2026/"
+     },
+     {
+      "pokemon": "Tinkaton",
+      "value": [
+       "Gigaton Hammer"
+      ],
+      "status": "auto-read",
+      "quote": "Evolve Tinkatuff (Tinkatink’s Evolution) to get a Tinkaton that knows the Charged Attack Gigaton Hammer.",
+      "url": "https://leekduck.com/events/december-communityday2026/"
+     },
+     {
+      "pokemon": "Kingambit",
+      "value": [
+       "Kowtow Cleave"
+      ],
+      "status": "auto-read",
+      "quote": "Evolve Bisharp (Pawniard’s Evolution) to get a Kingambit that knows the Charged Attack Kowtow Cleave.",
+      "url": "https://leekduck.com/events/december-communityday2026/"
+     },
+     {
+      "pokemon": "Baxcalibur",
+      "value": [
+       "Glaive Rush"
+      ],
+      "status": "auto-read",
+      "quote": "Evolve Arctibax (Frigibax’s Evolution) to get a Baxcalibur that knows the Charged Attack Glaive Rush.",
+      "url": "https://leekduck.com/events/december-communityday2026/"
+     }
+    ],
+    "rules": [
+     {
+      "heading": "Limited-time Evolution Requirement",
+      "value": "From Saturday, December 12, at 9:00 a.m. to Sunday, December 13, at 9:00 p.m. local time, evolve Bisharp into Kingambit after defeating 1 Dark- or Steel-type Raid Boss with Bisharp as your Buddy Pokémon.",
+      "status": "auto-read",
+      "quote": "From Saturday, December 12, at 9:00 a.m. to Sunday, December 13, at 9:00 p.m. local time, evolve Bisharp into Kingambit after defeating 1 Dark- or Steel-type Raid Boss with Bisharp as your Buddy Pokémon.",
+      "url": "https://leekduck.com/events/december-communityday2026/"
+     }
+    ],
+    "groups": [],
+    "read": true
+   }
   },
   {
    "id": "minior-showers-geminids-2026",
@@ -3735,7 +4380,7 @@
     {
      "name": "LeekDuck",
      "url": "https://leekduck.com/events/minior-showers-geminids-2026/",
-     "read": "2026-11-20T18:04:44Z"
+     "read": "2026-11-21T17:00:11Z"
     }
    ],
    "listed": true,
@@ -3817,7 +4462,7 @@
     {
      "name": "LeekDuck",
      "url": "https://leekduck.com/events/raid-day-december-2026/",
-     "read": "2026-11-20T18:04:44Z"
+     "read": "2026-11-21T17:00:11Z"
     }
    ],
    "listed": true,
@@ -3859,7 +4504,7 @@
     {
      "name": "LeekDuck",
      "url": "https://leekduck.com/events/hatch-day-december-2026/",
-     "read": "2026-11-20T18:04:44Z"
+     "read": "2026-11-21T17:00:11Z"
     }
    ],
    "listed": true,
@@ -3927,7 +4572,7 @@
     {
      "name": "LeekDuck",
      "url": "https://leekduck.com/events/duolingo-timed-research-2026/",
-     "read": "2026-11-20T18:04:44Z"
+     "read": "2026-11-21T17:00:11Z"
     }
    ],
    "listed": true,
@@ -4002,7 +4647,7 @@
     {
      "name": "LeekDuck",
      "url": "https://leekduck.com/events/january-communitydayclassic2027/",
-     "read": "2026-11-20T18:04:44Z"
+     "read": "2026-11-21T17:00:11Z"
     }
    ],
    "listed": true,
@@ -4044,7 +4689,7 @@
     {
      "name": "LeekDuck",
      "url": "https://leekduck.com/events/super-mega-raid-day-january-2027/",
-     "read": "2026-11-20T18:04:44Z"
+     "read": "2026-11-21T17:00:11Z"
     }
    ],
    "listed": true,
@@ -4312,7 +4957,7 @@
     {
      "name": "LeekDuck",
      "url": "https://leekduck.com/events/pokemon-x-adidas-2026/",
-     "read": "2026-11-20T18:04:44Z"
+     "read": "2026-11-21T17:00:11Z"
     }
    ],
    "listed": true,
@@ -4380,7 +5025,7 @@
     {
      "name": "LeekDuck",
      "url": "https://leekduck.com/events/january-communityday2027/",
-     "read": "2026-11-20T18:04:44Z"
+     "read": "2026-11-21T17:00:11Z"
     }
    ],
    "listed": true,
@@ -4422,7 +5067,7 @@
     {
      "name": "LeekDuck",
      "url": "https://leekduck.com/events/max-battle-day-january-2027/",
-     "read": "2026-11-20T18:04:44Z"
+     "read": "2026-11-21T17:00:11Z"
     }
    ],
    "listed": true,
@@ -4464,7 +5109,7 @@
     {
      "name": "LeekDuck",
      "url": "https://leekduck.com/events/super-mega-raid-day-january-30-2027/",
-     "read": "2026-11-20T18:04:44Z"
+     "read": "2026-11-21T17:00:11Z"
     }
    ],
    "listed": true,
@@ -4506,7 +5151,7 @@
     {
      "name": "LeekDuck",
      "url": "https://leekduck.com/events/february-communityday2027/",
-     "read": "2026-11-20T18:04:44Z"
+     "read": "2026-11-21T17:00:11Z"
     }
    ],
    "listed": true,
@@ -4548,7 +5193,7 @@
     {
      "name": "LeekDuck",
      "url": "https://leekduck.com/events/raid-day-february-2027/",
-     "read": "2026-11-20T18:04:44Z"
+     "read": "2026-11-21T17:00:11Z"
     }
    ],
    "listed": true,
@@ -4591,7 +5236,7 @@
     {
      "name": "LeekDuck",
      "url": "https://leekduck.com/events/pokemon-go-tour-alola-kaohsiung-2027/",
-     "read": "2026-11-20T18:04:44Z"
+     "read": "2026-11-21T17:00:11Z"
     }
    ],
    "listed": true,
@@ -4661,7 +5306,7 @@
     {
      "name": "LeekDuck",
      "url": "https://leekduck.com/events/pokemon-go-tour-alola-los-angeles-2027/",
-     "read": "2026-11-20T18:04:44Z"
+     "read": "2026-11-21T17:00:11Z"
     }
    ],
    "listed": true,
@@ -4730,7 +5375,7 @@
     {
      "name": "LeekDuck",
      "url": "https://leekduck.com/events/pokemon-go-tour-alola-global-2027/",
-     "read": "2026-11-20T18:04:44Z"
+     "read": "2026-11-21T17:00:11Z"
     }
    ],
    "listed": true,
@@ -4857,7 +5502,7 @@
     {
      "name": "LeekDuck",
      "url": "https://leekduck.com/events/minior-showers-eta-aquariids-2027/",
-     "read": "2026-11-20T18:04:44Z"
+     "read": "2026-11-21T17:00:11Z"
     }
    ],
    "listed": true,
@@ -5000,7 +5645,7 @@
     {
      "name": "LeekDuck",
      "url": "https://leekduck.com/events/minior-showers-southern-delta-aquariids-2027/",
-     "read": "2026-11-20T18:04:44Z"
+     "read": "2026-11-21T17:00:11Z"
     }
    ],
    "listed": true,
@@ -5143,7 +5788,7 @@
     {
      "name": "LeekDuck",
      "url": "https://leekduck.com/events/minior-showers-perseids-2027/",
-     "read": "2026-11-20T18:04:44Z"
+     "read": "2026-11-21T17:00:11Z"
     }
    ],
    "listed": true,
@@ -5190,6 +5835,48 @@
     "groups": [],
     "read": true
    }
+  },
+  {
+   "id": "raidhour20261118",
+   "name": "Cresselia and Darkrai Raid Hour",
+   "type": "raid-hour",
+   "types": [
+    "raid-hour"
+   ],
+   "heading": "Raid Hour",
+   "link": "https://leekduck.com/events/raidhour20261118/",
+   "image": "https://cdn.leekduck.com/assets/img/events/raidhour.jpg",
+   "start": {
+    "time": "2026-11-18T18:00:00",
+    "kind": "local"
+   },
+   "end": {
+    "time": "2026-11-18T19:00:00",
+    "kind": "local"
+   },
+   "inPerson": false,
+   "venueOffset": null,
+   "bonuses": [],
+   "times": [],
+   "notes": [],
+   "daily": null,
+   "promoCodes": [],
+   "encounters": [],
+   "research": [],
+   "sources": [
+    {
+     "name": "LeekDuck",
+     "url": "https://leekduck.com/events/raidhour20261118/",
+     "read": "2026-11-20T18:04:44Z"
+    }
+   ],
+   "listed": false,
+   "description": [
+    {
+     "kind": "text",
+     "text": "A Raid Hour featuring Cresselia and Darkrai is scheduled from 6:00 p.m. to 7:00 p.m. local time. During this hour there will be an increased number of five-star raids."
+    }
+   ]
   },
   {
    "id": "go-wild-area-gigantamax-machamp-power-up-timed-research",

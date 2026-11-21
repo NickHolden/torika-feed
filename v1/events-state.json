@@ -9,29 +9,6 @@
   }
  },
  "pages": {
-  "raidhour20261118": {
-   "readers": [
-    "Claude",
-    "GPT"
-   ],
-   "hash": "sha256-4a8ab94d3104367802ce7dca92db3065bac81d75fa96d247ccf3c6f0a0420d87",
-   "readings": [
-    {
-     "debuts": [],
-     "featured_attacks": [],
-     "special_rules": [],
-     "season_groups": []
-    },
-    {
-     "debuts": [],
-     "featured_attacks": [],
-     "special_rules": [],
-     "season_groups": []
-    }
-   ],
-   "seen": {},
-   "open": []
-  },
   "pokemonspotlighthour2026-11-19": {
    "readers": [
     "Claude",
@@ -408,7 +385,7 @@
     "Claude",
     "GPT"
    ],
-   "hash": "sha256-6bb8e085c5343605660988d8a647295c17bdecaab564ea2a478015773bc0ef9c",
+   "hash": "sha256-1c121962ee413387e074d16605c6afb51e6404556ef05176ce1b94c180c77dd4",
    "readings": [
     {
      "debuts": [],
@@ -420,10 +397,6 @@
       }
      ],
      "special_rules": [
-      {
-       "heading": "Kowtow Cleave (Dark-type)",
-       "quote": "Trainer Battles: 75 power"
-      },
       {
        "heading": "Limited-time Evolution Requirement",
        "quote": "From 2:00 p.m. to 9:00 p.m. local time, evolve Bisharp into Kingambit after defeating 1 Dark- or Steel-type Raid Boss with Bisharp as your Buddy Pokémon."
@@ -502,11 +475,11 @@
       "ja": null
      }
     },
-    "events:79a17a8c.rule.596f97:52ed3b505c84": {
+    "events:79a17a8c.rule.596f97:a4a9188dcf21": {
      "item": {
-      "id": "events:79a17a8c.rule.596f97:52ed3b505c84",
-      "kind": "auto-read",
-      "held": false,
+      "id": "events:79a17a8c.rule.596f97:a4a9188dcf21",
+      "kind": "model-disagreement",
+      "held": true,
       "origin": {
        "id": "page:november-communityday2026",
        "title": "Pawniard Community Day",
@@ -518,18 +491,29 @@
       "answerHint": "The sentence that states the rule",
       "readings": [
        {
-        "who": "Both models",
+        "who": "Claude",
+        "value": "Not read",
+        "url": "https://leekduck.com/events/november-communityday2026/"
+       },
+       {
+        "who": "GPT",
         "value": "Trainer Battles: 75 power",
         "quote": "Trainer Battles: 75 power",
         "url": "https://leekduck.com/events/november-communityday2026/"
        }
-      ],
-      "value": "Trainer Battles: 75 power"
+      ]
      },
      "meta": {
-      "source": "events:79a17a8c.rule.596f97:52ed3b505c84",
-      "value": "Trainer Battles: 75 power",
-      "ja": null
+      "source": "events:79a17a8c.rule.596f97:a4a9188dcf21",
+      "left": {
+       "quote": null,
+       "ja": null
+      },
+      "right": {
+       "value": "Trainer Battles: 75 power",
+       "quote": "Trainer Battles: 75 power",
+       "ja": null
+      }
      }
     },
     "events:79a17a8c.rule.9d0e8f:da3ff966221f": {
@@ -625,11 +609,34 @@
    },
    "open": [
     "events:79a17a8c.attack.f36fc3:3e4678f62890",
-    "events:79a17a8c.rule.596f97:52ed3b505c84",
+    "events:79a17a8c.rule.596f97:a4a9188dcf21",
     "events:79a17a8c.rule.9d0e8f:da3ff966221f",
     "events:79a17a8c.rule.0259eb:ab8a514baee6",
     "events:79a17a8c.rule.b0ca34:a09ef74f7f5f"
    ]
+  },
+  "pokemon-latin-america-international-championships-2027-timed-research-twitch-drops": {
+   "readers": [
+    "Claude",
+    "GPT"
+   ],
+   "hash": "sha256-ab2467ea48c1963d8f600cd6b6d81e402bfbdb10af64b4bb41225cf4a3e41caf",
+   "readings": [
+    {
+     "debuts": [],
+     "featured_attacks": [],
+     "special_rules": [],
+     "season_groups": []
+    },
+    {
+     "debuts": [],
+     "featured_attacks": [],
+     "special_rules": [],
+     "season_groups": []
+    }
+   ],
+   "seen": {},
+   "open": []
   },
   "dynamax-trails-2026": {
    "readers": [
@@ -2156,23 +2163,670 @@
     "Claude",
     "GPT"
    ],
-   "hash": "sha256-24a23044c50b7905f4f3f2d97bf4cd40f2ce910e851fd1f98965836f0c92dca7",
+   "hash": "sha256-bd2321ae94e71634e68d81eea3c848c91587f461fc2a3c447ac27812de25b4b0",
    "readings": [
     {
      "debuts": [],
-     "featured_attacks": [],
-     "special_rules": [],
+     "featured_attacks": [
+      {
+       "pokemon": "Ninetales",
+       "attack": "Energy Ball",
+       "quote": "Evolve Vulpix to get a Ninetales that knows the Charged Attack Energy Ball."
+      },
+      {
+       "pokemon": "Alolan Ninetales",
+       "attack": "Chilling Water",
+       "quote": "Evolve Alolan Vulpix to get an Alolan Ninetales that knows the Charged Attack Chilling Water."
+      },
+      {
+       "pokemon": "Empoleon",
+       "attack": "Hydro Cannon",
+       "quote": "Evolve Prinplup (Piplup’s Evolution) to get an Empoleon that knows the Charged Attack Hydro Cannon."
+      },
+      {
+       "pokemon": "Garchomp",
+       "attack": "Earth Power",
+       "quote": "Evolve Gabite (Gible’s Evolution) to get a Garchomp that knows the Charged Attack Earth Power."
+      },
+      {
+       "pokemon": "Zoroark",
+       "attack": "Sucker Punch",
+       "quote": "Evolve Zorua to get a Zoroark that knows the Fast Attack Sucker Punch."
+      },
+      {
+       "pokemon": "Hydreigon",
+       "attack": "Brutal Swing",
+       "quote": "Evolve Zweilous (Deino’s Evolution) to get a Hydreigon that knows the Charged Attack Brutal Swing."
+      },
+      {
+       "pokemon": "Rillaboom",
+       "attack": "Frenzy Plant",
+       "quote": "Evolve Thwackey (Grookey’s Evolution) to get a Rillaboom that knows the Charged Attack Frenzy Plant."
+      },
+      {
+       "pokemon": "Cinderace",
+       "attack": "Blast Burn",
+       "quote": "Evolve Raboot (Scorbunny’s Evolution) to get a Cinderace that knows the Charged Attack Blast Burn."
+      },
+      {
+       "pokemon": "Inteleon",
+       "attack": "Hydro Cannon",
+       "quote": "Evolve Drizzile (Sobble’s Evolution) to get an Inteleon that knows the Charged Attack Hydro Cannon."
+      },
+      {
+       "pokemon": "Thievul",
+       "attack": "Icy Wind",
+       "quote": "Evolve Nickit to get a Thievul that knows the Charged Attack Icy Wind."
+      },
+      {
+       "pokemon": "Oinkologne",
+       "attack": "Mud Slap",
+       "quote": "Evolve Lechonk to get an Oinkologne that knows the Fast Attack Mud Slap."
+      },
+      {
+       "pokemon": "Tinkaton",
+       "attack": "Gigaton Hammer",
+       "quote": "Evolve Tinkatuff (Tinkatink’s Evolution) to get a Tinkaton that knows the Charged Attack Gigaton Hammer."
+      },
+      {
+       "pokemon": "Kingambit",
+       "attack": "Kowtow Cleave",
+       "quote": "Evolve Bisharp (Pawniard’s Evolution) to get a Kingambit that knows the Charged Attack Kowtow Cleave."
+      },
+      {
+       "pokemon": "Baxcalibur",
+       "attack": "Glaive Rush",
+       "quote": "Evolve Arctibax (Frigibax’s Evolution) to get a Baxcalibur that knows the Charged Attack Glaive Rush."
+      }
+     ],
+     "special_rules": [
+      {
+       "heading": "Limited-time Evolution Requirement",
+       "quote": "From Saturday, December 12, at 9:00 a.m. to Sunday, December 13, at 9:00 p.m. local time, evolve Bisharp into Kingambit after defeating 1 Dark- or Steel-type Raid Boss with Bisharp as your Buddy Pokémon."
+      }
+     ],
      "season_groups": []
     },
     {
      "debuts": [],
-     "featured_attacks": [],
-     "special_rules": [],
+     "featured_attacks": [
+      {
+       "pokemon": "Ninetales",
+       "attack": "Energy Ball",
+       "quote": "Evolve Vulpix to get a Ninetales that knows the Charged Attack Energy Ball."
+      },
+      {
+       "pokemon": "Alolan Ninetales",
+       "attack": "Chilling Water",
+       "quote": "Evolve Alolan Vulpix to get an Alolan Ninetales that knows the Charged Attack Chilling Water."
+      },
+      {
+       "pokemon": "Empoleon",
+       "attack": "Hydro Cannon",
+       "quote": "Evolve Prinplup (Piplup’s Evolution) to get an Empoleon that knows the Charged Attack Hydro Cannon."
+      },
+      {
+       "pokemon": "Garchomp",
+       "attack": "Earth Power",
+       "quote": "Evolve Gabite (Gible’s Evolution) to get a Garchomp that knows the Charged Attack Earth Power."
+      },
+      {
+       "pokemon": "Zoroark",
+       "attack": "Sucker Punch",
+       "quote": "Evolve Zorua to get a Zoroark that knows the Fast Attack Sucker Punch."
+      },
+      {
+       "pokemon": "Hydreigon",
+       "attack": "Brutal Swing",
+       "quote": "Evolve Zweilous (Deino’s Evolution) to get a Hydreigon that knows the Charged Attack Brutal Swing."
+      },
+      {
+       "pokemon": "Rillaboom",
+       "attack": "Frenzy Plant",
+       "quote": "Evolve Thwackey (Grookey’s Evolution) to get a Rillaboom that knows the Charged Attack Frenzy Plant."
+      },
+      {
+       "pokemon": "Cinderace",
+       "attack": "Blast Burn",
+       "quote": "Evolve Raboot (Scorbunny’s Evolution) to get a Cinderace that knows the Charged Attack Blast Burn."
+      },
+      {
+       "pokemon": "Inteleon",
+       "attack": "Hydro Cannon",
+       "quote": "Evolve Drizzile (Sobble’s Evolution) to get an Inteleon that knows the Charged Attack Hydro Cannon."
+      },
+      {
+       "pokemon": "Thievul",
+       "attack": "Icy Wind",
+       "quote": "Evolve Nickit to get a Thievul that knows the Charged Attack Icy Wind."
+      },
+      {
+       "pokemon": "Oinkologne",
+       "attack": "Mud Slap",
+       "quote": "Evolve Lechonk to get an Oinkologne that knows the Fast Attack Mud Slap."
+      },
+      {
+       "pokemon": "Tinkaton",
+       "attack": "Gigaton Hammer",
+       "quote": "Evolve Tinkatuff (Tinkatink’s Evolution) to get a Tinkaton that knows the Charged Attack Gigaton Hammer."
+      },
+      {
+       "pokemon": "Kingambit",
+       "attack": "Kowtow Cleave",
+       "quote": "Evolve Bisharp (Pawniard’s Evolution) to get a Kingambit that knows the Charged Attack Kowtow Cleave."
+      },
+      {
+       "pokemon": "Baxcalibur",
+       "attack": "Glaive Rush",
+       "quote": "Evolve Arctibax (Frigibax’s Evolution) to get a Baxcalibur that knows the Charged Attack Glaive Rush."
+      }
+     ],
+     "special_rules": [
+      {
+       "heading": "Limited-time Evolution Requirement",
+       "quote": "From Saturday, December 12, at 9:00 a.m. to Sunday, December 13, at 9:00 p.m. local time, evolve Bisharp into Kingambit after defeating 1 Dark- or Steel-type Raid Boss with Bisharp as your Buddy Pokémon."
+      }
+     ],
      "season_groups": []
     }
    ],
-   "seen": {},
-   "open": []
+   "seen": {
+    "events:3c15fdca.attack.9f73c2:652605972e5b": {
+     "item": {
+      "id": "events:3c15fdca.attack.9f73c2:652605972e5b",
+      "kind": "auto-read",
+      "held": false,
+      "origin": {
+       "id": "page:december-communityday2026",
+       "title": "December Community Day 2026",
+       "note": "The event's own page, read by two models"
+      },
+      "field": "Featured move · Ninetales",
+      "order": 5,
+      "answerFormat": "names",
+      "answerHint": "Move names, separated by ;",
+      "readings": [
+       {
+        "who": "Both models",
+        "value": "Energy Ball",
+        "quote": "Evolve Vulpix to get a Ninetales that knows the Charged Attack Energy Ball.",
+        "url": "https://leekduck.com/events/december-communityday2026/"
+       }
+      ],
+      "value": "Energy Ball"
+     },
+     "meta": {
+      "source": "events:3c15fdca.attack.9f73c2:652605972e5b",
+      "value": [
+       "Energy Ball"
+      ],
+      "ja": null
+     }
+    },
+    "events:3c15fdca.attack.4057b4:a64dc11bd91e": {
+     "item": {
+      "id": "events:3c15fdca.attack.4057b4:a64dc11bd91e",
+      "kind": "auto-read",
+      "held": false,
+      "origin": {
+       "id": "page:december-communityday2026",
+       "title": "December Community Day 2026",
+       "note": "The event's own page, read by two models"
+      },
+      "field": "Featured move · Alolan Ninetales",
+      "order": 6,
+      "answerFormat": "names",
+      "answerHint": "Move names, separated by ;",
+      "readings": [
+       {
+        "who": "Both models",
+        "value": "Chilling Water",
+        "quote": "Evolve Alolan Vulpix to get an Alolan Ninetales that knows the Charged Attack Chilling Water.",
+        "url": "https://leekduck.com/events/december-communityday2026/"
+       }
+      ],
+      "value": "Chilling Water"
+     },
+     "meta": {
+      "source": "events:3c15fdca.attack.4057b4:a64dc11bd91e",
+      "value": [
+       "Chilling Water"
+      ],
+      "ja": null
+     }
+    },
+    "events:3c15fdca.attack.0548c5:27c801f8d0ef": {
+     "item": {
+      "id": "events:3c15fdca.attack.0548c5:27c801f8d0ef",
+      "kind": "auto-read",
+      "held": false,
+      "origin": {
+       "id": "page:december-communityday2026",
+       "title": "December Community Day 2026",
+       "note": "The event's own page, read by two models"
+      },
+      "field": "Featured move · Empoleon",
+      "order": 7,
+      "answerFormat": "names",
+      "answerHint": "Move names, separated by ;",
+      "readings": [
+       {
+        "who": "Both models",
+        "value": "Hydro Cannon",
+        "quote": "Evolve Prinplup (Piplup’s Evolution) to get an Empoleon that knows the Charged Attack Hydro Cannon.",
+        "url": "https://leekduck.com/events/december-communityday2026/"
+       }
+      ],
+      "value": "Hydro Cannon"
+     },
+     "meta": {
+      "source": "events:3c15fdca.attack.0548c5:27c801f8d0ef",
+      "value": [
+       "Hydro Cannon"
+      ],
+      "ja": null
+     }
+    },
+    "events:3c15fdca.attack.3ab009:02815806bd24": {
+     "item": {
+      "id": "events:3c15fdca.attack.3ab009:02815806bd24",
+      "kind": "auto-read",
+      "held": false,
+      "origin": {
+       "id": "page:december-communityday2026",
+       "title": "December Community Day 2026",
+       "note": "The event's own page, read by two models"
+      },
+      "field": "Featured move · Garchomp",
+      "order": 8,
+      "answerFormat": "names",
+      "answerHint": "Move names, separated by ;",
+      "readings": [
+       {
+        "who": "Both models",
+        "value": "Earth Power",
+        "quote": "Evolve Gabite (Gible’s Evolution) to get a Garchomp that knows the Charged Attack Earth Power.",
+        "url": "https://leekduck.com/events/december-communityday2026/"
+       }
+      ],
+      "value": "Earth Power"
+     },
+     "meta": {
+      "source": "events:3c15fdca.attack.3ab009:02815806bd24",
+      "value": [
+       "Earth Power"
+      ],
+      "ja": null
+     }
+    },
+    "events:3c15fdca.attack.42cd84:8fcff3aa980d": {
+     "item": {
+      "id": "events:3c15fdca.attack.42cd84:8fcff3aa980d",
+      "kind": "auto-read",
+      "held": false,
+      "origin": {
+       "id": "page:december-communityday2026",
+       "title": "December Community Day 2026",
+       "note": "The event's own page, read by two models"
+      },
+      "field": "Featured move · Zoroark",
+      "order": 9,
+      "answerFormat": "names",
+      "answerHint": "Move names, separated by ;",
+      "readings": [
+       {
+        "who": "Both models",
+        "value": "Sucker Punch",
+        "quote": "Evolve Zorua to get a Zoroark that knows the Fast Attack Sucker Punch.",
+        "url": "https://leekduck.com/events/december-communityday2026/"
+       }
+      ],
+      "value": "Sucker Punch"
+     },
+     "meta": {
+      "source": "events:3c15fdca.attack.42cd84:8fcff3aa980d",
+      "value": [
+       "Sucker Punch"
+      ],
+      "ja": null
+     }
+    },
+    "events:3c15fdca.attack.e1e7c0:1c922eeaae4d": {
+     "item": {
+      "id": "events:3c15fdca.attack.e1e7c0:1c922eeaae4d",
+      "kind": "auto-read",
+      "held": false,
+      "origin": {
+       "id": "page:december-communityday2026",
+       "title": "December Community Day 2026",
+       "note": "The event's own page, read by two models"
+      },
+      "field": "Featured move · Hydreigon",
+      "order": 10,
+      "answerFormat": "names",
+      "answerHint": "Move names, separated by ;",
+      "readings": [
+       {
+        "who": "Both models",
+        "value": "Brutal Swing",
+        "quote": "Evolve Zweilous (Deino’s Evolution) to get a Hydreigon that knows the Charged Attack Brutal Swing.",
+        "url": "https://leekduck.com/events/december-communityday2026/"
+       }
+      ],
+      "value": "Brutal Swing"
+     },
+     "meta": {
+      "source": "events:3c15fdca.attack.e1e7c0:1c922eeaae4d",
+      "value": [
+       "Brutal Swing"
+      ],
+      "ja": null
+     }
+    },
+    "events:3c15fdca.attack.c449d4:3f8581e5c068": {
+     "item": {
+      "id": "events:3c15fdca.attack.c449d4:3f8581e5c068",
+      "kind": "auto-read",
+      "held": false,
+      "origin": {
+       "id": "page:december-communityday2026",
+       "title": "December Community Day 2026",
+       "note": "The event's own page, read by two models"
+      },
+      "field": "Featured move · Rillaboom",
+      "order": 11,
+      "answerFormat": "names",
+      "answerHint": "Move names, separated by ;",
+      "readings": [
+       {
+        "who": "Both models",
+        "value": "Frenzy Plant",
+        "quote": "Evolve Thwackey (Grookey’s Evolution) to get a Rillaboom that knows the Charged Attack Frenzy Plant.",
+        "url": "https://leekduck.com/events/december-communityday2026/"
+       }
+      ],
+      "value": "Frenzy Plant"
+     },
+     "meta": {
+      "source": "events:3c15fdca.attack.c449d4:3f8581e5c068",
+      "value": [
+       "Frenzy Plant"
+      ],
+      "ja": null
+     }
+    },
+    "events:3c15fdca.attack.e316bb:b321d6446811": {
+     "item": {
+      "id": "events:3c15fdca.attack.e316bb:b321d6446811",
+      "kind": "auto-read",
+      "held": false,
+      "origin": {
+       "id": "page:december-communityday2026",
+       "title": "December Community Day 2026",
+       "note": "The event's own page, read by two models"
+      },
+      "field": "Featured move · Cinderace",
+      "order": 12,
+      "answerFormat": "names",
+      "answerHint": "Move names, separated by ;",
+      "readings": [
+       {
+        "who": "Both models",
+        "value": "Blast Burn",
+        "quote": "Evolve Raboot (Scorbunny’s Evolution) to get a Cinderace that knows the Charged Attack Blast Burn.",
+        "url": "https://leekduck.com/events/december-communityday2026/"
+       }
+      ],
+      "value": "Blast Burn"
+     },
+     "meta": {
+      "source": "events:3c15fdca.attack.e316bb:b321d6446811",
+      "value": [
+       "Blast Burn"
+      ],
+      "ja": null
+     }
+    },
+    "events:3c15fdca.attack.fa6553:27c801f8d0ef": {
+     "item": {
+      "id": "events:3c15fdca.attack.fa6553:27c801f8d0ef",
+      "kind": "auto-read",
+      "held": false,
+      "origin": {
+       "id": "page:december-communityday2026",
+       "title": "December Community Day 2026",
+       "note": "The event's own page, read by two models"
+      },
+      "field": "Featured move · Inteleon",
+      "order": 13,
+      "answerFormat": "names",
+      "answerHint": "Move names, separated by ;",
+      "readings": [
+       {
+        "who": "Both models",
+        "value": "Hydro Cannon",
+        "quote": "Evolve Drizzile (Sobble’s Evolution) to get an Inteleon that knows the Charged Attack Hydro Cannon.",
+        "url": "https://leekduck.com/events/december-communityday2026/"
+       }
+      ],
+      "value": "Hydro Cannon"
+     },
+     "meta": {
+      "source": "events:3c15fdca.attack.fa6553:27c801f8d0ef",
+      "value": [
+       "Hydro Cannon"
+      ],
+      "ja": null
+     }
+    },
+    "events:3c15fdca.attack.5e98b8:9cb159aebb54": {
+     "item": {
+      "id": "events:3c15fdca.attack.5e98b8:9cb159aebb54",
+      "kind": "auto-read",
+      "held": false,
+      "origin": {
+       "id": "page:december-communityday2026",
+       "title": "December Community Day 2026",
+       "note": "The event's own page, read by two models"
+      },
+      "field": "Featured move · Thievul",
+      "order": 14,
+      "answerFormat": "names",
+      "answerHint": "Move names, separated by ;",
+      "readings": [
+       {
+        "who": "Both models",
+        "value": "Icy Wind",
+        "quote": "Evolve Nickit to get a Thievul that knows the Charged Attack Icy Wind.",
+        "url": "https://leekduck.com/events/december-communityday2026/"
+       }
+      ],
+      "value": "Icy Wind"
+     },
+     "meta": {
+      "source": "events:3c15fdca.attack.5e98b8:9cb159aebb54",
+      "value": [
+       "Icy Wind"
+      ],
+      "ja": null
+     }
+    },
+    "events:3c15fdca.attack.20c1d9:e3758171602f": {
+     "item": {
+      "id": "events:3c15fdca.attack.20c1d9:e3758171602f",
+      "kind": "auto-read",
+      "held": false,
+      "origin": {
+       "id": "page:december-communityday2026",
+       "title": "December Community Day 2026",
+       "note": "The event's own page, read by two models"
+      },
+      "field": "Featured move · Oinkologne",
+      "order": 15,
+      "answerFormat": "names",
+      "answerHint": "Move names, separated by ;",
+      "readings": [
+       {
+        "who": "Both models",
+        "value": "Mud Slap",
+        "quote": "Evolve Lechonk to get an Oinkologne that knows the Fast Attack Mud Slap.",
+        "url": "https://leekduck.com/events/december-communityday2026/"
+       }
+      ],
+      "value": "Mud Slap"
+     },
+     "meta": {
+      "source": "events:3c15fdca.attack.20c1d9:e3758171602f",
+      "value": [
+       "Mud Slap"
+      ],
+      "ja": null
+     }
+    },
+    "events:3c15fdca.attack.f4a5e0:06267a4fbbef": {
+     "item": {
+      "id": "events:3c15fdca.attack.f4a5e0:06267a4fbbef",
+      "kind": "auto-read",
+      "held": false,
+      "origin": {
+       "id": "page:december-communityday2026",
+       "title": "December Community Day 2026",
+       "note": "The event's own page, read by two models"
+      },
+      "field": "Featured move · Tinkaton",
+      "order": 16,
+      "answerFormat": "names",
+      "answerHint": "Move names, separated by ;",
+      "readings": [
+       {
+        "who": "Both models",
+        "value": "Gigaton Hammer",
+        "quote": "Evolve Tinkatuff (Tinkatink’s Evolution) to get a Tinkaton that knows the Charged Attack Gigaton Hammer.",
+        "url": "https://leekduck.com/events/december-communityday2026/"
+       }
+      ],
+      "value": "Gigaton Hammer"
+     },
+     "meta": {
+      "source": "events:3c15fdca.attack.f4a5e0:06267a4fbbef",
+      "value": [
+       "Gigaton Hammer"
+      ],
+      "ja": null
+     }
+    },
+    "events:3c15fdca.attack.f36fc3:3e4678f62890": {
+     "item": {
+      "id": "events:3c15fdca.attack.f36fc3:3e4678f62890",
+      "kind": "auto-read",
+      "held": false,
+      "origin": {
+       "id": "page:december-communityday2026",
+       "title": "December Community Day 2026",
+       "note": "The event's own page, read by two models"
+      },
+      "field": "Featured move · Kingambit",
+      "order": 17,
+      "answerFormat": "names",
+      "answerHint": "Move names, separated by ;",
+      "readings": [
+       {
+        "who": "Both models",
+        "value": "Kowtow Cleave",
+        "quote": "Evolve Bisharp (Pawniard’s Evolution) to get a Kingambit that knows the Charged Attack Kowtow Cleave.",
+        "url": "https://leekduck.com/events/december-communityday2026/"
+       }
+      ],
+      "value": "Kowtow Cleave"
+     },
+     "meta": {
+      "source": "events:3c15fdca.attack.f36fc3:3e4678f62890",
+      "value": [
+       "Kowtow Cleave"
+      ],
+      "ja": null
+     }
+    },
+    "events:3c15fdca.attack.ed0f82:ef56745ebfeb": {
+     "item": {
+      "id": "events:3c15fdca.attack.ed0f82:ef56745ebfeb",
+      "kind": "auto-read",
+      "held": false,
+      "origin": {
+       "id": "page:december-communityday2026",
+       "title": "December Community Day 2026",
+       "note": "The event's own page, read by two models"
+      },
+      "field": "Featured move · Baxcalibur",
+      "order": 18,
+      "answerFormat": "names",
+      "answerHint": "Move names, separated by ;",
+      "readings": [
+       {
+        "who": "Both models",
+        "value": "Glaive Rush",
+        "quote": "Evolve Arctibax (Frigibax’s Evolution) to get a Baxcalibur that knows the Charged Attack Glaive Rush.",
+        "url": "https://leekduck.com/events/december-communityday2026/"
+       }
+      ],
+      "value": "Glaive Rush"
+     },
+     "meta": {
+      "source": "events:3c15fdca.attack.ed0f82:ef56745ebfeb",
+      "value": [
+       "Glaive Rush"
+      ],
+      "ja": null
+     }
+    },
+    "events:3c15fdca.rule.9d0e8f:b8e0d4e9b645": {
+     "item": {
+      "id": "events:3c15fdca.rule.9d0e8f:b8e0d4e9b645",
+      "kind": "auto-read",
+      "held": false,
+      "origin": {
+       "id": "page:december-communityday2026",
+       "title": "December Community Day 2026",
+       "note": "The event's own page, read by two models"
+      },
+      "field": "Special rule · Limited-time Evolution Requirement",
+      "order": 19,
+      "answerFormat": "text",
+      "answerHint": "The sentence that states the rule",
+      "readings": [
+       {
+        "who": "Both models",
+        "value": "From Saturday, December 12, at 9:00 a.m. to Sunday, December 13, at 9:00 p.m. local time, evolve Bisharp into Kingambit after defeating 1 Dark- or Steel-type Raid Boss with Bisharp as your Buddy Pokémon.",
+        "quote": "From Saturday, December 12, at 9:00 a.m. to Sunday, December 13, at 9:00 p.m. local time, evolve Bisharp into Kingambit after defeating 1 Dark- or Steel-type Raid Boss with Bisharp as your Buddy Pokémon.",
+        "url": "https://leekduck.com/events/december-communityday2026/"
+       }
+      ],
+      "value": "From Saturday, December 12, at 9:00 a.m. to Sunday, December 13, at 9:00 p.m. local time, evolve Bisharp into Kingambit after defeating 1 Dark- or Steel-type Raid Boss with Bisharp as your Buddy Pokémon."
+     },
+     "meta": {
+      "source": "events:3c15fdca.rule.9d0e8f:b8e0d4e9b645",
+      "value": "From Saturday, December 12, at 9:00 a.m. to Sunday, December 13, at 9:00 p.m. local time, evolve Bisharp into Kingambit after defeating 1 Dark- or Steel-type Raid Boss with Bisharp as your Buddy Pokémon.",
+      "ja": null
+     }
+    }
+   },
+   "open": [
+    "events:3c15fdca.attack.9f73c2:652605972e5b",
+    "events:3c15fdca.attack.4057b4:a64dc11bd91e",
+    "events:3c15fdca.attack.0548c5:27c801f8d0ef",
+    "events:3c15fdca.attack.3ab009:02815806bd24",
+    "events:3c15fdca.attack.42cd84:8fcff3aa980d",
+    "events:3c15fdca.attack.e1e7c0:1c922eeaae4d",
+    "events:3c15fdca.attack.c449d4:3f8581e5c068",
+    "events:3c15fdca.attack.e316bb:b321d6446811",
+    "events:3c15fdca.attack.fa6553:27c801f8d0ef",
+    "events:3c15fdca.attack.5e98b8:9cb159aebb54",
+    "events:3c15fdca.attack.20c1d9:e3758171602f",
+    "events:3c15fdca.attack.f4a5e0:06267a4fbbef",
+    "events:3c15fdca.attack.f36fc3:3e4678f62890",
+    "events:3c15fdca.attack.ed0f82:ef56745ebfeb",
+    "events:3c15fdca.rule.9d0e8f:b8e0d4e9b645"
+   ]
   },
   "minior-showers-geminids-2026": {
    "readers": [
@@ -3440,21 +4094,6 @@
   }
  },
  "parsed": {
-  "raidhour20261118": {
-   "description": [
-    {
-     "kind": "text",
-     "text": "A Raid Hour featuring Cresselia and Darkrai is scheduled from 6:00 p.m. to 7:00 p.m. local time. During this hour there will be an increased number of five-star raids."
-    }
-   ],
-   "research": [],
-   "pokemon": [],
-   "shiny": {
-    "notes": [],
-    "pokemon": []
-   },
-   "bonuses": []
-  },
   "pokemonspotlighthour2026-11-19": {
    "description": [
     {
@@ -3571,7 +4210,7 @@
    "research": [
     {
      "kind": "special",
-     "title": "Pawniard Community Day (1/3)",
+     "title": "Once a Pawn a Time (1/3)",
      "step": 1,
      "tasks": [
       {
@@ -3684,7 +4323,7 @@
     },
     {
      "kind": "special",
-     "title": "Pawniard Community Day (2/3)",
+     "title": "Once a Pawn a Time (2/3)",
      "step": 2,
      "tasks": [
       {
@@ -3777,7 +4416,7 @@
     },
     {
      "kind": "special",
-     "title": "Pawniard Community Day (3/3)",
+     "title": "Once a Pawn a Time (3/3)",
      "step": 3,
      "tasks": [
       {
@@ -3998,6 +4637,212 @@
      ]
     }
    ]
+  },
+  "pokemon-latin-america-international-championships-2027-timed-research-twitch-drops": {
+   "description": [
+    {
+     "kind": "text",
+     "text": "Get codes for exclusive Timed Research and a Battle Bundle during the 2027 Pokémon Latin America International Championships Twitch broadcast."
+    },
+    {
+     "kind": "text",
+     "text": "PsyRhino took home the gold at the 2026 Pokémon GO North America International Championships with a powerful Shadow Samurott on their team. Watch the 2027 LAIC stream, and you can get a Samurott inspired by PsyRhino’s NAIC-winning team."
+    },
+    {
+     "kind": "text",
+     "text": "Tune in to Twitch.tv/PokemonGO on November 20 and 21, or Twitch.tv/Pokemon on November 22, and you’ll earn rewards the longer you watch. Here’s what you can get:"
+    },
+    {
+     "kind": "text",
+     "text": "Watch for 30 minutes: Unique Timed Research that includes the following."
+    },
+    {
+     "kind": "item",
+     "text": "An encounter with a Samurott inspired by PsyRhino’s NAIC-winning team"
+    },
+    {
+     "kind": "item",
+     "text": "20 Oshawott Candy"
+    },
+    {
+     "kind": "item",
+     "text": "20 Oshawott Candy XL"
+    },
+    {
+     "kind": "item",
+     "text": "10 Charged TMs"
+    },
+    {
+     "kind": "item",
+     "text": "10 Fast TMs"
+    },
+    {
+     "kind": "text",
+     "text": "Watch for 45 minutes: An LAIC Battle Bundle that includes the following."
+    },
+    {
+     "kind": "item",
+     "text": "1 Elite Charged TM"
+    },
+    {
+     "kind": "item",
+     "text": "1 Rare Candy XL"
+    },
+    {
+     "kind": "item",
+     "text": "25 Charged TMs"
+    },
+    {
+     "kind": "item",
+     "text": "25 Fast TMs"
+    },
+    {
+     "kind": "text",
+     "text": "Timed Research tasks must be completed and rewards claimed before Friday, December 4, 2026, at 12:00 p.m. PST."
+    },
+    {
+     "kind": "text",
+     "text": "Find more information on the Timed Research from the Twitch Drops in the Research section."
+    }
+   ],
+   "research": [
+    {
+     "kind": "timed",
+     "title": "2026 Pokémon NAIC's Champion: Bonus Timed Research (1/2)",
+     "step": 1,
+     "tasks": [
+      {
+       "text": "Catch 10 Water-type Pokémon",
+       "rewards": [
+        {
+         "type": "item",
+         "name": "Oshawott Candy",
+         "quantity": 20,
+         "image": "https://cdn.leekduck.com/assets/img/candy/regular/501.png"
+        }
+       ]
+      },
+      {
+       "text": "Catch 20 Pokémon",
+       "rewards": [
+        {
+         "type": "item",
+         "name": "Charged TM",
+         "quantity": 10,
+         "image": "https://cdn.leekduck.com/assets/img/items/Charged TM.png"
+        }
+       ]
+      },
+      {
+       "text": "Evolve a Pokémon",
+       "rewards": [
+        {
+         "type": "item",
+         "name": "Fast TM",
+         "quantity": 10,
+         "image": "https://cdn.leekduck.com/assets/img/items/Fast TM.png"
+        }
+       ]
+      }
+     ],
+     "rewards": [
+      {
+       "type": "item",
+       "name": "Stardust",
+       "quantity": 2026,
+       "image": "https://cdn.leekduck.com/assets/img/items/Stardust.png"
+      },
+      {
+       "type": "item",
+       "name": "XP",
+       "quantity": 503,
+       "image": "https://cdn.leekduck.com/assets/img/icons/xp.png"
+      },
+      {
+       "type": "encounter",
+       "name": "Samurott",
+       "image": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pokemon_icon_503_00.png",
+       "shiny": false
+      }
+     ],
+     "subtitle": "Twitch Drop-exclusive Timed Research",
+     "intro": [
+      "Trainers who redeem the live stream code will get exclusive Timed Research that honors PsyRhino, the 2026 Pokémon GO North America International Championships Champion, and Samurott, a key Pokémon that helped them become Champion! Watch for 30 minutes to unlock this two-step Timed Research.*",
+      "* Tasks must be completed and rewards claimed before Friday, December 4, 2026, at 12:00 p.m. PST. Trainers can only claim each Timed Research code once."
+     ]
+    },
+    {
+     "kind": "timed",
+     "title": "2026 Pokémon NAIC's Champion: Bonus Timed Research (2/2)",
+     "step": 2,
+     "tasks": [
+      {
+       "text": "Power up Pokémon 10 times",
+       "rewards": [
+        {
+         "type": "item",
+         "name": "Oshawott Candy XL",
+         "quantity": 5,
+         "image": "https://cdn.leekduck.com/assets/img/candy/xl/501.png"
+        }
+       ]
+      },
+      {
+       "text": "Battle another Trainer in the Great League",
+       "rewards": [
+        {
+         "type": "item",
+         "name": "Oshawott Candy XL",
+         "quantity": 5,
+         "image": "https://cdn.leekduck.com/assets/img/candy/xl/501.png"
+        }
+       ]
+      },
+      {
+       "text": "Win 3 Trainer Battles in the Great League",
+       "rewards": [
+        {
+         "type": "item",
+         "name": "Oshawott Candy XL",
+         "quantity": 5,
+         "image": "https://cdn.leekduck.com/assets/img/candy/xl/501.png"
+        }
+       ]
+      }
+     ],
+     "rewards": [
+      {
+       "type": "item",
+       "name": null,
+       "candy": {
+        "dex": 501,
+        "xl": true
+       },
+       "quantity": 5,
+       "image": "https://cdn.leekduck.com/assets/img/candy/xl/501.png"
+      },
+      {
+       "type": "item",
+       "name": "XP",
+       "quantity": 503,
+       "image": "https://cdn.leekduck.com/assets/img/icons/xp.png"
+      },
+      {
+       "type": "item",
+       "name": "Stardust",
+       "quantity": 2026,
+       "image": "https://cdn.leekduck.com/assets/img/items/Stardust.png"
+      }
+     ],
+     "notes": []
+    }
+   ],
+   "pokemon": [],
+   "shiny": {
+    "notes": [],
+    "pokemon": []
+   },
+   "bonuses": []
   },
   "dynamax-trails-2026": {
    "description": [
@@ -6058,16 +6903,377 @@
    "description": [
     {
      "kind": "text",
-     "text": "The December Community Day event will take place on December 12 and December 13, 2026 from 2 pm to 5 pm each day. Stay tuned for more details."
+     "text": "Pokémon from Community Days in 2026 return for an end of the year celebration!"
+    },
+    {
+     "kind": "text",
+     "text": "The year is nearly behind us, which means it’s time to reflect on all the fun everyone had during this year’s Community Days. If you missed any, now’s your chance to catch up!"
+    },
+    {
+     "kind": "text",
+     "text": "The last Community Day of 2026 will take place over two days—Saturday, December 12, 2026, and Sunday, December 13, 2026, from 2:00 p.m. to 5:00 p.m. local time."
+    },
+    {
+     "kind": "text",
+     "text": "Note: The only difference between Day 1 and Day 2 are the Pokémon appearing more frequently in the wild."
     }
    ],
    "research": [],
-   "pokemon": [],
+   "pokemon": [
+    {
+     "group": "Wild",
+     "name": "Vulpix",
+     "written": "Vulpix",
+     "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_037_00.png",
+     "shiny": true
+    },
+    {
+     "group": "Wild",
+     "name": "Alolan Vulpix",
+     "written": "Alolan Vulpix",
+     "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_037_61.png",
+     "shiny": true
+    },
+    {
+     "group": "Wild",
+     "name": "Grookey",
+     "written": "Grookey",
+     "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm810.icon.png",
+     "shiny": true
+    },
+    {
+     "group": "Wild",
+     "name": "Scorbunny",
+     "written": "Scorbunny",
+     "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm813.icon.png",
+     "shiny": true
+    },
+    {
+     "group": "Wild",
+     "name": "Lechonk",
+     "written": "Lechonk",
+     "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm915.icon.png",
+     "shiny": true
+    },
+    {
+     "group": "Wild",
+     "name": "Tinkatink",
+     "written": "Tinkatink",
+     "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm957.icon.png",
+     "shiny": true
+    },
+    {
+     "group": "Wild",
+     "name": "Piplup",
+     "written": "Piplup",
+     "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_393_00.png",
+     "shiny": true
+    },
+    {
+     "group": "Wild",
+     "name": "Zorua",
+     "written": "Zorua",
+     "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm570.icon.png",
+     "shiny": true
+    },
+    {
+     "group": "Wild",
+     "name": "Pawniard",
+     "written": "Pawniard",
+     "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_624_00.png",
+     "shiny": true
+    },
+    {
+     "group": "Wild",
+     "name": "Sobble",
+     "written": "Sobble",
+     "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm816.icon.png",
+     "shiny": true
+    },
+    {
+     "group": "Wild",
+     "name": "Nickit",
+     "written": "Nickit",
+     "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm827.icon.png",
+     "shiny": true
+    },
+    {
+     "group": "Wild",
+     "name": "Frigibax",
+     "written": "Frigibax",
+     "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm996.icon.png",
+     "shiny": true
+    },
+    {
+     "group": "Wild",
+     "name": "Gible",
+     "written": "Gible",
+     "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_443_00.png",
+     "shiny": true
+    },
+    {
+     "group": "Wild",
+     "name": "Deino",
+     "written": "Deino",
+     "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_633_00.png",
+     "shiny": true
+    }
+   ],
    "shiny": {
-    "notes": [],
-    "pokemon": []
+    "notes": [
+     "Shiny Pokémon from 2026 Community Days",
+     "This is a list of every available shiny Pokémon featured in Community Day events in 2026 that are available during this event. They are available either through encounters in the wild or via evolution.",
+     "Vulpix, Ninetales, Alolan Vulpix, Alolan Ninetales, Grookey, Thwackey, Rillaboom, Scorbunny, Raboot, Cinderace, Lechonk, Oinkologne, Oinkologne, Tinkatink, Tinkatuff, Tinkaton, Piplup, Prinplup, Empoleon, Zorua, Zoroark, Pawniard, Bisharp, Kingambit, Sobble, Drizzile, Inteleon, Nickit, Thievul, Frigibax, Arctibax, Baxcalibur, Gible, Gabite, Garchomp, Deino, Zweilous, Hydreigon"
+    ],
+    "pokemon": [
+     {
+      "name": "Vulpix",
+      "written": "Vulpix",
+      "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_037_00_shiny.png",
+      "shiny": false
+     },
+     {
+      "name": "Ninetales",
+      "written": "Ninetales",
+      "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_038_00_shiny.png",
+      "shiny": false
+     },
+     {
+      "name": "Alolan Vulpix",
+      "written": "Alolan Vulpix",
+      "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_037_61_shiny.png",
+      "shiny": false
+     },
+     {
+      "name": "Alolan Ninetales",
+      "written": "Alolan Ninetales",
+      "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_038_61_shiny.png",
+      "shiny": false
+     },
+     {
+      "name": "Grookey",
+      "written": "Grookey",
+      "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm810.s.icon.png",
+      "shiny": false
+     },
+     {
+      "name": "Thwackey",
+      "written": "Thwackey",
+      "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm811.s.icon.png",
+      "shiny": false
+     },
+     {
+      "name": "Rillaboom",
+      "written": "Rillaboom",
+      "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm812.s.icon.png",
+      "shiny": false
+     },
+     {
+      "name": "Scorbunny",
+      "written": "Scorbunny",
+      "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm813.s.icon.png",
+      "shiny": false
+     },
+     {
+      "name": "Raboot",
+      "written": "Raboot",
+      "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm814.s.icon.png",
+      "shiny": false
+     },
+     {
+      "name": "Cinderace",
+      "written": "Cinderace",
+      "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm815.s.icon.png",
+      "shiny": false
+     },
+     {
+      "name": "Lechonk",
+      "written": "Lechonk",
+      "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm915.s.icon.png",
+      "shiny": false
+     },
+     {
+      "name": "Oinkologne",
+      "written": "Oinkologne",
+      "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm916.s.icon.png",
+      "shiny": false
+     },
+     {
+      "name": "Oinkologne",
+      "written": "Oinkologne",
+      "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm916.fFEMALE.s.icon.png",
+      "shiny": false
+     },
+     {
+      "name": "Tinkatink",
+      "written": "Tinkatink",
+      "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm957.s.icon.png",
+      "shiny": false
+     },
+     {
+      "name": "Tinkatuff",
+      "written": "Tinkatuff",
+      "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm958.s.icon.png",
+      "shiny": false
+     },
+     {
+      "name": "Tinkaton",
+      "written": "Tinkaton",
+      "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm959.s.icon.png",
+      "shiny": false
+     },
+     {
+      "name": "Piplup",
+      "written": "Piplup",
+      "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_393_00_shiny.png",
+      "shiny": false
+     },
+     {
+      "name": "Prinplup",
+      "written": "Prinplup",
+      "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_394_00_shiny.png",
+      "shiny": false
+     },
+     {
+      "name": "Empoleon",
+      "written": "Empoleon",
+      "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_395_00_shiny.png",
+      "shiny": false
+     },
+     {
+      "name": "Zorua",
+      "written": "Zorua",
+      "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm570.s.icon.png",
+      "shiny": false
+     },
+     {
+      "name": "Zoroark",
+      "written": "Zoroark",
+      "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm571.s.icon.png",
+      "shiny": false
+     },
+     {
+      "name": "Pawniard",
+      "written": "Pawniard",
+      "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_624_00_shiny.png",
+      "shiny": false
+     },
+     {
+      "name": "Bisharp",
+      "written": "Bisharp",
+      "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_625_00_shiny.png",
+      "shiny": false
+     },
+     {
+      "name": "Kingambit",
+      "written": "Kingambit",
+      "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm983.s.icon.png",
+      "shiny": false
+     },
+     {
+      "name": "Sobble",
+      "written": "Sobble",
+      "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm816.s.icon.png",
+      "shiny": false
+     },
+     {
+      "name": "Drizzile",
+      "written": "Drizzile",
+      "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm817.s.icon.png",
+      "shiny": false
+     },
+     {
+      "name": "Inteleon",
+      "written": "Inteleon",
+      "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm818.s.icon.png",
+      "shiny": false
+     },
+     {
+      "name": "Nickit",
+      "written": "Nickit",
+      "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm827.s.icon.png",
+      "shiny": false
+     },
+     {
+      "name": "Thievul",
+      "written": "Thievul",
+      "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm828.s.icon.png",
+      "shiny": false
+     },
+     {
+      "name": "Frigibax",
+      "written": "Frigibax",
+      "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm996.s.icon.png",
+      "shiny": false
+     },
+     {
+      "name": "Arctibax",
+      "written": "Arctibax",
+      "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm997.s.icon.png",
+      "shiny": false
+     },
+     {
+      "name": "Baxcalibur",
+      "written": "Baxcalibur",
+      "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm998.s.icon.png",
+      "shiny": false
+     },
+     {
+      "name": "Gible",
+      "written": "Gible",
+      "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_443_00_shiny.png",
+      "shiny": false
+     },
+     {
+      "name": "Gabite",
+      "written": "Gabite",
+      "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_444_00_shiny.png",
+      "shiny": false
+     },
+     {
+      "name": "Garchomp",
+      "written": "Garchomp",
+      "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_445_00_shiny.png",
+      "shiny": false
+     },
+     {
+      "name": "Deino",
+      "written": "Deino",
+      "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_633_00_shiny.png",
+      "shiny": false
+     },
+     {
+      "name": "Zweilous",
+      "written": "Zweilous",
+      "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_634_00_shiny.png",
+      "shiny": false
+     },
+     {
+      "name": "Hydreigon",
+      "written": "Hydreigon",
+      "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_635_00_shiny.png",
+      "shiny": false
+     }
+    ]
    },
-   "bonuses": []
+   "bonuses": [
+    {
+     "title": null,
+     "description": null,
+     "items": [
+      "Increased Spawns",
+      "2x XP for catching Pokémon",
+      "2x Stardust for catching Pokémon",
+      "1/2 Hatch Distance when Eggs are placed into Incubators during the event period",
+      "2x Catch Candy",
+      "2x Chance for Trainers level 31 and up to receive Candy XL from catching Pokémon",
+      "3-hour Incense**",
+      "1-hour Lures*",
+      "Up to two Special Trades can be made per day*",
+      "Trades made will require 50% less Stardust*"
+     ]
+    }
+   ]
   },
   "minior-showers-geminids-2026": {
    "description": [
@@ -6760,6 +7966,10 @@
    "etag": "\"5aa21516f774901c7ee5ee92acec6178\"",
    "path": "art/9cd4bf2047a2082e4f65176eab223fee.png"
   },
+  "https://cdn.leekduck.com/assets/img/candy/regular/501.png": {
+   "etag": "\"67e2a87844cd13e1790de6a9360c587c\"",
+   "path": "art/a8485957d7651cf31c70b3656a12d564.png"
+  },
   "https://cdn.leekduck.com/assets/img/candy/regular/624.png": {
    "etag": "\"e43b161875e8964558e102e575539835\"",
    "path": "art/7c26b451d3250ca83e16f73a50c2b719.png"
@@ -6767,6 +7977,10 @@
   "https://cdn.leekduck.com/assets/img/candy/xl/374.png": {
    "etag": "\"e233618876b6ca6fcbb2eeaa2600eabd\"",
    "path": "art/0aa3c7f85034ea798e2cf165b880d8fd.png"
+  },
+  "https://cdn.leekduck.com/assets/img/candy/xl/501.png": {
+   "etag": "\"1e745096a73ed6e54c00e643781b686f\"",
+   "path": "art/684ce857c39e1c9716045b905dcb45e1.png"
   },
   "https://cdn.leekduck.com/assets/img/candy/xl/624.png": {
    "etag": "\"9c58a3fd5b81fb5f0f90a1624af5c1c5\"",
@@ -6783,6 +7997,10 @@
   "https://cdn.leekduck.com/assets/img/items/Charged%20TM.png": {
    "etag": "\"73fc49ded4dc581f7c6d9f7bc09fad28\"",
    "path": "art/98bf20ab2c0ccc3ca542a5d8389811be.png"
+  },
+  "https://cdn.leekduck.com/assets/img/items/Fast TM.png": {
+   "etag": "\"72470fe7553ca3151b85cd9707df968c\"",
+   "path": "art/8d0599ae61a7ccc0e4216f6a1d042ca1.png"
   },
   "https://cdn.leekduck.com/assets/img/items/Great Ball.png": {
    "etag": "\"03b1d6b6683bd544fb8d3f9ffd8af558\"",

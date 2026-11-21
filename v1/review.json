@@ -1,6 +1,6 @@
 {
  "schema": 1,
- "built": "2026-11-20T18:04:44Z",
+ "built": "2026-11-21T17:00:11Z",
  "items": [
   {
    "id": "catalog:label:background.lc-pokelid-gunma:dbe6f116e0eb",
@@ -430,6 +430,381 @@
    ],
    "section": "events",
    "firstSeen": "2026-11-14"
+  },
+  {
+   "id": "events:3c15fdca.attack.0548c5:27c801f8d0ef",
+   "kind": "auto-read",
+   "held": false,
+   "origin": {
+    "id": "page:december-communityday2026",
+    "title": "December Community Day 2026",
+    "note": "The event's own page, read by two models"
+   },
+   "field": "Featured move · Empoleon",
+   "order": 7,
+   "answerFormat": "names",
+   "answerHint": "Move names, separated by ;",
+   "readings": [
+    {
+     "who": "Both models",
+     "value": "Hydro Cannon",
+     "quote": "Evolve Prinplup (Piplup’s Evolution) to get an Empoleon that knows the Charged Attack Hydro Cannon.",
+     "url": "https://leekduck.com/events/december-communityday2026/"
+    }
+   ],
+   "value": "Hydro Cannon",
+   "section": "events",
+   "firstSeen": "2026-11-21"
+  },
+  {
+   "id": "events:3c15fdca.attack.20c1d9:e3758171602f",
+   "kind": "auto-read",
+   "held": false,
+   "origin": {
+    "id": "page:december-communityday2026",
+    "title": "December Community Day 2026",
+    "note": "The event's own page, read by two models"
+   },
+   "field": "Featured move · Oinkologne",
+   "order": 15,
+   "answerFormat": "names",
+   "answerHint": "Move names, separated by ;",
+   "readings": [
+    {
+     "who": "Both models",
+     "value": "Mud Slap",
+     "quote": "Evolve Lechonk to get an Oinkologne that knows the Fast Attack Mud Slap.",
+     "url": "https://leekduck.com/events/december-communityday2026/"
+    }
+   ],
+   "value": "Mud Slap",
+   "section": "events",
+   "firstSeen": "2026-11-21"
+  },
+  {
+   "id": "events:3c15fdca.attack.3ab009:02815806bd24",
+   "kind": "auto-read",
+   "held": false,
+   "origin": {
+    "id": "page:december-communityday2026",
+    "title": "December Community Day 2026",
+    "note": "The event's own page, read by two models"
+   },
+   "field": "Featured move · Garchomp",
+   "order": 8,
+   "answerFormat": "names",
+   "answerHint": "Move names, separated by ;",
+   "readings": [
+    {
+     "who": "Both models",
+     "value": "Earth Power",
+     "quote": "Evolve Gabite (Gible’s Evolution) to get a Garchomp that knows the Charged Attack Earth Power.",
+     "url": "https://leekduck.com/events/december-communityday2026/"
+    }
+   ],
+   "value": "Earth Power",
+   "section": "events",
+   "firstSeen": "2026-11-21"
+  },
+  {
+   "id": "events:3c15fdca.attack.4057b4:a64dc11bd91e",
+   "kind": "auto-read",
+   "held": false,
+   "origin": {
+    "id": "page:december-communityday2026",
+    "title": "December Community Day 2026",
+    "note": "The event's own page, read by two models"
+   },
+   "field": "Featured move · Alolan Ninetales",
+   "order": 6,
+   "answerFormat": "names",
+   "answerHint": "Move names, separated by ;",
+   "readings": [
+    {
+     "who": "Both models",
+     "value": "Chilling Water",
+     "quote": "Evolve Alolan Vulpix to get an Alolan Ninetales that knows the Charged Attack Chilling Water.",
+     "url": "https://leekduck.com/events/december-communityday2026/"
+    }
+   ],
+   "value": "Chilling Water",
+   "section": "events",
+   "firstSeen": "2026-11-21"
+  },
+  {
+   "id": "events:3c15fdca.attack.42cd84:8fcff3aa980d",
+   "kind": "auto-read",
+   "held": false,
+   "origin": {
+    "id": "page:december-communityday2026",
+    "title": "December Community Day 2026",
+    "note": "The event's own page, read by two models"
+   },
+   "field": "Featured move · Zoroark",
+   "order": 9,
+   "answerFormat": "names",
+   "answerHint": "Move names, separated by ;",
+   "readings": [
+    {
+     "who": "Both models",
+     "value": "Sucker Punch",
+     "quote": "Evolve Zorua to get a Zoroark that knows the Fast Attack Sucker Punch.",
+     "url": "https://leekduck.com/events/december-communityday2026/"
+    }
+   ],
+   "value": "Sucker Punch",
+   "section": "events",
+   "firstSeen": "2026-11-21"
+  },
+  {
+   "id": "events:3c15fdca.attack.5e98b8:9cb159aebb54",
+   "kind": "auto-read",
+   "held": false,
+   "origin": {
+    "id": "page:december-communityday2026",
+    "title": "December Community Day 2026",
+    "note": "The event's own page, read by two models"
+   },
+   "field": "Featured move · Thievul",
+   "order": 14,
+   "answerFormat": "names",
+   "answerHint": "Move names, separated by ;",
+   "readings": [
+    {
+     "who": "Both models",
+     "value": "Icy Wind",
+     "quote": "Evolve Nickit to get a Thievul that knows the Charged Attack Icy Wind.",
+     "url": "https://leekduck.com/events/december-communityday2026/"
+    }
+   ],
+   "value": "Icy Wind",
+   "section": "events",
+   "firstSeen": "2026-11-21"
+  },
+  {
+   "id": "events:3c15fdca.attack.9f73c2:652605972e5b",
+   "kind": "auto-read",
+   "held": false,
+   "origin": {
+    "id": "page:december-communityday2026",
+    "title": "December Community Day 2026",
+    "note": "The event's own page, read by two models"
+   },
+   "field": "Featured move · Ninetales",
+   "order": 5,
+   "answerFormat": "names",
+   "answerHint": "Move names, separated by ;",
+   "readings": [
+    {
+     "who": "Both models",
+     "value": "Energy Ball",
+     "quote": "Evolve Vulpix to get a Ninetales that knows the Charged Attack Energy Ball.",
+     "url": "https://leekduck.com/events/december-communityday2026/"
+    }
+   ],
+   "value": "Energy Ball",
+   "section": "events",
+   "firstSeen": "2026-11-21"
+  },
+  {
+   "id": "events:3c15fdca.attack.c449d4:3f8581e5c068",
+   "kind": "auto-read",
+   "held": false,
+   "origin": {
+    "id": "page:december-communityday2026",
+    "title": "December Community Day 2026",
+    "note": "The event's own page, read by two models"
+   },
+   "field": "Featured move · Rillaboom",
+   "order": 11,
+   "answerFormat": "names",
+   "answerHint": "Move names, separated by ;",
+   "readings": [
+    {
+     "who": "Both models",
+     "value": "Frenzy Plant",
+     "quote": "Evolve Thwackey (Grookey’s Evolution) to get a Rillaboom that knows the Charged Attack Frenzy Plant.",
+     "url": "https://leekduck.com/events/december-communityday2026/"
+    }
+   ],
+   "value": "Frenzy Plant",
+   "section": "events",
+   "firstSeen": "2026-11-21"
+  },
+  {
+   "id": "events:3c15fdca.attack.e1e7c0:1c922eeaae4d",
+   "kind": "auto-read",
+   "held": false,
+   "origin": {
+    "id": "page:december-communityday2026",
+    "title": "December Community Day 2026",
+    "note": "The event's own page, read by two models"
+   },
+   "field": "Featured move · Hydreigon",
+   "order": 10,
+   "answerFormat": "names",
+   "answerHint": "Move names, separated by ;",
+   "readings": [
+    {
+     "who": "Both models",
+     "value": "Brutal Swing",
+     "quote": "Evolve Zweilous (Deino’s Evolution) to get a Hydreigon that knows the Charged Attack Brutal Swing.",
+     "url": "https://leekduck.com/events/december-communityday2026/"
+    }
+   ],
+   "value": "Brutal Swing",
+   "section": "events",
+   "firstSeen": "2026-11-21"
+  },
+  {
+   "id": "events:3c15fdca.attack.e316bb:b321d6446811",
+   "kind": "auto-read",
+   "held": false,
+   "origin": {
+    "id": "page:december-communityday2026",
+    "title": "December Community Day 2026",
+    "note": "The event's own page, read by two models"
+   },
+   "field": "Featured move · Cinderace",
+   "order": 12,
+   "answerFormat": "names",
+   "answerHint": "Move names, separated by ;",
+   "readings": [
+    {
+     "who": "Both models",
+     "value": "Blast Burn",
+     "quote": "Evolve Raboot (Scorbunny’s Evolution) to get a Cinderace that knows the Charged Attack Blast Burn.",
+     "url": "https://leekduck.com/events/december-communityday2026/"
+    }
+   ],
+   "value": "Blast Burn",
+   "section": "events",
+   "firstSeen": "2026-11-21"
+  },
+  {
+   "id": "events:3c15fdca.attack.ed0f82:ef56745ebfeb",
+   "kind": "auto-read",
+   "held": false,
+   "origin": {
+    "id": "page:december-communityday2026",
+    "title": "December Community Day 2026",
+    "note": "The event's own page, read by two models"
+   },
+   "field": "Featured move · Baxcalibur",
+   "order": 18,
+   "answerFormat": "names",
+   "answerHint": "Move names, separated by ;",
+   "readings": [
+    {
+     "who": "Both models",
+     "value": "Glaive Rush",
+     "quote": "Evolve Arctibax (Frigibax’s Evolution) to get a Baxcalibur that knows the Charged Attack Glaive Rush.",
+     "url": "https://leekduck.com/events/december-communityday2026/"
+    }
+   ],
+   "value": "Glaive Rush",
+   "section": "events",
+   "firstSeen": "2026-11-21"
+  },
+  {
+   "id": "events:3c15fdca.attack.f36fc3:3e4678f62890",
+   "kind": "auto-read",
+   "held": false,
+   "origin": {
+    "id": "page:december-communityday2026",
+    "title": "December Community Day 2026",
+    "note": "The event's own page, read by two models"
+   },
+   "field": "Featured move · Kingambit",
+   "order": 17,
+   "answerFormat": "names",
+   "answerHint": "Move names, separated by ;",
+   "readings": [
+    {
+     "who": "Both models",
+     "value": "Kowtow Cleave",
+     "quote": "Evolve Bisharp (Pawniard’s Evolution) to get a Kingambit that knows the Charged Attack Kowtow Cleave.",
+     "url": "https://leekduck.com/events/december-communityday2026/"
+    }
+   ],
+   "value": "Kowtow Cleave",
+   "section": "events",
+   "firstSeen": "2026-11-21"
+  },
+  {
+   "id": "events:3c15fdca.attack.f4a5e0:06267a4fbbef",
+   "kind": "auto-read",
+   "held": false,
+   "origin": {
+    "id": "page:december-communityday2026",
+    "title": "December Community Day 2026",
+    "note": "The event's own page, read by two models"
+   },
+   "field": "Featured move · Tinkaton",
+   "order": 16,
+   "answerFormat": "names",
+   "answerHint": "Move names, separated by ;",
+   "readings": [
+    {
+     "who": "Both models",
+     "value": "Gigaton Hammer",
+     "quote": "Evolve Tinkatuff (Tinkatink’s Evolution) to get a Tinkaton that knows the Charged Attack Gigaton Hammer.",
+     "url": "https://leekduck.com/events/december-communityday2026/"
+    }
+   ],
+   "value": "Gigaton Hammer",
+   "section": "events",
+   "firstSeen": "2026-11-21"
+  },
+  {
+   "id": "events:3c15fdca.attack.fa6553:27c801f8d0ef",
+   "kind": "auto-read",
+   "held": false,
+   "origin": {
+    "id": "page:december-communityday2026",
+    "title": "December Community Day 2026",
+    "note": "The event's own page, read by two models"
+   },
+   "field": "Featured move · Inteleon",
+   "order": 13,
+   "answerFormat": "names",
+   "answerHint": "Move names, separated by ;",
+   "readings": [
+    {
+     "who": "Both models",
+     "value": "Hydro Cannon",
+     "quote": "Evolve Drizzile (Sobble’s Evolution) to get an Inteleon that knows the Charged Attack Hydro Cannon.",
+     "url": "https://leekduck.com/events/december-communityday2026/"
+    }
+   ],
+   "value": "Hydro Cannon",
+   "section": "events",
+   "firstSeen": "2026-11-21"
+  },
+  {
+   "id": "events:3c15fdca.rule.9d0e8f:b8e0d4e9b645",
+   "kind": "auto-read",
+   "held": false,
+   "origin": {
+    "id": "page:december-communityday2026",
+    "title": "December Community Day 2026",
+    "note": "The event's own page, read by two models"
+   },
+   "field": "Special rule · Limited-time Evolution Requirement",
+   "order": 19,
+   "answerFormat": "text",
+   "answerHint": "The sentence that states the rule",
+   "readings": [
+    {
+     "who": "Both models",
+     "value": "From Saturday, December 12, at 9:00 a.m. to Sunday, December 13, at 9:00 p.m. local time, evolve Bisharp into Kingambit after defeating 1 Dark- or Steel-type Raid Boss with Bisharp as your Buddy Pokémon.",
+     "quote": "From Saturday, December 12, at 9:00 a.m. to Sunday, December 13, at 9:00 p.m. local time, evolve Bisharp into Kingambit after defeating 1 Dark- or Steel-type Raid Boss with Bisharp as your Buddy Pokémon.",
+     "url": "https://leekduck.com/events/december-communityday2026/"
+    }
+   ],
+   "value": "From Saturday, December 12, at 9:00 a.m. to Sunday, December 13, at 9:00 p.m. local time, evolve Bisharp into Kingambit after defeating 1 Dark- or Steel-type Raid Boss with Bisharp as your Buddy Pokémon.",
+   "section": "events",
+   "firstSeen": "2026-11-21"
   },
   {
    "id": "events:6447d796.rule.15282c:64140cee7d8b",
@@ -990,9 +1365,9 @@
    "firstSeen": "2026-11-14"
   },
   {
-   "id": "events:79a17a8c.rule.596f97:52ed3b505c84",
-   "kind": "auto-read",
-   "held": false,
+   "id": "events:79a17a8c.rule.596f97:a4a9188dcf21",
+   "kind": "model-disagreement",
+   "held": true,
    "origin": {
     "id": "page:november-communityday2026",
     "title": "Pawniard Community Day",
@@ -1004,15 +1379,19 @@
    "answerHint": "The sentence that states the rule",
    "readings": [
     {
-     "who": "Both models",
+     "who": "Claude",
+     "value": "Not read",
+     "url": "https://leekduck.com/events/november-communityday2026/"
+    },
+    {
+     "who": "GPT",
      "value": "Trainer Battles: 75 power",
      "quote": "Trainer Battles: 75 power",
      "url": "https://leekduck.com/events/november-communityday2026/"
     }
    ],
-   "value": "Trainer Battles: 75 power",
    "section": "events",
-   "firstSeen": "2026-11-14"
+   "firstSeen": "2026-11-21"
   },
   {
    "id": "events:79a17a8c.rule.9d0e8f:da3ff966221f",
