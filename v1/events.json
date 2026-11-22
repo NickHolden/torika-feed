@@ -2,232 +2,6 @@
  "source": "fork",
  "events": [
   {
-   "id": "pokemonspotlighthour2026-11-19",
-   "name": "Grookey, Scorbunny, and Sobble Spotlight Hour",
-   "type": "pokemon-spotlight-hour",
-   "types": [
-    "pokemon-spotlight-hour"
-   ],
-   "heading": "Pokémon Spotlight Hour",
-   "link": "https://leekduck.com/events/pokemonspotlighthour2026-11-19/",
-   "image": "https://cdn.leekduck.com/assets/img/events/pokemonspotlighthour.jpg",
-   "start": {
-    "time": "2026-11-19T18:00:00",
-    "kind": "local"
-   },
-   "end": {
-    "time": "2026-11-19T19:00:00",
-    "kind": "local"
-   },
-   "inPerson": false,
-   "venueOffset": null,
-   "bonuses": [
-    {
-     "title": null,
-     "description": null,
-     "items": [
-      "2× Catch Candy"
-     ],
-     "notes": []
-    }
-   ],
-   "times": [],
-   "notes": [
-    {
-     "title": "Wild",
-     "text": "The following Pokémon will appear more frequently in the wild."
-    }
-   ],
-   "daily": null,
-   "promoCodes": [],
-   "encounters": [
-    {
-     "group": "Wild",
-     "pokemon": [
-      {
-       "slug": "grookey",
-       "name": "Grookey",
-       "shiny": true
-      },
-      {
-       "slug": "scorbunny",
-       "name": "Scorbunny",
-       "shiny": true
-      },
-      {
-       "slug": "sobble",
-       "name": "Sobble",
-       "shiny": true
-      }
-     ]
-    }
-   ],
-   "research": [],
-   "sources": [
-    {
-     "name": "LeekDuck",
-     "url": "https://leekduck.com/events/pokemonspotlighthour2026-11-19/",
-     "read": "2026-11-21T17:00:11Z"
-    }
-   ],
-   "listed": true,
-   "description": [
-    {
-     "kind": "text",
-     "text": "Pokémon Spotlight Hour will feature a different Pokémon and special bonus for one hour at 6:00 p.m. local time."
-    },
-    {
-     "kind": "text",
-     "text": "November 19: The featured Pokémon are Grookey, Scorbunny, and Sobble and the special bonus is 2× Catch Candy."
-    }
-   ]
-  },
-  {
-   "id": "minior-showers-leonids-2026",
-   "name": "Minior Showers: Leonids 2026",
-   "type": "event",
-   "types": [
-    "event"
-   ],
-   "heading": "Event",
-   "link": "https://leekduck.com/events/minior-showers-leonids-2026/",
-   "image": "https://cdn.leekduck.com/assets/img/events/minior-showers-2026.jpg",
-   "start": {
-    "time": "2026-11-14T17:00:00",
-    "kind": "local"
-   },
-   "end": {
-    "time": "2026-11-19T23:59:00",
-    "kind": "local"
-   },
-   "inPerson": false,
-   "venueOffset": null,
-   "bonuses": [
-    {
-     "title": null,
-     "description": null,
-     "items": [
-      "Increased Stardust for catching Minior",
-      "Increased chance to encounter Minior from 5:00 p.m. to 9:00 p.m. local time each day"
-     ],
-     "notes": []
-    }
-   ],
-   "times": [
-    {
-     "label": "Wild Encounters",
-     "detail": null,
-     "when": [
-      {
-       "date": null,
-       "endDate": null,
-       "from": "5:00 p.m.",
-       "to": "9:00 p.m.",
-       "allDay": false,
-       "everyDay": true
-      }
-     ]
-    },
-    {
-     "label": "Increased chance to encounter Minior from 5:00 p.m. to 9:00 p.m. local time each day",
-     "detail": null,
-     "when": [
-      {
-       "date": null,
-       "endDate": null,
-       "from": "5:00 p.m.",
-       "to": "9:00 p.m.",
-       "allDay": false,
-       "everyDay": true
-      }
-     ]
-    }
-   ],
-   "notes": [
-    {
-     "title": "Wild Encounters",
-     "text": "You may encounter Minior in its Meteor Form in the wild during the event. You’ll receive 1,000 Stardust for catching Minior."
-    },
-    {
-     "title": "Wild Encounters",
-     "text": "Minior encounters are more likely from 5:00 p.m. to 9:00 p.m. local time each day."
-    }
-   ],
-   "daily": null,
-   "promoCodes": [],
-   "encounters": [
-    {
-     "group": "Wild Encounters",
-     "pokemon": [
-      {
-       "slug": null,
-       "name": "Minior (Meteor Form)",
-       "unmatched": true,
-       "source": "poke_capture_0774_000_uk_n_00000000_f_n.png",
-       "shiny": false
-      }
-     ]
-    }
-   ],
-   "research": [],
-   "sources": [
-    {
-     "name": "LeekDuck",
-     "url": "https://leekduck.com/events/minior-showers-leonids-2026/",
-     "read": "2026-11-21T17:00:11Z"
-    }
-   ],
-   "listed": true,
-   "description": [
-    {
-     "kind": "text",
-     "text": "Explore by starlight during the Leonids meteor shower for a chance to encounter Minior in Pokémon GO!"
-    },
-    {
-     "kind": "text",
-     "text": "This Minior Shower runs from November 14, 2026 at 5:00 p.m. to November 19, 2026 at 11:59 p.m. local time."
-    }
-   ],
-   "freeText": {
-    "debuts": [
-     {
-      "kind": "pokemon",
-      "status": "held"
-     }
-    ],
-    "attacks": [],
-    "rules": [
-     {
-      "heading": "Pokémon Debut",
-      "status": "held"
-     },
-     {
-      "heading": "Explore by Starlight",
-      "value": "From 5:00 p.m. to 9:00 p.m. local time every day during each Minior Shower, shooting stars will light up the in-game sky. During these hours, you’ll have an increased chance of encountering Minior in the wild!",
-      "status": "auto-read",
-      "quote": "From 5:00 p.m. to 9:00 p.m. local time every day during each Minior Shower, shooting stars will light up the in-game sky. During these hours, you’ll have an increased chance of encountering Minior in the wild!",
-      "url": "https://leekduck.com/events/minior-showers-leonids-2026/"
-     },
-     {
-      "heading": "Minior’s Form Changes",
-      "value": "Initially, Minior will only be able to change forms when battling Team GO Rocket, team leaders, or in the GO Battle League.",
-      "status": "auto-read",
-      "quote": "Initially, Minior will only be able to change forms when battling Team GO Rocket, team leaders, or in the GO Battle League.",
-      "url": "https://leekduck.com/events/minior-showers-leonids-2026/"
-     },
-     {
-      "heading": "Annual Meteor Shower Schedule",
-      "value": "Minior can appear during the following meteor showers each year. Each shower begins at 5:00 p.m. on its first day and ends at 11:59 p.m. on its last day, in local time.",
-      "status": "auto-read",
-      "quote": "Minior can appear during the following meteor showers each year. Each shower begins at 5:00 p.m. on its first day and ends at 11:59 p.m. on its last day, in local time.",
-      "url": "https://leekduck.com/events/minior-showers-leonids-2026/"
-     }
-    ],
-    "groups": [],
-    "read": true
-   }
-  },
-  {
    "id": "eternamax-eternatus-max-battles-2026",
    "name": "Eternamax Eternatus Returns",
    "type": "max-battles",
@@ -284,7 +58,7 @@
     {
      "name": "LeekDuck",
      "url": "https://leekduck.com/events/eternamax-eternatus-max-battles-2026/",
-     "read": "2026-11-21T17:00:11Z"
+     "read": "2026-11-22T17:28:20Z"
     }
    ],
    "listed": true,
@@ -760,7 +534,7 @@
     {
      "name": "LeekDuck",
      "url": "https://leekduck.com/events/november-communityday2026/",
-     "read": "2026-11-21T17:00:11Z"
+     "read": "2026-11-22T17:28:20Z"
     }
    ],
    "listed": true,
@@ -990,7 +764,7 @@
     {
      "name": "LeekDuck",
      "url": "https://leekduck.com/events/pokemon-latin-america-international-championships-2027-timed-research-twitch-drops/",
-     "read": "2026-11-21T17:00:11Z"
+     "read": "2026-11-22T17:28:20Z"
     }
    ],
    "listed": true,
@@ -1958,7 +1732,7 @@
     {
      "name": "LeekDuck",
      "url": "https://leekduck.com/events/dynamax-trails-2026/",
-     "read": "2026-11-21T17:00:11Z"
+     "read": "2026-11-22T17:28:20Z"
     }
    ],
    "listed": true,
@@ -2039,7 +1813,7 @@
     {
      "name": "LeekDuck",
      "url": "https://leekduck.com/events/max-mondays-2026-11-23/",
-     "read": "2026-11-21T17:00:11Z"
+     "read": "2026-11-22T17:28:20Z"
     }
    ],
    "listed": true,
@@ -2130,7 +1904,7 @@
     {
      "name": "LeekDuck",
      "url": "https://leekduck.com/events/cresselia-darkrai-in-5-star-raid-battles-november-2026/",
-     "read": "2026-11-21T17:00:11Z"
+     "read": "2026-11-22T17:28:20Z"
     }
    ],
    "listed": true,
@@ -2204,7 +1978,7 @@
     {
      "name": "LeekDuck",
      "url": "https://leekduck.com/events/mega-banette-in-mega-raids-november-2026/",
-     "read": "2026-11-21T17:00:11Z"
+     "read": "2026-11-22T17:28:20Z"
     }
    ],
    "listed": true,
@@ -2250,7 +2024,7 @@
     {
      "name": "LeekDuck",
      "url": "https://leekduck.com/events/gbl-twilight-trails_ultra-league_master-league-mega-edition_2026-go-laic-cup/",
-     "read": "2026-11-21T17:00:11Z"
+     "read": "2026-11-22T17:28:20Z"
     }
    ],
    "listed": true,
@@ -2344,7 +2118,7 @@
     {
      "name": "LeekDuck",
      "url": "https://leekduck.com/events/raidhour20261125/",
-     "read": "2026-11-21T17:00:11Z"
+     "read": "2026-11-22T17:28:20Z"
     }
    ],
    "listed": true,
@@ -2411,7 +2185,7 @@
     {
      "name": "LeekDuck",
      "url": "https://leekduck.com/events/pokemonspotlighthour2026-11-26/",
-     "read": "2026-11-21T17:00:11Z"
+     "read": "2026-11-22T17:28:20Z"
     }
    ],
    "listed": true,
@@ -2599,7 +2373,7 @@
     {
      "name": "LeekDuck",
      "url": "https://leekduck.com/events/clefable-super-mega-raid-day-2026/",
-     "read": "2026-11-21T17:00:11Z"
+     "read": "2026-11-22T17:28:20Z"
     }
    ],
    "listed": true,
@@ -2805,7 +2579,7 @@
     {
      "name": "LeekDuck",
      "url": "https://leekduck.com/events/twilight-wishes-2026/",
-     "read": "2026-11-21T17:00:11Z"
+     "read": "2026-11-22T17:28:20Z"
     }
    ],
    "listed": true,
@@ -2881,7 +2655,7 @@
     {
      "name": "LeekDuck",
      "url": "https://leekduck.com/events/max-mondays-2026-11-30/",
-     "read": "2026-11-21T17:00:11Z"
+     "read": "2026-11-22T17:28:20Z"
     }
    ],
    "listed": true,
@@ -3246,7 +3020,7 @@
     {
      "name": "LeekDuck",
      "url": "https://leekduck.com/events/season-24-twilight-trails/",
-     "read": "2026-11-21T17:00:11Z"
+     "read": "2026-11-22T17:28:20Z"
     }
    ],
    "listed": true,
@@ -3392,7 +3166,7 @@
     {
      "name": "LeekDuck",
      "url": "https://leekduck.com/events/go-pass-november-2026/",
-     "read": "2026-11-21T17:00:11Z"
+     "read": "2026-11-22T17:28:20Z"
     }
    ],
    "listed": true,
@@ -3502,7 +3276,7 @@
     {
      "name": "LeekDuck",
      "url": "https://leekduck.com/events/gbl-twilight-trails_master-league_mega-catch-cup-great-league-edition/",
-     "read": "2026-11-21T17:00:11Z"
+     "read": "2026-11-22T17:28:20Z"
     }
    ],
    "listed": true,
@@ -3591,7 +3365,7 @@
     {
      "name": "LeekDuck",
      "url": "https://leekduck.com/events/shadow-tornadus-incarnate-forme-in-shadow-raids-november-16-2026/",
-     "read": "2026-11-21T17:00:11Z"
+     "read": "2026-11-22T17:28:20Z"
     }
    ],
    "listed": true,
@@ -3668,7 +3442,7 @@
     {
      "name": "LeekDuck",
      "url": "https://leekduck.com/events/deoxys-normal-defense-attack-speed-formes-in-5-star-raid-battles-november-2026/",
-     "read": "2026-11-21T17:00:11Z"
+     "read": "2026-11-22T17:28:20Z"
     }
    ],
    "listed": true,
@@ -3742,7 +3516,7 @@
     {
      "name": "LeekDuck",
      "url": "https://leekduck.com/events/mega-metagross-in-mega-raids-november-2026/",
-     "read": "2026-11-21T17:00:11Z"
+     "read": "2026-11-22T17:28:20Z"
     }
    ],
    "listed": true,
@@ -3788,7 +3562,7 @@
     {
      "name": "LeekDuck",
      "url": "https://leekduck.com/events/max-battle-day-december-2026/",
-     "read": "2026-11-21T17:00:11Z"
+     "read": "2026-11-22T17:28:20Z"
     }
    ],
    "listed": true,
@@ -4123,7 +3897,7 @@
     {
      "name": "LeekDuck",
      "url": "https://leekduck.com/events/december-communityday2026/",
-     "read": "2026-11-21T17:00:11Z"
+     "read": "2026-11-22T17:28:20Z"
     }
    ],
    "listed": true,
@@ -4380,7 +4154,7 @@
     {
      "name": "LeekDuck",
      "url": "https://leekduck.com/events/minior-showers-geminids-2026/",
-     "read": "2026-11-21T17:00:11Z"
+     "read": "2026-11-22T17:28:20Z"
     }
    ],
    "listed": true,
@@ -4462,7 +4236,7 @@
     {
      "name": "LeekDuck",
      "url": "https://leekduck.com/events/raid-day-december-2026/",
-     "read": "2026-11-21T17:00:11Z"
+     "read": "2026-11-22T17:28:20Z"
     }
    ],
    "listed": true,
@@ -4504,7 +4278,7 @@
     {
      "name": "LeekDuck",
      "url": "https://leekduck.com/events/hatch-day-december-2026/",
-     "read": "2026-11-21T17:00:11Z"
+     "read": "2026-11-22T17:28:20Z"
     }
    ],
    "listed": true,
@@ -4572,7 +4346,7 @@
     {
      "name": "LeekDuck",
      "url": "https://leekduck.com/events/duolingo-timed-research-2026/",
-     "read": "2026-11-21T17:00:11Z"
+     "read": "2026-11-22T17:28:20Z"
     }
    ],
    "listed": true,
@@ -4647,7 +4421,7 @@
     {
      "name": "LeekDuck",
      "url": "https://leekduck.com/events/january-communitydayclassic2027/",
-     "read": "2026-11-21T17:00:11Z"
+     "read": "2026-11-22T17:28:20Z"
     }
    ],
    "listed": true,
@@ -4689,7 +4463,7 @@
     {
      "name": "LeekDuck",
      "url": "https://leekduck.com/events/super-mega-raid-day-january-2027/",
-     "read": "2026-11-21T17:00:11Z"
+     "read": "2026-11-22T17:28:20Z"
     }
    ],
    "listed": true,
@@ -4957,7 +4731,7 @@
     {
      "name": "LeekDuck",
      "url": "https://leekduck.com/events/pokemon-x-adidas-2026/",
-     "read": "2026-11-21T17:00:11Z"
+     "read": "2026-11-22T17:28:20Z"
     }
    ],
    "listed": true,
@@ -5025,7 +4799,7 @@
     {
      "name": "LeekDuck",
      "url": "https://leekduck.com/events/january-communityday2027/",
-     "read": "2026-11-21T17:00:11Z"
+     "read": "2026-11-22T17:28:20Z"
     }
    ],
    "listed": true,
@@ -5067,7 +4841,7 @@
     {
      "name": "LeekDuck",
      "url": "https://leekduck.com/events/max-battle-day-january-2027/",
-     "read": "2026-11-21T17:00:11Z"
+     "read": "2026-11-22T17:28:20Z"
     }
    ],
    "listed": true,
@@ -5109,7 +4883,7 @@
     {
      "name": "LeekDuck",
      "url": "https://leekduck.com/events/super-mega-raid-day-january-30-2027/",
-     "read": "2026-11-21T17:00:11Z"
+     "read": "2026-11-22T17:28:20Z"
     }
    ],
    "listed": true,
@@ -5151,7 +4925,7 @@
     {
      "name": "LeekDuck",
      "url": "https://leekduck.com/events/february-communityday2027/",
-     "read": "2026-11-21T17:00:11Z"
+     "read": "2026-11-22T17:28:20Z"
     }
    ],
    "listed": true,
@@ -5193,7 +4967,7 @@
     {
      "name": "LeekDuck",
      "url": "https://leekduck.com/events/raid-day-february-2027/",
-     "read": "2026-11-21T17:00:11Z"
+     "read": "2026-11-22T17:28:20Z"
     }
    ],
    "listed": true,
@@ -5236,7 +5010,7 @@
     {
      "name": "LeekDuck",
      "url": "https://leekduck.com/events/pokemon-go-tour-alola-kaohsiung-2027/",
-     "read": "2026-11-21T17:00:11Z"
+     "read": "2026-11-22T17:28:20Z"
     }
    ],
    "listed": true,
@@ -5306,7 +5080,7 @@
     {
      "name": "LeekDuck",
      "url": "https://leekduck.com/events/pokemon-go-tour-alola-los-angeles-2027/",
-     "read": "2026-11-21T17:00:11Z"
+     "read": "2026-11-22T17:28:20Z"
     }
    ],
    "listed": true,
@@ -5375,7 +5149,7 @@
     {
      "name": "LeekDuck",
      "url": "https://leekduck.com/events/pokemon-go-tour-alola-global-2027/",
-     "read": "2026-11-21T17:00:11Z"
+     "read": "2026-11-22T17:28:20Z"
     }
    ],
    "listed": true,
@@ -5502,7 +5276,7 @@
     {
      "name": "LeekDuck",
      "url": "https://leekduck.com/events/minior-showers-eta-aquariids-2027/",
-     "read": "2026-11-21T17:00:11Z"
+     "read": "2026-11-22T17:28:20Z"
     }
    ],
    "listed": true,
@@ -5645,7 +5419,7 @@
     {
      "name": "LeekDuck",
      "url": "https://leekduck.com/events/minior-showers-southern-delta-aquariids-2027/",
-     "read": "2026-11-21T17:00:11Z"
+     "read": "2026-11-22T17:28:20Z"
     }
    ],
    "listed": true,
@@ -5788,7 +5562,7 @@
     {
      "name": "LeekDuck",
      "url": "https://leekduck.com/events/minior-showers-perseids-2027/",
-     "read": "2026-11-21T17:00:11Z"
+     "read": "2026-11-22T17:28:20Z"
     }
    ],
    "listed": true,
@@ -5830,6 +5604,232 @@
       "status": "auto-read",
       "quote": "Minior can appear during the following meteor showers each year. Each shower begins at 5:00 p.m. on its first day and ends at 11:59 p.m. on its last day, in local time.",
       "url": "https://leekduck.com/events/minior-showers-perseids-2027/"
+     }
+    ],
+    "groups": [],
+    "read": true
+   }
+  },
+  {
+   "id": "pokemonspotlighthour2026-11-19",
+   "name": "Grookey, Scorbunny, and Sobble Spotlight Hour",
+   "type": "pokemon-spotlight-hour",
+   "types": [
+    "pokemon-spotlight-hour"
+   ],
+   "heading": "Pokémon Spotlight Hour",
+   "link": "https://leekduck.com/events/pokemonspotlighthour2026-11-19/",
+   "image": "https://cdn.leekduck.com/assets/img/events/pokemonspotlighthour.jpg",
+   "start": {
+    "time": "2026-11-19T18:00:00",
+    "kind": "local"
+   },
+   "end": {
+    "time": "2026-11-19T19:00:00",
+    "kind": "local"
+   },
+   "inPerson": false,
+   "venueOffset": null,
+   "bonuses": [
+    {
+     "title": null,
+     "description": null,
+     "items": [
+      "2× Catch Candy"
+     ],
+     "notes": []
+    }
+   ],
+   "times": [],
+   "notes": [
+    {
+     "title": "Wild",
+     "text": "The following Pokémon will appear more frequently in the wild."
+    }
+   ],
+   "daily": null,
+   "promoCodes": [],
+   "encounters": [
+    {
+     "group": "Wild",
+     "pokemon": [
+      {
+       "slug": "grookey",
+       "name": "Grookey",
+       "shiny": true
+      },
+      {
+       "slug": "scorbunny",
+       "name": "Scorbunny",
+       "shiny": true
+      },
+      {
+       "slug": "sobble",
+       "name": "Sobble",
+       "shiny": true
+      }
+     ]
+    }
+   ],
+   "research": [],
+   "sources": [
+    {
+     "name": "LeekDuck",
+     "url": "https://leekduck.com/events/pokemonspotlighthour2026-11-19/",
+     "read": "2026-11-21T17:00:11Z"
+    }
+   ],
+   "listed": false,
+   "description": [
+    {
+     "kind": "text",
+     "text": "Pokémon Spotlight Hour will feature a different Pokémon and special bonus for one hour at 6:00 p.m. local time."
+    },
+    {
+     "kind": "text",
+     "text": "November 19: The featured Pokémon are Grookey, Scorbunny, and Sobble and the special bonus is 2× Catch Candy."
+    }
+   ]
+  },
+  {
+   "id": "minior-showers-leonids-2026",
+   "name": "Minior Showers: Leonids 2026",
+   "type": "event",
+   "types": [
+    "event"
+   ],
+   "heading": "Event",
+   "link": "https://leekduck.com/events/minior-showers-leonids-2026/",
+   "image": "https://cdn.leekduck.com/assets/img/events/minior-showers-2026.jpg",
+   "start": {
+    "time": "2026-11-14T17:00:00",
+    "kind": "local"
+   },
+   "end": {
+    "time": "2026-11-19T23:59:00",
+    "kind": "local"
+   },
+   "inPerson": false,
+   "venueOffset": null,
+   "bonuses": [
+    {
+     "title": null,
+     "description": null,
+     "items": [
+      "Increased Stardust for catching Minior",
+      "Increased chance to encounter Minior from 5:00 p.m. to 9:00 p.m. local time each day"
+     ],
+     "notes": []
+    }
+   ],
+   "times": [
+    {
+     "label": "Wild Encounters",
+     "detail": null,
+     "when": [
+      {
+       "date": null,
+       "endDate": null,
+       "from": "5:00 p.m.",
+       "to": "9:00 p.m.",
+       "allDay": false,
+       "everyDay": true
+      }
+     ]
+    },
+    {
+     "label": "Increased chance to encounter Minior from 5:00 p.m. to 9:00 p.m. local time each day",
+     "detail": null,
+     "when": [
+      {
+       "date": null,
+       "endDate": null,
+       "from": "5:00 p.m.",
+       "to": "9:00 p.m.",
+       "allDay": false,
+       "everyDay": true
+      }
+     ]
+    }
+   ],
+   "notes": [
+    {
+     "title": "Wild Encounters",
+     "text": "You may encounter Minior in its Meteor Form in the wild during the event. You’ll receive 1,000 Stardust for catching Minior."
+    },
+    {
+     "title": "Wild Encounters",
+     "text": "Minior encounters are more likely from 5:00 p.m. to 9:00 p.m. local time each day."
+    }
+   ],
+   "daily": null,
+   "promoCodes": [],
+   "encounters": [
+    {
+     "group": "Wild Encounters",
+     "pokemon": [
+      {
+       "slug": null,
+       "name": "Minior (Meteor Form)",
+       "unmatched": true,
+       "source": "poke_capture_0774_000_uk_n_00000000_f_n.png",
+       "shiny": false
+      }
+     ]
+    }
+   ],
+   "research": [],
+   "sources": [
+    {
+     "name": "LeekDuck",
+     "url": "https://leekduck.com/events/minior-showers-leonids-2026/",
+     "read": "2026-11-21T17:00:11Z"
+    }
+   ],
+   "listed": false,
+   "description": [
+    {
+     "kind": "text",
+     "text": "Explore by starlight during the Leonids meteor shower for a chance to encounter Minior in Pokémon GO!"
+    },
+    {
+     "kind": "text",
+     "text": "This Minior Shower runs from November 14, 2026 at 5:00 p.m. to November 19, 2026 at 11:59 p.m. local time."
+    }
+   ],
+   "freeText": {
+    "debuts": [
+     {
+      "kind": "pokemon",
+      "status": "held"
+     }
+    ],
+    "attacks": [],
+    "rules": [
+     {
+      "heading": "Pokémon Debut",
+      "status": "held"
+     },
+     {
+      "heading": "Explore by Starlight",
+      "value": "From 5:00 p.m. to 9:00 p.m. local time every day during each Minior Shower, shooting stars will light up the in-game sky. During these hours, you’ll have an increased chance of encountering Minior in the wild!",
+      "status": "auto-read",
+      "quote": "From 5:00 p.m. to 9:00 p.m. local time every day during each Minior Shower, shooting stars will light up the in-game sky. During these hours, you’ll have an increased chance of encountering Minior in the wild!",
+      "url": "https://leekduck.com/events/minior-showers-leonids-2026/"
+     },
+     {
+      "heading": "Minior’s Form Changes",
+      "value": "Initially, Minior will only be able to change forms when battling Team GO Rocket, team leaders, or in the GO Battle League.",
+      "status": "auto-read",
+      "quote": "Initially, Minior will only be able to change forms when battling Team GO Rocket, team leaders, or in the GO Battle League.",
+      "url": "https://leekduck.com/events/minior-showers-leonids-2026/"
+     },
+     {
+      "heading": "Annual Meteor Shower Schedule",
+      "value": "Minior can appear during the following meteor showers each year. Each shower begins at 5:00 p.m. on its first day and ends at 11:59 p.m. on its last day, in local time.",
+      "status": "auto-read",
+      "quote": "Minior can appear during the following meteor showers each year. Each shower begins at 5:00 p.m. on its first day and ends at 11:59 p.m. on its last day, in local time.",
+      "url": "https://leekduck.com/events/minior-showers-leonids-2026/"
      }
     ],
     "groups": [],

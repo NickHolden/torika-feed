@@ -933,25 +933,6 @@
    "end": null
   },
   {
-   "slug": null,
-   "name": "Eternatus Eternamax",
-   "unmatched": true,
-   "source": "ETERNATUS_ETERNAMAX_FORM",
-   "kind": "max",
-   "level": 20,
-   "boostedLevel": null,
-   "floor": 10,
-   "boostedFloor": null,
-   "start": {
-    "time": "2026-11-21T11:00:00",
-    "kind": "local"
-   },
-   "end": {
-    "time": "2026-11-21T14:00:00",
-    "kind": "local"
-   }
-  },
-  {
    "slug": "zekrom-shadow",
    "name": "Shadow Zekrom",
    "kind": "rocket",
