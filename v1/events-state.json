@@ -852,12 +852,16 @@
     "Claude",
     "GPT"
    ],
-   "hash": "sha256-722b3b254cd7b49e73632151d833a0b3601e374e9b360bbb3a6b6d40c0801626",
+   "hash": "sha256-45dacace84d62034dfdc67710c974929250f3aed4325843f5b9d4a9db1c5df21",
    "readings": [
     {
      "debuts": [],
      "featured_attacks": [],
      "special_rules": [
+      {
+       "heading": "Featured Pokémon",
+       "quote": "Espeon wearing a sun scarf, Umbreon wearing a moon scarf, and Rockruff are featured during Twilight Wishes. All three can be Shiny if you’re lucky!"
+      },
       {
        "heading": "Explore with Decor",
        "quote": "Stars will light up the in-game skies during Twilight Wishes, with colorful decor to enjoy as you explore."
@@ -882,11 +886,11 @@
     }
    ],
    "seen": {
-    "events:b915f7e1.rule.a860be:cd734c48f518": {
+    "events:b915f7e1.rule.a860be:81c9740af259": {
      "item": {
-      "id": "events:b915f7e1.rule.a860be:cd734c48f518",
-      "kind": "model-disagreement",
-      "held": true,
+      "id": "events:b915f7e1.rule.a860be:81c9740af259",
+      "kind": "auto-read",
+      "held": false,
       "origin": {
        "id": "page:twilight-wishes-2026",
        "title": "Twilight Wishes",
@@ -898,29 +902,18 @@
       "answerHint": "The sentence that states the rule",
       "readings": [
        {
-        "who": "Claude",
-        "value": "Not read",
-        "url": "https://leekduck.com/events/twilight-wishes-2026/"
-       },
-       {
-        "who": "GPT",
+        "who": "Both models",
         "value": "Espeon wearing a sun scarf, Umbreon wearing a moon scarf, and Rockruff are featured during Twilight Wishes. All three can be Shiny if you’re lucky!",
         "quote": "Espeon wearing a sun scarf, Umbreon wearing a moon scarf, and Rockruff are featured during Twilight Wishes. All three can be Shiny if you’re lucky!",
         "url": "https://leekduck.com/events/twilight-wishes-2026/"
        }
-      ]
+      ],
+      "value": "Espeon wearing a sun scarf, Umbreon wearing a moon scarf, and Rockruff are featured during Twilight Wishes. All three can be Shiny if you’re lucky!"
      },
      "meta": {
-      "source": "events:b915f7e1.rule.a860be:cd734c48f518",
-      "left": {
-       "quote": null,
-       "ja": null
-      },
-      "right": {
-       "value": "Espeon wearing a sun scarf, Umbreon wearing a moon scarf, and Rockruff are featured during Twilight Wishes. All three can be Shiny if you’re lucky!",
-       "quote": "Espeon wearing a sun scarf, Umbreon wearing a moon scarf, and Rockruff are featured during Twilight Wishes. All three can be Shiny if you’re lucky!",
-       "ja": null
-      }
+      "source": "events:b915f7e1.rule.a860be:81c9740af259",
+      "value": "Espeon wearing a sun scarf, Umbreon wearing a moon scarf, and Rockruff are featured during Twilight Wishes. All three can be Shiny if you’re lucky!",
+      "ja": null
      }
     },
     "events:b915f7e1.rule.e87801:fca464bdcabe": {
@@ -955,7 +948,7 @@
     }
    },
    "open": [
-    "events:b915f7e1.rule.a860be:cd734c48f518",
+    "events:b915f7e1.rule.a860be:81c9740af259",
     "events:b915f7e1.rule.e87801:fca464bdcabe"
    ]
   },
@@ -5929,7 +5922,263 @@
      "text": "Twilight Wishes runs from Tuesday, November 24, at 10:00 a.m. to Monday, November 30, 2026, at 8:00 p.m. local time."
     }
    ],
-   "research": [],
+   "research": [
+    {
+     "kind": "field",
+     "title": "Field Research Task Rewards",
+     "step": null,
+     "tasks": [
+      {
+       "text": "Catch 10 Pokémon",
+       "rewards": [
+        {
+         "type": "encounter",
+         "name": "Electrike",
+         "image": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pokemon_icon_309_00.png",
+         "shiny": true,
+         "cp": {
+          "min": 380,
+          "max": 413
+         }
+        },
+        {
+         "type": "encounter",
+         "name": "Flamigo",
+         "image": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm973.icon.png",
+         "shiny": true,
+         "cp": {
+          "min": 1125,
+          "max": 1181
+         }
+        },
+        {
+         "type": "encounter",
+         "name": "Greavard",
+         "image": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm971.icon.png",
+         "shiny": true,
+         "cp": {
+          "min": 402,
+          "max": 435
+         }
+        }
+       ]
+      },
+      {
+       "text": "Explore 1 km",
+       "rewards": [
+        {
+         "type": "encounter",
+         "name": "Elgyem",
+         "image": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pokemon_icon_605_00.png",
+         "shiny": true,
+         "cp": {
+          "min": 554,
+          "max": 593
+         }
+        },
+        {
+         "type": "encounter",
+         "name": "Staryu",
+         "image": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pokemon_icon_120_00.png",
+         "shiny": true,
+         "cp": {
+          "min": 459,
+          "max": 495
+         }
+        }
+       ]
+      },
+      {
+       "text": "Hatch an Egg",
+       "rewards": [
+        {
+         "type": "encounter",
+         "name": "Maschiff",
+         "image": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/Maschiff.png",
+         "shiny": false,
+         "cp": {
+          "min": 560,
+          "max": 600
+         }
+        }
+       ]
+      },
+      {
+       "text": "Spin a PokéStop you haven't visited before",
+       "rewards": [
+        {
+         "type": "item",
+         "name": "Rare Candy XL",
+         "quantity": 1,
+         "image": "https://cdn.leekduck.com/assets/img/items/Rare Candy XL.png"
+        }
+       ]
+      },
+      {
+       "text": "Use a Lure Module at a PokéStop",
+       "rewards": [
+        {
+         "type": "encounter",
+         "name": "Applin",
+         "image": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm840.icon.png",
+         "shiny": true,
+         "cp": {
+          "min": 277,
+          "max": 306
+         }
+        }
+       ]
+      },
+      {
+       "text": "Mega Evolve a Pokémon",
+       "rewards": [
+        {
+         "type": "item",
+         "name": "Beedrill Mega Energy",
+         "quantity": 25,
+         "image": "https://cdn.leekduck.com/assets/img/mega_energy/Beedrill Mega Energy.png"
+        },
+        {
+         "type": "item",
+         "name": "Houndoom Mega Energy",
+         "quantity": 25,
+         "image": "https://cdn.leekduck.com/assets/img/mega_energy/Houndoom Mega Energy.png"
+        }
+       ]
+      },
+      {
+       "text": "Catch 10 Pokémon",
+       "rewards": [
+        {
+         "type": "encounter",
+         "name": "Electrike",
+         "image": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pokemon_icon_309_00.png",
+         "shiny": true,
+         "cp": {
+          "min": 380,
+          "max": 413
+         }
+        },
+        {
+         "type": "encounter",
+         "name": "Flamigo",
+         "image": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm973.icon.png",
+         "shiny": true,
+         "cp": {
+          "min": 1125,
+          "max": 1181
+         }
+        },
+        {
+         "type": "encounter",
+         "name": "Greavard",
+         "image": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm971.icon.png",
+         "shiny": true,
+         "cp": {
+          "min": 402,
+          "max": 435
+         }
+        }
+       ]
+      },
+      {
+       "text": "Explore 1 km",
+       "rewards": [
+        {
+         "type": "encounter",
+         "name": "Elgyem",
+         "image": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pokemon_icon_605_00.png",
+         "shiny": true,
+         "cp": {
+          "min": 554,
+          "max": 593
+         }
+        },
+        {
+         "type": "encounter",
+         "name": "Staryu",
+         "image": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pokemon_icon_120_00.png",
+         "shiny": true,
+         "cp": {
+          "min": 459,
+          "max": 495
+         }
+        }
+       ]
+      },
+      {
+       "text": "Spin a PokéStop you haven't visited before",
+       "rewards": [
+        {
+         "type": "item",
+         "name": "Rare Candy XL",
+         "quantity": 1,
+         "image": "https://cdn.leekduck.com/assets/img/items/Rare Candy XL.png"
+        }
+       ]
+      },
+      {
+       "text": "Mega Evolve a Pokémon",
+       "rewards": [
+        {
+         "type": "item",
+         "name": "Beedrill Mega Energy",
+         "quantity": 25,
+         "image": "https://cdn.leekduck.com/assets/img/mega_energy/Beedrill Mega Energy.png"
+        },
+        {
+         "type": "item",
+         "name": "Houndoom Mega Energy",
+         "quantity": 25,
+         "image": "https://cdn.leekduck.com/assets/img/mega_energy/Houndoom Mega Energy.png"
+        }
+       ]
+      },
+      {
+       "text": "???",
+       "rewards": [
+        {
+         "type": "encounter",
+         "name": "Spooky Festival Gengar",
+         "image": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm94.cFALL_2022_NOEVOLVE.icon.png",
+         "shiny": true,
+         "cp": {
+          "min": 1175,
+          "max": 1233
+         }
+        }
+       ]
+      },
+      {
+       "text": "???",
+       "rewards": [
+        {
+         "type": "encounter",
+         "name": "Halloween Drifblim",
+         "image": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm426.cHALLOWEEN_2021_NOEVOLVE.icon.png",
+         "shiny": true
+        }
+       ]
+      },
+      {
+       "text": "???",
+       "rewards": [
+        {
+         "type": "encounter",
+         "name": "Bramblin",
+         "image": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm946.icon.png",
+         "shiny": false,
+         "cp": {
+          "min": 343,
+          "max": 375
+         }
+        }
+       ]
+      }
+     ],
+     "rewards": []
+    }
+   ],
    "pokemon": [
     {
      "group": "Wild",
@@ -5940,9 +6189,30 @@
     },
     {
      "group": "Wild",
+     "name": "Jigglypuff",
+     "written": "Jigglypuff",
+     "image": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pokemon_icon_039_00.png",
+     "shiny": false
+    },
+    {
+     "group": "Wild",
      "name": "Staryu",
      "written": "Staryu",
      "image": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pokemon_icon_120_00.png",
+     "shiny": false
+    },
+    {
+     "group": "Wild",
+     "name": "Chimecho",
+     "written": "Chimecho",
+     "image": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pokemon_icon_358_00.png",
+     "shiny": false
+    },
+    {
+     "group": "Wild",
+     "name": "Munna",
+     "written": "Munna",
+     "image": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pokemon_icon_517_00.png",
      "shiny": false
     },
     {
@@ -5957,55 +6227,6 @@
      "name": "Rockruff",
      "written": "Rockruff",
      "image": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm744.icon.png",
-     "shiny": false
-    },
-    {
-     "group": "Research",
-     "name": "Staryu",
-     "written": "Staryu",
-     "image": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pokemon_icon_120_00.png",
-     "shiny": false
-    },
-    {
-     "group": "Research",
-     "name": "Elgyem",
-     "written": "Elgyem",
-     "image": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pokemon_icon_605_00.png",
-     "shiny": false
-    },
-    {
-     "group": "Research",
-     "name": "Applin",
-     "written": "Applin",
-     "image": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm840.icon.png",
-     "shiny": false
-    },
-    {
-     "group": "Research",
-     "name": "Maschiff",
-     "written": "Maschiff",
-     "image": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm942.icon.png",
-     "shiny": false
-    },
-    {
-     "group": "Research",
-     "name": "Gengar wearing a Spooky Festival costume",
-     "written": "Gengar wearing a Spooky Festival costume",
-     "image": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm94.cFALL_2022_NOEVOLVE.icon.png",
-     "shiny": false
-    },
-    {
-     "group": "Research",
-     "name": "Drifblim wearing a Halloween Mischief costume",
-     "written": "Drifblim wearing a Halloween Mischief costume",
-     "image": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm426.cHALLOWEEN_2021_NOEVOLVE.icon.png",
-     "shiny": false
-    },
-    {
-     "group": "Research",
-     "name": "Bramblin",
-     "written": "Bramblin",
-     "image": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm946.icon.png",
      "shiny": false
     }
    ],

@@ -28,6 +28,10 @@
    "etag": "\"04190467369a08fb887a0b767f4477f9\"",
    "path": "art/ec10e1a5cc6faf5364bc40a98ff2798d.png"
   },
+  "https://cdn.leekduck.com/assets/img/items/Rare Candy XL.png": {
+   "etag": "\"8e10ee673cce14621e617caf565414b1\"",
+   "path": "art/6644d57fdfda3e89e012a5f8b7069f69.png"
+  },
   "https://cdn.leekduck.com/assets/img/items/Rare Candy.png": {
    "etag": "\"870f0c46846bd7b049eb02979cee0b9d\"",
    "path": "art/31e9486f2c9cac50a3efadb5dde11d91.png"
@@ -79,6 +83,10 @@
   "https://cdn.leekduck.com/assets/img/mega_energy/Charizard Mega Energy.png": {
    "etag": "\"439ff618802133505c677257ea7d74fe\"",
    "path": "art/1afacdd9e42b4221e37e9d304b17c4e7.png"
+  },
+  "https://cdn.leekduck.com/assets/img/mega_energy/Houndoom Mega Energy.png": {
+   "etag": "\"2c8bc454f62b2309d6977de74b97daf8\"",
+   "path": "art/1368b3633dad847f61b8818dc7f5ebab.png"
   },
   "https://cdn.leekduck.com/assets/img/mega_energy/Manectric Mega Energy.png": {
    "etag": "\"ca51b01688f8fc822c35528b18b1e8a7\"",

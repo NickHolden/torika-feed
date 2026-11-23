@@ -1,6 +1,6 @@
 {
  "schema": 1,
- "built": "2026-11-22T17:28:20Z",
+ "built": "2026-11-23T21:47:20Z",
  "items": [
   {
    "id": "catalog:label:background.lc-pokelid-gunma:dbe6f116e0eb",
@@ -1552,9 +1552,9 @@
    "firstSeen": "2026-11-14"
   },
   {
-   "id": "events:b915f7e1.rule.a860be:cd734c48f518",
-   "kind": "model-disagreement",
-   "held": true,
+   "id": "events:b915f7e1.rule.a860be:81c9740af259",
+   "kind": "auto-read",
+   "held": false,
    "origin": {
     "id": "page:twilight-wishes-2026",
     "title": "Twilight Wishes",
@@ -1566,19 +1566,15 @@
    "answerHint": "The sentence that states the rule",
    "readings": [
     {
-     "who": "Claude",
-     "value": "Not read",
-     "url": "https://leekduck.com/events/twilight-wishes-2026/"
-    },
-    {
-     "who": "GPT",
+     "who": "Both models",
      "value": "Espeon wearing a sun scarf, Umbreon wearing a moon scarf, and Rockruff are featured during Twilight Wishes. All three can be Shiny if you’re lucky!",
      "quote": "Espeon wearing a sun scarf, Umbreon wearing a moon scarf, and Rockruff are featured during Twilight Wishes. All three can be Shiny if you’re lucky!",
      "url": "https://leekduck.com/events/twilight-wishes-2026/"
     }
    ],
+   "value": "Espeon wearing a sun scarf, Umbreon wearing a moon scarf, and Rockruff are featured during Twilight Wishes. All three can be Shiny if you’re lucky!",
    "section": "events",
-   "firstSeen": "2026-11-14"
+   "firstSeen": "2026-11-23"
   },
   {
    "id": "events:b915f7e1.rule.e87801:fca464bdcabe",
@@ -1722,6 +1718,26 @@
    "firstSeen": "2026-11-13"
   },
   {
+   "id": "raids:fallback.0fe71485:075a69f7cf97",
+   "kind": "fallback-read",
+   "held": false,
+   "origin": {
+    "id": "raids:fallback:twilight-wishes-2026-cresselia-darkrai",
+    "title": "Twilight Wishes (Cresselia and Darkrai)",
+    "note": "Read by two models: the parser could not read the page"
+   },
+   "field": "Bosses read by the models",
+   "readings": [
+    {
+     "who": "Claude and GPT",
+     "value": "10 bosses read alike by both models",
+     "url": "https://leekduck.com/raids/twilight-wishes-2026-cresselia-darkrai"
+    }
+   ],
+   "section": "raids",
+   "firstSeen": "2026-11-23"
+  },
+  {
    "id": "raids:fallback.139b84f3:e7f0ba2e318e",
    "kind": "fallback-read",
    "held": false,
@@ -1740,6 +1756,53 @@
    ],
    "section": "raids",
    "firstSeen": "2026-11-16"
+  },
+  {
+   "id": "raids:fallback.d4771033:9e9677eccce5",
+   "kind": "fallback-read",
+   "held": false,
+   "origin": {
+    "id": "raids:fallback:twilight-wishes-2026-deoxys",
+    "title": "Twilight Wishes (Deoxys)",
+    "note": "Read by two models: the parser could not read the page"
+   },
+   "field": "Bosses read by the models",
+   "readings": [
+    {
+     "who": "Claude and GPT",
+     "value": "12 bosses read alike by both models",
+     "url": "https://leekduck.com/raids/twilight-wishes-2026-deoxys"
+    }
+   ],
+   "section": "raids",
+   "firstSeen": "2026-11-23"
+  },
+  {
+   "id": "raids:tier-3:e45594283505",
+   "kind": "source-disagreement",
+   "held": false,
+   "origin": {
+    "id": "raids",
+    "title": "Current raid bosses",
+    "note": "LeekDuck against Pokebattler"
+   },
+   "field": "3-Star Raids",
+   "readings": [
+    {
+     "who": "LeekDuck",
+     "value": "Alolan Marowak, Liepard, Golurk, Espeon wearing a sun scarf, Umbreon wearing a moon scarf",
+     "url": "https://leekduck.com/raids/"
+    },
+    {
+     "who": "Pokebattler",
+     "value": "Day Scarf Espeon, Golurk, Liepard, Alolan Marowak, Night Scarf Umbreon",
+     "url": "https://www.pokebattler.com/raids"
+    }
+   ],
+   "showing": 0,
+   "answerHint": "Boss names, separated by commas",
+   "section": "raids",
+   "firstSeen": "2026-11-23"
   },
   {
    "id": "raids:tier-5:6e2d3a5b669e",

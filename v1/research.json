@@ -1,6 +1,134 @@
 {
  "categories": [
   {
+   "title": "Twilight Wishes Tasks",
+   "event": true,
+   "end": {
+    "time": "2026-11-30T20:00:00",
+    "kind": "local"
+   },
+   "tasks": [
+    {
+     "text": "Catch 10 Pokémon",
+     "rewards": [
+      {
+       "type": "encounter",
+       "shiny": true,
+       "cp": {
+        "min": 380,
+        "max": 413
+       },
+       "slug": "electrike",
+       "name": "Electrike"
+      },
+      {
+       "type": "encounter",
+       "shiny": true,
+       "cp": {
+        "min": 402,
+        "max": 435
+       },
+       "slug": "greavard",
+       "name": "Greavard"
+      },
+      {
+       "type": "encounter",
+       "shiny": true,
+       "cp": {
+        "min": 1125,
+        "max": 1181
+       },
+       "slug": "flamigo",
+       "name": "Flamigo"
+      }
+     ]
+    },
+    {
+     "text": "Explore 1 km",
+     "rewards": [
+      {
+       "type": "encounter",
+       "shiny": true,
+       "cp": {
+        "min": 459,
+        "max": 495
+       },
+       "slug": "staryu",
+       "name": "Staryu"
+      },
+      {
+       "type": "encounter",
+       "shiny": true,
+       "cp": {
+        "min": 554,
+        "max": 593
+       },
+       "slug": "elgyem",
+       "name": "Elgyem"
+      }
+     ]
+    },
+    {
+     "text": "Hatch an Egg",
+     "rewards": [
+      {
+       "type": "encounter",
+       "shiny": false,
+       "cp": {
+        "min": 560,
+        "max": 600
+       },
+       "slug": "maschiff",
+       "name": "Maschiff"
+      }
+     ]
+    },
+    {
+     "text": "Spin a PokéStop you haven't visited before",
+     "rewards": [
+      {
+       "type": "item",
+       "quantity": 1,
+       "name": "Rare Candy XL",
+       "icon": "art/6644d57fdfda3e89e012a5f8b7069f69.png"
+      }
+     ]
+    },
+    {
+     "text": "Use a Lure Module at a PokéStop",
+     "rewards": [
+      {
+       "type": "encounter",
+       "shiny": true,
+       "cp": {
+        "min": 277,
+        "max": 306
+       },
+       "slug": "applin",
+       "name": "Applin"
+      }
+     ]
+    },
+    {
+     "text": "Mega Evolve a Pokémon",
+     "rewards": [
+      {
+       "type": "resource",
+       "quantity": 25,
+       "name": "Beedrill Mega Energy",
+       "icon": "art/5b6bc3ffdbd42a3a63022727b904fc75.png"
+      },
+      {
+       "type": "resource",
+       "quantity": 25,
+       "name": "Houndoom Mega Energy",
+       "icon": "art/1368b3633dad847f61b8818dc7f5ebab.png"
+      }
+     ]
+    }
+   ]
+  },
+  {
    "title": "Dynamax Trails Tasks",
    "event": true,
    "end": {

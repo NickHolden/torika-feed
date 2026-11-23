@@ -171,6 +171,388 @@
    }
   },
   {
+   "slug": "pikachu-gofest-2024-stiara",
+   "name": "Sun Crown Pikachu",
+   "kind": "raid",
+   "level": 20,
+   "boostedLevel": 25,
+   "floor": 10,
+   "boostedFloor": 10,
+   "start": {
+    "time": "2026-11-24T10:00:00",
+    "kind": "local"
+   },
+   "end": {
+    "time": "2026-11-25T06:00:00",
+    "kind": "local"
+   }
+  },
+  {
+   "slug": "pikachu-gofest-2024-mtiara",
+   "name": "Moon Crown Pikachu",
+   "kind": "raid",
+   "level": 20,
+   "boostedLevel": 25,
+   "floor": 10,
+   "boostedFloor": 10,
+   "start": {
+    "time": "2026-11-24T10:00:00",
+    "kind": "local"
+   },
+   "end": {
+    "time": "2026-11-25T06:00:00",
+    "kind": "local"
+   }
+  },
+  {
+   "slug": null,
+   "name": "Espeon wearing a sun scarf",
+   "unmatched": true,
+   "source": "Espeon wearing a sun scarf",
+   "kind": "raid",
+   "level": 20,
+   "boostedLevel": 25,
+   "floor": 10,
+   "boostedFloor": 10,
+   "start": {
+    "time": "2026-11-24T10:00:00",
+    "kind": "local"
+   },
+   "end": {
+    "time": "2026-11-25T06:00:00",
+    "kind": "local"
+   }
+  },
+  {
+   "slug": null,
+   "name": "Umbreon wearing a moon scarf",
+   "unmatched": true,
+   "source": "Umbreon wearing a moon scarf",
+   "kind": "raid",
+   "level": 20,
+   "boostedLevel": 25,
+   "floor": 10,
+   "boostedFloor": 10,
+   "start": {
+    "time": "2026-11-24T10:00:00",
+    "kind": "local"
+   },
+   "end": {
+    "time": "2026-11-25T06:00:00",
+    "kind": "local"
+   }
+  },
+  {
+   "slug": "cresselia",
+   "name": "Cresselia",
+   "kind": "raid",
+   "level": 20,
+   "boostedLevel": 25,
+   "floor": 10,
+   "boostedFloor": 10,
+   "start": {
+    "time": "2026-11-24T10:00:00",
+    "kind": "local"
+   },
+   "end": {
+    "time": "2026-11-25T06:00:00",
+    "kind": "local"
+   }
+  },
+  {
+   "slug": "darkrai",
+   "name": "Darkrai",
+   "kind": "raid",
+   "level": 20,
+   "boostedLevel": 25,
+   "floor": 10,
+   "boostedFloor": 10,
+   "start": {
+    "time": "2026-11-24T10:00:00",
+    "kind": "local"
+   },
+   "end": {
+    "time": "2026-11-25T06:00:00",
+    "kind": "local"
+   }
+  },
+  {
+   "slug": "beedrill",
+   "name": "Beedrill",
+   "kind": "raid",
+   "level": 20,
+   "boostedLevel": 25,
+   "floor": 10,
+   "boostedFloor": 10,
+   "start": {
+    "time": "2026-11-24T10:00:00",
+    "kind": "local"
+   },
+   "end": {
+    "time": "2026-11-25T06:00:00",
+    "kind": "local"
+   }
+  },
+  {
+   "slug": "houndoom",
+   "name": "Houndoom",
+   "kind": "raid",
+   "level": 20,
+   "boostedLevel": 25,
+   "floor": 10,
+   "boostedFloor": 10,
+   "start": {
+    "time": "2026-11-24T10:00:00",
+    "kind": "local"
+   },
+   "end": {
+    "time": "2026-11-25T06:00:00",
+    "kind": "local"
+   }
+  },
+  {
+   "slug": "sableye",
+   "name": "Sableye",
+   "kind": "raid",
+   "level": 20,
+   "boostedLevel": 25,
+   "floor": 10,
+   "boostedFloor": 10,
+   "start": {
+    "time": "2026-11-24T10:00:00",
+    "kind": "local"
+   },
+   "end": {
+    "time": "2026-11-25T06:00:00",
+    "kind": "local"
+   }
+  },
+  {
+   "slug": "manectric",
+   "name": "Manectric",
+   "kind": "raid",
+   "level": 20,
+   "boostedLevel": 25,
+   "floor": 10,
+   "boostedFloor": 10,
+   "start": {
+    "time": "2026-11-24T10:00:00",
+    "kind": "local"
+   },
+   "end": {
+    "time": "2026-11-25T06:00:00",
+    "kind": "local"
+   }
+  },
+  {
+   "slug": "pikachu-gofest-2024-stiara",
+   "name": "Sun Crown Pikachu",
+   "kind": "raid",
+   "level": 20,
+   "boostedLevel": 25,
+   "floor": 10,
+   "boostedFloor": 10,
+   "start": {
+    "time": "2026-11-25T06:00:00",
+    "kind": "local"
+   },
+   "end": {
+    "time": "2026-11-30T20:00:00",
+    "kind": "local"
+   }
+  },
+  {
+   "slug": "pikachu-gofest-2024-mtiara",
+   "name": "Moon Crown Pikachu",
+   "kind": "raid",
+   "level": 20,
+   "boostedLevel": 25,
+   "floor": 10,
+   "boostedFloor": 10,
+   "start": {
+    "time": "2026-11-25T06:00:00",
+    "kind": "local"
+   },
+   "end": {
+    "time": "2026-11-30T20:00:00",
+    "kind": "local"
+   }
+  },
+  {
+   "slug": null,
+   "name": "Espeon wearing a sun scarf",
+   "unmatched": true,
+   "source": "Espeon wearing a sun scarf",
+   "kind": "raid",
+   "level": 20,
+   "boostedLevel": 25,
+   "floor": 10,
+   "boostedFloor": 10,
+   "start": {
+    "time": "2026-11-25T06:00:00",
+    "kind": "local"
+   },
+   "end": {
+    "time": "2026-11-30T20:00:00",
+    "kind": "local"
+   }
+  },
+  {
+   "slug": null,
+   "name": "Umbreon wearing a moon scarf",
+   "unmatched": true,
+   "source": "Umbreon wearing a moon scarf",
+   "kind": "raid",
+   "level": 20,
+   "boostedLevel": 25,
+   "floor": 10,
+   "boostedFloor": 10,
+   "start": {
+    "time": "2026-11-25T06:00:00",
+    "kind": "local"
+   },
+   "end": {
+    "time": "2026-11-30T20:00:00",
+    "kind": "local"
+   }
+  },
+  {
+   "slug": "deoxys",
+   "name": "Deoxys Normal",
+   "kind": "raid",
+   "level": 20,
+   "boostedLevel": 25,
+   "floor": 10,
+   "boostedFloor": 10,
+   "start": {
+    "time": "2026-11-25T06:00:00",
+    "kind": "local"
+   },
+   "end": {
+    "time": "2026-11-30T20:00:00",
+    "kind": "local"
+   }
+  },
+  {
+   "slug": "deoxys-defense",
+   "name": "Deoxys Defense",
+   "kind": "raid",
+   "level": 20,
+   "boostedLevel": 25,
+   "floor": 10,
+   "boostedFloor": 10,
+   "start": {
+    "time": "2026-11-25T06:00:00",
+    "kind": "local"
+   },
+   "end": {
+    "time": "2026-11-30T20:00:00",
+    "kind": "local"
+   }
+  },
+  {
+   "slug": "deoxys-attack",
+   "name": "Deoxys Attack",
+   "kind": "raid",
+   "level": 20,
+   "boostedLevel": 25,
+   "floor": 10,
+   "boostedFloor": 10,
+   "start": {
+    "time": "2026-11-25T06:00:00",
+    "kind": "local"
+   },
+   "end": {
+    "time": "2026-11-30T20:00:00",
+    "kind": "local"
+   }
+  },
+  {
+   "slug": "deoxys-speed",
+   "name": "Deoxys Speed",
+   "kind": "raid",
+   "level": 20,
+   "boostedLevel": 25,
+   "floor": 10,
+   "boostedFloor": 10,
+   "start": {
+    "time": "2026-11-25T06:00:00",
+    "kind": "local"
+   },
+   "end": {
+    "time": "2026-11-30T20:00:00",
+    "kind": "local"
+   }
+  },
+  {
+   "slug": "beedrill",
+   "name": "Beedrill",
+   "kind": "raid",
+   "level": 20,
+   "boostedLevel": 25,
+   "floor": 10,
+   "boostedFloor": 10,
+   "start": {
+    "time": "2026-11-25T06:00:00",
+    "kind": "local"
+   },
+   "end": {
+    "time": "2026-11-30T20:00:00",
+    "kind": "local"
+   }
+  },
+  {
+   "slug": "houndoom",
+   "name": "Houndoom",
+   "kind": "raid",
+   "level": 20,
+   "boostedLevel": 25,
+   "floor": 10,
+   "boostedFloor": 10,
+   "start": {
+    "time": "2026-11-25T06:00:00",
+    "kind": "local"
+   },
+   "end": {
+    "time": "2026-11-30T20:00:00",
+    "kind": "local"
+   }
+  },
+  {
+   "slug": "sableye",
+   "name": "Sableye",
+   "kind": "raid",
+   "level": 20,
+   "boostedLevel": 25,
+   "floor": 10,
+   "boostedFloor": 10,
+   "start": {
+    "time": "2026-11-25T06:00:00",
+    "kind": "local"
+   },
+   "end": {
+    "time": "2026-11-30T20:00:00",
+    "kind": "local"
+   }
+  },
+  {
+   "slug": "manectric",
+   "name": "Manectric",
+   "kind": "raid",
+   "level": 20,
+   "boostedLevel": 25,
+   "floor": 10,
+   "boostedFloor": 10,
+   "start": {
+    "time": "2026-11-25T06:00:00",
+    "kind": "local"
+   },
+   "end": {
+    "time": "2026-11-30T20:00:00",
+    "kind": "local"
+   }
+  },
+  {
    "slug": "larvitar-shadow",
    "name": "Shadow Larvitar",
    "kind": "raid",
@@ -924,6 +1306,19 @@
      "name": "Toxtricity Low Key"
     }
    ],
+   "kind": "max",
+   "level": 20,
+   "boostedLevel": null,
+   "floor": 10,
+   "boostedFloor": null,
+   "start": null,
+   "end": null
+  },
+  {
+   "slug": null,
+   "name": "Eternatus Eternamax",
+   "unmatched": true,
+   "source": "ETERNATUS_ETERNAMAX_FORM",
    "kind": "max",
    "level": 20,
    "boostedLevel": null,
@@ -1923,6 +2318,98 @@
    "end": null
   },
   {
+   "slug": "electrike",
+   "name": "Electrike",
+   "kind": "research",
+   "level": 15,
+   "boostedLevel": null,
+   "floor": 10,
+   "boostedFloor": null,
+   "start": null,
+   "end": null
+  },
+  {
+   "slug": "greavard",
+   "name": "Greavard",
+   "kind": "research",
+   "level": 15,
+   "boostedLevel": null,
+   "floor": 10,
+   "boostedFloor": null,
+   "start": null,
+   "end": {
+    "time": "2026-11-30T20:00:00",
+    "kind": "local"
+   }
+  },
+  {
+   "slug": "flamigo",
+   "name": "Flamigo",
+   "kind": "research",
+   "level": 15,
+   "boostedLevel": null,
+   "floor": 10,
+   "boostedFloor": null,
+   "start": null,
+   "end": {
+    "time": "2026-11-30T20:00:00",
+    "kind": "local"
+   }
+  },
+  {
+   "slug": "staryu",
+   "name": "Staryu",
+   "kind": "research",
+   "level": 15,
+   "boostedLevel": null,
+   "floor": 10,
+   "boostedFloor": null,
+   "start": null,
+   "end": {
+    "time": "2026-11-30T20:00:00",
+    "kind": "local"
+   }
+  },
+  {
+   "slug": "elgyem",
+   "name": "Elgyem",
+   "kind": "research",
+   "level": 15,
+   "boostedLevel": null,
+   "floor": 10,
+   "boostedFloor": null,
+   "start": null,
+   "end": null
+  },
+  {
+   "slug": "maschiff",
+   "name": "Maschiff",
+   "kind": "research",
+   "level": 15,
+   "boostedLevel": null,
+   "floor": 10,
+   "boostedFloor": null,
+   "start": null,
+   "end": {
+    "time": "2026-11-30T20:00:00",
+    "kind": "local"
+   }
+  },
+  {
+   "slug": "applin",
+   "name": "Applin",
+   "kind": "research",
+   "level": 15,
+   "boostedLevel": null,
+   "floor": 10,
+   "boostedFloor": null,
+   "start": null,
+   "end": {
+    "time": "2026-11-30T20:00:00",
+    "kind": "local"
+   }
+  },
+  {
    "slug": "bulbasaur",
    "name": "Bulbasaur",
    "kind": "research",
@@ -2763,17 +3250,6 @@
    "end": null
   },
   {
-   "slug": "elgyem",
-   "name": "Elgyem",
-   "kind": "research",
-   "level": 15,
-   "boostedLevel": null,
-   "floor": 10,
-   "boostedFloor": null,
-   "start": null,
-   "end": null
-  },
-  {
    "slug": "binacle",
    "name": "Binacle",
    "kind": "research",
@@ -3106,17 +3582,6 @@
   {
    "slug": "houndour",
    "name": "Houndour",
-   "kind": "research",
-   "level": 15,
-   "boostedLevel": null,
-   "floor": 10,
-   "boostedFloor": null,
-   "start": null,
-   "end": null
-  },
-  {
-   "slug": "electrike",
-   "name": "Electrike",
    "kind": "research",
    "level": 15,
    "boostedLevel": null,
