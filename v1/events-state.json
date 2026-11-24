@@ -9,369 +9,6 @@
   }
  },
  "pages": {
-  "eternamax-eternatus-max-battles-2026": {
-   "readers": [
-    "Claude",
-    "GPT"
-   ],
-   "hash": "sha256-1635e95f994549f13bb949896cfd81c50155fdd330a1a0f3d900dd1ef94d1524",
-   "readings": [
-    {
-     "debuts": [],
-     "featured_attacks": [],
-     "special_rules": [
-      {
-       "heading": "Eternamax Eternatus in Max Battles",
-       "quote": "Defeat Eternamax Eternatus in Max Battles to earn a large amount of Eternatus Candy and Eternatus Candy XL. Eternamax Eternatus cannot be caught after these battles."
-      },
-      {
-       "heading": "Encounter Eternatus through GO Pass",
-       "quote": "Eternatus is available through GO Pass: Dynamax Trails. Trainers who have already caught Eternatus will receive 100 Eternatus Candy instead of another encounter."
-      }
-     ],
-     "season_groups": []
-    },
-    {
-     "debuts": [],
-     "featured_attacks": [],
-     "special_rules": [
-      {
-       "heading": "Eternamax Eternatus in Max Battles",
-       "quote": "Defeat Eternamax Eternatus in Max Battles to earn a large amount of Eternatus Candy and Eternatus Candy XL. Eternamax Eternatus cannot be caught after these battles."
-      },
-      {
-       "heading": "Encounter Eternatus through GO Pass",
-       "quote": "Eternatus is available through GO Pass: Dynamax Trails. Trainers who have already caught Eternatus will receive 100 Eternatus Candy instead of another encounter."
-      }
-     ],
-     "season_groups": []
-    }
-   ],
-   "seen": {
-    "events:9a913545.rule.b3071c:ed089e1858c8": {
-     "item": {
-      "id": "events:9a913545.rule.b3071c:ed089e1858c8",
-      "kind": "auto-read",
-      "held": false,
-      "origin": {
-       "id": "page:eternamax-eternatus-max-battles-2026",
-       "title": "Eternamax Eternatus Returns",
-       "note": "The event's own page, read by two models"
-      },
-      "field": "Special rule · Eternamax Eternatus in Max Battles",
-      "order": 5,
-      "answerFormat": "text",
-      "answerHint": "The sentence that states the rule",
-      "readings": [
-       {
-        "who": "Both models",
-        "value": "Defeat Eternamax Eternatus in Max Battles to earn a large amount of Eternatus Candy and Eternatus Candy XL. Eternamax Eternatus cannot be caught after these battles.",
-        "quote": "Defeat Eternamax Eternatus in Max Battles to earn a large amount of Eternatus Candy and Eternatus Candy XL. Eternamax Eternatus cannot be caught after these battles.",
-        "url": "https://leekduck.com/events/eternamax-eternatus-max-battles-2026/"
-       }
-      ],
-      "value": "Defeat Eternamax Eternatus in Max Battles to earn a large amount of Eternatus Candy and Eternatus Candy XL. Eternamax Eternatus cannot be caught after these battles."
-     },
-     "meta": {
-      "source": "events:9a913545.rule.b3071c:ed089e1858c8",
-      "value": "Defeat Eternamax Eternatus in Max Battles to earn a large amount of Eternatus Candy and Eternatus Candy XL. Eternamax Eternatus cannot be caught after these battles.",
-      "ja": null
-     }
-    },
-    "events:9a913545.rule.0d6ccc:1f0046350a50": {
-     "item": {
-      "id": "events:9a913545.rule.0d6ccc:1f0046350a50",
-      "kind": "auto-read",
-      "held": false,
-      "origin": {
-       "id": "page:eternamax-eternatus-max-battles-2026",
-       "title": "Eternamax Eternatus Returns",
-       "note": "The event's own page, read by two models"
-      },
-      "field": "Special rule · Encounter Eternatus through GO Pass",
-      "order": 6,
-      "answerFormat": "text",
-      "answerHint": "The sentence that states the rule",
-      "readings": [
-       {
-        "who": "Both models",
-        "value": "Eternatus is available through GO Pass: Dynamax Trails. Trainers who have already caught Eternatus will receive 100 Eternatus Candy instead of another encounter.",
-        "quote": "Eternatus is available through GO Pass: Dynamax Trails. Trainers who have already caught Eternatus will receive 100 Eternatus Candy instead of another encounter.",
-        "url": "https://leekduck.com/events/eternamax-eternatus-max-battles-2026/"
-       }
-      ],
-      "value": "Eternatus is available through GO Pass: Dynamax Trails. Trainers who have already caught Eternatus will receive 100 Eternatus Candy instead of another encounter."
-     },
-     "meta": {
-      "source": "events:9a913545.rule.0d6ccc:1f0046350a50",
-      "value": "Eternatus is available through GO Pass: Dynamax Trails. Trainers who have already caught Eternatus will receive 100 Eternatus Candy instead of another encounter.",
-      "ja": null
-     }
-    }
-   },
-   "open": [
-    "events:9a913545.rule.b3071c:ed089e1858c8",
-    "events:9a913545.rule.0d6ccc:1f0046350a50"
-   ]
-  },
-  "november-communityday2026": {
-   "readers": [
-    "Claude",
-    "GPT"
-   ],
-   "hash": "sha256-1c121962ee413387e074d16605c6afb51e6404556ef05176ce1b94c180c77dd4",
-   "readings": [
-    {
-     "debuts": [],
-     "featured_attacks": [
-      {
-       "pokemon": "Kingambit",
-       "attack": "Kowtow Cleave",
-       "quote": "Evolve Bisharp during the event or up to four hours afterwards to get a Kingambit that knows the Charged Attack Kowtow Cleave."
-      }
-     ],
-     "special_rules": [
-      {
-       "heading": "Limited-time Evolution Requirement",
-       "quote": "From 2:00 p.m. to 9:00 p.m. local time, evolve Bisharp into Kingambit after defeating 1 Dark- or Steel-type Raid Boss with Bisharp as your Buddy Pokémon."
-      },
-      {
-       "heading": "Photobomb",
-       "quote": "Take a few snapshots during Community Day for a surprise! During the event, you can snap an AR Photo and get photobombed by Pawniard."
-      },
-      {
-       "heading": "Lure Module Bonus",
-       "quote": "From 2:00 p.m. to 9:00 p.m. local time, Pawniard will have a very high chance of appearing at PokéStops with active regular Lure Modules."
-      }
-     ],
-     "season_groups": []
-    },
-    {
-     "debuts": [],
-     "featured_attacks": [
-      {
-       "pokemon": "Kingambit",
-       "attack": "Kowtow Cleave",
-       "quote": "Evolve Bisharp during the event or up to four hours afterwards to get a Kingambit that knows the Charged Attack Kowtow Cleave."
-      }
-     ],
-     "special_rules": [
-      {
-       "heading": "Kowtow Cleave (Dark-type)",
-       "quote": "Trainer Battles: 75 power"
-      },
-      {
-       "heading": "Limited-time Evolution Requirement",
-       "quote": "From 2:00 p.m. to 9:00 p.m. local time, evolve Bisharp into Kingambit after defeating 1 Dark- or Steel-type Raid Boss with Bisharp as your Buddy Pokémon."
-      },
-      {
-       "heading": "Photobomb",
-       "quote": "Take a few snapshots during Community Day for a surprise! During the event, you can snap an AR Photo and get photobombed by Pawniard."
-      },
-      {
-       "heading": "Lure Module Bonus",
-       "quote": "From 2:00 p.m. to 9:00 p.m. local time, Pawniard will have a very high chance of appearing at PokéStops with active regular Lure Modules."
-      }
-     ],
-     "season_groups": []
-    }
-   ],
-   "seen": {
-    "events:79a17a8c.attack.f36fc3:3e4678f62890": {
-     "item": {
-      "id": "events:79a17a8c.attack.f36fc3:3e4678f62890",
-      "kind": "auto-read",
-      "held": false,
-      "origin": {
-       "id": "page:november-communityday2026",
-       "title": "Pawniard Community Day",
-       "note": "The event's own page, read by two models"
-      },
-      "field": "Featured move · Kingambit",
-      "order": 5,
-      "answerFormat": "names",
-      "answerHint": "Move names, separated by ;",
-      "readings": [
-       {
-        "who": "Both models",
-        "value": "Kowtow Cleave",
-        "quote": "Evolve Bisharp during the event or up to four hours afterwards to get a Kingambit that knows the Charged Attack Kowtow Cleave.",
-        "url": "https://leekduck.com/events/november-communityday2026/"
-       }
-      ],
-      "value": "Kowtow Cleave"
-     },
-     "meta": {
-      "source": "events:79a17a8c.attack.f36fc3:3e4678f62890",
-      "value": [
-       "Kowtow Cleave"
-      ],
-      "ja": null
-     }
-    },
-    "events:79a17a8c.rule.596f97:a4a9188dcf21": {
-     "item": {
-      "id": "events:79a17a8c.rule.596f97:a4a9188dcf21",
-      "kind": "model-disagreement",
-      "held": true,
-      "origin": {
-       "id": "page:november-communityday2026",
-       "title": "Pawniard Community Day",
-       "note": "The event's own page, read by two models"
-      },
-      "field": "Special rule · Kowtow Cleave (Dark-type)",
-      "order": 6,
-      "answerFormat": "text",
-      "answerHint": "The sentence that states the rule",
-      "readings": [
-       {
-        "who": "Claude",
-        "value": "Not read",
-        "url": "https://leekduck.com/events/november-communityday2026/"
-       },
-       {
-        "who": "GPT",
-        "value": "Trainer Battles: 75 power",
-        "quote": "Trainer Battles: 75 power",
-        "url": "https://leekduck.com/events/november-communityday2026/"
-       }
-      ]
-     },
-     "meta": {
-      "source": "events:79a17a8c.rule.596f97:a4a9188dcf21",
-      "left": {
-       "quote": null,
-       "ja": null
-      },
-      "right": {
-       "value": "Trainer Battles: 75 power",
-       "quote": "Trainer Battles: 75 power",
-       "ja": null
-      }
-     }
-    },
-    "events:79a17a8c.rule.9d0e8f:da3ff966221f": {
-     "item": {
-      "id": "events:79a17a8c.rule.9d0e8f:da3ff966221f",
-      "kind": "auto-read",
-      "held": false,
-      "origin": {
-       "id": "page:november-communityday2026",
-       "title": "Pawniard Community Day",
-       "note": "The event's own page, read by two models"
-      },
-      "field": "Special rule · Limited-time Evolution Requirement",
-      "order": 7,
-      "answerFormat": "text",
-      "answerHint": "The sentence that states the rule",
-      "readings": [
-       {
-        "who": "Both models",
-        "value": "From 2:00 p.m. to 9:00 p.m. local time, evolve Bisharp into Kingambit after defeating 1 Dark- or Steel-type Raid Boss with Bisharp as your Buddy Pokémon.",
-        "quote": "From 2:00 p.m. to 9:00 p.m. local time, evolve Bisharp into Kingambit after defeating 1 Dark- or Steel-type Raid Boss with Bisharp as your Buddy Pokémon.",
-        "url": "https://leekduck.com/events/november-communityday2026/"
-       }
-      ],
-      "value": "From 2:00 p.m. to 9:00 p.m. local time, evolve Bisharp into Kingambit after defeating 1 Dark- or Steel-type Raid Boss with Bisharp as your Buddy Pokémon."
-     },
-     "meta": {
-      "source": "events:79a17a8c.rule.9d0e8f:da3ff966221f",
-      "value": "From 2:00 p.m. to 9:00 p.m. local time, evolve Bisharp into Kingambit after defeating 1 Dark- or Steel-type Raid Boss with Bisharp as your Buddy Pokémon.",
-      "ja": null
-     }
-    },
-    "events:79a17a8c.rule.0259eb:ab8a514baee6": {
-     "item": {
-      "id": "events:79a17a8c.rule.0259eb:ab8a514baee6",
-      "kind": "auto-read",
-      "held": false,
-      "origin": {
-       "id": "page:november-communityday2026",
-       "title": "Pawniard Community Day",
-       "note": "The event's own page, read by two models"
-      },
-      "field": "Special rule · Photobomb",
-      "order": 8,
-      "answerFormat": "text",
-      "answerHint": "The sentence that states the rule",
-      "readings": [
-       {
-        "who": "Both models",
-        "value": "Take a few snapshots during Community Day for a surprise! During the event, you can snap an AR Photo and get photobombed by Pawniard.",
-        "quote": "Take a few snapshots during Community Day for a surprise! During the event, you can snap an AR Photo and get photobombed by Pawniard.",
-        "url": "https://leekduck.com/events/november-communityday2026/"
-       }
-      ],
-      "value": "Take a few snapshots during Community Day for a surprise! During the event, you can snap an AR Photo and get photobombed by Pawniard."
-     },
-     "meta": {
-      "source": "events:79a17a8c.rule.0259eb:ab8a514baee6",
-      "value": "Take a few snapshots during Community Day for a surprise! During the event, you can snap an AR Photo and get photobombed by Pawniard.",
-      "ja": null
-     }
-    },
-    "events:79a17a8c.rule.b0ca34:a09ef74f7f5f": {
-     "item": {
-      "id": "events:79a17a8c.rule.b0ca34:a09ef74f7f5f",
-      "kind": "auto-read",
-      "held": false,
-      "origin": {
-       "id": "page:november-communityday2026",
-       "title": "Pawniard Community Day",
-       "note": "The event's own page, read by two models"
-      },
-      "field": "Special rule · Lure Module Bonus",
-      "order": 9,
-      "answerFormat": "text",
-      "answerHint": "The sentence that states the rule",
-      "readings": [
-       {
-        "who": "Both models",
-        "value": "From 2:00 p.m. to 9:00 p.m. local time, Pawniard will have a very high chance of appearing at PokéStops with active regular Lure Modules.",
-        "quote": "From 2:00 p.m. to 9:00 p.m. local time, Pawniard will have a very high chance of appearing at PokéStops with active regular Lure Modules.",
-        "url": "https://leekduck.com/events/november-communityday2026/"
-       }
-      ],
-      "value": "From 2:00 p.m. to 9:00 p.m. local time, Pawniard will have a very high chance of appearing at PokéStops with active regular Lure Modules."
-     },
-     "meta": {
-      "source": "events:79a17a8c.rule.b0ca34:a09ef74f7f5f",
-      "value": "From 2:00 p.m. to 9:00 p.m. local time, Pawniard will have a very high chance of appearing at PokéStops with active regular Lure Modules.",
-      "ja": null
-     }
-    }
-   },
-   "open": [
-    "events:79a17a8c.attack.f36fc3:3e4678f62890",
-    "events:79a17a8c.rule.596f97:a4a9188dcf21",
-    "events:79a17a8c.rule.9d0e8f:da3ff966221f",
-    "events:79a17a8c.rule.0259eb:ab8a514baee6",
-    "events:79a17a8c.rule.b0ca34:a09ef74f7f5f"
-   ]
-  },
-  "pokemon-latin-america-international-championships-2027-timed-research-twitch-drops": {
-   "readers": [
-    "Claude",
-    "GPT"
-   ],
-   "hash": "sha256-ab2467ea48c1963d8f600cd6b6d81e402bfbdb10af64b4bb41225cf4a3e41caf",
-   "readings": [
-    {
-     "debuts": [],
-     "featured_attacks": [],
-     "special_rules": [],
-     "season_groups": []
-    },
-    {
-     "debuts": [],
-     "featured_attacks": [],
-     "special_rules": [],
-     "season_groups": []
-    }
-   ],
-   "seen": {},
-   "open": []
-  },
   "dynamax-trails-2026": {
    "readers": [
     "Claude",
@@ -852,7 +489,7 @@
     "Claude",
     "GPT"
    ],
-   "hash": "sha256-45dacace84d62034dfdc67710c974929250f3aed4325843f5b9d4a9db1c5df21",
+   "hash": "sha256-cbaf6c69341eff86a05e362419363de17b19f063142c3c779a97db4ec7985260",
    "readings": [
     {
      "debuts": [],
@@ -1821,7 +1458,7 @@
     "Claude",
     "GPT"
    ],
-   "hash": "sha256-ce905f968feaac43b130f6957df880632fc6cda7dc27bffef0fc5dcbf4e6a245",
+   "hash": "sha256-fc34a3c613a3022a8be2ab49763b004dfe3e1da5942e8fdc4d3e69f7c96c3c5d",
    "readings": [
     {
      "debuts": [],
@@ -3821,679 +3458,6 @@
   }
  },
  "parsed": {
-  "eternamax-eternatus-max-battles-2026": {
-   "description": [
-    {
-     "kind": "text",
-     "text": "Eternamax Eternatus returns during Dynamax Trails, taking over the majority of Power Spots on November 21, 2026, from 11 am to 2 pm local time."
-    }
-   ],
-   "research": [],
-   "pokemon": [],
-   "shiny": {
-    "notes": [],
-    "pokemon": []
-   },
-   "bonuses": [
-    {
-     "title": null,
-     "description": null,
-     "items": [
-      "Power Spots will refresh more frequently",
-      "Max Particle collection limit increased to 2,400",
-      "8× Max Particles from Power Spots"
-     ]
-    }
-   ]
-  },
-  "november-communityday2026": {
-   "description": [
-    {
-     "kind": "text",
-     "text": "Pawniard, the Sharp Blade Pokémon, will be featured during November Community Day!"
-    },
-    {
-     "kind": "text",
-     "text": "The event takes place on Saturday, November 21, 2026, from 2:00 p.m. to 5:00 p.m. local time."
-    }
-   ],
-   "research": [
-    {
-     "kind": "special",
-     "title": "Once a Pawn a Time (1/3)",
-     "step": 1,
-     "tasks": [
-      {
-       "text": "Catch 3 Pokemon",
-       "rewards": [
-        {
-         "type": "encounter",
-         "name": "Pawniard",
-         "image": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pokemon_icon_624_00.png",
-         "shiny": false
-        }
-       ]
-      },
-      {
-       "text": "Catch 5 Pokemon",
-       "rewards": [
-        {
-         "type": "encounter",
-         "name": "Pawniard",
-         "image": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pokemon_icon_624_00.png",
-         "shiny": false
-        }
-       ]
-      },
-      {
-       "text": "Catch 10 Pokemon",
-       "rewards": [
-        {
-         "type": "encounter",
-         "name": "Pawniard",
-         "image": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pokemon_icon_624_00.png",
-         "shiny": false
-        }
-       ]
-      },
-      {
-       "text": "Make 7 Nice Throws",
-       "rewards": [
-        {
-         "type": "item",
-         "name": "Ultra Ball",
-         "quantity": 20,
-         "image": "https://cdn.leekduck.com/assets/img/items/Ultra Ball.png"
-        }
-       ]
-      },
-      {
-       "text": "Make 5 Great Throws",
-       "rewards": [
-        {
-         "type": "item",
-         "name": "Incubator",
-         "quantity": 1,
-         "image": "https://cdn.leekduck.com/assets/img/items/Incubator.png"
-        }
-       ]
-      },
-      {
-       "text": "Make 5 Curveball Throws",
-       "rewards": [
-        {
-         "type": "item",
-         "name": "Incense",
-         "quantity": 1,
-         "image": "https://cdn.leekduck.com/assets/img/items/Incense.png"
-        }
-       ]
-      }
-     ],
-     "rewards": [
-      {
-       "type": "encounter",
-       "name": "Pawniard",
-       "image": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pokemon_icon_624_00.png",
-       "shiny": false
-      },
-      {
-       "type": "item",
-       "name": null,
-       "candy": {
-        "dex": 624,
-        "xl": false
-       },
-       "quantity": 50,
-       "image": "https://cdn.leekduck.com/assets/img/candy/regular/624.png"
-      },
-      {
-       "type": "item",
-       "name": null,
-       "candy": {
-        "dex": 624,
-        "xl": true
-       },
-       "quantity": 5,
-       "image": "https://cdn.leekduck.com/assets/img/candy/xl/624.png"
-      }
-     ],
-     "subtitle": "Event-exclusive Special Research",
-     "intro": [
-      "For US$1.99 (or the equivalent pricing tier in your local currency), you’ll be able to access the Pawniard Community Day–exclusive Special Research. Complete this research for rewards including:",
-      "3 encounters with Pawniard that have a Special Background",
-      "Additional encounters with Pawniard",
-      "1 Premium Battle Pass",
-      "1 Rare Candy XL",
-      "And more!",
-      "Stay tuned for when tickets for the Special Research go live.",
-      "You can purchase and gift tickets to friends you’ve achieved a Friendship level of Great Friends or higher with. To gift a ticket, tap the Special Research ticket in the in-game shop, then tap the Gift button instead of the Buy button.",
-      "Tickets are nonrefundable (subject to applicable law and the exceptions set forth in the Terms of Service). This Special Research will not include an in-game medal or feature a story. Gifting cannot be completed if the recipient has purchased a Special Research ticket or has been gifted one already."
-     ]
-    },
-    {
-     "kind": "special",
-     "title": "Once a Pawn a Time (2/3)",
-     "step": 2,
-     "tasks": [
-      {
-       "text": "Catch 3 Pokemon",
-       "rewards": [
-        {
-         "type": "encounter",
-         "name": "Pawniard",
-         "image": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pokemon_icon_624_00.png",
-         "shiny": false
-        }
-       ]
-      },
-      {
-       "text": "Catch 5 Pokemon",
-       "rewards": [
-        {
-         "type": "encounter",
-         "name": "Pawniard",
-         "image": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pokemon_icon_624_00.png",
-         "shiny": false
-        }
-       ]
-      },
-      {
-       "text": "Catch 10 Pokemon",
-       "rewards": [
-        {
-         "type": "encounter",
-         "name": "Bisharp",
-         "image": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pokemon_icon_625_00.png",
-         "shiny": false
-        }
-       ]
-      },
-      {
-       "text": "Use 3 Berries to help catch Pokemon",
-       "rewards": [
-        {
-         "type": "item",
-         "name": "Ultra Ball",
-         "quantity": 20,
-         "image": "https://cdn.leekduck.com/assets/img/items/Ultra Ball.png"
-        }
-       ]
-      },
-      {
-       "text": "Use 5 Berries to help catch Pokemon",
-       "rewards": [
-        {
-         "type": "item",
-         "name": "Charged TM",
-         "quantity": 1,
-         "image": "https://cdn.leekduck.com/assets/img/items/Charged TM.png"
-        }
-       ]
-      },
-      {
-       "text": "Use 7 Berries to help catch Pokemon",
-       "rewards": [
-        {
-         "type": "item",
-         "name": "Silver Pinap Berry",
-         "quantity": 3,
-         "image": "https://cdn.leekduck.com/assets/img/items/Silver Pinap Berry.png"
-        }
-       ]
-      }
-     ],
-     "rewards": [
-      {
-       "type": "encounter",
-       "name": "Pawniard",
-       "image": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pokemon_icon_624_00.png",
-       "shiny": false
-      },
-      {
-       "type": "item",
-       "name": "Stardust",
-       "quantity": 7500,
-       "image": "https://cdn.leekduck.com/assets/img/items/Stardust.png"
-      },
-      {
-       "type": "item",
-       "name": "Rare Candy",
-       "quantity": 3,
-       "image": "https://cdn.leekduck.com/assets/img/items/Rare Candy.png"
-      }
-     ]
-    },
-    {
-     "kind": "special",
-     "title": "Once a Pawn a Time (3/3)",
-     "step": 3,
-     "tasks": [
-      {
-       "text": "Catch 3 Pokemon",
-       "rewards": [
-        {
-         "type": "encounter",
-         "name": "Pawniard",
-         "image": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pokemon_icon_624_00.png",
-         "shiny": false
-        }
-       ]
-      },
-      {
-       "text": "Catch 5 Pokemon",
-       "rewards": [
-        {
-         "type": "encounter",
-         "name": "Pawniard",
-         "image": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pokemon_icon_624_00.png",
-         "shiny": false
-        }
-       ]
-      },
-      {
-       "text": "Catch 10 Pokemon",
-       "rewards": [
-        {
-         "type": "encounter",
-         "name": "Bisharp",
-         "image": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pokemon_icon_625_00.png",
-         "shiny": false
-        }
-       ]
-      },
-      {
-       "text": "Spin 3 PokeStops or Gyms",
-       "rewards": [
-        {
-         "type": "item",
-         "name": "Ultra Ball",
-         "quantity": 20,
-         "image": "https://cdn.leekduck.com/assets/img/items/Ultra Ball.png"
-        }
-       ]
-      },
-      {
-       "text": "Spin 5 PokeStops or Gyms",
-       "rewards": [
-        {
-         "type": "item",
-         "name": "Rocket Radar",
-         "quantity": 1,
-         "image": "https://cdn.leekduck.com/assets/img/items/Rocket Radar.png"
-        }
-       ]
-      },
-      {
-       "text": "Explore 1 km",
-       "rewards": [
-        {
-         "type": "item",
-         "name": "Premium Battle Pass",
-         "quantity": 1,
-         "image": "https://cdn.leekduck.com/assets/img/items/Premium Battle Pass.png"
-        }
-       ]
-      }
-     ],
-     "rewards": [
-      {
-       "type": "encounter",
-       "name": "Pawniard",
-       "image": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pokemon_icon_624_00.png",
-       "shiny": false
-      },
-      {
-       "type": "item",
-       "name": "XP",
-       "quantity": 10000,
-       "image": "https://cdn.leekduck.com/assets/img/icons/xp.png"
-      },
-      {
-       "type": "item",
-       "name": "Rare Candy XL",
-       "quantity": 1,
-       "image": "https://cdn.leekduck.com/assets/img/items/Rare Candy XL.png"
-      }
-     ],
-     "notes": []
-    },
-    {
-     "kind": "field",
-     "title": "Field Research Tasks",
-     "step": null,
-     "tasks": [
-      {
-       "text": "Catch 3 Pawniard",
-       "rewards": [
-        {
-         "type": "encounter",
-         "name": "Pawniard",
-         "image": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pokemon_icon_624_00.png",
-         "shiny": true,
-         "cp": {
-          "min": 574,
-          "max": 614
-         }
-        },
-        {
-         "type": "item",
-         "name": "Great Ball",
-         "quantity": 5,
-         "image": "https://cdn.leekduck.com/assets/img/items/Great Ball.png"
-        },
-        {
-         "type": "item",
-         "name": "Ultra Ball",
-         "quantity": 2,
-         "image": "https://cdn.leekduck.com/assets/img/items/Ultra Ball.png"
-        },
-        {
-         "type": "item",
-         "name": "Pinap Berry",
-         "quantity": 2,
-         "image": "https://cdn.leekduck.com/assets/img/items/Pinap Berry.png"
-        },
-        {
-         "type": "item",
-         "name": "Stardust",
-         "quantity": 500,
-         "image": "https://cdn.leekduck.com/assets/img/items/Stardust.png"
-        }
-       ]
-      },
-      {
-       "text": "Catch 5 Pokemon while in a Party",
-       "rewards": [
-        {
-         "type": "encounter",
-         "name": "Pawniard",
-         "image": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pokemon_icon_624_00.png",
-         "shiny": true,
-         "cp": {
-          "min": 574,
-          "max": 614
-         }
-        }
-       ]
-      },
-      {
-       "text": "Catch 50 Pokemon",
-       "rewards": [
-        {
-         "type": "encounter",
-         "name": "Pawniard",
-         "image": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pokemon_icon_624_00.png",
-         "shiny": true,
-         "cp": {
-          "min": 574,
-          "max": 614
-         }
-        }
-       ]
-      }
-     ],
-     "rewards": []
-    }
-   ],
-   "pokemon": [
-    {
-     "group": "Wild",
-     "name": "Pawniard",
-     "written": "Pawniard",
-     "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_624_00.png",
-     "shiny": true
-    }
-   ],
-   "shiny": {
-    "notes": [
-     "Trainers will have an increased chance of encountering Shiny Pawniard during Community Day. Shiny Pawniard can be evolved into Shiny Bisharp and Shiny Kingambit.",
-     "Pawniard, Bisharp, Kingambit"
-    ],
-    "pokemon": [
-     {
-      "name": "Pawniard",
-      "written": "Pawniard",
-      "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_624_00_shiny.png",
-      "shiny": false
-     },
-     {
-      "name": "Bisharp",
-      "written": "Bisharp",
-      "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_625_00_shiny.png",
-      "shiny": false
-     },
-     {
-      "name": "Kingambit",
-      "written": "Kingambit",
-      "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm983.s.icon.png",
-      "shiny": false
-     }
-    ]
-   },
-   "bonuses": [
-    {
-     "title": null,
-     "description": null,
-     "items": [
-      "Increased Spawns",
-      "1/4 Egg Hatch Distance",
-      "3-hour Incense",
-      "1-hour Lures*",
-      "2x Catch Candy",
-      "2x Chance for Trainers level 31 and up to receive Candy XL from catching Pokémon",
-      "One additional Special Trade can be made for a maximum of two for the day*",
-      "Trades made will require 50% less Stardust*"
-     ]
-    }
-   ]
-  },
-  "pokemon-latin-america-international-championships-2027-timed-research-twitch-drops": {
-   "description": [
-    {
-     "kind": "text",
-     "text": "Get codes for exclusive Timed Research and a Battle Bundle during the 2027 Pokémon Latin America International Championships Twitch broadcast."
-    },
-    {
-     "kind": "text",
-     "text": "PsyRhino took home the gold at the 2026 Pokémon GO North America International Championships with a powerful Shadow Samurott on their team. Watch the 2027 LAIC stream, and you can get a Samurott inspired by PsyRhino’s NAIC-winning team."
-    },
-    {
-     "kind": "text",
-     "text": "Tune in to Twitch.tv/PokemonGO on November 20 and 21, or Twitch.tv/Pokemon on November 22, and you’ll earn rewards the longer you watch. Here’s what you can get:"
-    },
-    {
-     "kind": "text",
-     "text": "Watch for 30 minutes: Unique Timed Research that includes the following."
-    },
-    {
-     "kind": "item",
-     "text": "An encounter with a Samurott inspired by PsyRhino’s NAIC-winning team"
-    },
-    {
-     "kind": "item",
-     "text": "20 Oshawott Candy"
-    },
-    {
-     "kind": "item",
-     "text": "20 Oshawott Candy XL"
-    },
-    {
-     "kind": "item",
-     "text": "10 Charged TMs"
-    },
-    {
-     "kind": "item",
-     "text": "10 Fast TMs"
-    },
-    {
-     "kind": "text",
-     "text": "Watch for 45 minutes: An LAIC Battle Bundle that includes the following."
-    },
-    {
-     "kind": "item",
-     "text": "1 Elite Charged TM"
-    },
-    {
-     "kind": "item",
-     "text": "1 Rare Candy XL"
-    },
-    {
-     "kind": "item",
-     "text": "25 Charged TMs"
-    },
-    {
-     "kind": "item",
-     "text": "25 Fast TMs"
-    },
-    {
-     "kind": "text",
-     "text": "Timed Research tasks must be completed and rewards claimed before Friday, December 4, 2026, at 12:00 p.m. PST."
-    },
-    {
-     "kind": "text",
-     "text": "Find more information on the Timed Research from the Twitch Drops in the Research section."
-    }
-   ],
-   "research": [
-    {
-     "kind": "timed",
-     "title": "2026 Pokémon NAIC's Champion: Bonus Timed Research (1/2)",
-     "step": 1,
-     "tasks": [
-      {
-       "text": "Catch 10 Water-type Pokémon",
-       "rewards": [
-        {
-         "type": "item",
-         "name": "Oshawott Candy",
-         "quantity": 20,
-         "image": "https://cdn.leekduck.com/assets/img/candy/regular/501.png"
-        }
-       ]
-      },
-      {
-       "text": "Catch 20 Pokémon",
-       "rewards": [
-        {
-         "type": "item",
-         "name": "Charged TM",
-         "quantity": 10,
-         "image": "https://cdn.leekduck.com/assets/img/items/Charged TM.png"
-        }
-       ]
-      },
-      {
-       "text": "Evolve a Pokémon",
-       "rewards": [
-        {
-         "type": "item",
-         "name": "Fast TM",
-         "quantity": 10,
-         "image": "https://cdn.leekduck.com/assets/img/items/Fast TM.png"
-        }
-       ]
-      }
-     ],
-     "rewards": [
-      {
-       "type": "item",
-       "name": "Stardust",
-       "quantity": 2026,
-       "image": "https://cdn.leekduck.com/assets/img/items/Stardust.png"
-      },
-      {
-       "type": "item",
-       "name": "XP",
-       "quantity": 503,
-       "image": "https://cdn.leekduck.com/assets/img/icons/xp.png"
-      },
-      {
-       "type": "encounter",
-       "name": "Samurott",
-       "image": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pokemon_icon_503_00.png",
-       "shiny": false
-      }
-     ],
-     "subtitle": "Twitch Drop-exclusive Timed Research",
-     "intro": [
-      "Trainers who redeem the live stream code will get exclusive Timed Research that honors PsyRhino, the 2026 Pokémon GO North America International Championships Champion, and Samurott, a key Pokémon that helped them become Champion! Watch for 30 minutes to unlock this two-step Timed Research.*",
-      "* Tasks must be completed and rewards claimed before Friday, December 4, 2026, at 12:00 p.m. PST. Trainers can only claim each Timed Research code once."
-     ]
-    },
-    {
-     "kind": "timed",
-     "title": "2026 Pokémon NAIC's Champion: Bonus Timed Research (2/2)",
-     "step": 2,
-     "tasks": [
-      {
-       "text": "Power up Pokémon 10 times",
-       "rewards": [
-        {
-         "type": "item",
-         "name": "Oshawott Candy XL",
-         "quantity": 5,
-         "image": "https://cdn.leekduck.com/assets/img/candy/xl/501.png"
-        }
-       ]
-      },
-      {
-       "text": "Battle another Trainer in the Great League",
-       "rewards": [
-        {
-         "type": "item",
-         "name": "Oshawott Candy XL",
-         "quantity": 5,
-         "image": "https://cdn.leekduck.com/assets/img/candy/xl/501.png"
-        }
-       ]
-      },
-      {
-       "text": "Win 3 Trainer Battles in the Great League",
-       "rewards": [
-        {
-         "type": "item",
-         "name": "Oshawott Candy XL",
-         "quantity": 5,
-         "image": "https://cdn.leekduck.com/assets/img/candy/xl/501.png"
-        }
-       ]
-      }
-     ],
-     "rewards": [
-      {
-       "type": "item",
-       "name": null,
-       "candy": {
-        "dex": 501,
-        "xl": true
-       },
-       "quantity": 5,
-       "image": "https://cdn.leekduck.com/assets/img/candy/xl/501.png"
-      },
-      {
-       "type": "item",
-       "name": "XP",
-       "quantity": 503,
-       "image": "https://cdn.leekduck.com/assets/img/icons/xp.png"
-      },
-      {
-       "type": "item",
-       "name": "Stardust",
-       "quantity": 2026,
-       "image": "https://cdn.leekduck.com/assets/img/items/Stardust.png"
-      }
-     ],
-     "notes": []
-    }
-   ],
-   "pokemon": [],
-   "shiny": {
-    "notes": [],
-    "pokemon": []
-   },
-   "bonuses": []
-  },
   "dynamax-trails-2026": {
    "description": [
     {
@@ -5953,6 +4917,16 @@
         },
         {
          "type": "encounter",
+         "name": "Flower Crown Cottonee",
+         "image": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm546.cSPRING_2024.icon.png",
+         "shiny": true,
+         "cp": {
+          "min": 271,
+          "max": 300
+         }
+        },
+        {
+         "type": "encounter",
          "name": "Greavard",
          "image": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm971.icon.png",
          "shiny": true,
@@ -5994,7 +4968,7 @@
         {
          "type": "encounter",
          "name": "Maschiff",
-         "image": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/Maschiff.png",
+         "image": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm942.icon.png",
          "shiny": false,
          "cp": {
           "min": 560,
@@ -6011,6 +4985,12 @@
          "name": "Rare Candy XL",
          "quantity": 1,
          "image": "https://cdn.leekduck.com/assets/img/items/Rare Candy XL.png"
+        },
+        {
+         "type": "item",
+         "name": "Stardust",
+         "quantity": 10000,
+         "image": "https://cdn.leekduck.com/assets/img/items/Stardust.png"
         }
        ]
       },
@@ -6043,6 +5023,18 @@
          "name": "Houndoom Mega Energy",
          "quantity": 25,
          "image": "https://cdn.leekduck.com/assets/img/mega_energy/Houndoom Mega Energy.png"
+        },
+        {
+         "type": "item",
+         "name": "Manectric Mega Energy",
+         "quantity": 25,
+         "image": "https://cdn.leekduck.com/assets/img/mega_energy/Manectric Mega Energy.png"
+        },
+        {
+         "type": "item",
+         "name": "Sableye Mega Energy",
+         "quantity": 25,
+         "image": "https://cdn.leekduck.com/assets/img/mega_energy/Sableye Mega Energy.png"
         }
        ]
       },
@@ -6067,6 +5059,16 @@
          "cp": {
           "min": 1125,
           "max": 1181
+         }
+        },
+        {
+         "type": "encounter",
+         "name": "Flower Crown Cottonee",
+         "image": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm546.cSPRING_2024.icon.png",
+         "shiny": true,
+         "cp": {
+          "min": 271,
+          "max": 300
          }
         },
         {
@@ -6114,6 +5116,12 @@
          "name": "Rare Candy XL",
          "quantity": 1,
          "image": "https://cdn.leekduck.com/assets/img/items/Rare Candy XL.png"
+        },
+        {
+         "type": "item",
+         "name": "Stardust",
+         "quantity": 10000,
+         "image": "https://cdn.leekduck.com/assets/img/items/Stardust.png"
         }
        ]
       },
@@ -6131,6 +5139,18 @@
          "name": "Houndoom Mega Energy",
          "quantity": 25,
          "image": "https://cdn.leekduck.com/assets/img/mega_energy/Houndoom Mega Energy.png"
+        },
+        {
+         "type": "item",
+         "name": "Manectric Mega Energy",
+         "quantity": 25,
+         "image": "https://cdn.leekduck.com/assets/img/mega_energy/Manectric Mega Energy.png"
+        },
+        {
+         "type": "item",
+         "name": "Sableye Mega Energy",
+         "quantity": 25,
+         "image": "https://cdn.leekduck.com/assets/img/mega_energy/Sableye Mega Energy.png"
         }
        ]
       },
@@ -6231,8 +5251,37 @@
     }
    ],
    "shiny": {
-    "notes": [],
-    "pokemon": []
+    "notes": [
+     "Increased Shiny Chances",
+     "Staryu and Elgyem have an increased chance of being Shiny during Twilight Wishes. Evolve them to get Shiny Starmie and Shiny Beheeyem.",
+     "Staryu, Starmie, Elgyem, Beheeyem"
+    ],
+    "pokemon": [
+     {
+      "name": "Staryu",
+      "written": "Staryu",
+      "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_120_00_shiny.png",
+      "shiny": false
+     },
+     {
+      "name": "Starmie",
+      "written": "Starmie",
+      "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_121_00_shiny.png",
+      "shiny": false
+     },
+     {
+      "name": "Elgyem",
+      "written": "Elgyem",
+      "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_605_00_shiny.png",
+      "shiny": false
+     },
+     {
+      "name": "Beheeyem",
+      "written": "Beheeyem",
+      "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_606_00_shiny.png",
+      "shiny": false
+     }
+    ]
    },
    "bonuses": [
     {
@@ -6401,7 +5450,7 @@
      "group": "In 5 km Eggs",
      "name": "Maschiff",
      "written": "Maschiff",
-     "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/Maschiff.png",
+     "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm942.icon.png",
      "shiny": false
     },
     {
@@ -7844,25 +6893,9 @@
    "etag": "\"5aa21516f774901c7ee5ee92acec6178\"",
    "path": "art/9cd4bf2047a2082e4f65176eab223fee.png"
   },
-  "https://cdn.leekduck.com/assets/img/candy/regular/501.png": {
-   "etag": "\"67e2a87844cd13e1790de6a9360c587c\"",
-   "path": "art/a8485957d7651cf31c70b3656a12d564.png"
-  },
-  "https://cdn.leekduck.com/assets/img/candy/regular/624.png": {
-   "etag": "\"e43b161875e8964558e102e575539835\"",
-   "path": "art/7c26b451d3250ca83e16f73a50c2b719.png"
-  },
   "https://cdn.leekduck.com/assets/img/candy/xl/374.png": {
    "etag": "\"e233618876b6ca6fcbb2eeaa2600eabd\"",
    "path": "art/0aa3c7f85034ea798e2cf165b880d8fd.png"
-  },
-  "https://cdn.leekduck.com/assets/img/candy/xl/501.png": {
-   "etag": "\"1e745096a73ed6e54c00e643781b686f\"",
-   "path": "art/684ce857c39e1c9716045b905dcb45e1.png"
-  },
-  "https://cdn.leekduck.com/assets/img/candy/xl/624.png": {
-   "etag": "\"9c58a3fd5b81fb5f0f90a1624af5c1c5\"",
-   "path": "art/ea38c81288fdc1c46275becef171d8df.png"
   },
   "https://cdn.leekduck.com/assets/img/icons/xp.png": {
    "etag": "\"5e8b40b19499a30fa9a45606aaec2787\"",
@@ -7871,14 +6904,6 @@
   "https://cdn.leekduck.com/assets/img/items/Charged TM.png": {
    "etag": "\"73fc49ded4dc581f7c6d9f7bc09fad28\"",
    "path": "art/98bf20ab2c0ccc3ca542a5d8389811be.png"
-  },
-  "https://cdn.leekduck.com/assets/img/items/Charged%20TM.png": {
-   "etag": "\"73fc49ded4dc581f7c6d9f7bc09fad28\"",
-   "path": "art/98bf20ab2c0ccc3ca542a5d8389811be.png"
-  },
-  "https://cdn.leekduck.com/assets/img/items/Fast TM.png": {
-   "etag": "\"72470fe7553ca3151b85cd9707df968c\"",
-   "path": "art/8d0599ae61a7ccc0e4216f6a1d042ca1.png"
   },
   "https://cdn.leekduck.com/assets/img/items/Great Ball.png": {
    "etag": "\"03b1d6b6683bd544fb8d3f9ffd8af558\"",
@@ -7892,10 +6917,6 @@
    "etag": "\"48d656eff0cb128b7b75e825f2e696da\"",
    "path": "art/56ce73ef57b341e5b4022d5472830220.png"
   },
-  "https://cdn.leekduck.com/assets/img/items/Incubator.png": {
-   "etag": "\"1884723697e7f35e3427816dbc541a5a\"",
-   "path": "art/79a7af748683cd9f6cae0bef8edc7d4f.png"
-  },
   "https://cdn.leekduck.com/assets/img/items/Pinap Berry.png": {
    "etag": "\"f02feb671184aa3026f52153686cb55a\"",
    "path": "art/506ecd9acd94449a27dfcc4129541eeb.png"
@@ -7908,41 +6929,13 @@
    "etag": "\"368cd46e0528a4f36e7bc01f28241359\"",
    "path": "art/a27f0f6cda349182c32a440f00f5e804.png"
   },
-  "https://cdn.leekduck.com/assets/img/items/Premium%20Battle%20Pass.png": {
-   "etag": "\"368cd46e0528a4f36e7bc01f28241359\"",
-   "path": "art/a27f0f6cda349182c32a440f00f5e804.png"
-  },
-  "https://cdn.leekduck.com/assets/img/items/Rare%20Candy%20XL.png": {
-   "etag": "\"8e10ee673cce14621e617caf565414b1\"",
-   "path": "art/c81f9c0ac238ee71c2c452d5b1c87b9e.png"
-  },
-  "https://cdn.leekduck.com/assets/img/items/Rare%20Candy.png": {
-   "etag": "\"870f0c46846bd7b049eb02979cee0b9d\"",
-   "path": "art/31e9486f2c9cac50a3efadb5dde11d91.png"
-  },
   "https://cdn.leekduck.com/assets/img/items/Razz Berry.png": {
    "etag": "\"d26335ffd1d5d0318ca8e3447d6ae43e\"",
    "path": "art/ef8ef5f4f21ff33c1385ad0902a48219.png"
   },
-  "https://cdn.leekduck.com/assets/img/items/Rocket%20Radar.png": {
-   "etag": "\"9eef6ba03725f0ac28e2dbb1956efef1\"",
-   "path": "art/176c2164b53736fbb108223d91fb7a8d.png"
-  },
-  "https://cdn.leekduck.com/assets/img/items/Silver%20Pinap%20Berry.png": {
-   "etag": "\"4084b7ee18831d69bfc1293a7b87041f\"",
-   "path": "art/83d5a65337cea6bbb168a42195889922.png"
-  },
   "https://cdn.leekduck.com/assets/img/items/Stardust.png": {
    "etag": "\"a3909aa17bd0f163df1c1ddb2c741c4f\"",
    "path": "art/8091724025f7c21f1479111875b9a2b4.png"
-  },
-  "https://cdn.leekduck.com/assets/img/items/Ultra Ball.png": {
-   "etag": "\"391dcb6b449f589fe2c2fa93c67a3b66\"",
-   "path": "art/d78b34b9a25cc6de363ffb231920b27c.png"
-  },
-  "https://cdn.leekduck.com/assets/img/items/Ultra%20Ball.png": {
-   "etag": "\"391dcb6b449f589fe2c2fa93c67a3b66\"",
-   "path": "art/d78b34b9a25cc6de363ffb231920b27c.png"
   },
   "https://cdn.leekduck.com/assets/img/mega_energy/Lucario Mega Energy.png": {
    "etag": "\"8f8fd709dfb290d7b6effaf6d8e9be28\"",

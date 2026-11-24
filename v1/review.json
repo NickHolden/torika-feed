@@ -1,6 +1,6 @@
 {
  "schema": 1,
- "built": "2026-11-23T21:47:20Z",
+ "built": "2026-11-24T20:25:16Z",
  "items": [
   {
    "id": "catalog:label:background.lc-pokelid-gunma:dbe6f116e0eb",
@@ -1182,135 +1182,6 @@
    "firstSeen": "2026-11-17"
   },
   {
-   "id": "events:79a17a8c.attack.f36fc3:3e4678f62890",
-   "kind": "auto-read",
-   "held": false,
-   "origin": {
-    "id": "page:november-communityday2026",
-    "title": "Pawniard Community Day",
-    "note": "The event's own page, read by two models"
-   },
-   "field": "Featured move · Kingambit",
-   "order": 5,
-   "answerFormat": "names",
-   "answerHint": "Move names, separated by ;",
-   "readings": [
-    {
-     "who": "Both models",
-     "value": "Kowtow Cleave",
-     "quote": "Evolve Bisharp during the event or up to four hours afterwards to get a Kingambit that knows the Charged Attack Kowtow Cleave.",
-     "url": "https://leekduck.com/events/november-communityday2026/"
-    }
-   ],
-   "value": "Kowtow Cleave",
-   "section": "events",
-   "firstSeen": "2026-11-14"
-  },
-  {
-   "id": "events:79a17a8c.rule.0259eb:ab8a514baee6",
-   "kind": "auto-read",
-   "held": false,
-   "origin": {
-    "id": "page:november-communityday2026",
-    "title": "Pawniard Community Day",
-    "note": "The event's own page, read by two models"
-   },
-   "field": "Special rule · Photobomb",
-   "order": 8,
-   "answerFormat": "text",
-   "answerHint": "The sentence that states the rule",
-   "readings": [
-    {
-     "who": "Both models",
-     "value": "Take a few snapshots during Community Day for a surprise! During the event, you can snap an AR Photo and get photobombed by Pawniard.",
-     "quote": "Take a few snapshots during Community Day for a surprise! During the event, you can snap an AR Photo and get photobombed by Pawniard.",
-     "url": "https://leekduck.com/events/november-communityday2026/"
-    }
-   ],
-   "value": "Take a few snapshots during Community Day for a surprise! During the event, you can snap an AR Photo and get photobombed by Pawniard.",
-   "section": "events",
-   "firstSeen": "2026-11-14"
-  },
-  {
-   "id": "events:79a17a8c.rule.596f97:a4a9188dcf21",
-   "kind": "model-disagreement",
-   "held": true,
-   "origin": {
-    "id": "page:november-communityday2026",
-    "title": "Pawniard Community Day",
-    "note": "The event's own page, read by two models"
-   },
-   "field": "Special rule · Kowtow Cleave (Dark-type)",
-   "order": 6,
-   "answerFormat": "text",
-   "answerHint": "The sentence that states the rule",
-   "readings": [
-    {
-     "who": "Claude",
-     "value": "Not read",
-     "url": "https://leekduck.com/events/november-communityday2026/"
-    },
-    {
-     "who": "GPT",
-     "value": "Trainer Battles: 75 power",
-     "quote": "Trainer Battles: 75 power",
-     "url": "https://leekduck.com/events/november-communityday2026/"
-    }
-   ],
-   "section": "events",
-   "firstSeen": "2026-11-21"
-  },
-  {
-   "id": "events:79a17a8c.rule.9d0e8f:da3ff966221f",
-   "kind": "auto-read",
-   "held": false,
-   "origin": {
-    "id": "page:november-communityday2026",
-    "title": "Pawniard Community Day",
-    "note": "The event's own page, read by two models"
-   },
-   "field": "Special rule · Limited-time Evolution Requirement",
-   "order": 7,
-   "answerFormat": "text",
-   "answerHint": "The sentence that states the rule",
-   "readings": [
-    {
-     "who": "Both models",
-     "value": "From 2:00 p.m. to 9:00 p.m. local time, evolve Bisharp into Kingambit after defeating 1 Dark- or Steel-type Raid Boss with Bisharp as your Buddy Pokémon.",
-     "quote": "From 2:00 p.m. to 9:00 p.m. local time, evolve Bisharp into Kingambit after defeating 1 Dark- or Steel-type Raid Boss with Bisharp as your Buddy Pokémon.",
-     "url": "https://leekduck.com/events/november-communityday2026/"
-    }
-   ],
-   "value": "From 2:00 p.m. to 9:00 p.m. local time, evolve Bisharp into Kingambit after defeating 1 Dark- or Steel-type Raid Boss with Bisharp as your Buddy Pokémon.",
-   "section": "events",
-   "firstSeen": "2026-11-14"
-  },
-  {
-   "id": "events:79a17a8c.rule.b0ca34:a09ef74f7f5f",
-   "kind": "auto-read",
-   "held": false,
-   "origin": {
-    "id": "page:november-communityday2026",
-    "title": "Pawniard Community Day",
-    "note": "The event's own page, read by two models"
-   },
-   "field": "Special rule · Lure Module Bonus",
-   "order": 9,
-   "answerFormat": "text",
-   "answerHint": "The sentence that states the rule",
-   "readings": [
-    {
-     "who": "Both models",
-     "value": "From 2:00 p.m. to 9:00 p.m. local time, Pawniard will have a very high chance of appearing at PokéStops with active regular Lure Modules.",
-     "quote": "From 2:00 p.m. to 9:00 p.m. local time, Pawniard will have a very high chance of appearing at PokéStops with active regular Lure Modules.",
-     "url": "https://leekduck.com/events/november-communityday2026/"
-    }
-   ],
-   "value": "From 2:00 p.m. to 9:00 p.m. local time, Pawniard will have a very high chance of appearing at PokéStops with active regular Lure Modules.",
-   "section": "events",
-   "firstSeen": "2026-11-14"
-  },
-  {
    "id": "events:979624b9.microsite:4f53cda18c2b",
    "kind": "missing-microsite",
    "held": true,
@@ -1325,56 +1196,6 @@
    "answerHint": "https://pokemongo.com/en/…",
    "section": "events",
    "firstSeen": "2026-11-13"
-  },
-  {
-   "id": "events:9a913545.rule.0d6ccc:1f0046350a50",
-   "kind": "auto-read",
-   "held": false,
-   "origin": {
-    "id": "page:eternamax-eternatus-max-battles-2026",
-    "title": "Eternamax Eternatus Returns",
-    "note": "The event's own page, read by two models"
-   },
-   "field": "Special rule · Encounter Eternatus through GO Pass",
-   "order": 6,
-   "answerFormat": "text",
-   "answerHint": "The sentence that states the rule",
-   "readings": [
-    {
-     "who": "Both models",
-     "value": "Eternatus is available through GO Pass: Dynamax Trails. Trainers who have already caught Eternatus will receive 100 Eternatus Candy instead of another encounter.",
-     "quote": "Eternatus is available through GO Pass: Dynamax Trails. Trainers who have already caught Eternatus will receive 100 Eternatus Candy instead of another encounter.",
-     "url": "https://leekduck.com/events/eternamax-eternatus-max-battles-2026/"
-    }
-   ],
-   "value": "Eternatus is available through GO Pass: Dynamax Trails. Trainers who have already caught Eternatus will receive 100 Eternatus Candy instead of another encounter.",
-   "section": "events",
-   "firstSeen": "2026-11-14"
-  },
-  {
-   "id": "events:9a913545.rule.b3071c:ed089e1858c8",
-   "kind": "auto-read",
-   "held": false,
-   "origin": {
-    "id": "page:eternamax-eternatus-max-battles-2026",
-    "title": "Eternamax Eternatus Returns",
-    "note": "The event's own page, read by two models"
-   },
-   "field": "Special rule · Eternamax Eternatus in Max Battles",
-   "order": 5,
-   "answerFormat": "text",
-   "answerHint": "The sentence that states the rule",
-   "readings": [
-    {
-     "who": "Both models",
-     "value": "Defeat Eternamax Eternatus in Max Battles to earn a large amount of Eternatus Candy and Eternatus Candy XL. Eternamax Eternatus cannot be caught after these battles.",
-     "quote": "Defeat Eternamax Eternatus in Max Battles to earn a large amount of Eternatus Candy and Eternatus Candy XL. Eternamax Eternatus cannot be caught after these battles.",
-     "url": "https://leekduck.com/events/eternamax-eternatus-max-battles-2026/"
-    }
-   ],
-   "value": "Defeat Eternamax Eternatus in Max Battles to earn a large amount of Eternatus Candy and Eternatus Candy XL. Eternamax Eternatus cannot be caught after these battles.",
-   "section": "events",
-   "firstSeen": "2026-11-14"
   },
   {
    "id": "events:9de196ba.debut.mega:da5b61519a0a",
@@ -1805,7 +1626,7 @@
    "firstSeen": "2026-11-23"
   },
   {
-   "id": "raids:tier-5:6e2d3a5b669e",
+   "id": "raids:tier-5:31b9660faf3b",
    "kind": "source-disagreement",
    "held": false,
    "origin": {
@@ -1817,19 +1638,19 @@
    "readings": [
     {
      "who": "LeekDuck",
-     "value": "Cresselia, Darkrai",
+     "value": "Cresselia, Darkrai, Deoxys Normal, Deoxys Defense, Deoxys Attack, Deoxys Speed",
      "url": "https://leekduck.com/raids/"
     },
     {
      "who": "Pokebattler",
-     "value": "Cresselia, Darkrai, Kyurem Black, Kyurem White",
+     "value": "Cresselia, Darkrai, Deoxys Attack, Deoxys Defense, Deoxys Normal, Deoxys Speed, Kyurem Black, Kyurem White",
      "url": "https://www.pokebattler.com/raids"
     }
    ],
    "showing": 0,
    "answerHint": "Boss names, separated by commas",
    "section": "raids",
-   "firstSeen": "2026-11-17"
+   "firstSeen": "2026-11-24"
   }
  ],
  "applied": [

@@ -2329,6 +2329,20 @@
    "end": null
   },
   {
+   "slug": "cottonee-spring-2024",
+   "name": "Flower Crown Cottonee",
+   "kind": "research",
+   "level": 15,
+   "boostedLevel": null,
+   "floor": 10,
+   "boostedFloor": null,
+   "start": null,
+   "end": {
+    "time": "2026-11-30T20:00:00",
+    "kind": "local"
+   }
+  },
+  {
    "slug": "greavard",
    "name": "Greavard",
    "kind": "research",
@@ -2410,81 +2424,6 @@
    }
   },
   {
-   "slug": "bulbasaur",
-   "name": "Bulbasaur",
-   "kind": "research",
-   "level": 15,
-   "boostedLevel": null,
-   "floor": 10,
-   "boostedFloor": null,
-   "start": null,
-   "end": null
-  },
-  {
-   "slug": "charmander",
-   "name": "Charmander",
-   "kind": "research",
-   "level": 15,
-   "boostedLevel": null,
-   "floor": 10,
-   "boostedFloor": null,
-   "start": null,
-   "end": null
-  },
-  {
-   "slug": "squirtle",
-   "name": "Squirtle",
-   "kind": "research",
-   "level": 15,
-   "boostedLevel": null,
-   "floor": 10,
-   "boostedFloor": null,
-   "start": null,
-   "end": null
-  },
-  {
-   "slug": "grookey",
-   "name": "Grookey",
-   "kind": "research",
-   "level": 15,
-   "boostedLevel": null,
-   "floor": 10,
-   "boostedFloor": null,
-   "start": null,
-   "end": {
-    "time": "2026-11-23T20:00:00",
-    "kind": "local"
-   }
-  },
-  {
-   "slug": "scorbunny",
-   "name": "Scorbunny",
-   "kind": "research",
-   "level": 15,
-   "boostedLevel": null,
-   "floor": 10,
-   "boostedFloor": null,
-   "start": null,
-   "end": {
-    "time": "2026-11-23T20:00:00",
-    "kind": "local"
-   }
-  },
-  {
-   "slug": "sobble",
-   "name": "Sobble",
-   "kind": "research",
-   "level": 15,
-   "boostedLevel": null,
-   "floor": 10,
-   "boostedFloor": null,
-   "start": null,
-   "end": {
-    "time": "2026-11-23T20:00:00",
-    "kind": "local"
-   }
-  },
-  {
    "slug": "magikarp",
    "name": "Magikarp",
    "kind": "research",
@@ -2494,56 +2433,6 @@
    "boostedFloor": null,
    "start": null,
    "end": null
-  },
-  {
-   "slug": "feebas",
-   "name": "Feebas",
-   "kind": "research",
-   "level": 15,
-   "boostedLevel": null,
-   "floor": 10,
-   "boostedFloor": null,
-   "start": null,
-   "end": null
-  },
-  {
-   "slug": "eevee",
-   "name": "Eevee",
-   "kind": "research",
-   "level": 15,
-   "boostedLevel": null,
-   "floor": 10,
-   "boostedFloor": null,
-   "start": null,
-   "end": null
-  },
-  {
-   "slug": "drampa",
-   "name": "Drampa",
-   "kind": "research",
-   "level": 15,
-   "boostedLevel": null,
-   "floor": 10,
-   "boostedFloor": null,
-   "start": null,
-   "end": {
-    "time": "2026-11-23T20:00:00",
-    "kind": "local"
-   }
-  },
-  {
-   "slug": "duraludon",
-   "name": "Duraludon",
-   "kind": "research",
-   "level": 15,
-   "boostedLevel": null,
-   "floor": 10,
-   "boostedFloor": null,
-   "start": null,
-   "end": {
-    "time": "2026-11-23T20:00:00",
-    "kind": "local"
-   }
   },
   {
    "slug": "stufful",
@@ -3712,6 +3601,17 @@
    "end": null
   },
   {
+   "slug": "feebas",
+   "name": "Feebas",
+   "kind": "research",
+   "level": 15,
+   "boostedLevel": null,
+   "floor": 10,
+   "boostedFloor": null,
+   "start": null,
+   "end": null
+  },
+  {
    "slug": "doduo",
    "name": "Doduo",
    "kind": "research",
@@ -3965,6 +3865,17 @@
    "end": null
   },
   {
+   "slug": "eevee",
+   "name": "Eevee",
+   "kind": "research",
+   "level": 15,
+   "boostedLevel": null,
+   "floor": 10,
+   "boostedFloor": null,
+   "start": null,
+   "end": null
+  },
+  {
    "slug": "ursaring",
    "name": "Ursaring",
    "kind": "research",
@@ -4022,6 +3933,39 @@
   {
    "slug": "diggersby",
    "name": "Diggersby",
+   "kind": "research",
+   "level": 15,
+   "boostedLevel": null,
+   "floor": 10,
+   "boostedFloor": null,
+   "start": null,
+   "end": null
+  },
+  {
+   "slug": "bulbasaur",
+   "name": "Bulbasaur",
+   "kind": "research",
+   "level": 15,
+   "boostedLevel": null,
+   "floor": 10,
+   "boostedFloor": null,
+   "start": null,
+   "end": null
+  },
+  {
+   "slug": "charmander",
+   "name": "Charmander",
+   "kind": "research",
+   "level": 15,
+   "boostedLevel": null,
+   "floor": 10,
+   "boostedFloor": null,
+   "start": null,
+   "end": null
+  },
+  {
+   "slug": "squirtle",
+   "name": "Squirtle",
    "kind": "research",
    "level": 15,
    "boostedLevel": null,

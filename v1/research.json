@@ -25,6 +25,16 @@
        "type": "encounter",
        "shiny": true,
        "cp": {
+        "min": 271,
+        "max": 300
+       },
+       "slug": "cottonee-spring-2024",
+       "name": "Flower Crown Cottonee"
+      },
+      {
+       "type": "encounter",
+       "shiny": true,
+       "cp": {
         "min": 402,
         "max": 435
        },
@@ -91,6 +101,12 @@
        "quantity": 1,
        "name": "Rare Candy XL",
        "icon": "art/6644d57fdfda3e89e012a5f8b7069f69.png"
+      },
+      {
+       "type": "item",
+       "quantity": 10000,
+       "name": "Stardust",
+       "icon": "art/8091724025f7c21f1479111875b9a2b4.png"
       }
      ]
     },
@@ -123,210 +139,18 @@
        "quantity": 25,
        "name": "Houndoom Mega Energy",
        "icon": "art/1368b3633dad847f61b8818dc7f5ebab.png"
-      }
-     ]
-    }
-   ]
-  },
-  {
-   "title": "Dynamax Trails Tasks",
-   "event": true,
-   "end": {
-    "time": "2026-11-23T20:00:00",
-    "kind": "local"
-   },
-   "tasks": [
-    {
-     "text": "Catch 8 Pokémon",
-     "rewards": [
-      {
-       "type": "encounter",
-       "shiny": true,
-       "cp": {
-        "min": 442,
-        "max": 477
-       },
-       "slug": "bulbasaur",
-       "name": "Bulbasaur"
       },
-      {
-       "type": "encounter",
-       "shiny": true,
-       "cp": {
-        "min": 387,
-        "max": 420
-       },
-       "slug": "charmander",
-       "name": "Charmander"
-      },
-      {
-       "type": "encounter",
-       "shiny": true,
-       "cp": {
-        "min": 372,
-        "max": 405
-       },
-       "slug": "squirtle",
-       "name": "Squirtle"
-      },
-      {
-       "type": "encounter",
-       "shiny": true,
-       "cp": {
-        "min": 430,
-        "max": 465
-       },
-       "slug": "grookey",
-       "name": "Grookey"
-      },
-      {
-       "type": "encounter",
-       "shiny": true,
-       "cp": {
-        "min": 434,
-        "max": 470
-       },
-       "slug": "scorbunny",
-       "name": "Scorbunny"
-      },
-      {
-       "type": "encounter",
-       "shiny": true,
-       "cp": {
-        "min": 434,
-        "max": 470
-       },
-       "slug": "sobble",
-       "name": "Sobble"
-      }
-     ]
-    },
-    {
-     "text": "Power up Pokémon 8 times",
-     "rewards": [
-      {
-       "type": "encounter",
-       "shiny": true,
-       "cp": {
-        "min": 99,
-        "max": 117
-       },
-       "slug": "magikarp",
-       "name": "Magikarp"
-      },
-      {
-       "type": "encounter",
-       "shiny": true,
-       "cp": {
-        "min": 99,
-        "max": 117
-       },
-       "slug": "feebas",
-       "name": "Feebas"
-      },
-      {
-       "type": "item",
-       "quantity": 3,
-       "name": "Pinap Berry",
-       "icon": "art/506ecd9acd94449a27dfcc4129541eeb.png"
-      }
-     ]
-    },
-    {
-     "text": "Explore 1 km",
-     "rewards": [
-      {
-       "type": "encounter",
-       "shiny": true,
-       "cp": {
-        "min": 424,
-        "max": 459
-       },
-       "slug": "eevee",
-       "name": "Eevee"
-      },
-      {
-       "type": "item",
-       "quantity": 2000,
-       "name": "Stardust",
-       "icon": "art/8091724025f7c21f1479111875b9a2b4.png"
-      }
-     ]
-    },
-    {
-     "text": "Win a Max Battle",
-     "rewards": [
-      {
-       "type": "encounter",
-       "shiny": true,
-       "cp": {
-        "min": 1191,
-        "max": 1249
-       },
-       "slug": "drampa",
-       "name": "Drampa"
-      },
-      {
-       "type": "encounter",
-       "shiny": true,
-       "cp": {
-        "min": 1255,
-        "max": 1314
-       },
-       "slug": "duraludon",
-       "name": "Duraludon"
-      },
-      {
-       "type": "resource",
-       "quantity": 10,
-       "name": "Eternatus Candy",
-       "icon": "art/b78749d8d0ee59a9314845b6c2414148.png"
-      },
-      {
-       "type": "item",
-       "quantity": 2000,
-       "name": "Stardust",
-       "icon": "art/8091724025f7c21f1479111875b9a2b4.png"
-      }
-     ]
-    },
-    {
-     "text": "Unlock a Max Move",
-     "rewards": [
       {
        "type": "resource",
        "quantity": 25,
-       "name": "Eternatus Candy",
-       "icon": "art/b78749d8d0ee59a9314845b6c2414148.png"
+       "name": "Manectric Mega Energy",
+       "icon": "art/3b383e81e595322914190160ea4e4840.png"
       },
-      {
-       "type": "item",
-       "quantity": 5000,
-       "name": "Stardust",
-       "icon": "art/8091724025f7c21f1479111875b9a2b4.png"
-      }
-     ]
-    },
-    {
-     "text": "Make an Excellent Throw",
-     "rewards": [
       {
        "type": "resource",
        "quantity": 25,
-       "name": "Eternatus Candy",
-       "icon": "art/b78749d8d0ee59a9314845b6c2414148.png"
-      },
-      {
-       "type": "item",
-       "quantity": 1,
-       "name": "Golden Razz Berry",
-       "icon": "art/acd7a57acab21994428980ab293400c4.png"
-      },
-      {
-       "type": "item",
-       "quantity": 1,
-       "name": "Silver Pinap Berry",
-       "icon": "art/83d5a65337cea6bbb168a42195889922.png"
+       "name": "Sableye Mega Energy",
+       "icon": "art/6ad0df5501a1bc13319ede7a7ef0ce96.png"
       }
      ]
     }

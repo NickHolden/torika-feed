@@ -1,9 +1,5 @@
 {
  "icons": {
-  "https://cdn.leekduck.com/assets/img/candy/regular/890.png": {
-   "etag": "\"b419f23c51d9bf7375f7885eb63ea520\"",
-   "path": "art/b78749d8d0ee59a9314845b6c2414148.png"
-  },
   "https://cdn.leekduck.com/assets/img/icons/xp.png": {
    "etag": "\"5e8b40b19499a30fa9a45606aaec2787\"",
    "path": "art/efca27988f2eabe34c1ef03983f4e27d.png"
@@ -95,6 +91,10 @@
   "https://cdn.leekduck.com/assets/img/mega_energy/Pidgeot Mega Energy.png": {
    "etag": "\"9888261e6cb70cfe0a70ee68380d5bcd\"",
    "path": "art/841e05bd5a1242a81a90b57dbd9f97aa.png"
+  },
+  "https://cdn.leekduck.com/assets/img/mega_energy/Sableye Mega Energy.png": {
+   "etag": "\"8612460f445c253a2354402a0b6b25f7\"",
+   "path": "art/6ad0df5501a1bc13319ede7a7ef0ce96.png"
   },
   "https://cdn.leekduck.com/assets/img/mega_energy/Sceptile Mega Energy.png": {
    "etag": "\"2ab9c1a42724459f275dd6c2b4a0bb6c\"",
