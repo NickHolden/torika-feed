@@ -9,134 +9,6 @@
   }
  },
  "pages": {
-  "dynamax-trails-2026": {
-   "readers": [
-    "Claude",
-    "GPT"
-   ],
-   "hash": "sha256-80dace1abfe265f2720f9e136f08ad7fd1de144bef06471d7eea4f84c79e1231",
-   "readings": [
-    {
-     "debuts": [],
-     "featured_attacks": [],
-     "special_rules": [
-      {
-       "heading": "Spotlight Hour",
-       "quote": "Grookey, Scorbunny, and Sobble will be featured during Pokémon Spotlight Hour on November 19, 2026, from 6 pm to 7 pm local time. The bonus will be 2× Catch Candy."
-      },
-      {
-       "heading": "Event-Themed Stickers",
-       "quote": "Get event-themed stickers by spinning PokéStops, opening Gifts, purchasing them from the in-game shop, and progressing through your GO Pass."
-      }
-     ],
-     "season_groups": []
-    },
-    {
-     "debuts": [],
-     "featured_attacks": [],
-     "special_rules": [
-      {
-       "heading": "Spotlight Hour",
-       "quote": "Grookey, Scorbunny, and Sobble will be featured during Pokémon Spotlight Hour on November 19, 2026, from 6 pm to 7 pm local time. The bonus will be 2× Catch Candy."
-      },
-      {
-       "heading": "Event-Themed Stickers",
-       "quote": "Get event-themed stickers by spinning PokéStops, opening Gifts, purchasing them from the in-game shop, and progressing through your GO Pass."
-      }
-     ],
-     "season_groups": []
-    }
-   ],
-   "seen": {
-    "events:18bc5021.rule.89e0cf:f7dded1fc813": {
-     "item": {
-      "id": "events:18bc5021.rule.89e0cf:f7dded1fc813",
-      "kind": "auto-read",
-      "held": false,
-      "origin": {
-       "id": "page:dynamax-trails-2026",
-       "title": "Dynamax Trails",
-       "note": "The event's own page, read by two models"
-      },
-      "field": "Special rule · Spotlight Hour",
-      "order": 5,
-      "answerFormat": "text",
-      "answerHint": "The sentence that states the rule",
-      "readings": [
-       {
-        "who": "Both models",
-        "value": "Grookey, Scorbunny, and Sobble will be featured during Pokémon Spotlight Hour on November 19, 2026, from 6 pm to 7 pm local time. The bonus will be 2× Catch Candy.",
-        "quote": "Grookey, Scorbunny, and Sobble will be featured during Pokémon Spotlight Hour on November 19, 2026, from 6 pm to 7 pm local time. The bonus will be 2× Catch Candy.",
-        "url": "https://leekduck.com/events/dynamax-trails-2026/"
-       }
-      ],
-      "value": "Grookey, Scorbunny, and Sobble will be featured during Pokémon Spotlight Hour on November 19, 2026, from 6 pm to 7 pm local time. The bonus will be 2× Catch Candy."
-     },
-     "meta": {
-      "source": "events:18bc5021.rule.89e0cf:f7dded1fc813",
-      "value": "Grookey, Scorbunny, and Sobble will be featured during Pokémon Spotlight Hour on November 19, 2026, from 6 pm to 7 pm local time. The bonus will be 2× Catch Candy.",
-      "ja": null
-     }
-    },
-    "events:18bc5021.rule.532fb6:72e78cd416c9": {
-     "item": {
-      "id": "events:18bc5021.rule.532fb6:72e78cd416c9",
-      "kind": "auto-read",
-      "held": false,
-      "origin": {
-       "id": "page:dynamax-trails-2026",
-       "title": "Dynamax Trails",
-       "note": "The event's own page, read by two models"
-      },
-      "field": "Special rule · Event-Themed Stickers",
-      "order": 6,
-      "answerFormat": "text",
-      "answerHint": "The sentence that states the rule",
-      "readings": [
-       {
-        "who": "Both models",
-        "value": "Get event-themed stickers by spinning PokéStops, opening Gifts, purchasing them from the in-game shop, and progressing through your GO Pass.",
-        "quote": "Get event-themed stickers by spinning PokéStops, opening Gifts, purchasing them from the in-game shop, and progressing through your GO Pass.",
-        "url": "https://leekduck.com/events/dynamax-trails-2026/"
-       }
-      ],
-      "value": "Get event-themed stickers by spinning PokéStops, opening Gifts, purchasing them from the in-game shop, and progressing through your GO Pass."
-     },
-     "meta": {
-      "source": "events:18bc5021.rule.532fb6:72e78cd416c9",
-      "value": "Get event-themed stickers by spinning PokéStops, opening Gifts, purchasing them from the in-game shop, and progressing through your GO Pass.",
-      "ja": null
-     }
-    }
-   },
-   "open": [
-    "events:18bc5021.rule.89e0cf:f7dded1fc813",
-    "events:18bc5021.rule.532fb6:72e78cd416c9"
-   ]
-  },
-  "max-mondays-2026-11-23": {
-   "readers": [
-    "Claude",
-    "GPT"
-   ],
-   "hash": "sha256-f85b5fb98b47ac93a71e9d0769c4260573db5452e962965d4092f74891e9a299",
-   "readings": [
-    {
-     "debuts": [],
-     "featured_attacks": [],
-     "special_rules": [],
-     "season_groups": []
-    },
-    {
-     "debuts": [],
-     "featured_attacks": [],
-     "special_rules": [],
-     "season_groups": []
-    }
-   ],
-   "seen": {},
-   "open": []
-  },
   "cresselia-darkrai-in-5-star-raid-battles-november-2026": {
    "readers": [
     "Claude",
@@ -166,29 +38,6 @@
     "GPT"
    ],
    "hash": "sha256-7438c022b40a701e59ad9c4853fd396e1ef0a3a8e9cf64563ed39554dd08869f",
-   "readings": [
-    {
-     "debuts": [],
-     "featured_attacks": [],
-     "special_rules": [],
-     "season_groups": []
-    },
-    {
-     "debuts": [],
-     "featured_attacks": [],
-     "special_rules": [],
-     "season_groups": []
-    }
-   ],
-   "seen": {},
-   "open": []
-  },
-  "gbl-twilight-trails_ultra-league_master-league-mega-edition_2026-go-laic-cup": {
-   "readers": [
-    "Claude",
-    "GPT"
-   ],
-   "hash": "sha256-8365f930ba71279af7ab81c9d8ce938dd8d6e656bcf283deffa46cb634340077",
    "readings": [
     {
      "debuts": [],
@@ -1407,29 +1256,6 @@
     "events:68656bdd.rule.bcb26f:c08a375ca7fd"
    ]
   },
-  "gbl-twilight-trails_master-league_mega-catch-cup-great-league-edition": {
-   "readers": [
-    "Claude",
-    "GPT"
-   ],
-   "hash": "sha256-2e3e4dec3644bb4b75929a8d40bd51a24eb8306ce1d0fb6d3207527767141bd4",
-   "readings": [
-    {
-     "debuts": [],
-     "featured_attacks": [],
-     "special_rules": [],
-     "season_groups": []
-    },
-    {
-     "debuts": [],
-     "featured_attacks": [],
-     "special_rules": [],
-     "season_groups": []
-    }
-   ],
-   "seen": {},
-   "open": []
-  },
   "shadow-tornadus-incarnate-forme-in-shadow-raids-november-16-2026": {
    "readers": [
     "Claude",
@@ -1499,12 +1325,389 @@
    "seen": {},
    "open": []
   },
+  "raidhour20261202": {
+   "readers": [
+    "Claude",
+    "GPT"
+   ],
+   "hash": "sha256-aa273c31d590572361f23012dcb7a7f7d4997e55effc6818f2d24f08b95b632b",
+   "readings": [
+    {
+     "debuts": [],
+     "featured_attacks": [],
+     "special_rules": [],
+     "season_groups": []
+    },
+    {
+     "debuts": [],
+     "featured_attacks": [],
+     "special_rules": [],
+     "season_groups": []
+    }
+   ],
+   "seen": {},
+   "open": []
+  },
+  "pokemonspotlighthour2026-12-03": {
+   "readers": [
+    "Claude",
+    "GPT"
+   ],
+   "hash": "sha256-790c9e14f4017a20f02b28ef69e9b2c3c2a46fbbdbcd828bbbf1fe7d216edb91",
+   "readings": [
+    {
+     "debuts": [],
+     "featured_attacks": [],
+     "special_rules": [],
+     "season_groups": []
+    },
+    {
+     "debuts": [],
+     "featured_attacks": [],
+     "special_rules": [],
+     "season_groups": []
+    }
+   ],
+   "seen": {},
+   "open": []
+  },
   "max-battle-day-december-2026": {
    "readers": [
     "Claude",
     "GPT"
    ],
    "hash": "sha256-bba10d70d3183091aa083b9afcede45c8703c61b84d4bdc97f21a474483f1695",
+   "readings": [
+    {
+     "debuts": [],
+     "featured_attacks": [],
+     "special_rules": [],
+     "season_groups": []
+    },
+    {
+     "debuts": [],
+     "featured_attacks": [],
+     "special_rules": [],
+     "season_groups": []
+    }
+   ],
+   "seen": {},
+   "open": []
+  },
+  "tropical-paradise-2026": {
+   "readers": [
+    "Claude",
+    "GPT"
+   ],
+   "hash": "sha256-03dcb87ecd66836b2a9806a7c16de1718b27df22fdcfb43cec02a402faad2bcf",
+   "readings": [
+    {
+     "debuts": [
+      {
+       "kind": "pokemon",
+       "pokemon": [
+        "Pyukumuku"
+       ],
+       "quote": "Pyukumuku, originally discovered in the Alola region, makes its Pokémon GO debut. It will be available in three-star raids and from the event GO Pass, and it can be Shiny if you’re lucky!"
+      }
+     ],
+     "featured_attacks": [],
+     "special_rules": [
+      {
+       "heading": "Attack Availability Update",
+       "quote": "Starting with this event, Pyukumuku can learn the Fast Attack Soak."
+      },
+      {
+       "heading": "Mega Slowbro: Super Max Level",
+       "quote": "Starting with this event, Mega Slowbro can reach Super Max Level for the first time in Pokémon GO."
+      },
+      {
+       "heading": "Chilling Water+",
+       "quote": "Slowbro can now use the additional Charged Attack Chilling Water+ while Mega Evolved. Its power increases with the Pokémon’s Mega Level."
+      }
+     ],
+     "season_groups": []
+    },
+    {
+     "debuts": [
+      {
+       "kind": "pokemon",
+       "pokemon": [
+        "Pyukumuku"
+       ],
+       "quote": "Pyukumuku, originally discovered in the Alola region, makes its Pokémon GO debut. It will be available in three-star raids and from the event GO Pass, and it can be Shiny if you’re lucky!"
+      }
+     ],
+     "featured_attacks": [],
+     "special_rules": [
+      {
+       "heading": "Attack Availability Update",
+       "quote": "Starting with this event, Pyukumuku can learn the Fast Attack Soak."
+      },
+      {
+       "heading": "Mega Slowbro: Super Max Level",
+       "quote": "Starting with this event, Mega Slowbro can reach Super Max Level for the first time in Pokémon GO."
+      },
+      {
+       "heading": "Chilling Water+",
+       "quote": "Slowbro can now use the additional Charged Attack Chilling Water+ while Mega Evolved. Its power increases with the Pokémon’s Mega Level."
+      }
+     ],
+     "season_groups": []
+    }
+   ],
+   "seen": {
+    "events:84d37304.debut.pokemon:c260b7f9bc18": {
+     "item": {
+      "id": "events:84d37304.debut.pokemon:c260b7f9bc18",
+      "kind": "auto-read",
+      "held": false,
+      "origin": {
+       "id": "page:tropical-paradise-2026",
+       "title": "Tropical Paradise",
+       "note": "The event's own page, read by two models"
+      },
+      "field": "Pokémon debuts",
+      "order": 1,
+      "answerFormat": "names",
+      "answerHint": "Names, separated by ;",
+      "readings": [
+       {
+        "who": "Both models",
+        "value": "Pyukumuku",
+        "quote": "Pyukumuku, originally discovered in the Alola region, makes its Pokémon GO debut. It will be available in three-star raids and from the event GO Pass, and it can be Shiny if you’re lucky!",
+        "url": "https://leekduck.com/events/tropical-paradise-2026/"
+       }
+      ],
+      "value": "Pyukumuku"
+     },
+     "meta": {
+      "source": "events:84d37304.debut.pokemon:c260b7f9bc18",
+      "value": [
+       "Pyukumuku"
+      ],
+      "ja": null
+     }
+    },
+    "events:84d37304.rule.1fd8fa:051ab65a0df5": {
+     "item": {
+      "id": "events:84d37304.rule.1fd8fa:051ab65a0df5",
+      "kind": "auto-read",
+      "held": false,
+      "origin": {
+       "id": "page:tropical-paradise-2026",
+       "title": "Tropical Paradise",
+       "note": "The event's own page, read by two models"
+      },
+      "field": "Special rule · Attack Availability Update",
+      "order": 5,
+      "answerFormat": "text",
+      "answerHint": "The sentence that states the rule",
+      "readings": [
+       {
+        "who": "Both models",
+        "value": "Starting with this event, Pyukumuku can learn the Fast Attack Soak.",
+        "quote": "Starting with this event, Pyukumuku can learn the Fast Attack Soak.",
+        "url": "https://leekduck.com/events/tropical-paradise-2026/"
+       }
+      ],
+      "value": "Starting with this event, Pyukumuku can learn the Fast Attack Soak."
+     },
+     "meta": {
+      "source": "events:84d37304.rule.1fd8fa:051ab65a0df5",
+      "value": "Starting with this event, Pyukumuku can learn the Fast Attack Soak.",
+      "ja": null
+     }
+    },
+    "events:84d37304.rule.194b25:f0e615a5ede9": {
+     "item": {
+      "id": "events:84d37304.rule.194b25:f0e615a5ede9",
+      "kind": "auto-read",
+      "held": false,
+      "origin": {
+       "id": "page:tropical-paradise-2026",
+       "title": "Tropical Paradise",
+       "note": "The event's own page, read by two models"
+      },
+      "field": "Special rule · Mega Slowbro: Super Max Level",
+      "order": 6,
+      "answerFormat": "text",
+      "answerHint": "The sentence that states the rule",
+      "readings": [
+       {
+        "who": "Both models",
+        "value": "Starting with this event, Mega Slowbro can reach Super Max Level for the first time in Pokémon GO.",
+        "quote": "Starting with this event, Mega Slowbro can reach Super Max Level for the first time in Pokémon GO.",
+        "url": "https://leekduck.com/events/tropical-paradise-2026/"
+       }
+      ],
+      "value": "Starting with this event, Mega Slowbro can reach Super Max Level for the first time in Pokémon GO."
+     },
+     "meta": {
+      "source": "events:84d37304.rule.194b25:f0e615a5ede9",
+      "value": "Starting with this event, Mega Slowbro can reach Super Max Level for the first time in Pokémon GO.",
+      "ja": null
+     }
+    },
+    "events:84d37304.rule.31ca18:7e402de2bbb8": {
+     "item": {
+      "id": "events:84d37304.rule.31ca18:7e402de2bbb8",
+      "kind": "auto-read",
+      "held": false,
+      "origin": {
+       "id": "page:tropical-paradise-2026",
+       "title": "Tropical Paradise",
+       "note": "The event's own page, read by two models"
+      },
+      "field": "Special rule · Chilling Water+",
+      "order": 7,
+      "answerFormat": "text",
+      "answerHint": "The sentence that states the rule",
+      "readings": [
+       {
+        "who": "Both models",
+        "value": "Slowbro can now use the additional Charged Attack Chilling Water+ while Mega Evolved. Its power increases with the Pokémon’s Mega Level.",
+        "quote": "Slowbro can now use the additional Charged Attack Chilling Water+ while Mega Evolved. Its power increases with the Pokémon’s Mega Level.",
+        "url": "https://leekduck.com/events/tropical-paradise-2026/"
+       }
+      ],
+      "value": "Slowbro can now use the additional Charged Attack Chilling Water+ while Mega Evolved. Its power increases with the Pokémon’s Mega Level."
+     },
+     "meta": {
+      "source": "events:84d37304.rule.31ca18:7e402de2bbb8",
+      "value": "Slowbro can now use the additional Charged Attack Chilling Water+ while Mega Evolved. Its power increases with the Pokémon’s Mega Level.",
+      "ja": null
+     }
+    }
+   },
+   "open": [
+    "events:84d37304.debut.pokemon:c260b7f9bc18",
+    "events:84d37304.rule.1fd8fa:051ab65a0df5",
+    "events:84d37304.rule.194b25:f0e615a5ede9",
+    "events:84d37304.rule.31ca18:7e402de2bbb8"
+   ]
+  },
+  "max-mondays-2026-12-07": {
+   "readers": [
+    "Claude",
+    "GPT"
+   ],
+   "hash": "sha256-874ba579b7cd7d9ba8189b26d3c66e63943cb1c0acfcf50093bd900ece2a0e63",
+   "readings": [
+    {
+     "debuts": [],
+     "featured_attacks": [],
+     "special_rules": [],
+     "season_groups": []
+    },
+    {
+     "debuts": [],
+     "featured_attacks": [],
+     "special_rules": [],
+     "season_groups": []
+    }
+   ],
+   "seen": {},
+   "open": []
+  },
+  "gbl-daydream-destinations_great-league-mega-edition_ultra-league-mega-edition_master-league-mega-edition-split-1": {
+   "readers": [
+    "Claude",
+    "GPT"
+   ],
+   "hash": "sha256-362f2fae2ffde45b67262655eb6125760273dd0e8e5beaa556baa541ede6f56d",
+   "readings": [
+    {
+     "debuts": [],
+     "featured_attacks": [],
+     "special_rules": [],
+     "season_groups": []
+    },
+    {
+     "debuts": [],
+     "featured_attacks": [],
+     "special_rules": [],
+     "season_groups": []
+    }
+   ],
+   "seen": {},
+   "open": []
+  },
+  "mega-slowbro-in-mega-raids-december-2026": {
+   "readers": [
+    "Claude",
+    "GPT"
+   ],
+   "hash": "sha256-ab9b74d5999d5c45d991a097ea7ec88fdd8635bf3342410ca83c5b374c540799",
+   "readings": [
+    {
+     "debuts": [],
+     "featured_attacks": [],
+     "special_rules": [],
+     "season_groups": []
+    },
+    {
+     "debuts": [],
+     "featured_attacks": [],
+     "special_rules": [],
+     "season_groups": []
+    }
+   ],
+   "seen": {},
+   "open": []
+  },
+  "regidrago-in-5-star-raid-battles-december-2026": {
+   "readers": [
+    "Claude",
+    "GPT"
+   ],
+   "hash": "sha256-06bc246702e76c9435a7f34b76eb985b7660b1fce082ac6d9f2be3dcbd25657d",
+   "readings": [
+    {
+     "debuts": [],
+     "featured_attacks": [],
+     "special_rules": [],
+     "season_groups": []
+    },
+    {
+     "debuts": [],
+     "featured_attacks": [],
+     "special_rules": [],
+     "season_groups": []
+    }
+   ],
+   "seen": {},
+   "open": []
+  },
+  "raidhour20261209": {
+   "readers": [
+    "Claude",
+    "GPT"
+   ],
+   "hash": "sha256-257e1eee75f1fec0337623b1b96966840db601db8c5c8aff038d534af0bab597",
+   "readings": [
+    {
+     "debuts": [],
+     "featured_attacks": [],
+     "special_rules": [],
+     "season_groups": []
+    },
+    {
+     "debuts": [],
+     "featured_attacks": [],
+     "special_rules": [],
+     "season_groups": []
+    }
+   ],
+   "seen": {},
+   "open": []
+  },
+  "pokemonspotlighthour2026-12-10": {
+   "readers": [
+    "Claude",
+    "GPT"
+   ],
+   "hash": "sha256-cfe1378281b6d9eb1db6b41204fe66b0974f2c42b6573575dced5f5dea32e154",
    "readings": [
     {
      "debuts": [],
@@ -2192,6 +2395,144 @@
     "events:3c15fdca.rule.9d0e8f:b8e0d4e9b645"
    ]
   },
+  "unannounced-event-december-2026": {
+   "readers": [
+    "Claude",
+    "GPT"
+   ],
+   "hash": "sha256-981929fa79c5198bae88b3a361307c14e94c5681f27a1d69c2d8fc9693ee47c8",
+   "readings": [
+    {
+     "debuts": [],
+     "featured_attacks": [],
+     "special_rules": [],
+     "season_groups": []
+    },
+    {
+     "debuts": [],
+     "featured_attacks": [],
+     "special_rules": [],
+     "season_groups": []
+    }
+   ],
+   "seen": {},
+   "open": []
+  },
+  "max-mondays-2026-12-14": {
+   "readers": [
+    "Claude",
+    "GPT"
+   ],
+   "hash": "sha256-e1347266e831c186fffce85ae157ed18e012ba0570a1b261879148ec25e63635",
+   "readings": [
+    {
+     "debuts": [],
+     "featured_attacks": [],
+     "special_rules": [],
+     "season_groups": []
+    },
+    {
+     "debuts": [],
+     "featured_attacks": [],
+     "special_rules": [],
+     "season_groups": []
+    }
+   ],
+   "seen": {},
+   "open": []
+  },
+  "gbl-daydream-destinations_great-league-mega-edition_mountain-cup-great-league-edition": {
+   "readers": [
+    "Claude",
+    "GPT"
+   ],
+   "hash": "sha256-2c38a4649b001d07d8de3ff7070ece10f5b6d5e7cc1070a2f52f4e6c983f1abf",
+   "readings": [
+    {
+     "debuts": [],
+     "featured_attacks": [],
+     "special_rules": [],
+     "season_groups": []
+    },
+    {
+     "debuts": [],
+     "featured_attacks": [],
+     "special_rules": [],
+     "season_groups": []
+    }
+   ],
+   "seen": {},
+   "open": []
+  },
+  "mega-gengar-in-mega-raids-december-2026": {
+   "readers": [
+    "Claude",
+    "GPT"
+   ],
+   "hash": "sha256-6691fb7ae0444ec4c0cf66c20d8d251179fb55d77b7e0b9ff2745f37ddef8dc2",
+   "readings": [
+    {
+     "debuts": [],
+     "featured_attacks": [],
+     "special_rules": [],
+     "season_groups": []
+    },
+    {
+     "debuts": [],
+     "featured_attacks": [],
+     "special_rules": [],
+     "season_groups": []
+    }
+   ],
+   "seen": {},
+   "open": []
+  },
+  "unannounced-pokemon-in-5-star-raid-battles-december-2026": {
+   "readers": [
+    "Claude",
+    "GPT"
+   ],
+   "hash": "sha256-f2c4b0e88536de2266b497d817ba743d31ae7b85718123b530164ec7994cada4",
+   "readings": [
+    {
+     "debuts": [],
+     "featured_attacks": [],
+     "special_rules": [],
+     "season_groups": []
+    },
+    {
+     "debuts": [],
+     "featured_attacks": [],
+     "special_rules": [],
+     "season_groups": []
+    }
+   ],
+   "seen": {},
+   "open": []
+  },
+  "raidhour20261216": {
+   "readers": [
+    "Claude",
+    "GPT"
+   ],
+   "hash": "sha256-0918c1f7c2b9b39fd84c9a8fca69637a96af55605b70fbe65a311eca2ff44115",
+   "readings": [
+    {
+     "debuts": [],
+     "featured_attacks": [],
+     "special_rules": [],
+     "season_groups": []
+    },
+    {
+     "debuts": [],
+     "featured_attacks": [],
+     "special_rules": [],
+     "season_groups": []
+    }
+   ],
+   "seen": {},
+   "open": []
+  },
   "minior-showers-geminids-2026": {
    "readers": [
     "Claude",
@@ -2375,6 +2716,29 @@
     "events:08a9fee0.rule.901c52:ccf032dcbfd5"
    ]
   },
+  "pokemonspotlighthour2026-12-17": {
+   "readers": [
+    "Claude",
+    "GPT"
+   ],
+   "hash": "sha256-7b02d3b7423981c9e0f6917aa5e405a097cdca5473c0ca210e8648465a06e87d",
+   "readings": [
+    {
+     "debuts": [],
+     "featured_attacks": [],
+     "special_rules": [],
+     "season_groups": []
+    },
+    {
+     "debuts": [],
+     "featured_attacks": [],
+     "special_rules": [],
+     "season_groups": []
+    }
+   ],
+   "seen": {},
+   "open": []
+  },
   "raid-day-december-2026": {
    "readers": [
     "Claude",
@@ -2398,12 +2762,377 @@
    "seen": {},
    "open": []
   },
+  "choose-your-path-daydream-destinations-2026-12-15": {
+   "readers": [
+    "Claude",
+    "GPT"
+   ],
+   "hash": "sha256-fdb25feb7b9ea1d026d6cd09b42e2f0f784d308e9827cffb0d4b46d18db9f4ee",
+   "readings": [
+    {
+     "debuts": [],
+     "featured_attacks": [],
+     "special_rules": [
+      {
+       "heading": "Choose a Path",
+       "quote": "Your choice will determine your Timed Research tasks and bonuses throughout the week. Specific bonuses have not yet been announced."
+      }
+     ],
+     "season_groups": []
+    },
+    {
+     "debuts": [],
+     "featured_attacks": [],
+     "special_rules": [
+      {
+       "heading": "Choose a Path",
+       "quote": "Your choice will determine your Timed Research tasks and bonuses throughout the week. Specific bonuses have not yet been announced."
+      }
+     ],
+     "season_groups": []
+    }
+   ],
+   "seen": {
+    "events:0352ca23.rule.c1a139:16b0d4b30476": {
+     "item": {
+      "id": "events:0352ca23.rule.c1a139:16b0d4b30476",
+      "kind": "auto-read",
+      "held": false,
+      "origin": {
+       "id": "page:choose-your-path-daydream-destinations-2026-12-15",
+       "title": "Choose Your Path: Daydream Destinations (December 15, 2026)",
+       "note": "The event's own page, read by two models"
+      },
+      "field": "Special rule · Choose a Path",
+      "order": 5,
+      "answerFormat": "text",
+      "answerHint": "The sentence that states the rule",
+      "readings": [
+       {
+        "who": "Both models",
+        "value": "Your choice will determine your Timed Research tasks and bonuses throughout the week. Specific bonuses have not yet been announced.",
+        "quote": "Your choice will determine your Timed Research tasks and bonuses throughout the week. Specific bonuses have not yet been announced.",
+        "url": "https://leekduck.com/events/choose-your-path-daydream-destinations-2026-12-15/"
+       }
+      ],
+      "value": "Your choice will determine your Timed Research tasks and bonuses throughout the week. Specific bonuses have not yet been announced."
+     },
+     "meta": {
+      "source": "events:0352ca23.rule.c1a139:16b0d4b30476",
+      "value": "Your choice will determine your Timed Research tasks and bonuses throughout the week. Specific bonuses have not yet been announced.",
+      "ja": null
+     }
+    }
+   },
+   "open": [
+    "events:0352ca23.rule.c1a139:16b0d4b30476"
+   ]
+  },
+  "max-mondays-2026-12-21": {
+   "readers": [
+    "Claude",
+    "GPT"
+   ],
+   "hash": "sha256-56d13120f1007e2801c63c60d69266dfcb4899f1fba8c0fe03cbd974d1dab019",
+   "readings": [
+    {
+     "debuts": [],
+     "featured_attacks": [],
+     "special_rules": [],
+     "season_groups": []
+    },
+    {
+     "debuts": [],
+     "featured_attacks": [],
+     "special_rules": [],
+     "season_groups": []
+    }
+   ],
+   "seen": {},
+   "open": []
+  },
+  "gbl-daydream-destinations_ultra-league-mega-edition_holiday-cup-great-league-edition": {
+   "readers": [
+    "Claude",
+    "GPT"
+   ],
+   "hash": "sha256-dc90746acf68126b4dd22540dfcc2d0f463b919ba6b69fcdeace59e9885d5814",
+   "readings": [
+    {
+     "debuts": [],
+     "featured_attacks": [],
+     "special_rules": [],
+     "season_groups": []
+    },
+    {
+     "debuts": [],
+     "featured_attacks": [],
+     "special_rules": [],
+     "season_groups": []
+    }
+   ],
+   "seen": {},
+   "open": []
+  },
+  "ho-oh-in-5-star-raid-battles-december-2026": {
+   "readers": [
+    "Claude",
+    "GPT"
+   ],
+   "hash": "sha256-5569e0b5142156b5caacc83519a8bceee4a6c485dcb811ae57988fcb7c5ebf8b",
+   "readings": [
+    {
+     "debuts": [],
+     "featured_attacks": [],
+     "special_rules": [],
+     "season_groups": []
+    },
+    {
+     "debuts": [],
+     "featured_attacks": [],
+     "special_rules": [],
+     "season_groups": []
+    }
+   ],
+   "seen": {},
+   "open": []
+  },
+  "mega-skarmory-in-mega-raids-december-2026": {
+   "readers": [
+    "Claude",
+    "GPT"
+   ],
+   "hash": "sha256-6a69727669f9728dbe1d19cad12413b760b35b7379b920e88e1f5be2beaae38c",
+   "readings": [
+    {
+     "debuts": [],
+     "featured_attacks": [],
+     "special_rules": [],
+     "season_groups": []
+    },
+    {
+     "debuts": [],
+     "featured_attacks": [],
+     "special_rules": [],
+     "season_groups": []
+    }
+   ],
+   "seen": {},
+   "open": []
+  },
+  "raidhour20261223": {
+   "readers": [
+    "Claude",
+    "GPT"
+   ],
+   "hash": "sha256-af949d8413158dd4a6f18820fe1c53fd3ae5597855c0db88749d049c701009e5",
+   "readings": [
+    {
+     "debuts": [],
+     "featured_attacks": [],
+     "special_rules": [],
+     "season_groups": []
+    },
+    {
+     "debuts": [],
+     "featured_attacks": [],
+     "special_rules": [],
+     "season_groups": []
+    }
+   ],
+   "seen": {},
+   "open": []
+  },
+  "pokemonspotlighthour2026-12-24": {
+   "readers": [
+    "Claude",
+    "GPT"
+   ],
+   "hash": "sha256-1c08ae2f2ad79868b243046d57c47fd596d0fddad4e733541201af0bb6ec78e8",
+   "readings": [
+    {
+     "debuts": [],
+     "featured_attacks": [],
+     "special_rules": [],
+     "season_groups": []
+    },
+    {
+     "debuts": [],
+     "featured_attacks": [],
+     "special_rules": [],
+     "season_groups": []
+    }
+   ],
+   "seen": {},
+   "open": []
+  },
   "hatch-day-december-2026": {
    "readers": [
     "Claude",
     "GPT"
    ],
    "hash": "sha256-4460150cb17b8010d3d2136e3e3020e1dca88fd40b0278dd7962ee8f517d7b04",
+   "readings": [
+    {
+     "debuts": [],
+     "featured_attacks": [],
+     "special_rules": [],
+     "season_groups": []
+    },
+    {
+     "debuts": [],
+     "featured_attacks": [],
+     "special_rules": [],
+     "season_groups": []
+    }
+   ],
+   "seen": {},
+   "open": []
+  },
+  "winter-holiday-2026": {
+   "readers": [
+    "Claude",
+    "GPT"
+   ],
+   "hash": "sha256-a4ee44a4b51b54d7f30afa51abc8166b7316b8f3b305d45c0f3a8796da24ca5f",
+   "readings": [
+    {
+     "debuts": [],
+     "featured_attacks": [],
+     "special_rules": [],
+     "season_groups": []
+    },
+    {
+     "debuts": [],
+     "featured_attacks": [],
+     "special_rules": [],
+     "season_groups": []
+    }
+   ],
+   "seen": {},
+   "open": []
+  },
+  "max-mondays-2026-12-28": {
+   "readers": [
+    "Claude",
+    "GPT"
+   ],
+   "hash": "sha256-8b16a137c2aabb5703e4c6dfed806f85034a7509b4920dbce315474a2c7b7c0c",
+   "readings": [
+    {
+     "debuts": [],
+     "featured_attacks": [],
+     "special_rules": [],
+     "season_groups": []
+    },
+    {
+     "debuts": [],
+     "featured_attacks": [],
+     "special_rules": [],
+     "season_groups": []
+    }
+   ],
+   "seen": {},
+   "open": []
+  },
+  "gbl-daydream-destinations_master-league-mega-edition_holiday-cup-great-league-edition": {
+   "readers": [
+    "Claude",
+    "GPT"
+   ],
+   "hash": "sha256-4eb988724043285a757ec944fe01e39d7e839c945343f5ca206f48f271caf8a8",
+   "readings": [
+    {
+     "debuts": [],
+     "featured_attacks": [],
+     "special_rules": [],
+     "season_groups": []
+    },
+    {
+     "debuts": [],
+     "featured_attacks": [],
+     "special_rules": [],
+     "season_groups": []
+    }
+   ],
+   "seen": {},
+   "open": []
+  },
+  "lugia-in-5-star-raid-battles-december-2026": {
+   "readers": [
+    "Claude",
+    "GPT"
+   ],
+   "hash": "sha256-7fded7d7a20c83e99985c2097694552fc5ba488cbfe7dbdd2214ab9f5345e982",
+   "readings": [
+    {
+     "debuts": [],
+     "featured_attacks": [],
+     "special_rules": [],
+     "season_groups": []
+    },
+    {
+     "debuts": [],
+     "featured_attacks": [],
+     "special_rules": [],
+     "season_groups": []
+    }
+   ],
+   "seen": {},
+   "open": []
+  },
+  "mega-glalie-in-mega-raids-december-2026": {
+   "readers": [
+    "Claude",
+    "GPT"
+   ],
+   "hash": "sha256-e5447bc54201511dd4927b006a00ca1c332976d09ea9e5c0d87f2ef833946f24",
+   "readings": [
+    {
+     "debuts": [],
+     "featured_attacks": [],
+     "special_rules": [],
+     "season_groups": []
+    },
+    {
+     "debuts": [],
+     "featured_attacks": [],
+     "special_rules": [],
+     "season_groups": []
+    }
+   ],
+   "seen": {},
+   "open": []
+  },
+  "raidhour20261230": {
+   "readers": [
+    "Claude",
+    "GPT"
+   ],
+   "hash": "sha256-d887ea970d41190fca993cd0b935285cfd36694fc5747182750f64781ae56cc8",
+   "readings": [
+    {
+     "debuts": [],
+     "featured_attacks": [],
+     "special_rules": [],
+     "season_groups": []
+    },
+    {
+     "debuts": [],
+     "featured_attacks": [],
+     "special_rules": [],
+     "season_groups": []
+    }
+   ],
+   "seen": {},
+   "open": []
+  },
+  "pokemonspotlighthour2026-12-31": {
+   "readers": [
+    "Claude",
+    "GPT"
+   ],
+   "hash": "sha256-9fc26748d138c430ef3e9a04dbfb7d05277379d0e2d620d5e4b0fdd3ece09829",
    "readings": [
     {
      "debuts": [],
@@ -2588,12 +3317,528 @@
    "seen": {},
    "open": []
   },
+  "new-years-2027": {
+   "readers": [
+    "Claude",
+    "GPT"
+   ],
+   "hash": "sha256-be81795991b66cfbc198b69138f45a0d6011477f3e039a7efb448abc30c19096",
+   "readings": [
+    {
+     "debuts": [],
+     "featured_attacks": [],
+     "special_rules": [],
+     "season_groups": []
+    },
+    {
+     "debuts": [],
+     "featured_attacks": [],
+     "special_rules": [],
+     "season_groups": []
+    }
+   ],
+   "seen": {},
+   "open": []
+  },
+  "go-pass-december-2026": {
+   "readers": [
+    "Claude",
+    "GPT"
+   ],
+   "hash": "sha256-edb50adf58753f6d33c47744edaf88f689c13654d3921f964927dd41d957c16f",
+   "readings": [
+    {
+     "debuts": [],
+     "featured_attacks": [],
+     "special_rules": [
+      {
+       "heading": "GO Pass and GO Pass Deluxe",
+       "quote": "Trainers will automatically receive GO Pass: December on Tuesday, December 1, at 10:00 a.m. local time. You can collect GO Points and rank up to get additional rewards through Tuesday, January 5, 2027, at 10:00 a.m. local time."
+      },
+      {
+       "heading": "Featured Pokémon and Rewards",
+       "quote": "Complete Pass Tasks to rank up your GO Pass to earn the following rewards."
+      },
+      {
+       "heading": "Major Milestone Bonuses",
+       "quote": "Reach Major Milestones on your GO Pass to unlock the following bonuses."
+      },
+      {
+       "heading": "Tier 1 – Rank 1",
+       "quote": "2× Friendship bonus damage in raids"
+      },
+      {
+       "heading": "Tier 2 – Rank 25",
+       "quote": "Open up to 40 Gifts per day"
+      },
+      {
+       "heading": "Tier 3 – Rank 50",
+       "quote": "2× Daily Adventure Incense duration"
+      },
+      {
+       "heading": "Tier 4 – Rank 75",
+       "quote": "Increased XP and Stardust from hatching Eggs"
+      },
+      {
+       "heading": "Tier 2 – Rank 25",
+       "quote": "Open up to 50 Gifts per day"
+      },
+      {
+       "heading": "The Timed Incubator",
+       "quote": "The Timed Incubator will be available on Rank 20 of GO Pass Deluxe: December!"
+      }
+     ],
+     "season_groups": []
+    },
+    {
+     "debuts": [],
+     "featured_attacks": [],
+     "special_rules": [
+      {
+       "heading": "GO Pass and GO Pass Deluxe",
+       "quote": "Trainers will automatically receive GO Pass: December on Tuesday, December 1, at 10:00 a.m. local time. You can collect GO Points and rank up to get additional rewards through Tuesday, January 5, 2027, at 10:00 a.m. local time."
+      },
+      {
+       "heading": "Featured Pokémon and Rewards",
+       "quote": "Complete Pass Tasks to rank up your GO Pass to earn the following rewards."
+      },
+      {
+       "heading": "Major Milestone Bonuses",
+       "quote": "Reach Major Milestones on your GO Pass to unlock the following bonuses."
+      },
+      {
+       "heading": "Tier 1 – Rank 1",
+       "quote": "Increased XP from going up a Friendship level"
+      },
+      {
+       "heading": "Tier 2 – Rank 25",
+       "quote": "Open up to 40 Gifts per day"
+      },
+      {
+       "heading": "Tier 3 – Rank 50",
+       "quote": "2× Daily Adventure Incense duration"
+      },
+      {
+       "heading": "Tier 4 – Rank 75",
+       "quote": "Increased XP and Stardust from hatching Eggs"
+      },
+      {
+       "heading": "Tier 2 – Rank 25",
+       "quote": "Open up to 50 Gifts per day"
+      },
+      {
+       "heading": "The Timed Incubator",
+       "quote": "This exciting item is an additional unlimited-use Incubator for hatching Eggs as you explore! The Timed Incubator will last from when it’s earned until one week after the current GO Pass ends."
+      }
+     ],
+     "season_groups": []
+    }
+   ],
+   "seen": {
+    "events:253206fc.rule.61ed1b:bbd562f202ac": {
+     "item": {
+      "id": "events:253206fc.rule.61ed1b:bbd562f202ac",
+      "kind": "auto-read",
+      "held": false,
+      "origin": {
+       "id": "page:go-pass-december-2026",
+       "title": "GO Pass: December",
+       "note": "The event's own page, read by two models"
+      },
+      "field": "Special rule · GO Pass and GO Pass Deluxe",
+      "order": 5,
+      "answerFormat": "text",
+      "answerHint": "The sentence that states the rule",
+      "readings": [
+       {
+        "who": "Both models",
+        "value": "Trainers will automatically receive GO Pass: December on Tuesday, December 1, at 10:00 a.m. local time. You can collect GO Points and rank up to get additional rewards through Tuesday, January 5, 2027, at 10:00 a.m. local time.",
+        "quote": "Trainers will automatically receive GO Pass: December on Tuesday, December 1, at 10:00 a.m. local time. You can collect GO Points and rank up to get additional rewards through Tuesday, January 5, 2027, at 10:00 a.m. local time.",
+        "url": "https://leekduck.com/events/go-pass-december-2026/"
+       }
+      ],
+      "value": "Trainers will automatically receive GO Pass: December on Tuesday, December 1, at 10:00 a.m. local time. You can collect GO Points and rank up to get additional rewards through Tuesday, January 5, 2027, at 10:00 a.m. local time."
+     },
+     "meta": {
+      "source": "events:253206fc.rule.61ed1b:bbd562f202ac",
+      "value": "Trainers will automatically receive GO Pass: December on Tuesday, December 1, at 10:00 a.m. local time. You can collect GO Points and rank up to get additional rewards through Tuesday, January 5, 2027, at 10:00 a.m. local time.",
+      "ja": null
+     }
+    },
+    "events:253206fc.rule.765f70:1fc7279740ba": {
+     "item": {
+      "id": "events:253206fc.rule.765f70:1fc7279740ba",
+      "kind": "auto-read",
+      "held": false,
+      "origin": {
+       "id": "page:go-pass-december-2026",
+       "title": "GO Pass: December",
+       "note": "The event's own page, read by two models"
+      },
+      "field": "Special rule · Featured Pokémon and Rewards",
+      "order": 6,
+      "answerFormat": "text",
+      "answerHint": "The sentence that states the rule",
+      "readings": [
+       {
+        "who": "Both models",
+        "value": "Complete Pass Tasks to rank up your GO Pass to earn the following rewards.",
+        "quote": "Complete Pass Tasks to rank up your GO Pass to earn the following rewards.",
+        "url": "https://leekduck.com/events/go-pass-december-2026/"
+       }
+      ],
+      "value": "Complete Pass Tasks to rank up your GO Pass to earn the following rewards."
+     },
+     "meta": {
+      "source": "events:253206fc.rule.765f70:1fc7279740ba",
+      "value": "Complete Pass Tasks to rank up your GO Pass to earn the following rewards.",
+      "ja": null
+     }
+    },
+    "events:253206fc.rule.f88a26:05ad111a20be": {
+     "item": {
+      "id": "events:253206fc.rule.f88a26:05ad111a20be",
+      "kind": "auto-read",
+      "held": false,
+      "origin": {
+       "id": "page:go-pass-december-2026",
+       "title": "GO Pass: December",
+       "note": "The event's own page, read by two models"
+      },
+      "field": "Special rule · Major Milestone Bonuses",
+      "order": 7,
+      "answerFormat": "text",
+      "answerHint": "The sentence that states the rule",
+      "readings": [
+       {
+        "who": "Both models",
+        "value": "Reach Major Milestones on your GO Pass to unlock the following bonuses.",
+        "quote": "Reach Major Milestones on your GO Pass to unlock the following bonuses.",
+        "url": "https://leekduck.com/events/go-pass-december-2026/"
+       }
+      ],
+      "value": "Reach Major Milestones on your GO Pass to unlock the following bonuses."
+     },
+     "meta": {
+      "source": "events:253206fc.rule.f88a26:05ad111a20be",
+      "value": "Reach Major Milestones on your GO Pass to unlock the following bonuses.",
+      "ja": null
+     }
+    },
+    "events:253206fc.rule.1e2a41:02704b563b16": {
+     "item": {
+      "id": "events:253206fc.rule.1e2a41:02704b563b16",
+      "kind": "auto-read",
+      "held": false,
+      "origin": {
+       "id": "page:go-pass-december-2026",
+       "title": "GO Pass: December",
+       "note": "The event's own page, read by two models"
+      },
+      "field": "Special rule · Tier 1 – Rank 1",
+      "order": 8,
+      "answerFormat": "text",
+      "answerHint": "The sentence that states the rule",
+      "readings": [
+       {
+        "who": "Both models",
+        "value": "2× Friendship bonus damage in raids",
+        "quote": "2× Friendship bonus damage in raids",
+        "url": "https://leekduck.com/events/go-pass-december-2026/"
+       }
+      ],
+      "value": "2× Friendship bonus damage in raids"
+     },
+     "meta": {
+      "source": "events:253206fc.rule.1e2a41:02704b563b16",
+      "value": "2× Friendship bonus damage in raids",
+      "ja": null
+     }
+    },
+    "events:253206fc.rule.521712:457e05d36375": {
+     "item": {
+      "id": "events:253206fc.rule.521712:457e05d36375",
+      "kind": "auto-read",
+      "held": false,
+      "origin": {
+       "id": "page:go-pass-december-2026",
+       "title": "GO Pass: December",
+       "note": "The event's own page, read by two models"
+      },
+      "field": "Special rule · Tier 2 – Rank 25",
+      "order": 9,
+      "answerFormat": "text",
+      "answerHint": "The sentence that states the rule",
+      "readings": [
+       {
+        "who": "Both models",
+        "value": "Open up to 40 Gifts per day",
+        "quote": "Open up to 40 Gifts per day",
+        "url": "https://leekduck.com/events/go-pass-december-2026/"
+       }
+      ],
+      "value": "Open up to 40 Gifts per day"
+     },
+     "meta": {
+      "source": "events:253206fc.rule.521712:457e05d36375",
+      "value": "Open up to 40 Gifts per day",
+      "ja": null
+     }
+    },
+    "events:253206fc.rule.af4d60:71b2c191c92c": {
+     "item": {
+      "id": "events:253206fc.rule.af4d60:71b2c191c92c",
+      "kind": "auto-read",
+      "held": false,
+      "origin": {
+       "id": "page:go-pass-december-2026",
+       "title": "GO Pass: December",
+       "note": "The event's own page, read by two models"
+      },
+      "field": "Special rule · Tier 3 – Rank 50",
+      "order": 10,
+      "answerFormat": "text",
+      "answerHint": "The sentence that states the rule",
+      "readings": [
+       {
+        "who": "Both models",
+        "value": "2× Daily Adventure Incense duration",
+        "quote": "2× Daily Adventure Incense duration",
+        "url": "https://leekduck.com/events/go-pass-december-2026/"
+       }
+      ],
+      "value": "2× Daily Adventure Incense duration"
+     },
+     "meta": {
+      "source": "events:253206fc.rule.af4d60:71b2c191c92c",
+      "value": "2× Daily Adventure Incense duration",
+      "ja": null
+     }
+    },
+    "events:253206fc.rule.87f225:e3e35638e6ec": {
+     "item": {
+      "id": "events:253206fc.rule.87f225:e3e35638e6ec",
+      "kind": "auto-read",
+      "held": false,
+      "origin": {
+       "id": "page:go-pass-december-2026",
+       "title": "GO Pass: December",
+       "note": "The event's own page, read by two models"
+      },
+      "field": "Special rule · Tier 4 – Rank 75",
+      "order": 11,
+      "answerFormat": "text",
+      "answerHint": "The sentence that states the rule",
+      "readings": [
+       {
+        "who": "Both models",
+        "value": "Increased XP and Stardust from hatching Eggs",
+        "quote": "Increased XP and Stardust from hatching Eggs",
+        "url": "https://leekduck.com/events/go-pass-december-2026/"
+       }
+      ],
+      "value": "Increased XP and Stardust from hatching Eggs"
+     },
+     "meta": {
+      "source": "events:253206fc.rule.87f225:e3e35638e6ec",
+      "value": "Increased XP and Stardust from hatching Eggs",
+      "ja": null
+     }
+    },
+    "events:253206fc.rule.bcb26f:c08a375ca7fd": {
+     "item": {
+      "id": "events:253206fc.rule.bcb26f:c08a375ca7fd",
+      "kind": "auto-read",
+      "held": false,
+      "origin": {
+       "id": "page:go-pass-december-2026",
+       "title": "GO Pass: December",
+       "note": "The event's own page, read by two models"
+      },
+      "field": "Special rule · Tier 2 – Rank 25",
+      "order": 12,
+      "answerFormat": "text",
+      "answerHint": "The sentence that states the rule",
+      "readings": [
+       {
+        "who": "Both models",
+        "value": "Open up to 50 Gifts per day",
+        "quote": "Open up to 50 Gifts per day",
+        "url": "https://leekduck.com/events/go-pass-december-2026/"
+       }
+      ],
+      "value": "Open up to 50 Gifts per day"
+     },
+     "meta": {
+      "source": "events:253206fc.rule.bcb26f:c08a375ca7fd",
+      "value": "Open up to 50 Gifts per day",
+      "ja": null
+     }
+    },
+    "events:253206fc.rule.c6621d:901afde92bd9": {
+     "item": {
+      "id": "events:253206fc.rule.c6621d:901afde92bd9",
+      "kind": "auto-read",
+      "held": false,
+      "origin": {
+       "id": "page:go-pass-december-2026",
+       "title": "GO Pass: December",
+       "note": "The event's own page, read by two models"
+      },
+      "field": "Special rule · The Timed Incubator",
+      "order": 13,
+      "answerFormat": "text",
+      "answerHint": "The sentence that states the rule",
+      "readings": [
+       {
+        "who": "Both models",
+        "value": "The Timed Incubator will be available on Rank 20 of GO Pass Deluxe: December!",
+        "quote": "The Timed Incubator will be available on Rank 20 of GO Pass Deluxe: December!",
+        "url": "https://leekduck.com/events/go-pass-december-2026/"
+       }
+      ],
+      "value": "The Timed Incubator will be available on Rank 20 of GO Pass Deluxe: December!"
+     },
+     "meta": {
+      "source": "events:253206fc.rule.c6621d:901afde92bd9",
+      "value": "The Timed Incubator will be available on Rank 20 of GO Pass Deluxe: December!",
+      "ja": null
+     }
+    }
+   },
+   "open": [
+    "events:253206fc.rule.61ed1b:bbd562f202ac",
+    "events:253206fc.rule.765f70:1fc7279740ba",
+    "events:253206fc.rule.f88a26:05ad111a20be",
+    "events:253206fc.rule.1e2a41:02704b563b16",
+    "events:253206fc.rule.521712:457e05d36375",
+    "events:253206fc.rule.af4d60:71b2c191c92c",
+    "events:253206fc.rule.87f225:e3e35638e6ec",
+    "events:253206fc.rule.bcb26f:c08a375ca7fd",
+    "events:253206fc.rule.c6621d:901afde92bd9"
+   ]
+  },
+  "gbl-daydream-destinations_great-league-mega-edition_ultra-league-mega-edition_master-league-mega-edition-split-2": {
+   "readers": [
+    "Claude",
+    "GPT"
+   ],
+   "hash": "sha256-8ec163ff23d3fc2de1f0aa39517c8a2903e549ab673321cfabdf1bcee9285c36",
+   "readings": [
+    {
+     "debuts": [],
+     "featured_attacks": [],
+     "special_rules": [],
+     "season_groups": []
+    },
+    {
+     "debuts": [],
+     "featured_attacks": [],
+     "special_rules": [],
+     "season_groups": []
+    }
+   ],
+   "seen": {},
+   "open": []
+  },
+  "shadow-dialga-in-shadow-raids-december-2026": {
+   "readers": [
+    "Claude",
+    "GPT"
+   ],
+   "hash": "sha256-135e15c54f1706dfe52351c0df4bdb3a2e549984d972b70d43e34412b2e0828d",
+   "readings": [
+    {
+     "debuts": [],
+     "featured_attacks": [],
+     "special_rules": [],
+     "season_groups": []
+    },
+    {
+     "debuts": [],
+     "featured_attacks": [],
+     "special_rules": [],
+     "season_groups": []
+    }
+   ],
+   "seen": {},
+   "open": []
+  },
+  "mega-falinks-in-mega-raids-december-2026": {
+   "readers": [
+    "Claude",
+    "GPT"
+   ],
+   "hash": "sha256-7d916959ef5e6c2e8ed8b0f768244a3541b2099809c5946fc48934abd917d615",
+   "readings": [
+    {
+     "debuts": [],
+     "featured_attacks": [],
+     "special_rules": [],
+     "season_groups": []
+    },
+    {
+     "debuts": [],
+     "featured_attacks": [],
+     "special_rules": [],
+     "season_groups": []
+    }
+   ],
+   "seen": {},
+   "open": []
+  },
+  "tornadus-thundurus-landorus-therian-formes-in-5-star-raid-battles-december-2026": {
+   "readers": [
+    "Claude",
+    "GPT"
+   ],
+   "hash": "sha256-e0282e2c151ee8fa298ee9a6ad1f105d0490a29201a7885efc55cc03a7a61dd0",
+   "readings": [
+    {
+     "debuts": [],
+     "featured_attacks": [],
+     "special_rules": [],
+     "season_groups": []
+    },
+    {
+     "debuts": [],
+     "featured_attacks": [],
+     "special_rules": [],
+     "season_groups": []
+    }
+   ],
+   "seen": {},
+   "open": []
+  },
   "super-mega-raid-day-january-2027": {
    "readers": [
     "Claude",
     "GPT"
    ],
    "hash": "sha256-4220ef86715a60f29ce950a13076c178e5403075e253fda9eb58f65853b99094",
+   "readings": [
+    {
+     "debuts": [],
+     "featured_attacks": [],
+     "special_rules": [],
+     "season_groups": []
+    },
+    {
+     "debuts": [],
+     "featured_attacks": [],
+     "special_rules": [],
+     "season_groups": []
+    }
+   ],
+   "seen": {},
+   "open": []
+  },
+  "gbl-daydream-destinations_great-league-mega-edition_fighting-cup-great-league-edition": {
+   "readers": [
+    "Claude",
+    "GPT"
+   ],
+   "hash": "sha256-98fd59973cf0ff2b0ed17b9fcde97ba5fddacf192abaa7ba591345daa25644df",
    "readings": [
     {
      "debuts": [],
@@ -2739,12 +3984,124 @@
    "seen": {},
    "open": []
   },
+  "choose-your-path-daydream-destinations-2027-01-12": {
+   "readers": [
+    "Claude",
+    "GPT"
+   ],
+   "hash": "sha256-6588834878f5748deb2495c6e5280bc4be0736036b04ba37218283969a3ddf0c",
+   "readings": [
+    {
+     "debuts": [],
+     "featured_attacks": [],
+     "special_rules": [
+      {
+       "heading": "Choose a Path",
+       "quote": "Your choice will determine your Timed Research tasks and bonuses throughout the week. Specific bonuses have not yet been announced."
+      }
+     ],
+     "season_groups": []
+    },
+    {
+     "debuts": [],
+     "featured_attacks": [],
+     "special_rules": [
+      {
+       "heading": "Choose a Path",
+       "quote": "Your choice will determine your Timed Research tasks and bonuses throughout the week. Specific bonuses have not yet been announced."
+      }
+     ],
+     "season_groups": []
+    }
+   ],
+   "seen": {
+    "events:e3400440.rule.c1a139:16b0d4b30476": {
+     "item": {
+      "id": "events:e3400440.rule.c1a139:16b0d4b30476",
+      "kind": "auto-read",
+      "held": false,
+      "origin": {
+       "id": "page:choose-your-path-daydream-destinations-2027-01-12",
+       "title": "Choose Your Path: Daydream Destinations (January 12, 2027)",
+       "note": "The event's own page, read by two models"
+      },
+      "field": "Special rule · Choose a Path",
+      "order": 5,
+      "answerFormat": "text",
+      "answerHint": "The sentence that states the rule",
+      "readings": [
+       {
+        "who": "Both models",
+        "value": "Your choice will determine your Timed Research tasks and bonuses throughout the week. Specific bonuses have not yet been announced.",
+        "quote": "Your choice will determine your Timed Research tasks and bonuses throughout the week. Specific bonuses have not yet been announced.",
+        "url": "https://leekduck.com/events/choose-your-path-daydream-destinations-2027-01-12/"
+       }
+      ],
+      "value": "Your choice will determine your Timed Research tasks and bonuses throughout the week. Specific bonuses have not yet been announced."
+     },
+     "meta": {
+      "source": "events:e3400440.rule.c1a139:16b0d4b30476",
+      "value": "Your choice will determine your Timed Research tasks and bonuses throughout the week. Specific bonuses have not yet been announced.",
+      "ja": null
+     }
+    }
+   },
+   "open": [
+    "events:e3400440.rule.c1a139:16b0d4b30476"
+   ]
+  },
+  "gbl-daydream-destinations_ultra-league-mega-edition_jungle-cup-great-league-edition": {
+   "readers": [
+    "Claude",
+    "GPT"
+   ],
+   "hash": "sha256-f5e18275638f2a14b91ad17c59fe2f59d22abc9661e987e58bcdd67ef642237a",
+   "readings": [
+    {
+     "debuts": [],
+     "featured_attacks": [],
+     "special_rules": [],
+     "season_groups": []
+    },
+    {
+     "debuts": [],
+     "featured_attacks": [],
+     "special_rules": [],
+     "season_groups": []
+    }
+   ],
+   "seen": {},
+   "open": []
+  },
   "max-battle-day-january-2027": {
    "readers": [
     "Claude",
     "GPT"
    ],
    "hash": "sha256-bb53f34d8415751f299f3a41899d5b1e80178add9b22e4b6ec2e6f561f5e952e",
+   "readings": [
+    {
+     "debuts": [],
+     "featured_attacks": [],
+     "special_rules": [],
+     "season_groups": []
+    },
+    {
+     "debuts": [],
+     "featured_attacks": [],
+     "special_rules": [],
+     "season_groups": []
+    }
+   ],
+   "seen": {},
+   "open": []
+  },
+  "gbl-daydream-destinations_master-league-mega-edition_master-league": {
+   "readers": [
+    "Claude",
+    "GPT"
+   ],
+   "hash": "sha256-b61eb4eec401c1c89727babbb5e76333a9378a852a3b79a987115aa28600b73b",
    "readings": [
     {
      "debuts": [],
@@ -2785,12 +4142,124 @@
    "seen": {},
    "open": []
   },
+  "choose-your-path-daydream-destinations-2027-01-26": {
+   "readers": [
+    "Claude",
+    "GPT"
+   ],
+   "hash": "sha256-56dd94b29c0e0539c0469f78e9aac2fb8bb33822e9a94c439d2d0c3a9d799c99",
+   "readings": [
+    {
+     "debuts": [],
+     "featured_attacks": [],
+     "special_rules": [
+      {
+       "heading": "Choose a Path",
+       "quote": "Your choice will determine your Timed Research tasks and bonuses throughout the week. Specific bonuses have not yet been announced."
+      }
+     ],
+     "season_groups": []
+    },
+    {
+     "debuts": [],
+     "featured_attacks": [],
+     "special_rules": [
+      {
+       "heading": "Choose a Path",
+       "quote": "Your choice will determine your Timed Research tasks and bonuses throughout the week. Specific bonuses have not yet been announced."
+      }
+     ],
+     "season_groups": []
+    }
+   ],
+   "seen": {
+    "events:0a061fdf.rule.c1a139:16b0d4b30476": {
+     "item": {
+      "id": "events:0a061fdf.rule.c1a139:16b0d4b30476",
+      "kind": "auto-read",
+      "held": false,
+      "origin": {
+       "id": "page:choose-your-path-daydream-destinations-2027-01-26",
+       "title": "Choose Your Path: Daydream Destinations (January 26, 2027)",
+       "note": "The event's own page, read by two models"
+      },
+      "field": "Special rule · Choose a Path",
+      "order": 5,
+      "answerFormat": "text",
+      "answerHint": "The sentence that states the rule",
+      "readings": [
+       {
+        "who": "Both models",
+        "value": "Your choice will determine your Timed Research tasks and bonuses throughout the week. Specific bonuses have not yet been announced.",
+        "quote": "Your choice will determine your Timed Research tasks and bonuses throughout the week. Specific bonuses have not yet been announced.",
+        "url": "https://leekduck.com/events/choose-your-path-daydream-destinations-2027-01-26/"
+       }
+      ],
+      "value": "Your choice will determine your Timed Research tasks and bonuses throughout the week. Specific bonuses have not yet been announced."
+     },
+     "meta": {
+      "source": "events:0a061fdf.rule.c1a139:16b0d4b30476",
+      "value": "Your choice will determine your Timed Research tasks and bonuses throughout the week. Specific bonuses have not yet been announced.",
+      "ja": null
+     }
+    }
+   },
+   "open": [
+    "events:0a061fdf.rule.c1a139:16b0d4b30476"
+   ]
+  },
+  "gbl-daydream-destinations_great-league-mega-edition_ultra-league-mega-edition_master-league-mega-edition-split-3": {
+   "readers": [
+    "Claude",
+    "GPT"
+   ],
+   "hash": "sha256-05cfbd295bfc52f681838b0283c67081cb9ec4c00e00d48d432e57e4de2e12c9",
+   "readings": [
+    {
+     "debuts": [],
+     "featured_attacks": [],
+     "special_rules": [],
+     "season_groups": []
+    },
+    {
+     "debuts": [],
+     "featured_attacks": [],
+     "special_rules": [],
+     "season_groups": []
+    }
+   ],
+   "seen": {},
+   "open": []
+  },
   "february-communityday2027": {
    "readers": [
     "Claude",
     "GPT"
    ],
    "hash": "sha256-d4796dcfaa3af2a2bd2e634c5145f4860824eb6cc5a777b360233b7f1a351636",
+   "readings": [
+    {
+     "debuts": [],
+     "featured_attacks": [],
+     "special_rules": [],
+     "season_groups": []
+    },
+    {
+     "debuts": [],
+     "featured_attacks": [],
+     "special_rules": [],
+     "season_groups": []
+    }
+   ],
+   "seen": {},
+   "open": []
+  },
+  "gbl-daydream-destinations_great-league-mega-edition_master-league": {
+   "readers": [
+    "Claude",
+    "GPT"
+   ],
+   "hash": "sha256-18f3519ad7b38f31ac4655fa7dc5897d7513b442d54f11040cbbcb1fd6867bb1",
    "readings": [
     {
      "debuts": [],
@@ -2831,6 +4300,29 @@
    "seen": {},
    "open": []
   },
+  "gbl-daydream-destinations_ultra-league-mega-edition_love-cup-great-league-edition_2027-go-euic-cup": {
+   "readers": [
+    "Claude",
+    "GPT"
+   ],
+   "hash": "sha256-69a8d72f8c4cd39f034101bc653c8786643ff49d9ce98c23e65d33d293e7ad15",
+   "readings": [
+    {
+     "debuts": [],
+     "featured_attacks": [],
+     "special_rules": [],
+     "season_groups": []
+    },
+    {
+     "debuts": [],
+     "featured_attacks": [],
+     "special_rules": [],
+     "season_groups": []
+    }
+   ],
+   "seen": {},
+   "open": []
+  },
   "pokemon-go-tour-alola-kaohsiung-2027": {
    "readers": [
     "Claude",
@@ -2853,6 +4345,72 @@
    ],
    "seen": {},
    "open": []
+  },
+  "choose-your-path-daydream-destinations-2027-02-16": {
+   "readers": [
+    "Claude",
+    "GPT"
+   ],
+   "hash": "sha256-2f48ce4f40bc9a4832386ebbd007fcaee98ac0e7883c86c82d7015dc3f91f550",
+   "readings": [
+    {
+     "debuts": [],
+     "featured_attacks": [],
+     "special_rules": [
+      {
+       "heading": "Choose a Path",
+       "quote": "Your choice will determine your Timed Research tasks and bonuses throughout the week. Specific bonuses have not yet been announced."
+      }
+     ],
+     "season_groups": []
+    },
+    {
+     "debuts": [],
+     "featured_attacks": [],
+     "special_rules": [
+      {
+       "heading": "Choose a Path",
+       "quote": "Your choice will determine your Timed Research tasks and bonuses throughout the week. Specific bonuses have not yet been announced."
+      }
+     ],
+     "season_groups": []
+    }
+   ],
+   "seen": {
+    "events:5542dbc1.rule.c1a139:16b0d4b30476": {
+     "item": {
+      "id": "events:5542dbc1.rule.c1a139:16b0d4b30476",
+      "kind": "auto-read",
+      "held": false,
+      "origin": {
+       "id": "page:choose-your-path-daydream-destinations-2027-02-16",
+       "title": "Choose Your Path: Daydream Destinations (February 16, 2027)",
+       "note": "The event's own page, read by two models"
+      },
+      "field": "Special rule · Choose a Path",
+      "order": 5,
+      "answerFormat": "text",
+      "answerHint": "The sentence that states the rule",
+      "readings": [
+       {
+        "who": "Both models",
+        "value": "Your choice will determine your Timed Research tasks and bonuses throughout the week. Specific bonuses have not yet been announced.",
+        "quote": "Your choice will determine your Timed Research tasks and bonuses throughout the week. Specific bonuses have not yet been announced.",
+        "url": "https://leekduck.com/events/choose-your-path-daydream-destinations-2027-02-16/"
+       }
+      ],
+      "value": "Your choice will determine your Timed Research tasks and bonuses throughout the week. Specific bonuses have not yet been announced."
+     },
+     "meta": {
+      "source": "events:5542dbc1.rule.c1a139:16b0d4b30476",
+      "value": "Your choice will determine your Timed Research tasks and bonuses throughout the week. Specific bonuses have not yet been announced.",
+      "ja": null
+     }
+    }
+   },
+   "open": [
+    "events:5542dbc1.rule.c1a139:16b0d4b30476"
+   ]
   },
   "pokemon-go-tour-alola-los-angeles-2027": {
    "readers": [
@@ -2877,12 +4435,488 @@
    "seen": {},
    "open": []
   },
+  "gbl-daydream-destinations_master-league-mega-edition_mega-catch-cup-great-league-edition_2027-go-euic-cup": {
+   "readers": [
+    "Claude",
+    "GPT"
+   ],
+   "hash": "sha256-f95a7e63dc448f59e573f62bd5b8d9c4a2828e558ef43512d444f607b1d201d0",
+   "readings": [
+    {
+     "debuts": [],
+     "featured_attacks": [],
+     "special_rules": [],
+     "season_groups": []
+    },
+    {
+     "debuts": [],
+     "featured_attacks": [],
+     "special_rules": [],
+     "season_groups": []
+    }
+   ],
+   "seen": {},
+   "open": []
+  },
   "pokemon-go-tour-alola-global-2027": {
    "readers": [
     "Claude",
     "GPT"
    ],
    "hash": "sha256-665d936019e2b7f6fa87456f72aa7a24008f09fbf0de412f4e61da142d27322f",
+   "readings": [
+    {
+     "debuts": [],
+     "featured_attacks": [],
+     "special_rules": [],
+     "season_groups": []
+    },
+    {
+     "debuts": [],
+     "featured_attacks": [],
+     "special_rules": [],
+     "season_groups": []
+    }
+   ],
+   "seen": {},
+   "open": []
+  },
+  "season-25-daydream-destinations": {
+   "readers": [
+    "Claude",
+    "GPT"
+   ],
+   "hash": "sha256-4bbb279558c111247f1bbe96f3dff3ea2ad17d61e1b52273bfdc3f62f3dcce18",
+   "readings": [
+    {
+     "debuts": [
+      {
+       "kind": "dynamax",
+       "pokemon": [
+        "Alolan Sandshrew",
+        "Slowpoke",
+        "Corphish"
+       ],
+       "quote": "Dynamax Alolan Sandshrew, Dynamax Slowpoke, Dynamax Corphish, and more will make their way into Max Battles throughout the Season. Keep an eye out for new Dynamax Pokémon at Power Spots!"
+      }
+     ],
+     "featured_attacks": [],
+     "special_rules": [
+      {
+       "heading": "Pokémon GO Tour: Alola",
+       "quote": "Pokémon GO Tour returns in February 2027 with a trip to the Alola region!"
+      },
+      {
+       "heading": "Mega-Evolved Pokémon",
+       "quote": "Mega Froslass and Mega Drampa will be featured in Raid Day events during Daydream Destinations. Stay tuned for more details!"
+      },
+      {
+       "heading": "Community Days",
+       "quote": "Mark your calendar! Daydream Destinations will have Community Day events on the following dates."
+      },
+      {
+       "heading": "GO Pass",
+       "quote": "GO Pass, a limited-time progression track, will be available during Daydream Destinations! Complete Pass Tasks to earn GO Points to increase your rank and earn rewards."
+      },
+      {
+       "heading": "GO Battle League",
+       "quote": "The GO Battle League continues during Daydream Destinations, featuring the 2027 Europe International Championships Cup, the Holiday Cup, the Love Cup, and more!"
+      },
+      {
+       "heading": "Research Breakthrough",
+       "quote": "Complete Field Research to unlock Research Breakthrough encounters with one of a variety of Season-themed Pokémon. Discover where your path leads you each week!"
+      }
+     ],
+     "season_groups": [
+      {
+       "heading": "In 2 km Eggs",
+       "pokemon": [
+        "Vulpix",
+        "Swablu",
+        "Yamper"
+       ]
+      },
+      {
+       "heading": "In 5 km Eggs",
+       "pokemon": [
+        "Lickitung",
+        "Snom",
+        "Flittle"
+       ]
+      },
+      {
+       "heading": "In 5 km Eggs from Adventure Sync Rewards",
+       "pokemon": [
+        "Tyrogue",
+        "Happiny",
+        "Maschiff"
+       ]
+      },
+      {
+       "heading": "In 7 km Eggs",
+       "pokemon": [
+        "Alolan Geodude",
+        "Galarian Corsola",
+        "Galarian Zigzagoon"
+       ]
+      },
+      {
+       "heading": "In 7 km Eggs From Route Rewards",
+       "pokemon": [
+        "Hisuian Growlithe",
+        "Hisuian Sneasel",
+        "Galarian Corsola"
+       ]
+      },
+      {
+       "heading": "In 10 km Eggs",
+       "pokemon": [
+        "Honedge",
+        "Goomy",
+        "Charcadet"
+       ]
+      },
+      {
+       "heading": "In 10 km Eggs from Adventure Sync Rewards",
+       "pokemon": [
+        "Gible",
+        "Drampa",
+        "Frigibax"
+       ]
+      }
+     ]
+    },
+    {
+     "debuts": [
+      {
+       "kind": "dynamax",
+       "pokemon": [
+        "Alolan Sandshrew",
+        "Slowpoke",
+        "Corphish"
+       ],
+       "quote": "Dynamax Alolan Sandshrew, Dynamax Slowpoke, Dynamax Corphish, and more will make their way into Max Battles throughout the Season. Keep an eye out for new Dynamax Pokémon at Power Spots!"
+      }
+     ],
+     "featured_attacks": [],
+     "special_rules": [
+      {
+       "heading": "Pokémon GO Tour: Alola",
+       "quote": "Trainers everywhere can join the global event. A global event ticket, available on the Pokémon GO Web Store, will grant access to exclusive Special Research, additional bonuses, and an increased chance to encounter Shiny Pokémon."
+      },
+      {
+       "heading": "Mega-Evolved Pokémon",
+       "quote": "Mega Froslass and Mega Drampa will be featured in Raid Day events during Daydream Destinations. Stay tuned for more details!"
+      },
+      {
+       "heading": "Community Days",
+       "quote": "Mark your calendar! Daydream Destinations will have Community Day events on the following dates."
+      },
+      {
+       "heading": "GO Pass",
+       "quote": "GO Pass, a limited-time progression track, will be available during Daydream Destinations! Complete Pass Tasks to earn GO Points to increase your rank and earn rewards."
+      },
+      {
+       "heading": "GO Battle League",
+       "quote": "The GO Battle League continues during Daydream Destinations, featuring the 2027 Europe International Championships Cup, the Holiday Cup, the Love Cup, and more!"
+      },
+      {
+       "heading": "Research Breakthrough",
+       "quote": "Complete Field Research to unlock Research Breakthrough encounters with one of a variety of Season-themed Pokémon. Discover where your path leads you each week!"
+      }
+     ],
+     "season_groups": [
+      {
+       "heading": "In 2 km Eggs",
+       "pokemon": [
+        "Vulpix",
+        "Swablu",
+        "Yamper"
+       ]
+      },
+      {
+       "heading": "In 5 km Eggs",
+       "pokemon": [
+        "Lickitung",
+        "Snom",
+        "Flittle"
+       ]
+      },
+      {
+       "heading": "In 5 km Eggs from Adventure Sync Rewards",
+       "pokemon": [
+        "Tyrogue",
+        "Happiny",
+        "Maschiff"
+       ]
+      },
+      {
+       "heading": "In 7 km Eggs",
+       "pokemon": [
+        "Alolan Geodude",
+        "Galarian Corsola",
+        "Galarian Zigzagoon"
+       ]
+      },
+      {
+       "heading": "In 7 km Eggs From Route Rewards",
+       "pokemon": [
+        "Hisuian Growlithe",
+        "Hisuian Sneasel",
+        "Galarian Corsola"
+       ]
+      },
+      {
+       "heading": "In 10 km Eggs",
+       "pokemon": [
+        "Honedge",
+        "Goomy",
+        "Charcadet"
+       ]
+      },
+      {
+       "heading": "In 10 km Eggs from Adventure Sync Rewards",
+       "pokemon": [
+        "Gible",
+        "Drampa",
+        "Frigibax"
+       ]
+      }
+     ]
+    }
+   ],
+   "seen": {
+    "events:582af762.debut.dynamax:0888f00cf913": {
+     "item": {
+      "id": "events:582af762.debut.dynamax:0888f00cf913",
+      "kind": "auto-read",
+      "held": false,
+      "origin": {
+       "id": "page:season-25-daydream-destinations",
+       "title": "Daydream Destinations",
+       "note": "The event's own page, read by two models"
+      },
+      "field": "Dynamax debuts",
+      "order": 3,
+      "answerFormat": "names",
+      "answerHint": "Names, separated by ;",
+      "readings": [
+       {
+        "who": "Both models",
+        "value": "Alolan Sandshrew; Slowpoke; Corphish",
+        "quote": "Dynamax Alolan Sandshrew, Dynamax Slowpoke, Dynamax Corphish, and more will make their way into Max Battles throughout the Season. Keep an eye out for new Dynamax Pokémon at Power Spots!",
+        "url": "https://leekduck.com/events/season-25-daydream-destinations/"
+       }
+      ],
+      "value": "Alolan Sandshrew; Slowpoke; Corphish"
+     },
+     "meta": {
+      "source": "events:582af762.debut.dynamax:0888f00cf913",
+      "value": [
+       "Alolan Sandshrew",
+       "Slowpoke",
+       "Corphish"
+      ],
+      "ja": null
+     }
+    },
+    "events:582af762.rule.3ce33b:1d5cd5ec30db": {
+     "item": {
+      "id": "events:582af762.rule.3ce33b:1d5cd5ec30db",
+      "kind": "auto-read",
+      "held": false,
+      "origin": {
+       "id": "page:season-25-daydream-destinations",
+       "title": "Daydream Destinations",
+       "note": "The event's own page, read by two models"
+      },
+      "field": "Special rule · Pokémon GO Tour: Alola",
+      "order": 5,
+      "answerFormat": "text",
+      "answerHint": "The sentence that states the rule",
+      "readings": [
+       {
+        "who": "Both models",
+        "value": "Pokémon GO Tour returns in February 2027 with a trip to the Alola region!",
+        "quote": "Pokémon GO Tour returns in February 2027 with a trip to the Alola region!",
+        "url": "https://leekduck.com/events/season-25-daydream-destinations/"
+       }
+      ],
+      "value": "Pokémon GO Tour returns in February 2027 with a trip to the Alola region!"
+     },
+     "meta": {
+      "source": "events:582af762.rule.3ce33b:1d5cd5ec30db",
+      "value": "Pokémon GO Tour returns in February 2027 with a trip to the Alola region!",
+      "ja": null
+     }
+    },
+    "events:582af762.rule.b14611:4923976210ef": {
+     "item": {
+      "id": "events:582af762.rule.b14611:4923976210ef",
+      "kind": "auto-read",
+      "held": false,
+      "origin": {
+       "id": "page:season-25-daydream-destinations",
+       "title": "Daydream Destinations",
+       "note": "The event's own page, read by two models"
+      },
+      "field": "Special rule · Mega-Evolved Pokémon",
+      "order": 6,
+      "answerFormat": "text",
+      "answerHint": "The sentence that states the rule",
+      "readings": [
+       {
+        "who": "Both models",
+        "value": "Mega Froslass and Mega Drampa will be featured in Raid Day events during Daydream Destinations. Stay tuned for more details!",
+        "quote": "Mega Froslass and Mega Drampa will be featured in Raid Day events during Daydream Destinations. Stay tuned for more details!",
+        "url": "https://leekduck.com/events/season-25-daydream-destinations/"
+       }
+      ],
+      "value": "Mega Froslass and Mega Drampa will be featured in Raid Day events during Daydream Destinations. Stay tuned for more details!"
+     },
+     "meta": {
+      "source": "events:582af762.rule.b14611:4923976210ef",
+      "value": "Mega Froslass and Mega Drampa will be featured in Raid Day events during Daydream Destinations. Stay tuned for more details!",
+      "ja": null
+     }
+    },
+    "events:582af762.rule.2d9226:5a28422c5923": {
+     "item": {
+      "id": "events:582af762.rule.2d9226:5a28422c5923",
+      "kind": "auto-read",
+      "held": false,
+      "origin": {
+       "id": "page:season-25-daydream-destinations",
+       "title": "Daydream Destinations",
+       "note": "The event's own page, read by two models"
+      },
+      "field": "Special rule · Community Days",
+      "order": 7,
+      "answerFormat": "text",
+      "answerHint": "The sentence that states the rule",
+      "readings": [
+       {
+        "who": "Both models",
+        "value": "Mark your calendar! Daydream Destinations will have Community Day events on the following dates.",
+        "quote": "Mark your calendar! Daydream Destinations will have Community Day events on the following dates.",
+        "url": "https://leekduck.com/events/season-25-daydream-destinations/"
+       }
+      ],
+      "value": "Mark your calendar! Daydream Destinations will have Community Day events on the following dates."
+     },
+     "meta": {
+      "source": "events:582af762.rule.2d9226:5a28422c5923",
+      "value": "Mark your calendar! Daydream Destinations will have Community Day events on the following dates.",
+      "ja": null
+     }
+    },
+    "events:582af762.rule.f3346c:7d26fb49449a": {
+     "item": {
+      "id": "events:582af762.rule.f3346c:7d26fb49449a",
+      "kind": "auto-read",
+      "held": false,
+      "origin": {
+       "id": "page:season-25-daydream-destinations",
+       "title": "Daydream Destinations",
+       "note": "The event's own page, read by two models"
+      },
+      "field": "Special rule · GO Pass",
+      "order": 8,
+      "answerFormat": "text",
+      "answerHint": "The sentence that states the rule",
+      "readings": [
+       {
+        "who": "Both models",
+        "value": "GO Pass, a limited-time progression track, will be available during Daydream Destinations! Complete Pass Tasks to earn GO Points to increase your rank and earn rewards.",
+        "quote": "GO Pass, a limited-time progression track, will be available during Daydream Destinations! Complete Pass Tasks to earn GO Points to increase your rank and earn rewards.",
+        "url": "https://leekduck.com/events/season-25-daydream-destinations/"
+       }
+      ],
+      "value": "GO Pass, a limited-time progression track, will be available during Daydream Destinations! Complete Pass Tasks to earn GO Points to increase your rank and earn rewards."
+     },
+     "meta": {
+      "source": "events:582af762.rule.f3346c:7d26fb49449a",
+      "value": "GO Pass, a limited-time progression track, will be available during Daydream Destinations! Complete Pass Tasks to earn GO Points to increase your rank and earn rewards.",
+      "ja": null
+     }
+    },
+    "events:582af762.rule.8a630c:6695a91878ce": {
+     "item": {
+      "id": "events:582af762.rule.8a630c:6695a91878ce",
+      "kind": "auto-read",
+      "held": false,
+      "origin": {
+       "id": "page:season-25-daydream-destinations",
+       "title": "Daydream Destinations",
+       "note": "The event's own page, read by two models"
+      },
+      "field": "Special rule · GO Battle League",
+      "order": 9,
+      "answerFormat": "text",
+      "answerHint": "The sentence that states the rule",
+      "readings": [
+       {
+        "who": "Both models",
+        "value": "The GO Battle League continues during Daydream Destinations, featuring the 2027 Europe International Championships Cup, the Holiday Cup, the Love Cup, and more!",
+        "quote": "The GO Battle League continues during Daydream Destinations, featuring the 2027 Europe International Championships Cup, the Holiday Cup, the Love Cup, and more!",
+        "url": "https://leekduck.com/events/season-25-daydream-destinations/"
+       }
+      ],
+      "value": "The GO Battle League continues during Daydream Destinations, featuring the 2027 Europe International Championships Cup, the Holiday Cup, the Love Cup, and more!"
+     },
+     "meta": {
+      "source": "events:582af762.rule.8a630c:6695a91878ce",
+      "value": "The GO Battle League continues during Daydream Destinations, featuring the 2027 Europe International Championships Cup, the Holiday Cup, the Love Cup, and more!",
+      "ja": null
+     }
+    },
+    "events:582af762.rule.4b1eb9:f82d4b8c5026": {
+     "item": {
+      "id": "events:582af762.rule.4b1eb9:f82d4b8c5026",
+      "kind": "auto-read",
+      "held": false,
+      "origin": {
+       "id": "page:season-25-daydream-destinations",
+       "title": "Daydream Destinations",
+       "note": "The event's own page, read by two models"
+      },
+      "field": "Special rule · Research Breakthrough",
+      "order": 10,
+      "answerFormat": "text",
+      "answerHint": "The sentence that states the rule",
+      "readings": [
+       {
+        "who": "Both models",
+        "value": "Complete Field Research to unlock Research Breakthrough encounters with one of a variety of Season-themed Pokémon. Discover where your path leads you each week!",
+        "quote": "Complete Field Research to unlock Research Breakthrough encounters with one of a variety of Season-themed Pokémon. Discover where your path leads you each week!",
+        "url": "https://leekduck.com/events/season-25-daydream-destinations/"
+       }
+      ],
+      "value": "Complete Field Research to unlock Research Breakthrough encounters with one of a variety of Season-themed Pokémon. Discover where your path leads you each week!"
+     },
+     "meta": {
+      "source": "events:582af762.rule.4b1eb9:f82d4b8c5026",
+      "value": "Complete Field Research to unlock Research Breakthrough encounters with one of a variety of Season-themed Pokémon. Discover where your path leads you each week!",
+      "ja": null
+     }
+    }
+   },
+   "open": [
+    "events:582af762.debut.dynamax:0888f00cf913",
+    "events:582af762.rule.3ce33b:1d5cd5ec30db",
+    "events:582af762.rule.b14611:4923976210ef",
+    "events:582af762.rule.2d9226:5a28422c5923",
+    "events:582af762.rule.f3346c:7d26fb49449a",
+    "events:582af762.rule.8a630c:6695a91878ce",
+    "events:582af762.rule.4b1eb9:f82d4b8c5026"
+   ]
+  },
+  "gbl-daydream-destinations_great-league-mega-edition_ultra-league-mega-edition_master-league-mega-edition_mega-catch-cup-great-league-edition": {
+   "readers": [
+    "Claude",
+    "GPT"
+   ],
+   "hash": "sha256-9f2ad98cae47fe9db067a36d3d973c8cb61e600ae97deaa2183e5484ae0fec94",
    "readings": [
     {
      "debuts": [],
@@ -3458,1111 +5492,6 @@
   }
  },
  "parsed": {
-  "dynamax-trails-2026": {
-   "description": [
-    {
-     "kind": "text",
-     "text": "Get ready for a week of Max Battles! Dynamax Pokémon return, Max Particles are surging in the wild, and Eternamax Eternatus returns to Power Spots during Dynamax Trails."
-    },
-    {
-     "kind": "text",
-     "text": "The Dynamax Trails event will take place from November 16, 2026 at 10 am to November 23, 2026 at 8 pm local time."
-    }
-   ],
-   "research": [
-    {
-     "kind": "field",
-     "title": "Field Research Task Rewards",
-     "step": null,
-     "tasks": [
-      {
-       "text": "Catch 8 Pokémon",
-       "rewards": [
-        {
-         "type": "encounter",
-         "name": "Bulbasaur",
-         "image": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pokemon_icon_001_00.png",
-         "shiny": true,
-         "cp": {
-          "min": 442,
-          "max": 477
-         }
-        },
-        {
-         "type": "encounter",
-         "name": "Charmander",
-         "image": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pokemon_icon_004_00.png",
-         "shiny": true,
-         "cp": {
-          "min": 387,
-          "max": 420
-         }
-        },
-        {
-         "type": "encounter",
-         "name": "Squirtle",
-         "image": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pokemon_icon_007_00.png",
-         "shiny": true,
-         "cp": {
-          "min": 372,
-          "max": 405
-         }
-        },
-        {
-         "type": "encounter",
-         "name": "Grookey",
-         "image": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm810.icon.png",
-         "shiny": true,
-         "cp": {
-          "min": 430,
-          "max": 465
-         }
-        },
-        {
-         "type": "encounter",
-         "name": "Scorbunny",
-         "image": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm813.icon.png",
-         "shiny": true,
-         "cp": {
-          "min": 434,
-          "max": 470
-         }
-        },
-        {
-         "type": "encounter",
-         "name": "Sobble",
-         "image": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm816.icon.png",
-         "shiny": true,
-         "cp": {
-          "min": 434,
-          "max": 470
-         }
-        }
-       ]
-      },
-      {
-       "text": "Power up Pokémon 8 times",
-       "rewards": [
-        {
-         "type": "encounter",
-         "name": "Magikarp",
-         "image": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pokemon_icon_129_00.png",
-         "shiny": true,
-         "cp": {
-          "min": 99,
-          "max": 117
-         }
-        },
-        {
-         "type": "encounter",
-         "name": "Feebas",
-         "image": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pokemon_icon_349_00.png",
-         "shiny": true,
-         "cp": {
-          "min": 99,
-          "max": 117
-         }
-        },
-        {
-         "type": "item",
-         "name": "Pinap Berry",
-         "quantity": 3,
-         "image": "https://cdn.leekduck.com/assets/img/items/Pinap Berry.png"
-        }
-       ]
-      },
-      {
-       "text": "Explore 1 km",
-       "rewards": [
-        {
-         "type": "encounter",
-         "name": "Eevee",
-         "image": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pokemon_icon_133_00.png",
-         "shiny": true,
-         "cp": {
-          "min": 424,
-          "max": 459
-         }
-        },
-        {
-         "type": "item",
-         "name": "Stardust",
-         "quantity": 2000,
-         "image": "https://cdn.leekduck.com/assets/img/items/Stardust.png"
-        }
-       ]
-      },
-      {
-       "text": "Win a Max Battle",
-       "rewards": [
-        {
-         "type": "encounter",
-         "name": "Drampa",
-         "image": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm780.icon.png",
-         "shiny": true,
-         "cp": {
-          "min": 1191,
-          "max": 1249
-         }
-        },
-        {
-         "type": "encounter",
-         "name": "Duraludon",
-         "image": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm884.icon.png",
-         "shiny": true,
-         "cp": {
-          "min": 1255,
-          "max": 1314
-         }
-        },
-        {
-         "type": "item",
-         "name": "Eternatus Candy",
-         "quantity": 10,
-         "image": "https://cdn.leekduck.com/assets/img/candy/regular/890.png"
-        },
-        {
-         "type": "item",
-         "name": "Stardust",
-         "quantity": 2000,
-         "image": "https://cdn.leekduck.com/assets/img/items/Stardust.png"
-        }
-       ]
-      },
-      {
-       "text": "Unlock a Max Move",
-       "rewards": [
-        {
-         "type": "item",
-         "name": "Eternatus Candy",
-         "quantity": 25,
-         "image": "https://cdn.leekduck.com/assets/img/candy/regular/890.png"
-        },
-        {
-         "type": "item",
-         "name": "Stardust",
-         "quantity": 5000,
-         "image": "https://cdn.leekduck.com/assets/img/items/Stardust.png"
-        }
-       ]
-      },
-      {
-       "text": "Make an Excellent Throw",
-       "rewards": [
-        {
-         "type": "item",
-         "name": "Eternatus Candy",
-         "quantity": 25,
-         "image": "https://cdn.leekduck.com/assets/img/candy/regular/890.png"
-        },
-        {
-         "type": "item",
-         "name": "Golden Razz Berry",
-         "quantity": 1,
-         "image": "https://cdn.leekduck.com/assets/img/items/Golden Razz Berry.png"
-        },
-        {
-         "type": "item",
-         "name": "Silver Pinap Berry",
-         "quantity": 1,
-         "image": "https://cdn.leekduck.com/assets/img/items/Silver Pinap Berry.png"
-        }
-       ]
-      }
-     ],
-     "rewards": []
-    }
-   ],
-   "pokemon": [
-    {
-     "group": "Wild",
-     "name": "Bulbasaur",
-     "written": "Bulbasaur",
-     "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_001_00.png",
-     "shiny": true
-    },
-    {
-     "group": "Wild",
-     "name": "Charmander",
-     "written": "Charmander",
-     "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_004_00.png",
-     "shiny": true
-    },
-    {
-     "group": "Wild",
-     "name": "Squirtle",
-     "written": "Squirtle",
-     "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_007_00.png",
-     "shiny": true
-    },
-    {
-     "group": "Wild",
-     "name": "Caterpie",
-     "written": "Caterpie",
-     "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_010_00.png",
-     "shiny": true
-    },
-    {
-     "group": "Wild",
-     "name": "Pikachu",
-     "written": "Pikachu",
-     "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_025_00.png",
-     "shiny": true
-    },
-    {
-     "group": "Wild",
-     "name": "Growlithe",
-     "written": "Growlithe",
-     "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_058_00.png",
-     "shiny": true
-    },
-    {
-     "group": "Wild",
-     "name": "Abra",
-     "written": "Abra",
-     "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_063_00.png",
-     "shiny": true
-    },
-    {
-     "group": "Wild",
-     "name": "Machop",
-     "written": "Machop",
-     "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_066_00.png",
-     "shiny": true
-    },
-    {
-     "group": "Wild",
-     "name": "Gastly",
-     "written": "Gastly",
-     "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_092_00.png",
-     "shiny": true
-    },
-    {
-     "group": "Wild",
-     "name": "Krabby",
-     "written": "Krabby",
-     "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_098_00.png",
-     "shiny": true
-    },
-    {
-     "group": "Wild",
-     "name": "Hitmonlee",
-     "written": "Hitmonlee",
-     "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_106_00.png",
-     "shiny": true
-    },
-    {
-     "group": "Wild",
-     "name": "Hitmonchan",
-     "written": "Hitmonchan",
-     "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_107_00.png",
-     "shiny": true
-    },
-    {
-     "group": "Wild",
-     "name": "Rhyhorn",
-     "written": "Rhyhorn",
-     "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_111_00.png",
-     "shiny": true
-    },
-    {
-     "group": "Wild",
-     "name": "Chansey",
-     "written": "Chansey",
-     "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_113_00.png",
-     "shiny": true
-    },
-    {
-     "group": "Wild",
-     "name": "Electabuzz",
-     "written": "Electabuzz",
-     "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_125_00.png",
-     "shiny": true
-    },
-    {
-     "group": "Wild",
-     "name": "Magmar",
-     "written": "Magmar",
-     "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_126_00.png",
-     "shiny": true
-    },
-    {
-     "group": "Wild",
-     "name": "Magikarp",
-     "written": "Magikarp",
-     "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_129_00.png",
-     "shiny": true
-    },
-    {
-     "group": "Wild",
-     "name": "Eevee",
-     "written": "Eevee",
-     "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_133_00.png",
-     "shiny": true
-    },
-    {
-     "group": "Wild",
-     "name": "Omanyte",
-     "written": "Omanyte",
-     "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_138_00.png",
-     "shiny": true
-    },
-    {
-     "group": "Wild",
-     "name": "Kabuto",
-     "written": "Kabuto",
-     "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_140_00.png",
-     "shiny": true
-    },
-    {
-     "group": "Wild",
-     "name": "Hoothoot",
-     "written": "Hoothoot",
-     "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_163_00.png",
-     "shiny": true
-    },
-    {
-     "group": "Wild",
-     "name": "Shuckle",
-     "written": "Shuckle",
-     "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_213_00.png",
-     "shiny": true
-    },
-    {
-     "group": "Wild",
-     "name": "Sneasel",
-     "written": "Sneasel",
-     "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_215_00.png",
-     "shiny": true
-    },
-    {
-     "group": "Wild",
-     "name": "Hitmontop",
-     "written": "Hitmontop",
-     "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_237_00.png",
-     "shiny": true
-    },
-    {
-     "group": "Wild",
-     "name": "Ralts",
-     "written": "Ralts",
-     "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_280_00.png",
-     "shiny": true
-    },
-    {
-     "group": "Wild",
-     "name": "Sableye",
-     "written": "Sableye",
-     "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_302_00.png",
-     "shiny": true
-    },
-    {
-     "group": "Wild",
-     "name": "Wailmer",
-     "written": "Wailmer",
-     "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_320_00.png",
-     "shiny": true
-    },
-    {
-     "group": "Wild",
-     "name": "Trapinch",
-     "written": "Trapinch",
-     "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_328_00.png",
-     "shiny": true
-    },
-    {
-     "group": "Wild",
-     "name": "Feebas",
-     "written": "Feebas",
-     "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_349_00.png",
-     "shiny": true
-    },
-    {
-     "group": "Wild",
-     "name": "Spheal",
-     "written": "Spheal",
-     "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_363_00.png",
-     "shiny": true
-    },
-    {
-     "group": "Wild",
-     "name": "Beldum",
-     "written": "Beldum",
-     "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_374_00.png",
-     "shiny": true
-    },
-    {
-     "group": "Wild",
-     "name": "Combee",
-     "written": "Combee",
-     "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_415_00.png",
-     "shiny": true
-    },
-    {
-     "group": "Wild",
-     "name": "Pidove",
-     "written": "Pidove",
-     "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_519_00.png",
-     "shiny": true
-    },
-    {
-     "group": "Wild",
-     "name": "Roggenrola",
-     "written": "Roggenrola",
-     "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_524_00.png",
-     "shiny": true
-    },
-    {
-     "group": "Wild",
-     "name": "Woobat",
-     "written": "Woobat",
-     "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_527_00.png",
-     "shiny": true
-    },
-    {
-     "group": "Wild",
-     "name": "Drilbur",
-     "written": "Drilbur",
-     "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_529_00.png",
-     "shiny": true
-    },
-    {
-     "group": "Wild",
-     "name": "Cottonee",
-     "written": "Cottonee",
-     "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_546_00.png",
-     "shiny": true
-    },
-    {
-     "group": "Wild",
-     "name": "Darumaka",
-     "written": "Darumaka",
-     "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_554_00.png",
-     "shiny": true
-    },
-    {
-     "group": "Wild",
-     "name": "Trubbish",
-     "written": "Trubbish",
-     "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_568_00.png",
-     "shiny": true
-    },
-    {
-     "group": "Wild",
-     "name": "Cryogonal",
-     "written": "Cryogonal",
-     "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_615_00.png",
-     "shiny": true
-    },
-    {
-     "group": "Wild",
-     "name": "Deino",
-     "written": "Deino",
-     "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_633_00.png",
-     "shiny": true
-    },
-    {
-     "group": "Wild",
-     "name": "Inkay",
-     "written": "Inkay",
-     "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_686_00.png",
-     "shiny": true
-    },
-    {
-     "group": "Wild",
-     "name": "Bounsweet",
-     "written": "Bounsweet",
-     "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm761.icon.png",
-     "shiny": true
-    },
-    {
-     "group": "Wild",
-     "name": "Passimian",
-     "written": "Passimian",
-     "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm766.icon.png",
-     "shiny": true
-    },
-    {
-     "group": "Wild",
-     "name": "Drampa",
-     "written": "Drampa",
-     "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm780.icon.png",
-     "shiny": true
-    },
-    {
-     "group": "Wild",
-     "name": "Grookey",
-     "written": "Grookey",
-     "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm810.icon.png",
-     "shiny": true
-    },
-    {
-     "group": "Wild",
-     "name": "Scorbunny",
-     "written": "Scorbunny",
-     "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm813.icon.png",
-     "shiny": true
-    },
-    {
-     "group": "Wild",
-     "name": "Sobble",
-     "written": "Sobble",
-     "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm816.icon.png",
-     "shiny": true
-    },
-    {
-     "group": "Wild",
-     "name": "Skwovet",
-     "written": "Skwovet",
-     "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm819.icon.png",
-     "shiny": true
-    },
-    {
-     "group": "Wild",
-     "name": "Rookidee",
-     "written": "Rookidee",
-     "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm821.icon.png",
-     "shiny": true
-    },
-    {
-     "group": "Wild",
-     "name": "Wooloo",
-     "written": "Wooloo",
-     "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm831.icon.png",
-     "shiny": true
-    },
-    {
-     "group": "Wild",
-     "name": "Toxtricity (Amped Form)",
-     "written": "Toxtricity (Amped Form)",
-     "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm849.fAMPED.icon.png",
-     "shiny": true
-    },
-    {
-     "group": "Wild",
-     "name": "Toxtricity (Low Key Form)",
-     "written": "Toxtricity (Low Key Form)",
-     "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm849.fLOW_KEY.icon.png",
-     "shiny": true
-    },
-    {
-     "group": "Wild",
-     "name": "Sizzlipede",
-     "written": "Sizzlipede",
-     "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm850.icon.png",
-     "shiny": true
-    },
-    {
-     "group": "Wild",
-     "name": "Hatenna",
-     "written": "Hatenna",
-     "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm856.icon.png",
-     "shiny": true
-    },
-    {
-     "group": "Wild",
-     "name": "Falinks",
-     "written": "Falinks",
-     "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm870.icon.png",
-     "shiny": true
-    },
-    {
-     "group": "Wild",
-     "name": "Duraludon",
-     "written": "Duraludon",
-     "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm884.icon.png",
-     "shiny": true
-    },
-    {
-     "group": "Max Battles",
-     "name": "Dynamax Bulbasaur",
-     "written": "Bulbasaur",
-     "image": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop_dmax/pokemon_icon_001_00.png",
-     "shiny": true
-    },
-    {
-     "group": "Max Battles",
-     "name": "Dynamax Charmander",
-     "written": "Charmander",
-     "image": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop_dmax/pokemon_icon_004_00.png",
-     "shiny": true
-    },
-    {
-     "group": "Max Battles",
-     "name": "Dynamax Squirtle",
-     "written": "Squirtle",
-     "image": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop_dmax/pokemon_icon_007_00.png",
-     "shiny": true
-    },
-    {
-     "group": "Max Battles",
-     "name": "Dynamax Caterpie",
-     "written": "Caterpie",
-     "image": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop_dmax/pokemon_icon_010_00.png",
-     "shiny": true
-    },
-    {
-     "group": "Max Battles",
-     "name": "Dynamax Pikachu",
-     "written": "Pikachu",
-     "image": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop_dmax/pokemon_icon_025_00.png",
-     "shiny": true
-    },
-    {
-     "group": "Max Battles",
-     "name": "Dynamax Growlithe",
-     "written": "Growlithe",
-     "image": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop_dmax/pokemon_icon_058_00.png",
-     "shiny": true
-    },
-    {
-     "group": "Max Battles",
-     "name": "Dynamax Abra",
-     "written": "Abra",
-     "image": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop_dmax/pokemon_icon_063_00.png",
-     "shiny": true
-    },
-    {
-     "group": "Max Battles",
-     "name": "Dynamax Machop",
-     "written": "Machop",
-     "image": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop_dmax/pokemon_icon_066_00.png",
-     "shiny": true
-    },
-    {
-     "group": "Max Battles",
-     "name": "Dynamax Gastly",
-     "written": "Gastly",
-     "image": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop_dmax/pokemon_icon_092_00.png",
-     "shiny": true
-    },
-    {
-     "group": "Max Battles",
-     "name": "Dynamax Krabby",
-     "written": "Krabby",
-     "image": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop_dmax/pokemon_icon_098_00.png",
-     "shiny": true
-    },
-    {
-     "group": "Max Battles",
-     "name": "Dynamax Hitmonlee",
-     "written": "Hitmonlee",
-     "image": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop_dmax/pokemon_icon_106_00.png",
-     "shiny": true
-    },
-    {
-     "group": "Max Battles",
-     "name": "Dynamax Hitmonchan",
-     "written": "Hitmonchan",
-     "image": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop_dmax/pokemon_icon_107_00.png",
-     "shiny": true
-    },
-    {
-     "group": "Max Battles",
-     "name": "Dynamax Rhyhorn",
-     "written": "Rhyhorn",
-     "image": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop_dmax/pokemon_icon_111_00.png",
-     "shiny": true
-    },
-    {
-     "group": "Max Battles",
-     "name": "Dynamax Chansey",
-     "written": "Chansey",
-     "image": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop_dmax/pokemon_icon_113_00.png",
-     "shiny": true
-    },
-    {
-     "group": "Max Battles",
-     "name": "Dynamax Electabuzz",
-     "written": "Electabuzz",
-     "image": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop_dmax/pokemon_icon_125_00.png",
-     "shiny": true
-    },
-    {
-     "group": "Max Battles",
-     "name": "Dynamax Magmar",
-     "written": "Magmar",
-     "image": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop_dmax/pokemon_icon_126_00.png",
-     "shiny": true
-    },
-    {
-     "group": "Max Battles",
-     "name": "Dynamax Magikarp",
-     "written": "Magikarp",
-     "image": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop_dmax/pokemon_icon_129_00.png",
-     "shiny": true
-    },
-    {
-     "group": "Max Battles",
-     "name": "Dynamax Eevee",
-     "written": "Eevee",
-     "image": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop_dmax/pokemon_icon_133_00.png",
-     "shiny": true
-    },
-    {
-     "group": "Max Battles",
-     "name": "Dynamax Omanyte",
-     "written": "Omanyte",
-     "image": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop_dmax/pokemon_icon_138_00.png",
-     "shiny": true
-    },
-    {
-     "group": "Max Battles",
-     "name": "Dynamax Kabuto",
-     "written": "Kabuto",
-     "image": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop_dmax/pokemon_icon_140_00.png",
-     "shiny": true
-    },
-    {
-     "group": "Max Battles",
-     "name": "Dynamax Hoothoot",
-     "written": "Hoothoot",
-     "image": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop_dmax/pokemon_icon_163_00.png",
-     "shiny": true
-    },
-    {
-     "group": "Max Battles",
-     "name": "Dynamax Shuckle",
-     "written": "Shuckle",
-     "image": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop_dmax/pokemon_icon_213_00.png",
-     "shiny": true
-    },
-    {
-     "group": "Max Battles",
-     "name": "Dynamax Sneasel",
-     "written": "Sneasel",
-     "image": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop_dmax/pokemon_icon_215_00.png",
-     "shiny": true
-    },
-    {
-     "group": "Max Battles",
-     "name": "Dynamax Hitmontop",
-     "written": "Hitmontop",
-     "image": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop_dmax/pokemon_icon_237_00.png",
-     "shiny": true
-    },
-    {
-     "group": "Max Battles",
-     "name": "Dynamax Ralts",
-     "written": "Ralts",
-     "image": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop_dmax/pokemon_icon_280_00.png",
-     "shiny": true
-    },
-    {
-     "group": "Max Battles",
-     "name": "Dynamax Sableye",
-     "written": "Sableye",
-     "image": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop_dmax/pokemon_icon_302_00.png",
-     "shiny": true
-    },
-    {
-     "group": "Max Battles",
-     "name": "Dynamax Wailmer",
-     "written": "Wailmer",
-     "image": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop_dmax/pokemon_icon_320_00.png",
-     "shiny": true
-    },
-    {
-     "group": "Max Battles",
-     "name": "Dynamax Trapinch",
-     "written": "Trapinch",
-     "image": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop_dmax/pokemon_icon_328_00.png",
-     "shiny": true
-    },
-    {
-     "group": "Max Battles",
-     "name": "Dynamax Feebas",
-     "written": "Feebas",
-     "image": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop_dmax/pokemon_icon_349_00.png",
-     "shiny": true
-    },
-    {
-     "group": "Max Battles",
-     "name": "Dynamax Spheal",
-     "written": "Spheal",
-     "image": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop_dmax/pokemon_icon_363_00.png",
-     "shiny": true
-    },
-    {
-     "group": "Max Battles",
-     "name": "Dynamax Beldum",
-     "written": "Beldum",
-     "image": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop_dmax/pokemon_icon_374_00.png",
-     "shiny": true
-    },
-    {
-     "group": "Max Battles",
-     "name": "Dynamax Combee",
-     "written": "Combee",
-     "image": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop_dmax/pokemon_icon_415_00.png",
-     "shiny": true
-    },
-    {
-     "group": "Max Battles",
-     "name": "Dynamax Pidove",
-     "written": "Pidove",
-     "image": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop_dmax/pokemon_icon_519_00.png",
-     "shiny": true
-    },
-    {
-     "group": "Max Battles",
-     "name": "Dynamax Roggenrola",
-     "written": "Roggenrola",
-     "image": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop_dmax/pokemon_icon_524_00.png",
-     "shiny": true
-    },
-    {
-     "group": "Max Battles",
-     "name": "Dynamax Woobat",
-     "written": "Woobat",
-     "image": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop_dmax/pokemon_icon_527_00.png",
-     "shiny": true
-    },
-    {
-     "group": "Max Battles",
-     "name": "Dynamax Drilbur",
-     "written": "Drilbur",
-     "image": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop_dmax/pokemon_icon_529_00.png",
-     "shiny": true
-    },
-    {
-     "group": "Max Battles",
-     "name": "Dynamax Cottonee",
-     "written": "Cottonee",
-     "image": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop_dmax/pokemon_icon_546_00.png",
-     "shiny": true
-    },
-    {
-     "group": "Max Battles",
-     "name": "Dynamax Darumaka",
-     "written": "Darumaka",
-     "image": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop_dmax/pokemon_icon_554_00.png",
-     "shiny": true
-    },
-    {
-     "group": "Max Battles",
-     "name": "Dynamax Trubbish",
-     "written": "Trubbish",
-     "image": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop_dmax/pokemon_icon_568_00.png",
-     "shiny": true
-    },
-    {
-     "group": "Max Battles",
-     "name": "Dynamax Cryogonal",
-     "written": "Cryogonal",
-     "image": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop_dmax/pokemon_icon_615_00.png",
-     "shiny": true
-    },
-    {
-     "group": "Max Battles",
-     "name": "Dynamax Deino",
-     "written": "Deino",
-     "image": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop_dmax/pokemon_icon_633_00.png",
-     "shiny": true
-    },
-    {
-     "group": "Max Battles",
-     "name": "Dynamax Inkay",
-     "written": "Inkay",
-     "image": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop_dmax/pokemon_icon_686_00.png",
-     "shiny": true
-    },
-    {
-     "group": "Max Battles",
-     "name": "Dynamax Bounsweet",
-     "written": "Bounsweet",
-     "image": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop_dmax/pm761.icon.png",
-     "shiny": true
-    },
-    {
-     "group": "Max Battles",
-     "name": "Dynamax Passimian",
-     "written": "Passimian",
-     "image": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop_dmax/pm766.icon.png",
-     "shiny": true
-    },
-    {
-     "group": "Max Battles",
-     "name": "Dynamax Drampa",
-     "written": "Drampa",
-     "image": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop_dmax/pm780.icon.png",
-     "shiny": true
-    },
-    {
-     "group": "Max Battles",
-     "name": "Dynamax Grookey",
-     "written": "Grookey",
-     "image": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop_dmax/pm810.icon.png",
-     "shiny": true
-    },
-    {
-     "group": "Max Battles",
-     "name": "Dynamax Scorbunny",
-     "written": "Scorbunny",
-     "image": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop_dmax/pm813.icon.png",
-     "shiny": true
-    },
-    {
-     "group": "Max Battles",
-     "name": "Dynamax Sobble",
-     "written": "Sobble",
-     "image": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop_dmax/pm816.icon.png",
-     "shiny": true
-    },
-    {
-     "group": "Max Battles",
-     "name": "Dynamax Skwovet",
-     "written": "Skwovet",
-     "image": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop_dmax/pm819.icon.png",
-     "shiny": true
-    },
-    {
-     "group": "Max Battles",
-     "name": "Dynamax Rookidee",
-     "written": "Rookidee",
-     "image": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop_dmax/pm821.icon.png",
-     "shiny": true
-    },
-    {
-     "group": "Max Battles",
-     "name": "Dynamax Wooloo",
-     "written": "Wooloo",
-     "image": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop_dmax/pm831.icon.png",
-     "shiny": true
-    },
-    {
-     "group": "Max Battles",
-     "name": "Dynamax Toxtricity (Amped Form)",
-     "written": "Toxtricity (Amped Form)",
-     "image": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop_dmax/pm849.fAMPED.icon.png",
-     "shiny": true
-    },
-    {
-     "group": "Max Battles",
-     "name": "Dynamax Toxtricity (Low Key Form)",
-     "written": "Toxtricity (Low Key Form)",
-     "image": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop_dmax/pm849.fLOW_KEY.icon.png",
-     "shiny": true
-    },
-    {
-     "group": "Max Battles",
-     "name": "Dynamax Sizzlipede",
-     "written": "Sizzlipede",
-     "image": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop_dmax/pm850.icon.png",
-     "shiny": true
-    },
-    {
-     "group": "Max Battles",
-     "name": "Dynamax Hatenna",
-     "written": "Hatenna",
-     "image": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop_dmax/pm856.icon.png",
-     "shiny": true
-    },
-    {
-     "group": "Max Battles",
-     "name": "Dynamax Falinks",
-     "written": "Falinks",
-     "image": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop_dmax/pm870.icon.png",
-     "shiny": true
-    },
-    {
-     "group": "Max Battles",
-     "name": "Dynamax Duraludon",
-     "written": "Duraludon",
-     "image": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop_dmax/pm884.icon.png",
-     "shiny": true
-    },
-    {
-     "group": "Max Battles",
-     "name": "Eternamax Eternatus",
-     "written": "Eternamax Eternatus",
-     "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm890.fETERNAMAX.icon.png",
-     "shiny": false
-    }
-   ],
-   "shiny": {
-    "notes": [],
-    "pokemon": []
-   },
-   "bonuses": [
-    {
-     "title": null,
-     "description": null,
-     "items": [
-      "Chance to receive Max Particles when catching event-themed Pokémon in the wild or after Max Battles",
-      "More Power Spots than usual will be active"
-     ]
-    },
-    {
-     "title": "Tier 1: Rank 15",
-     "description": null,
-     "items": [
-      "2× Catch Stardust"
-     ]
-    },
-    {
-     "title": "Tier 2: Rank 35",
-     "description": null,
-     "items": [
-      "1/2 Candy and Stardust cost to activate the Dynamax Cannon Adventure Effect"
-     ]
-    },
-    {
-     "title": "Tier 3: Rank 55",
-     "description": null,
-     "items": [
-      "Additional Candy and Candy XL from Max Battles"
-     ]
-    }
-   ]
-  },
-  "max-mondays-2026-11-23": {
-   "description": [
-    {
-     "kind": "text",
-     "text": "Dynamax Espurr may appear in Max Battles from November 23, 2026 through November 29, 2026."
-    },
-    {
-     "kind": "text",
-     "text": "These Dynamax Pokémon may appear in Max Battles throughout this season. Max Battles will be available from 6:00 a.m. to 9:00 p.m. local time on Mondays."
-    },
-    {
-     "kind": "item",
-     "text": "Power Spots will refresh more frequently."
-    },
-    {
-     "kind": "item",
-     "text": "Additional Power Spots will be active on Mondays compared to the rest of the week."
-    },
-    {
-     "kind": "item",
-     "text": "Max Battles will rotate to feature different Dynamax Pokémon."
-    },
-    {
-     "kind": "text",
-     "text": "On November 23, 2026, the featured Dynamax Pokémon is Espurr."
-    },
-    {
-     "kind": "text",
-     "text": "Espurr"
-    }
-   ],
-   "research": [],
-   "pokemon": [
-    {
-     "group": "Max Battles",
-     "name": "Dynamax Espurr",
-     "written": "Espurr",
-     "image": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop_dmax/pokemon_icon_677_00.png",
-     "shiny": true
-    }
-   ],
-   "shiny": {
-    "notes": [],
-    "pokemon": []
-   },
-   "bonuses": []
-  },
   "cresselia-darkrai-in-5-star-raid-battles-november-2026": {
    "description": [
     {
@@ -4638,73 +5567,6 @@
       "shiny": false
      }
     ]
-   },
-   "bonuses": []
-  },
-  "gbl-twilight-trails_ultra-league_master-league-mega-edition_2026-go-laic-cup": {
-   "description": [
-    {
-     "kind": "text",
-     "text": "The Ultra League, Master League: Mega Edition, and 2026 GO LAIC Cup will run from November 18, 2026, at 1:00 p.m. to November 25, 2026, at 1:00 p.m. PT."
-    },
-    {
-     "kind": "text",
-     "text": "Trainers will also receive 4× Stardust from win rewards (this does not include end-of-set rewards)."
-    },
-    {
-     "kind": "heading",
-     "text": "Ultra League"
-    },
-    {
-     "kind": "item",
-     "text": "Pokémon must be at or below 2,500 CP to enter."
-    },
-    {
-     "kind": "heading",
-     "text": "Master League: Mega Edition"
-    },
-    {
-     "kind": "item",
-     "text": "No CP limit."
-    },
-    {
-     "kind": "item",
-     "text": "Mega-Evolved Pokémon are allowed."
-    },
-    {
-     "kind": "heading",
-     "text": "2026 GO LAIC Cup"
-    },
-    {
-     "kind": "item",
-     "text": "Pokémon must be at or below 1,500 CP to enter."
-    },
-    {
-     "kind": "item",
-     "text": "Fire-, Dark-, Steel-, and Fairy-type Pokémon are not eligible."
-    },
-    {
-     "kind": "item",
-     "text": "Legendary Pokémon, Mythical Pokémon, and Ultra Beasts are not eligible."
-    },
-    {
-     "kind": "item",
-     "text": "Mega-Evolved Pokémon are not eligible for the GO Battle League version of this Cup. However, Mega-Evolved Pokémon will be eligible for the Pokémon Latin America International Championships 2026 in-person competition."
-    },
-    {
-     "kind": "text",
-     "text": "The following Pokémon will not be allowed."
-    },
-    {
-     "kind": "text",
-     "text": "Chansey, Snorlax, Furret, Wobbuffet, Galarian Corsola, Kingdra, Medicham, Altaria, Dusclops, Jellicent, Jellicent, Araquanid, Oranguru, Annihilape, Clodsire"
-    }
-   ],
-   "research": [],
-   "pokemon": [],
-   "shiny": {
-    "notes": [],
-    "pokemon": []
    },
    "bonuses": []
   },
@@ -5655,57 +6517,6 @@
     }
    ]
   },
-  "gbl-twilight-trails_master-league_mega-catch-cup-great-league-edition": {
-   "description": [
-    {
-     "kind": "text",
-     "text": "The Master League and Mega Catch Cup: Great League Edition will run from November 24, 2026, at 1:00 p.m. to December 1, 2026, at 1:00 p.m. PT."
-    },
-    {
-     "kind": "text",
-     "text": "Trainers will also receive 4× Stardust from win rewards (this does not include end-of-set rewards)."
-    },
-    {
-     "kind": "heading",
-     "text": "Master League"
-    },
-    {
-     "kind": "item",
-     "text": "All Pokémon are eligible."
-    },
-    {
-     "kind": "heading",
-     "text": "Mega Catch Cup: Great League Edition"
-    },
-    {
-     "kind": "item",
-     "text": "Pokémon must be at or below 1,500 CP to enter."
-    },
-    {
-     "kind": "item",
-     "text": "Mega-Evolved Pokémon are allowed."
-    },
-    {
-     "kind": "item",
-     "text": "Only Pokémon caught during the Twilight Trails Season are eligible.*"
-    },
-    {
-     "kind": "item",
-     "text": "Mythical Pokémon are not eligible."
-    },
-    {
-     "kind": "text",
-     "text": "*Pokémon must be caught between September 8, 2026, at 1:00 p.m. and December 1, 2026, at 1:00 p.m. PST."
-    }
-   ],
-   "research": [],
-   "pokemon": [],
-   "shiny": {
-    "notes": [],
-    "pokemon": []
-   },
-   "bonuses": []
-  },
   "shadow-tornadus-incarnate-forme-in-shadow-raids-november-16-2026": {
    "description": [
     {
@@ -5811,6 +6622,48 @@
    },
    "bonuses": []
   },
+  "raidhour20261202": {
+   "description": [
+    {
+     "kind": "text",
+     "text": "A Raid Hour featuring Regidrago is scheduled from 6:00 p.m. to 7:00 p.m. local time. During this hour there will be an increased number of five-star raids."
+    }
+   ],
+   "research": [],
+   "pokemon": [],
+   "shiny": {
+    "notes": [],
+    "pokemon": []
+   },
+   "bonuses": []
+  },
+  "pokemonspotlighthour2026-12-03": {
+   "description": [
+    {
+     "kind": "text",
+     "text": "Pokémon Spotlight Hour will feature a different Pokémon and special bonus for one hour at 6:00 p.m. local time."
+    },
+    {
+     "kind": "text",
+     "text": "December 3: The featured Pokémon is Wimpod and the special bonus is 2× Transfer Candy."
+    }
+   ],
+   "research": [],
+   "pokemon": [
+    {
+     "group": "Wild",
+     "name": "Wimpod",
+     "written": "Wimpod",
+     "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm767.icon.png",
+     "shiny": true
+    }
+   ],
+   "shiny": {
+    "notes": [],
+    "pokemon": []
+   },
+   "bonuses": []
+  },
   "max-battle-day-december-2026": {
    "description": [
     {
@@ -5820,6 +6673,351 @@
    ],
    "research": [],
    "pokemon": [],
+   "shiny": {
+    "notes": [],
+    "pokemon": []
+   },
+   "bonuses": []
+  },
+  "tropical-paradise-2026": {
+   "description": [
+    {
+     "kind": "text",
+     "text": "Pyukumuku makes its Pokémon GO debut, and Mega Slowbro can reach the Super Max Mega Level for the first time! Enjoy event-themed wild encounters, raids, and Field Research, plus rewards and bonuses from the event GO Pass."
+    },
+    {
+     "kind": "text",
+     "text": "Tropical Paradise runs from Tuesday, December 1, at 10:00 a.m. to Monday, December 7, 2026, at 8:00 p.m. local time."
+    }
+   ],
+   "research": [],
+   "pokemon": [
+    {
+     "group": "Wild",
+     "name": "Slowpoke",
+     "written": "Slowpoke",
+     "image": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pokemon_icon_079_00.png",
+     "shiny": false
+    },
+    {
+     "group": "Wild",
+     "name": "Shellder",
+     "written": "Shellder",
+     "image": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pokemon_icon_090_00.png",
+     "shiny": false
+    },
+    {
+     "group": "Wild",
+     "name": "Wingull",
+     "written": "Wingull",
+     "image": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pokemon_icon_278_00.png",
+     "shiny": false
+    },
+    {
+     "group": "Wild",
+     "name": "Slakoth",
+     "written": "Slakoth",
+     "image": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pokemon_icon_287_00.png",
+     "shiny": false
+    },
+    {
+     "group": "Wild",
+     "name": "Snorlax",
+     "written": "Snorlax",
+     "image": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pokemon_icon_143_00.png",
+     "shiny": false
+    },
+    {
+     "group": "Wild",
+     "name": "Hoppip",
+     "written": "Hoppip",
+     "image": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pokemon_icon_187_00.png",
+     "shiny": false
+    },
+    {
+     "group": "Wild",
+     "name": "Lotad",
+     "written": "Lotad",
+     "image": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pokemon_icon_270_00.png",
+     "shiny": false
+    },
+    {
+     "group": "Wild",
+     "name": "Shroomish",
+     "written": "Shroomish",
+     "image": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pokemon_icon_285_00.png",
+     "shiny": false
+    },
+    {
+     "group": "Wild",
+     "name": "Alolan Exeggutor",
+     "written": "Alolan Exeggutor",
+     "image": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pokemon_icon_103_61.png",
+     "shiny": false
+    },
+    {
+     "group": "Research",
+     "name": "Shellder",
+     "written": "Shellder",
+     "image": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pokemon_icon_090_00.png",
+     "shiny": false
+    },
+    {
+     "group": "Research",
+     "name": "Psyduck",
+     "written": "Psyduck",
+     "image": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pokemon_icon_054_00.png",
+     "shiny": false
+    },
+    {
+     "group": "Research",
+     "name": "Tentacool",
+     "written": "Tentacool",
+     "image": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pokemon_icon_072_00.png",
+     "shiny": false
+    }
+   ],
+   "shiny": {
+    "notes": [
+     "Pyukumuku will be available in its Shiny variant from its debut!",
+     "Pyukumuku"
+    ],
+    "pokemon": [
+     {
+      "name": "Pyukumuku",
+      "written": "Pyukumuku",
+      "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm771.s.icon.png",
+      "shiny": false
+     }
+    ]
+   },
+   "bonuses": [
+    {
+     "title": "Tier 1 – Rank 10",
+     "description": null,
+     "items": [
+      "2× Raid XP"
+     ]
+    },
+    {
+     "title": "Tier 2 – Rank 20",
+     "description": null,
+     "items": [
+      "5× Mega Energy for exploring with Slowpoke, Slowbro, or Slowking as your buddy after Mega Evolving Slowbro at least once"
+     ]
+    }
+   ]
+  },
+  "max-mondays-2026-12-07": {
+   "description": [
+    {
+     "kind": "text",
+     "text": "Dynamax Deino may appear in Max Battles from December 7, 2026 through December 13, 2026."
+    },
+    {
+     "kind": "text",
+     "text": "These Dynamax Pokémon may appear in Max Battles throughout Daydream Destinations. Max Battles will be available from 6:00 a.m. to 9:00 p.m. local time on Mondays."
+    },
+    {
+     "kind": "item",
+     "text": "Power Spots will refresh more frequently."
+    },
+    {
+     "kind": "item",
+     "text": "Additional Power Spots will be active on Mondays compared to the rest of the week."
+    },
+    {
+     "kind": "item",
+     "text": "Max Battles will rotate to feature different Dynamax Pokémon."
+    },
+    {
+     "kind": "text",
+     "text": "On December 7, 2026, the featured Dynamax Pokémon is Deino."
+    },
+    {
+     "kind": "text",
+     "text": "Deino"
+    }
+   ],
+   "research": [],
+   "pokemon": [
+    {
+     "group": "Max Battles",
+     "name": "Dynamax Deino",
+     "written": "Deino",
+     "image": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop_dmax/pokemon_icon_633_00.png",
+     "shiny": true
+    }
+   ],
+   "shiny": {
+    "notes": [],
+    "pokemon": []
+   },
+   "bonuses": []
+  },
+  "gbl-daydream-destinations_great-league-mega-edition_ultra-league-mega-edition_master-league-mega-edition-split-1": {
+   "description": [
+    {
+     "kind": "text",
+     "text": "The Great League: Mega Edition, Ultra League: Mega Edition, and Master League: Mega Edition will run from December 1, 2026, at 1:00 p.m. to December 8, 2026, at 1:00 p.m. PT."
+    },
+    {
+     "kind": "text",
+     "text": "Trainers will also receive 4× Stardust from win rewards (this does not include end-of-set rewards)."
+    },
+    {
+     "kind": "heading",
+     "text": "Great League: Mega Edition"
+    },
+    {
+     "kind": "item",
+     "text": "Pokémon must be at or below 1,500 CP to enter."
+    },
+    {
+     "kind": "item",
+     "text": "Mega-Evolved Pokémon are allowed."
+    },
+    {
+     "kind": "heading",
+     "text": "Ultra League: Mega Edition"
+    },
+    {
+     "kind": "item",
+     "text": "Pokémon must be at or below 2,500 CP to enter."
+    },
+    {
+     "kind": "item",
+     "text": "Mega-Evolved Pokémon are allowed."
+    },
+    {
+     "kind": "heading",
+     "text": "Master League: Mega Edition"
+    },
+    {
+     "kind": "item",
+     "text": "No CP limit."
+    },
+    {
+     "kind": "item",
+     "text": "Mega-Evolved Pokémon are allowed."
+    }
+   ],
+   "research": [],
+   "pokemon": [],
+   "shiny": {
+    "notes": [],
+    "pokemon": []
+   },
+   "bonuses": []
+  },
+  "mega-slowbro-in-mega-raids-december-2026": {
+   "description": [
+    {
+     "kind": "text",
+     "text": "Mega Slowbro will be in Mega Raids from December 2, 2026 at 6 am to December 8, 2026 at 10 pm local time."
+    },
+    {
+     "kind": "text",
+     "text": "Raid bosses change at 6:00 a.m. local time."
+    }
+   ],
+   "research": [],
+   "pokemon": [],
+   "shiny": {
+    "notes": [
+     "If you’re lucky, you may encounter Shiny Slowbro.",
+     "Slowbro, Mega Slowbro"
+    ],
+    "pokemon": [
+     {
+      "name": "Slowbro",
+      "written": "Slowbro",
+      "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_080_00_shiny.png",
+      "shiny": false
+     },
+     {
+      "name": "Mega Slowbro",
+      "written": "Mega Slowbro",
+      "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_080_51_shiny.png",
+      "shiny": false
+     }
+    ]
+   },
+   "bonuses": []
+  },
+  "regidrago-in-5-star-raid-battles-december-2026": {
+   "description": [
+    {
+     "kind": "text",
+     "text": "Regidrago will be in five-star raid battles from December 2, 2026 to December 8, 2026."
+    },
+    {
+     "kind": "text",
+     "text": "Raid bosses change at 6:00 a.m. local time."
+    },
+    {
+     "kind": "heading",
+     "text": "Raid Hours"
+    },
+    {
+     "kind": "text",
+     "text": "There will also be a Raid Hour featuring Regidrago from 6:00 p.m. to 7:00 p.m. local time on December 2."
+    }
+   ],
+   "research": [],
+   "pokemon": [],
+   "shiny": {
+    "notes": [
+     "If you’re lucky, you may encounter a Shiny Regidrago.",
+     "Regidrago"
+    ],
+    "pokemon": [
+     {
+      "name": "Regidrago",
+      "written": "Regidrago",
+      "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm895.s.icon.png",
+      "shiny": false
+     }
+    ]
+   },
+   "bonuses": []
+  },
+  "raidhour20261209": {
+   "description": [
+    {
+     "kind": "text",
+     "text": "A Raid Hour is scheduled from 6:00 p.m. to 7:00 p.m. local time. The featured raid boss has not been announced yet. During this hour there will be an increased number of five-star raids."
+    }
+   ],
+   "research": [],
+   "pokemon": [],
+   "shiny": {
+    "notes": [],
+    "pokemon": []
+   },
+   "bonuses": []
+  },
+  "pokemonspotlighthour2026-12-10": {
+   "description": [
+    {
+     "kind": "text",
+     "text": "Pokémon Spotlight Hour will feature a different Pokémon and special bonus for one hour at 6:00 p.m. local time."
+    },
+    {
+     "kind": "text",
+     "text": "December 10: The featured Pokémon is Starly and the special bonus is 2× Catch Stardust."
+    }
+   ],
+   "research": [],
+   "pokemon": [
+    {
+     "group": "Wild",
+     "name": "Starly",
+     "written": "Starly",
+     "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_396_00.png",
+     "shiny": true
+    }
+   ],
    "shiny": {
     "notes": [],
     "pokemon": []
@@ -6202,6 +7400,184 @@
     }
    ]
   },
+  "unannounced-event-december-2026": {
+   "description": [
+    {
+     "kind": "text",
+     "text": "An event that has not been announced yet will take place from December 8 to December 14, 2026. Stay tuned for more details."
+    }
+   ],
+   "research": [],
+   "pokemon": [],
+   "shiny": {
+    "notes": [],
+    "pokemon": []
+   },
+   "bonuses": []
+  },
+  "max-mondays-2026-12-14": {
+   "description": [
+    {
+     "kind": "text",
+     "text": "Dynamax Eevee may appear in Max Battles from December 14, 2026 through December 20, 2026."
+    },
+    {
+     "kind": "text",
+     "text": "These Dynamax Pokémon may appear in Max Battles throughout Daydream Destinations. Max Battles will be available from 6:00 a.m. to 9:00 p.m. local time on Mondays."
+    },
+    {
+     "kind": "item",
+     "text": "Power Spots will refresh more frequently."
+    },
+    {
+     "kind": "item",
+     "text": "Additional Power Spots will be active on Mondays compared to the rest of the week."
+    },
+    {
+     "kind": "item",
+     "text": "Max Battles will rotate to feature different Dynamax Pokémon."
+    },
+    {
+     "kind": "text",
+     "text": "On December 14, 2026, the featured Dynamax Pokémon is Eevee."
+    },
+    {
+     "kind": "text",
+     "text": "Eevee"
+    }
+   ],
+   "research": [],
+   "pokemon": [
+    {
+     "group": "Max Battles",
+     "name": "Dynamax Eevee",
+     "written": "Eevee",
+     "image": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop_dmax/pokemon_icon_133_00.png",
+     "shiny": true
+    }
+   ],
+   "shiny": {
+    "notes": [],
+    "pokemon": []
+   },
+   "bonuses": []
+  },
+  "gbl-daydream-destinations_great-league-mega-edition_mountain-cup-great-league-edition": {
+   "description": [
+    {
+     "kind": "text",
+     "text": "The Great League: Mega Edition and Mountain Cup: Great League Edition will run from December 8, 2026, at 1:00 p.m. to December 15, 2026, at 1:00 p.m. PT."
+    },
+    {
+     "kind": "heading",
+     "text": "Great League: Mega Edition"
+    },
+    {
+     "kind": "item",
+     "text": "Pokémon must be at or below 1,500 CP to enter."
+    },
+    {
+     "kind": "item",
+     "text": "Mega-Evolved Pokémon are allowed."
+    },
+    {
+     "kind": "heading",
+     "text": "Mountain Cup: Great League Edition"
+    },
+    {
+     "kind": "item",
+     "text": "Pokémon must be at or below 1,500 CP to enter."
+    },
+    {
+     "kind": "item",
+     "text": "Only Rock-, Ground-, Ice-, and Steel-type Pokémon are eligible."
+    }
+   ],
+   "research": [],
+   "pokemon": [],
+   "shiny": {
+    "notes": [],
+    "pokemon": []
+   },
+   "bonuses": []
+  },
+  "mega-gengar-in-mega-raids-december-2026": {
+   "description": [
+    {
+     "kind": "text",
+     "text": "Mega Gengar will be in Mega Raids from December 9, 2026 at 6 am to December 15, 2026 at 10 pm local time."
+    },
+    {
+     "kind": "text",
+     "text": "Raid bosses change at 6:00 a.m. local time."
+    }
+   ],
+   "research": [],
+   "pokemon": [],
+   "shiny": {
+    "notes": [
+     "If you’re lucky, you may encounter Shiny Gengar.",
+     "Gengar, Mega Gengar"
+    ],
+    "pokemon": [
+     {
+      "name": "Gengar",
+      "written": "Gengar",
+      "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_094_00_shiny.png",
+      "shiny": false
+     },
+     {
+      "name": "Mega Gengar",
+      "written": "Mega Gengar",
+      "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_094_51_shiny.png",
+      "shiny": false
+     }
+    ]
+   },
+   "bonuses": []
+  },
+  "unannounced-pokemon-in-5-star-raid-battles-december-2026": {
+   "description": [
+    {
+     "kind": "text",
+     "text": "A five-star raid boss that has not been announced yet will be in five-star raid battles from December 9, 2026 to December 15, 2026. Stay tuned for more details."
+    },
+    {
+     "kind": "text",
+     "text": "Raid bosses change at 6:00 a.m. local time."
+    },
+    {
+     "kind": "heading",
+     "text": "Raid Hours"
+    },
+    {
+     "kind": "text",
+     "text": "There will also be a Raid Hour featuring this raid boss from 6:00 p.m. to 7:00 p.m. local time on December 9."
+    }
+   ],
+   "research": [],
+   "pokemon": [],
+   "shiny": {
+    "notes": [],
+    "pokemon": []
+   },
+   "bonuses": []
+  },
+  "raidhour20261216": {
+   "description": [
+    {
+     "kind": "text",
+     "text": "A Raid Hour featuring Ho-Oh is scheduled from 6:00 p.m. to 7:00 p.m. local time. During this hour there will be an increased number of five-star raids."
+    }
+   ],
+   "research": [],
+   "pokemon": [],
+   "shiny": {
+    "notes": [],
+    "pokemon": []
+   },
+   "bonuses": []
+  },
   "minior-showers-geminids-2026": {
    "description": [
     {
@@ -6238,6 +7614,33 @@
     }
    ]
   },
+  "pokemonspotlighthour2026-12-17": {
+   "description": [
+    {
+     "kind": "text",
+     "text": "Pokémon Spotlight Hour will feature a different Pokémon and special bonus for one hour at 6:00 p.m. local time."
+    },
+    {
+     "kind": "text",
+     "text": "December 17: The featured Pokémon is Bergmite and the special bonus is 2× Evolution XP."
+    }
+   ],
+   "research": [],
+   "pokemon": [
+    {
+     "group": "Wild",
+     "name": "Bergmite",
+     "written": "Bergmite",
+     "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm712.icon.png",
+     "shiny": true
+    }
+   ],
+   "shiny": {
+    "notes": [],
+    "pokemon": []
+   },
+   "bonuses": []
+  },
   "raid-day-december-2026": {
    "description": [
     {
@@ -6253,6 +7656,229 @@
    },
    "bonuses": []
   },
+  "choose-your-path-daydream-destinations-2026-12-15": {
+   "description": [
+    {
+     "kind": "text",
+     "text": "Choose Your Path Timed Research gives you the freedom to explore Pokémon GO your way during non-event weeks!"
+    },
+    {
+     "kind": "text",
+     "text": "During a Choose Your Path Timed Research week, you’ll be able to select one of three paths: Explore, Catch, or Battle. Your choice will shape the Timed Research tasks and bonuses throughout the week."
+    },
+    {
+     "kind": "text",
+     "text": "You may have different research opportunities than other Trainers."
+    }
+   ],
+   "research": [],
+   "pokemon": [],
+   "shiny": {
+    "notes": [],
+    "pokemon": []
+   },
+   "bonuses": []
+  },
+  "max-mondays-2026-12-21": {
+   "description": [
+    {
+     "kind": "text",
+     "text": "Dynamax Alolan Sandshrew may appear in Max Battles from December 21, 2026 through December 27, 2026."
+    },
+    {
+     "kind": "text",
+     "text": "These Dynamax Pokémon may appear in Max Battles throughout Daydream Destinations. Max Battles will be available from 6:00 a.m. to 9:00 p.m. local time on Mondays."
+    },
+    {
+     "kind": "item",
+     "text": "Power Spots will refresh more frequently."
+    },
+    {
+     "kind": "item",
+     "text": "Additional Power Spots will be active on Mondays compared to the rest of the week."
+    },
+    {
+     "kind": "item",
+     "text": "Max Battles will rotate to feature different Dynamax Pokémon."
+    },
+    {
+     "kind": "text",
+     "text": "On December 21, 2026, the featured Dynamax Pokémon is Alolan Sandshrew."
+    },
+    {
+     "kind": "text",
+     "text": "Alolan Sandshrew"
+    }
+   ],
+   "research": [],
+   "pokemon": [
+    {
+     "group": "Max Battles",
+     "name": "Dynamax Alolan Sandshrew",
+     "written": "Alolan Sandshrew",
+     "image": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop_dmax/pokemon_icon_027_61.png",
+     "shiny": true
+    }
+   ],
+   "shiny": {
+    "notes": [],
+    "pokemon": []
+   },
+   "bonuses": []
+  },
+  "gbl-daydream-destinations_ultra-league-mega-edition_holiday-cup-great-league-edition": {
+   "description": [
+    {
+     "kind": "text",
+     "text": "The Ultra League: Mega Edition and Holiday Cup: Great League Edition will run from December 15, 2026, at 1:00 p.m. to December 22, 2026, at 1:00 p.m. PT."
+    },
+    {
+     "kind": "heading",
+     "text": "Ultra League: Mega Edition"
+    },
+    {
+     "kind": "item",
+     "text": "Pokémon must be at or below 2,500 CP to enter."
+    },
+    {
+     "kind": "item",
+     "text": "Mega-Evolved Pokémon are allowed."
+    },
+    {
+     "kind": "heading",
+     "text": "Holiday Cup: Great League Edition"
+    },
+    {
+     "kind": "item",
+     "text": "Pokémon must be at or below 1,500 CP to enter."
+    },
+    {
+     "kind": "item",
+     "text": "Only Normal-, Grass-, Electric-, Flying-, Ice-, and Ghost-type Pokémon are eligible."
+    }
+   ],
+   "research": [],
+   "pokemon": [],
+   "shiny": {
+    "notes": [],
+    "pokemon": []
+   },
+   "bonuses": []
+  },
+  "ho-oh-in-5-star-raid-battles-december-2026": {
+   "description": [
+    {
+     "kind": "text",
+     "text": "Ho-Oh will be in five-star raid battles from December 16, 2026 to December 22, 2026."
+    },
+    {
+     "kind": "text",
+     "text": "Raid bosses change at 6:00 a.m. local time."
+    },
+    {
+     "kind": "heading",
+     "text": "Raid Hours"
+    },
+    {
+     "kind": "text",
+     "text": "There will also be a Raid Hour featuring Ho-Oh from 6:00 p.m. to 7:00 p.m. local time on December 16."
+    }
+   ],
+   "research": [],
+   "pokemon": [],
+   "shiny": {
+    "notes": [
+     "If you’re lucky, you may encounter a Shiny Ho-Oh.",
+     "Ho-Oh"
+    ],
+    "pokemon": [
+     {
+      "name": "Ho-Oh",
+      "written": "Ho-Oh",
+      "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_250_00_shiny.png",
+      "shiny": false
+     }
+    ]
+   },
+   "bonuses": []
+  },
+  "mega-skarmory-in-mega-raids-december-2026": {
+   "description": [
+    {
+     "kind": "text",
+     "text": "Mega Skarmory will be in Mega Raids from December 16, 2026 at 6 am to December 22, 2026 at 10 pm local time."
+    },
+    {
+     "kind": "text",
+     "text": "Raid bosses change at 6:00 a.m. local time."
+    }
+   ],
+   "research": [],
+   "pokemon": [],
+   "shiny": {
+    "notes": [
+     "If you’re lucky, you may encounter Shiny Skarmory.",
+     "Skarmory, Mega Skarmory"
+    ],
+    "pokemon": [
+     {
+      "name": "Skarmory",
+      "written": "Skarmory",
+      "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_227_00_shiny.png",
+      "shiny": false
+     },
+     {
+      "name": "Mega Skarmory",
+      "written": "Mega Skarmory",
+      "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/Shiny Mega Skarmory.png",
+      "shiny": false
+     }
+    ]
+   },
+   "bonuses": []
+  },
+  "raidhour20261223": {
+   "description": [
+    {
+     "kind": "text",
+     "text": "A Raid Hour featuring Lugia is scheduled from 6:00 p.m. to 7:00 p.m. local time. During this hour there will be an increased number of five-star raids."
+    }
+   ],
+   "research": [],
+   "pokemon": [],
+   "shiny": {
+    "notes": [],
+    "pokemon": []
+   },
+   "bonuses": []
+  },
+  "pokemonspotlighthour2026-12-24": {
+   "description": [
+    {
+     "kind": "text",
+     "text": "Pokémon Spotlight Hour will feature a different Pokémon and special bonus for one hour at 6:00 p.m. local time."
+    },
+    {
+     "kind": "text",
+     "text": "December 24: The featured Pokémon is Delibird and the special bonus is 2× Catch XP."
+    }
+   ],
+   "research": [],
+   "pokemon": [
+    {
+     "group": "Wild",
+     "name": "Delibird",
+     "written": "Delibird",
+     "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_225_00.png",
+     "shiny": true
+    }
+   ],
+   "shiny": {
+    "notes": [],
+    "pokemon": []
+   },
+   "bonuses": []
+  },
   "hatch-day-december-2026": {
    "description": [
     {
@@ -6262,6 +7888,232 @@
    ],
    "research": [],
    "pokemon": [],
+   "shiny": {
+    "notes": [],
+    "pokemon": []
+   },
+   "bonuses": []
+  },
+  "winter-holiday-2026": {
+   "description": [
+    {
+     "kind": "text",
+     "text": "The Winter Holiday 2026 event will take place from December 22 to December 28, 2026. Stay tuned for more details."
+    }
+   ],
+   "research": [],
+   "pokemon": [],
+   "shiny": {
+    "notes": [],
+    "pokemon": []
+   },
+   "bonuses": []
+  },
+  "max-mondays-2026-12-28": {
+   "description": [
+    {
+     "kind": "text",
+     "text": "Dynamax Magikarp may appear in Max Battles from December 28, 2026 through January 3, 2027."
+    },
+    {
+     "kind": "text",
+     "text": "These Dynamax Pokémon may appear in Max Battles throughout Daydream Destinations. Max Battles will be available from 6:00 a.m. to 9:00 p.m. local time on Mondays."
+    },
+    {
+     "kind": "item",
+     "text": "Power Spots will refresh more frequently."
+    },
+    {
+     "kind": "item",
+     "text": "Additional Power Spots will be active on Mondays compared to the rest of the week."
+    },
+    {
+     "kind": "item",
+     "text": "Max Battles will rotate to feature different Dynamax Pokémon."
+    },
+    {
+     "kind": "text",
+     "text": "On December 28, 2026, the featured Dynamax Pokémon is Magikarp."
+    },
+    {
+     "kind": "text",
+     "text": "Magikarp"
+    }
+   ],
+   "research": [],
+   "pokemon": [
+    {
+     "group": "Max Battles",
+     "name": "Dynamax Magikarp",
+     "written": "Magikarp",
+     "image": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop_dmax/pokemon_icon_129_00.png",
+     "shiny": true
+    }
+   ],
+   "shiny": {
+    "notes": [],
+    "pokemon": []
+   },
+   "bonuses": []
+  },
+  "gbl-daydream-destinations_master-league-mega-edition_holiday-cup-great-league-edition": {
+   "description": [
+    {
+     "kind": "text",
+     "text": "The Master League: Mega Edition and Holiday Cup: Great League Edition will run from December 22, 2026, at 1:00 p.m. to December 29, 2026, at 1:00 p.m. PT."
+    },
+    {
+     "kind": "text",
+     "text": "Trainers will also receive 4× Stardust from win rewards (this does not include end-of-set rewards)."
+    },
+    {
+     "kind": "heading",
+     "text": "Master League: Mega Edition"
+    },
+    {
+     "kind": "item",
+     "text": "No CP limit."
+    },
+    {
+     "kind": "item",
+     "text": "Mega-Evolved Pokémon are allowed."
+    },
+    {
+     "kind": "heading",
+     "text": "Holiday Cup: Great League Edition"
+    },
+    {
+     "kind": "item",
+     "text": "Pokémon must be at or below 1,500 CP to enter."
+    },
+    {
+     "kind": "item",
+     "text": "Only Normal-, Grass-, Electric-, Flying-, Ice-, and Ghost-type Pokémon are eligible."
+    }
+   ],
+   "research": [],
+   "pokemon": [],
+   "shiny": {
+    "notes": [],
+    "pokemon": []
+   },
+   "bonuses": []
+  },
+  "lugia-in-5-star-raid-battles-december-2026": {
+   "description": [
+    {
+     "kind": "text",
+     "text": "Lugia will be in five-star raid battles from December 23, 2026 to December 29, 2026."
+    },
+    {
+     "kind": "text",
+     "text": "Raid bosses change at 6:00 a.m. local time."
+    },
+    {
+     "kind": "heading",
+     "text": "Raid Hours"
+    },
+    {
+     "kind": "text",
+     "text": "There will also be a Raid Hour featuring Lugia from 6:00 p.m. to 7:00 p.m. local time on December 23."
+    }
+   ],
+   "research": [],
+   "pokemon": [],
+   "shiny": {
+    "notes": [
+     "If you’re lucky, you may encounter a Shiny Lugia.",
+     "Lugia"
+    ],
+    "pokemon": [
+     {
+      "name": "Lugia",
+      "written": "Lugia",
+      "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_249_00_shiny.png",
+      "shiny": false
+     }
+    ]
+   },
+   "bonuses": []
+  },
+  "mega-glalie-in-mega-raids-december-2026": {
+   "description": [
+    {
+     "kind": "text",
+     "text": "Mega Glalie will be in Mega Raids from December 23, 2026 at 6 am to December 29, 2026 at 10 pm local time."
+    },
+    {
+     "kind": "text",
+     "text": "Raid bosses change at 6:00 a.m. local time."
+    }
+   ],
+   "research": [],
+   "pokemon": [],
+   "shiny": {
+    "notes": [
+     "If you’re lucky, you may encounter Shiny Glalie.",
+     "Glalie, Mega Glalie"
+    ],
+    "pokemon": [
+     {
+      "name": "Glalie",
+      "written": "Glalie",
+      "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_362_00_shiny.png",
+      "shiny": false
+     },
+     {
+      "name": "Mega Glalie",
+      "written": "Mega Glalie",
+      "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm362.fMEGA.s.icon.png",
+      "shiny": false
+     }
+    ]
+   },
+   "bonuses": []
+  },
+  "raidhour20261230": {
+   "description": [
+    {
+     "kind": "text",
+     "text": "A Raid Hour featuring Tornadus (Therian Forme), Thundurus (Therian Forme), and Landorus (Therian Forme) is scheduled from 6:00 p.m. to 7:00 p.m. local time. During this hour there will be an increased number of five-star raids."
+    }
+   ],
+   "research": [],
+   "pokemon": [],
+   "shiny": {
+    "notes": [],
+    "pokemon": []
+   },
+   "bonuses": []
+  },
+  "pokemonspotlighthour2026-12-31": {
+   "description": [
+    {
+     "kind": "text",
+     "text": "Pokémon Spotlight Hour will feature a different Pokémon and special bonus for one hour at 6:00 p.m. local time."
+    },
+    {
+     "kind": "text",
+     "text": "December 31: The featured Pokémon are Plusle and Minun and the special bonus is 2× Catch Candy."
+    }
+   ],
+   "research": [],
+   "pokemon": [
+    {
+     "group": "Wild",
+     "name": "Plusle",
+     "written": "Plusle",
+     "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_311_00.png",
+     "shiny": true
+    },
+    {
+     "group": "Wild",
+     "name": "Minun",
+     "written": "Minun",
+     "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_312_00.png",
+     "shiny": true
+    }
+   ],
    "shiny": {
     "notes": [],
     "pokemon": []
@@ -6331,11 +8183,293 @@
    },
    "bonuses": []
   },
+  "new-years-2027": {
+   "description": [
+    {
+     "kind": "text",
+     "text": "The New Year’s 2027 event will take place from December 29 to January 4, 2027. Stay tuned for more details."
+    }
+   ],
+   "research": [],
+   "pokemon": [],
+   "shiny": {
+    "notes": [],
+    "pokemon": []
+   },
+   "bonuses": []
+  },
+  "go-pass-december-2026": {
+   "description": [
+    {
+     "kind": "text",
+     "text": "Encounter Kyurem and hatch Eggs with the Timed Incubator in GO Pass: December!"
+    },
+    {
+     "kind": "text",
+     "text": "The GO Pass and GO Pass Deluxe for December will be available from December 1, 2026 at 10:00 am to January 5, 2027 at 10:00 am local time."
+    }
+   ],
+   "research": [],
+   "pokemon": [],
+   "shiny": {
+    "notes": [],
+    "pokemon": []
+   },
+   "bonuses": [
+    {
+     "title": "Tier 1 – Rank 1",
+     "description": null,
+     "items": [
+      "Increased XP from going up a Friendship level",
+      "2× Friendship bonus damage in raids"
+     ]
+    },
+    {
+     "title": "Tier 2 – Rank 25",
+     "description": null,
+     "items": [
+      "Open up to 40 Gifts per day",
+      "Receive up to 125 Gifts per day from spinning PokéStop and Gym Photo Discs",
+      "Hold 10 more Gifts in your Item Bag"
+     ]
+    },
+    {
+     "title": "Tier 3 – Rank 50",
+     "description": null,
+     "items": [
+      "2× Daily Adventure Incense duration"
+     ]
+    },
+    {
+     "title": "Tier 4 – Rank 75",
+     "description": null,
+     "items": [
+      "Increased XP and Stardust from hatching Eggs"
+     ]
+    },
+    {
+     "title": "Tier 2 – Rank 25",
+     "description": "Upgrade to the GO Pass Deluxe to strengthen the following bonus:",
+     "items": [
+      "Open up to 50 Gifts per day",
+      "Receive up to 150 Gifts per day from spinning PokéStop and Gym Photo Discs",
+      "Hold up to 20 more Gifts in your Item Bag"
+     ]
+    }
+   ]
+  },
+  "gbl-daydream-destinations_great-league-mega-edition_ultra-league-mega-edition_master-league-mega-edition-split-2": {
+   "description": [
+    {
+     "kind": "text",
+     "text": "The Great League: Mega Edition, Ultra League: Mega Edition, and Master League: Mega Edition will run from December 29, 2026, at 1:00 p.m. to January 5, 2027, at 1:00 p.m. PT."
+    },
+    {
+     "kind": "text",
+     "text": "Trainers will also receive 4× Stardust from win rewards (this does not include end-of-set rewards)."
+    },
+    {
+     "kind": "heading",
+     "text": "Great League: Mega Edition"
+    },
+    {
+     "kind": "item",
+     "text": "Pokémon must be at or below 1,500 CP to enter."
+    },
+    {
+     "kind": "item",
+     "text": "Mega-Evolved Pokémon are allowed."
+    },
+    {
+     "kind": "heading",
+     "text": "Ultra League: Mega Edition"
+    },
+    {
+     "kind": "item",
+     "text": "Pokémon must be at or below 2,500 CP to enter."
+    },
+    {
+     "kind": "item",
+     "text": "Mega-Evolved Pokémon are allowed."
+    },
+    {
+     "kind": "heading",
+     "text": "Master League: Mega Edition"
+    },
+    {
+     "kind": "item",
+     "text": "No CP limit."
+    },
+    {
+     "kind": "item",
+     "text": "Mega-Evolved Pokémon are allowed."
+    }
+   ],
+   "research": [],
+   "pokemon": [],
+   "shiny": {
+    "notes": [],
+    "pokemon": []
+   },
+   "bonuses": []
+  },
+  "shadow-dialga-in-shadow-raids-december-2026": {
+   "description": [
+    {
+     "kind": "text",
+     "text": "Shadow Dialga will appear in five-star Shadow Raids from December 2, 2026 to January 5, 2027."
+    }
+   ],
+   "research": [],
+   "pokemon": [],
+   "shiny": {
+    "notes": [
+     "If you’re lucky, you may encounter Shiny Shadow Dialga.",
+     "Dialga"
+    ],
+    "pokemon": [
+     {
+      "name": "Dialga",
+      "written": "Dialga",
+      "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_483_00_shiny.png",
+      "shiny": false
+     }
+    ]
+   },
+   "bonuses": []
+  },
+  "mega-falinks-in-mega-raids-december-2026": {
+   "description": [
+    {
+     "kind": "text",
+     "text": "Mega Falinks will be in Mega Raids from December 30, 2026 at 6 am to January 5, 2027 at 10 pm local time."
+    },
+    {
+     "kind": "text",
+     "text": "Raid bosses change at 6:00 a.m. local time."
+    }
+   ],
+   "research": [],
+   "pokemon": [],
+   "shiny": {
+    "notes": [
+     "If you’re lucky, you may encounter Shiny Falinks.",
+     "Falinks, Mega Falinks"
+    ],
+    "pokemon": [
+     {
+      "name": "Falinks",
+      "written": "Falinks",
+      "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm870.s.icon.png",
+      "shiny": false
+     },
+     {
+      "name": "Mega Falinks",
+      "written": "Mega Falinks",
+      "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm870.fMEGA.s.icon.png",
+      "shiny": false
+     }
+    ]
+   },
+   "bonuses": []
+  },
+  "tornadus-thundurus-landorus-therian-formes-in-5-star-raid-battles-december-2026": {
+   "description": [
+    {
+     "kind": "text",
+     "text": "Tornadus (Therian), Thundurus (Therian), and Landorus (Therian) will be in five-star raid battles from December 30, 2026 to January 5, 2027."
+    },
+    {
+     "kind": "text",
+     "text": "Raid bosses change at 6:00 a.m. local time."
+    },
+    {
+     "kind": "heading",
+     "text": "Raid Hours"
+    },
+    {
+     "kind": "text",
+     "text": "There will also be a Raid Hour featuring Tornadus (Therian Forme), Thundurus (Therian Forme), and Landorus (Therian Forme) from 6:00 p.m. to 7:00 p.m. local time on December 30."
+    }
+   ],
+   "research": [],
+   "pokemon": [],
+   "shiny": {
+    "notes": [
+     "If you’re lucky, you may encounter Shiny forms of these Pokémon.",
+     "Tornadus (Therian), Thundurus (Therian), Landorus (Therian)"
+    ],
+    "pokemon": [
+     {
+      "name": "Tornadus (Therian)",
+      "written": "Tornadus (Therian)",
+      "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_641_12_shiny.png",
+      "shiny": false
+     },
+     {
+      "name": "Thundurus (Therian)",
+      "written": "Thundurus (Therian)",
+      "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_642_12_shiny.png",
+      "shiny": false
+     },
+     {
+      "name": "Landorus (Therian)",
+      "written": "Landorus (Therian)",
+      "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_645_12_shiny.png",
+      "shiny": false
+     }
+    ]
+   },
+   "bonuses": []
+  },
   "super-mega-raid-day-january-2027": {
    "description": [
     {
      "kind": "text",
      "text": "The Super Mega Raid Day event will take place on January 9, 2027 from 2 pm to 5 pm. Stay tuned for more details."
+    }
+   ],
+   "research": [],
+   "pokemon": [],
+   "shiny": {
+    "notes": [],
+    "pokemon": []
+   },
+   "bonuses": []
+  },
+  "gbl-daydream-destinations_great-league-mega-edition_fighting-cup-great-league-edition": {
+   "description": [
+    {
+     "kind": "text",
+     "text": "The Great League: Mega Edition and Fighting Cup: Great League Edition will run from January 5, 2027, at 1:00 p.m. to January 12, 2027, at 1:00 p.m. PT."
+    },
+    {
+     "kind": "heading",
+     "text": "Great League: Mega Edition"
+    },
+    {
+     "kind": "item",
+     "text": "Pokémon must be at or below 1,500 CP to enter."
+    },
+    {
+     "kind": "item",
+     "text": "Mega-Evolved Pokémon are allowed."
+    },
+    {
+     "kind": "heading",
+     "text": "Fighting Cup: Great League Edition"
+    },
+    {
+     "kind": "item",
+     "text": "Pokémon must be at or below 1,500 CP to enter."
+    },
+    {
+     "kind": "item",
+     "text": "Only Fighting-type Pokémon are eligible."
+    },
+    {
+     "kind": "item",
+     "text": "Flying-, Psychic-, and Ghost-type Pokémon are not eligible."
     }
    ],
    "research": [],
@@ -6594,11 +8728,112 @@
    },
    "bonuses": []
   },
+  "choose-your-path-daydream-destinations-2027-01-12": {
+   "description": [
+    {
+     "kind": "text",
+     "text": "Choose Your Path Timed Research gives you the freedom to explore Pokémon GO your way during non-event weeks!"
+    },
+    {
+     "kind": "text",
+     "text": "During a Choose Your Path Timed Research week, you’ll be able to select one of three paths: Explore, Catch, or Battle. Your choice will shape the Timed Research tasks and bonuses throughout the week."
+    },
+    {
+     "kind": "text",
+     "text": "You may have different research opportunities than other Trainers."
+    }
+   ],
+   "research": [],
+   "pokemon": [],
+   "shiny": {
+    "notes": [],
+    "pokemon": []
+   },
+   "bonuses": []
+  },
+  "gbl-daydream-destinations_ultra-league-mega-edition_jungle-cup-great-league-edition": {
+   "description": [
+    {
+     "kind": "text",
+     "text": "The Ultra League: Mega Edition and Jungle Cup: Great League Edition will run from January 12, 2027, at 1:00 p.m. to January 19, 2027, at 1:00 p.m. PT."
+    },
+    {
+     "kind": "heading",
+     "text": "Ultra League: Mega Edition"
+    },
+    {
+     "kind": "item",
+     "text": "Pokémon must be at or below 2,500 CP to enter."
+    },
+    {
+     "kind": "item",
+     "text": "Mega-Evolved Pokémon are allowed."
+    },
+    {
+     "kind": "heading",
+     "text": "Jungle Cup: Great League Edition"
+    },
+    {
+     "kind": "item",
+     "text": "Pokémon must be at or below 1,500 CP to enter."
+    },
+    {
+     "kind": "item",
+     "text": "Only Normal-, Grass-, Electric-, Bug-, Flying-, Poison-, Ground-, and Dark-type Pokémon are eligible."
+    }
+   ],
+   "research": [],
+   "pokemon": [],
+   "shiny": {
+    "notes": [],
+    "pokemon": []
+   },
+   "bonuses": []
+  },
   "max-battle-day-january-2027": {
    "description": [
     {
      "kind": "text",
      "text": "The Max Battle Day event will take place on January 23, 2027 from 2 pm to 5 pm. Stay tuned for more details."
+    }
+   ],
+   "research": [],
+   "pokemon": [],
+   "shiny": {
+    "notes": [],
+    "pokemon": []
+   },
+   "bonuses": []
+  },
+  "gbl-daydream-destinations_master-league-mega-edition_master-league": {
+   "description": [
+    {
+     "kind": "text",
+     "text": "The Master League: Mega Edition and Master League will run from January 19, 2027, at 1:00 p.m. to January 26, 2027, at 1:00 p.m. PT."
+    },
+    {
+     "kind": "text",
+     "text": "Trainers will also receive 4× Stardust from win rewards (this does not include end-of-set rewards)."
+    },
+    {
+     "kind": "heading",
+     "text": "Master League: Mega Edition"
+    },
+    {
+     "kind": "item",
+     "text": "No CP limit."
+    },
+    {
+     "kind": "item",
+     "text": "Mega-Evolved Pokémon are allowed."
+    },
+    {
+     "kind": "heading",
+     "text": "Master League"
+    },
+    {
+     "kind": "item",
+     "text": "All Pokémon are eligible."
     }
    ],
    "research": [],
@@ -6624,6 +8859,84 @@
    },
    "bonuses": []
   },
+  "choose-your-path-daydream-destinations-2027-01-26": {
+   "description": [
+    {
+     "kind": "text",
+     "text": "Choose Your Path Timed Research gives you the freedom to explore Pokémon GO your way during non-event weeks!"
+    },
+    {
+     "kind": "text",
+     "text": "During a Choose Your Path Timed Research week, you’ll be able to select one of three paths: Explore, Catch, or Battle. Your choice will shape the Timed Research tasks and bonuses throughout the week."
+    },
+    {
+     "kind": "text",
+     "text": "You may have different research opportunities than other Trainers."
+    }
+   ],
+   "research": [],
+   "pokemon": [],
+   "shiny": {
+    "notes": [],
+    "pokemon": []
+   },
+   "bonuses": []
+  },
+  "gbl-daydream-destinations_great-league-mega-edition_ultra-league-mega-edition_master-league-mega-edition-split-3": {
+   "description": [
+    {
+     "kind": "text",
+     "text": "The Great League: Mega Edition, Ultra League: Mega Edition, and Master League: Mega Edition will run from January 26, 2027, at 1:00 p.m. to February 2, 2027, at 1:00 p.m. PT."
+    },
+    {
+     "kind": "text",
+     "text": "Trainers will also receive 4× Stardust from win rewards (this does not include end-of-set rewards)."
+    },
+    {
+     "kind": "heading",
+     "text": "Great League: Mega Edition"
+    },
+    {
+     "kind": "item",
+     "text": "Pokémon must be at or below 1,500 CP to enter."
+    },
+    {
+     "kind": "item",
+     "text": "Mega-Evolved Pokémon are allowed."
+    },
+    {
+     "kind": "heading",
+     "text": "Ultra League: Mega Edition"
+    },
+    {
+     "kind": "item",
+     "text": "Pokémon must be at or below 2,500 CP to enter."
+    },
+    {
+     "kind": "item",
+     "text": "Mega-Evolved Pokémon are allowed."
+    },
+    {
+     "kind": "heading",
+     "text": "Master League: Mega Edition"
+    },
+    {
+     "kind": "item",
+     "text": "No CP limit."
+    },
+    {
+     "kind": "item",
+     "text": "Mega-Evolved Pokémon are allowed."
+    }
+   ],
+   "research": [],
+   "pokemon": [],
+   "shiny": {
+    "notes": [],
+    "pokemon": []
+   },
+   "bonuses": []
+  },
   "february-communityday2027": {
    "description": [
     {
@@ -6639,11 +8952,113 @@
    },
    "bonuses": []
   },
+  "gbl-daydream-destinations_great-league-mega-edition_master-league": {
+   "description": [
+    {
+     "kind": "text",
+     "text": "The Great League: Mega Edition and Master League will run from February 2, 2027, at 1:00 p.m. to February 9, 2027, at 1:00 p.m. PT."
+    },
+    {
+     "kind": "heading",
+     "text": "Great League: Mega Edition"
+    },
+    {
+     "kind": "item",
+     "text": "Pokémon must be at or below 1,500 CP to enter."
+    },
+    {
+     "kind": "item",
+     "text": "Mega-Evolved Pokémon are allowed."
+    },
+    {
+     "kind": "heading",
+     "text": "Master League"
+    },
+    {
+     "kind": "item",
+     "text": "All Pokémon are eligible."
+    }
+   ],
+   "research": [],
+   "pokemon": [],
+   "shiny": {
+    "notes": [],
+    "pokemon": []
+   },
+   "bonuses": []
+  },
   "raid-day-february-2027": {
    "description": [
     {
      "kind": "text",
      "text": "The Raid Day event will take place on February 13, 2027 from 2 pm to 5 pm. Stay tuned for more details."
+    }
+   ],
+   "research": [],
+   "pokemon": [],
+   "shiny": {
+    "notes": [],
+    "pokemon": []
+   },
+   "bonuses": []
+  },
+  "gbl-daydream-destinations_ultra-league-mega-edition_love-cup-great-league-edition_2027-go-euic-cup": {
+   "description": [
+    {
+     "kind": "text",
+     "text": "The Ultra League: Mega Edition, Love Cup: Great League Edition, and 2027 GO EUIC Cup will run from February 9, 2027, at 1:00 p.m. to February 16, 2027, at 1:00 p.m. PT."
+    },
+    {
+     "kind": "heading",
+     "text": "Ultra League: Mega Edition"
+    },
+    {
+     "kind": "item",
+     "text": "Pokémon must be at or below 2,500 CP to enter."
+    },
+    {
+     "kind": "item",
+     "text": "Mega-Evolved Pokémon are allowed."
+    },
+    {
+     "kind": "heading",
+     "text": "Love Cup: Great League Edition"
+    },
+    {
+     "kind": "item",
+     "text": "Pokémon must be at or below 1,500 CP to enter."
+    },
+    {
+     "kind": "item",
+     "text": "Only red- or pink-colored Pokémon are eligible."
+    },
+    {
+     "kind": "heading",
+     "text": "2027 GO EUIC Cup"
+    },
+    {
+     "kind": "item",
+     "text": "Pokémon must be at or below 1,500 CP to enter."
+    },
+    {
+     "kind": "item",
+     "text": "Mega-Evolved Pokémon are allowed."
+    },
+    {
+     "kind": "item",
+     "text": "Only Electric-, Rock-, Poison-, Ice-, and Dark-type Pokémon are eligible."
+    },
+    {
+     "kind": "item",
+     "text": "Grass-, Ground-, Fighting-, Steel-, and Fairy-type Pokémon are not eligible."
+    },
+    {
+     "kind": "text",
+     "text": "The following Pokémon will not be allowed."
+    },
+    {
+     "kind": "text",
+     "text": "Nidorina, Grimer, Lanturn, Magcargo, Sableye, Mega Sableye, Pachirisu, Drapion, Crustle, Malamar, Mega Malamar, Dragalge, Charjabug, Minior (Meteor Form), Carkol, Coalossal"
     }
    ],
    "research": [],
@@ -6693,6 +9108,29 @@
    },
    "bonuses": []
   },
+  "choose-your-path-daydream-destinations-2027-02-16": {
+   "description": [
+    {
+     "kind": "text",
+     "text": "Choose Your Path Timed Research gives you the freedom to explore Pokémon GO your way during non-event weeks!"
+    },
+    {
+     "kind": "text",
+     "text": "During a Choose Your Path Timed Research week, you’ll be able to select one of three paths: Explore, Catch, or Battle. Your choice will shape the Timed Research tasks and bonuses throughout the week."
+    },
+    {
+     "kind": "text",
+     "text": "You may have different research opportunities than other Trainers."
+    }
+   ],
+   "research": [],
+   "pokemon": [],
+   "shiny": {
+    "notes": [],
+    "pokemon": []
+   },
+   "bonuses": []
+  },
   "pokemon-go-tour-alola-los-angeles-2027": {
    "description": [
     {
@@ -6732,6 +9170,89 @@
    },
    "bonuses": []
   },
+  "gbl-daydream-destinations_master-league-mega-edition_mega-catch-cup-great-league-edition_2027-go-euic-cup": {
+   "description": [
+    {
+     "kind": "text",
+     "text": "The Master League: Mega Edition, Mega Catch Cup: Great League Edition, and 2027 GO EUIC Cup will run from February 16, 2027, at 1:00 p.m. to February 23, 2027, at 1:00 p.m. PT."
+    },
+    {
+     "kind": "text",
+     "text": "Trainers will also receive 4× Stardust from win rewards (this does not include end-of-set rewards)."
+    },
+    {
+     "kind": "heading",
+     "text": "Master League: Mega Edition"
+    },
+    {
+     "kind": "item",
+     "text": "No CP limit."
+    },
+    {
+     "kind": "item",
+     "text": "Mega-Evolved Pokémon are allowed."
+    },
+    {
+     "kind": "heading",
+     "text": "Mega Catch Cup: Great League Edition"
+    },
+    {
+     "kind": "item",
+     "text": "Pokémon must be at or below 1,500 CP to enter."
+    },
+    {
+     "kind": "item",
+     "text": "Mega-Evolved Pokémon are allowed."
+    },
+    {
+     "kind": "item",
+     "text": "Only Pokémon caught during the Daydream Destinations Season are eligible.*"
+    },
+    {
+     "kind": "item",
+     "text": "Mythical Pokémon are not eligible."
+    },
+    {
+     "kind": "text",
+     "text": "*Pokémon must be caught between December 1, 2026, at 1:00 p.m. and March 2, 2027, at 1:00 p.m. PST."
+    },
+    {
+     "kind": "heading",
+     "text": "2027 GO EUIC Cup"
+    },
+    {
+     "kind": "item",
+     "text": "Pokémon must be at or below 1,500 CP to enter."
+    },
+    {
+     "kind": "item",
+     "text": "Mega-Evolved Pokémon are allowed."
+    },
+    {
+     "kind": "item",
+     "text": "Only Electric-, Rock-, Poison-, Ice-, and Dark-type Pokémon are eligible."
+    },
+    {
+     "kind": "item",
+     "text": "Grass-, Ground-, Fighting-, Steel-, and Fairy-type Pokémon are not eligible."
+    },
+    {
+     "kind": "text",
+     "text": "The following Pokémon will not be allowed."
+    },
+    {
+     "kind": "text",
+     "text": "Nidorina, Grimer, Lanturn, Magcargo, Sableye, Mega Sableye, Pachirisu, Drapion, Crustle, Malamar, Mega Malamar, Dragalge, Charjabug, Minior (Meteor Form), Carkol, Coalossal"
+    }
+   ],
+   "research": [],
+   "pokemon": [],
+   "shiny": {
+    "notes": [],
+    "pokemon": []
+   },
+   "bonuses": []
+  },
   "pokemon-go-tour-alola-global-2027": {
    "description": [
     {
@@ -6761,6 +9282,317 @@
     {
      "kind": "text",
      "text": "Read the official announcement."
+    }
+   ],
+   "research": [],
+   "pokemon": [],
+   "shiny": {
+    "notes": [],
+    "pokemon": []
+   },
+   "bonuses": []
+  },
+  "season-25-daydream-destinations": {
+   "description": [
+    {
+     "kind": "text",
+     "text": "Welcome to Pokémon GO: Daydream Destinations!"
+    },
+    {
+     "kind": "text",
+     "text": "In Pokémon GO, Seasons are periods of time that feature new events, Pokémon debuts, and surprises that all follow a certain theme. As the Seasons change, you may find different Pokémon appearing in your area and hatching from Eggs. Make sure to explore during each in-game Season to collect and train as many different Pokémon as you can! You’ll also enjoy special bonuses as you do."
+    }
+   ],
+   "research": [],
+   "pokemon": [
+    {
+     "group": "Max Battles",
+     "name": "Dynamax Alolan Sandshrew",
+     "written": "Alolan Sandshrew",
+     "image": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop_dmax/pokemon_icon_027_61.png",
+     "shiny": true
+    },
+    {
+     "group": "Max Battles",
+     "name": "Dynamax Slowpoke",
+     "written": "Slowpoke",
+     "image": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop_dmax/pokemon_icon_079_00.png",
+     "shiny": true
+    },
+    {
+     "group": "Max Battles",
+     "name": "Dynamax Corphish",
+     "written": "Corphish",
+     "image": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop_dmax/pokemon_icon_341_00.png",
+     "shiny": true
+    },
+    {
+     "group": "Max Battles",
+     "name": "Gigantamax Inteleon",
+     "written": "Gigantamax Inteleon",
+     "image": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/poke_capture_0818_000_mf_g_00000000_f_n.png",
+     "shiny": true
+    },
+    {
+     "group": "Max Battles",
+     "name": "Gigantamax Toxtricity",
+     "written": "Gigantamax Toxtricity",
+     "image": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm849.fGIGANTAMAX.icon.png",
+     "shiny": true
+    },
+    {
+     "group": "In 2 km Eggs",
+     "name": "Vulpix",
+     "written": "Vulpix",
+     "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_037_00.png",
+     "shiny": true
+    },
+    {
+     "group": "In 2 km Eggs",
+     "name": "Swablu",
+     "written": "Swablu",
+     "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_333_00.png",
+     "shiny": true
+    },
+    {
+     "group": "In 2 km Eggs",
+     "name": "Yamper",
+     "written": "Yamper",
+     "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm835.icon.png",
+     "shiny": false
+    },
+    {
+     "group": "In 5 km Eggs",
+     "name": "Lickitung",
+     "written": "Lickitung",
+     "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_108_00.png",
+     "shiny": true
+    },
+    {
+     "group": "In 5 km Eggs",
+     "name": "Snom",
+     "written": "Snom",
+     "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm872.icon.png",
+     "shiny": true
+    },
+    {
+     "group": "In 5 km Eggs",
+     "name": "Flittle",
+     "written": "Flittle",
+     "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm955.icon.png",
+     "shiny": false
+    },
+    {
+     "group": "In 5 km Eggs from Adventure Sync Rewards",
+     "name": "Tyrogue",
+     "written": "Tyrogue",
+     "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_236_00.png",
+     "shiny": true
+    },
+    {
+     "group": "In 5 km Eggs from Adventure Sync Rewards",
+     "name": "Happiny",
+     "written": "Happiny",
+     "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_440_00.png",
+     "shiny": true
+    },
+    {
+     "group": "In 5 km Eggs from Adventure Sync Rewards",
+     "name": "Maschiff",
+     "written": "Maschiff",
+     "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm942.icon.png",
+     "shiny": false
+    },
+    {
+     "group": "In 7 km Eggs",
+     "name": "Alolan Geodude",
+     "written": "Alolan Geodude",
+     "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_074_61.png",
+     "shiny": true
+    },
+    {
+     "group": "In 7 km Eggs",
+     "name": "Galarian Corsola",
+     "written": "Galarian Corsola",
+     "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm222.fGALARIAN.icon.png",
+     "shiny": true
+    },
+    {
+     "group": "In 7 km Eggs",
+     "name": "Galarian Zigzagoon",
+     "written": "Galarian Zigzagoon",
+     "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_263_31.png",
+     "shiny": true
+    },
+    {
+     "group": "In 7 km Eggs From Route Rewards",
+     "name": "Hisuian Growlithe",
+     "written": "Hisuian Growlithe",
+     "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm58.fHISUIAN.icon.png",
+     "shiny": true
+    },
+    {
+     "group": "In 7 km Eggs From Route Rewards",
+     "name": "Hisuian Sneasel",
+     "written": "Hisuian Sneasel",
+     "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm215.fHISUIAN.icon.png",
+     "shiny": true
+    },
+    {
+     "group": "In 7 km Eggs From Route Rewards",
+     "name": "Galarian Corsola",
+     "written": "Galarian Corsola",
+     "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm222.fGALARIAN.icon.png",
+     "shiny": true
+    },
+    {
+     "group": "In 10 km Eggs",
+     "name": "Honedge",
+     "written": "Honedge",
+     "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_679_00.png",
+     "shiny": true
+    },
+    {
+     "group": "In 10 km Eggs",
+     "name": "Goomy",
+     "written": "Goomy",
+     "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_704_00.png",
+     "shiny": true
+    },
+    {
+     "group": "In 10 km Eggs",
+     "name": "Charcadet",
+     "written": "Charcadet",
+     "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm935.icon.png",
+     "shiny": true
+    },
+    {
+     "group": "In 10 km Eggs from Adventure Sync Rewards",
+     "name": "Gible",
+     "written": "Gible",
+     "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_443_00.png",
+     "shiny": true
+    },
+    {
+     "group": "In 10 km Eggs from Adventure Sync Rewards",
+     "name": "Drampa",
+     "written": "Drampa",
+     "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm780.icon.png",
+     "shiny": true
+    },
+    {
+     "group": "In 10 km Eggs from Adventure Sync Rewards",
+     "name": "Frigibax",
+     "written": "Frigibax",
+     "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm996.icon.png",
+     "shiny": true
+    }
+   ],
+   "shiny": {
+    "notes": [],
+    "pokemon": []
+   },
+   "bonuses": [
+    {
+     "title": "Rank 1",
+     "description": null,
+     "items": [
+      "Increased XP from going up a Friendship level",
+      "2× Friendship bonus damage in raids"
+     ]
+    },
+    {
+     "title": "Rank 25",
+     "description": null,
+     "items": [
+      "Increased limits on opening Gifts, receiving Gifts from PokéStop and Gym Photo Discs, and storing Gifts"
+     ]
+    },
+    {
+     "title": "Rank 50",
+     "description": null,
+     "items": [
+      "2× Daily Adventure Incense duration"
+     ]
+    },
+    {
+     "title": "Rank 75",
+     "description": null,
+     "items": [
+      "Increased XP and Stardust from hatching Eggs"
+     ]
+    }
+   ]
+  },
+  "gbl-daydream-destinations_great-league-mega-edition_ultra-league-mega-edition_master-league-mega-edition_mega-catch-cup-great-league-edition": {
+   "description": [
+    {
+     "kind": "text",
+     "text": "The Great League: Mega Edition, Ultra League: Mega Edition, Master League: Mega Edition, and Mega Catch Cup: Great League Edition will run from February 23, 2027, at 1:00 p.m. to March 2, 2027, at 1:00 p.m. PT."
+    },
+    {
+     "kind": "text",
+     "text": "Trainers will also receive 4× Stardust from win rewards (this does not include end-of-set rewards)."
+    },
+    {
+     "kind": "heading",
+     "text": "Great League: Mega Edition"
+    },
+    {
+     "kind": "item",
+     "text": "Pokémon must be at or below 1,500 CP to enter."
+    },
+    {
+     "kind": "item",
+     "text": "Mega-Evolved Pokémon are allowed."
+    },
+    {
+     "kind": "heading",
+     "text": "Ultra League: Mega Edition"
+    },
+    {
+     "kind": "item",
+     "text": "Pokémon must be at or below 2,500 CP to enter."
+    },
+    {
+     "kind": "item",
+     "text": "Mega-Evolved Pokémon are allowed."
+    },
+    {
+     "kind": "heading",
+     "text": "Master League: Mega Edition"
+    },
+    {
+     "kind": "item",
+     "text": "No CP limit."
+    },
+    {
+     "kind": "item",
+     "text": "Mega-Evolved Pokémon are allowed."
+    },
+    {
+     "kind": "heading",
+     "text": "Mega Catch Cup: Great League Edition"
+    },
+    {
+     "kind": "item",
+     "text": "Pokémon must be at or below 1,500 CP to enter."
+    },
+    {
+     "kind": "item",
+     "text": "Mega-Evolved Pokémon are allowed."
+    },
+    {
+     "kind": "item",
+     "text": "Only Pokémon caught during the Daydream Destinations Season are eligible.*"
+    },
+    {
+     "kind": "item",
+     "text": "Mythical Pokémon are not eligible."
+    },
+    {
+     "kind": "text",
+     "text": "*Pokémon must be caught between December 1, 2026, at 1:00 p.m. and March 2, 2027, at 1:00 p.m. PST."
     }
    ],
    "research": [],

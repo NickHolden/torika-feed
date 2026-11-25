@@ -10329,6 +10329,14 @@
    }
   },
   {
+   "slug": "rockruff-dusk",
+   "name": "Rockruff Dusk",
+   "released": {
+    "time": "2024-01-06T00:00:00",
+    "kind": "local"
+   }
+  },
+  {
    "slug": "lycanroc-midnight",
    "name": "Lycanroc Midnight",
    "released": {
@@ -10348,7 +10356,7 @@
    "slug": "lycanroc-dusk",
    "name": "Lycanroc Dusk",
    "released": {
-    "time": "2023-01-06T00:00:00",
+    "time": "2024-01-06T00:00:00",
     "kind": "local"
    }
   },

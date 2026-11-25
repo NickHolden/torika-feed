@@ -1,6 +1,6 @@
 {
  "schema": 1,
- "built": "2026-11-24T20:25:16Z",
+ "built": "2026-11-25T19:39:19Z",
  "items": [
   {
    "id": "catalog:label:background.lc-pokelid-gunma:dbe6f116e0eb",
@@ -21,6 +21,31 @@
    ],
    "section": "catalog",
    "firstSeen": "2026-11-14"
+  },
+  {
+   "id": "events:0352ca23.rule.c1a139:16b0d4b30476",
+   "kind": "auto-read",
+   "held": false,
+   "origin": {
+    "id": "page:choose-your-path-daydream-destinations-2026-12-15",
+    "title": "Choose Your Path: Daydream Destinations (December 15, 2026)",
+    "note": "The event's own page, read by two models"
+   },
+   "field": "Special rule · Choose a Path",
+   "order": 5,
+   "answerFormat": "text",
+   "answerHint": "The sentence that states the rule",
+   "readings": [
+    {
+     "who": "Both models",
+     "value": "Your choice will determine your Timed Research tasks and bonuses throughout the week. Specific bonuses have not yet been announced.",
+     "quote": "Your choice will determine your Timed Research tasks and bonuses throughout the week. Specific bonuses have not yet been announced.",
+     "url": "https://leekduck.com/events/choose-your-path-daydream-destinations-2026-12-15/"
+    }
+   ],
+   "value": "Your choice will determine your Timed Research tasks and bonuses throughout the week. Specific bonuses have not yet been announced.",
+   "section": "events",
+   "firstSeen": "2026-11-25"
   },
   {
    "id": "events:08a9fee0.rule.15282c:64140cee7d8b",
@@ -121,6 +146,31 @@
    "value": "Minior has seven different core colors: Red, Orange, Yellow, Green, Blue, Indigo, and Violet. A different core color will debut during each of the six meteor showers listed below. During the Geminids, one core color will debut in the Northern Hemisphere and another in the Southern Hemisphere.",
    "section": "events",
    "firstSeen": "2026-11-14"
+  },
+  {
+   "id": "events:0a061fdf.rule.c1a139:16b0d4b30476",
+   "kind": "auto-read",
+   "held": false,
+   "origin": {
+    "id": "page:choose-your-path-daydream-destinations-2027-01-26",
+    "title": "Choose Your Path: Daydream Destinations (January 26, 2027)",
+    "note": "The event's own page, read by two models"
+   },
+   "field": "Special rule · Choose a Path",
+   "order": 5,
+   "answerFormat": "text",
+   "answerHint": "The sentence that states the rule",
+   "readings": [
+    {
+     "who": "Both models",
+     "value": "Your choice will determine your Timed Research tasks and bonuses throughout the week. Specific bonuses have not yet been announced.",
+     "quote": "Your choice will determine your Timed Research tasks and bonuses throughout the week. Specific bonuses have not yet been announced.",
+     "url": "https://leekduck.com/events/choose-your-path-daydream-destinations-2027-01-26/"
+    }
+   ],
+   "value": "Your choice will determine your Timed Research tasks and bonuses throughout the week. Specific bonuses have not yet been announced.",
+   "section": "events",
+   "firstSeen": "2026-11-25"
   },
   {
    "id": "events:14462135.debut.dynamax:c7f8af117783",
@@ -278,54 +328,229 @@
    "firstSeen": "2026-11-14"
   },
   {
-   "id": "events:18bc5021.rule.532fb6:72e78cd416c9",
+   "id": "events:253206fc.rule.1e2a41:02704b563b16",
    "kind": "auto-read",
    "held": false,
    "origin": {
-    "id": "page:dynamax-trails-2026",
-    "title": "Dynamax Trails",
+    "id": "page:go-pass-december-2026",
+    "title": "GO Pass: December",
     "note": "The event's own page, read by two models"
    },
-   "field": "Special rule · Event-Themed Stickers",
-   "order": 6,
+   "field": "Special rule · Tier 1 – Rank 1",
+   "order": 8,
    "answerFormat": "text",
    "answerHint": "The sentence that states the rule",
    "readings": [
     {
      "who": "Both models",
-     "value": "Get event-themed stickers by spinning PokéStops, opening Gifts, purchasing them from the in-game shop, and progressing through your GO Pass.",
-     "quote": "Get event-themed stickers by spinning PokéStops, opening Gifts, purchasing them from the in-game shop, and progressing through your GO Pass.",
-     "url": "https://leekduck.com/events/dynamax-trails-2026/"
+     "value": "2× Friendship bonus damage in raids",
+     "quote": "2× Friendship bonus damage in raids",
+     "url": "https://leekduck.com/events/go-pass-december-2026/"
     }
    ],
-   "value": "Get event-themed stickers by spinning PokéStops, opening Gifts, purchasing them from the in-game shop, and progressing through your GO Pass.",
+   "value": "2× Friendship bonus damage in raids",
    "section": "events",
-   "firstSeen": "2026-11-14"
+   "firstSeen": "2026-11-25"
   },
   {
-   "id": "events:18bc5021.rule.89e0cf:f7dded1fc813",
+   "id": "events:253206fc.rule.521712:457e05d36375",
    "kind": "auto-read",
    "held": false,
    "origin": {
-    "id": "page:dynamax-trails-2026",
-    "title": "Dynamax Trails",
+    "id": "page:go-pass-december-2026",
+    "title": "GO Pass: December",
     "note": "The event's own page, read by two models"
    },
-   "field": "Special rule · Spotlight Hour",
+   "field": "Special rule · Tier 2 – Rank 25",
+   "order": 9,
+   "answerFormat": "text",
+   "answerHint": "The sentence that states the rule",
+   "readings": [
+    {
+     "who": "Both models",
+     "value": "Open up to 40 Gifts per day",
+     "quote": "Open up to 40 Gifts per day",
+     "url": "https://leekduck.com/events/go-pass-december-2026/"
+    }
+   ],
+   "value": "Open up to 40 Gifts per day",
+   "section": "events",
+   "firstSeen": "2026-11-25"
+  },
+  {
+   "id": "events:253206fc.rule.61ed1b:bbd562f202ac",
+   "kind": "auto-read",
+   "held": false,
+   "origin": {
+    "id": "page:go-pass-december-2026",
+    "title": "GO Pass: December",
+    "note": "The event's own page, read by two models"
+   },
+   "field": "Special rule · GO Pass and GO Pass Deluxe",
    "order": 5,
    "answerFormat": "text",
    "answerHint": "The sentence that states the rule",
    "readings": [
     {
      "who": "Both models",
-     "value": "Grookey, Scorbunny, and Sobble will be featured during Pokémon Spotlight Hour on November 19, 2026, from 6 pm to 7 pm local time. The bonus will be 2× Catch Candy.",
-     "quote": "Grookey, Scorbunny, and Sobble will be featured during Pokémon Spotlight Hour on November 19, 2026, from 6 pm to 7 pm local time. The bonus will be 2× Catch Candy.",
-     "url": "https://leekduck.com/events/dynamax-trails-2026/"
+     "value": "Trainers will automatically receive GO Pass: December on Tuesday, December 1, at 10:00 a.m. local time. You can collect GO Points and rank up to get additional rewards through Tuesday, January 5, 2027, at 10:00 a.m. local time.",
+     "quote": "Trainers will automatically receive GO Pass: December on Tuesday, December 1, at 10:00 a.m. local time. You can collect GO Points and rank up to get additional rewards through Tuesday, January 5, 2027, at 10:00 a.m. local time.",
+     "url": "https://leekduck.com/events/go-pass-december-2026/"
     }
    ],
-   "value": "Grookey, Scorbunny, and Sobble will be featured during Pokémon Spotlight Hour on November 19, 2026, from 6 pm to 7 pm local time. The bonus will be 2× Catch Candy.",
+   "value": "Trainers will automatically receive GO Pass: December on Tuesday, December 1, at 10:00 a.m. local time. You can collect GO Points and rank up to get additional rewards through Tuesday, January 5, 2027, at 10:00 a.m. local time.",
    "section": "events",
-   "firstSeen": "2026-11-14"
+   "firstSeen": "2026-11-25"
+  },
+  {
+   "id": "events:253206fc.rule.765f70:1fc7279740ba",
+   "kind": "auto-read",
+   "held": false,
+   "origin": {
+    "id": "page:go-pass-december-2026",
+    "title": "GO Pass: December",
+    "note": "The event's own page, read by two models"
+   },
+   "field": "Special rule · Featured Pokémon and Rewards",
+   "order": 6,
+   "answerFormat": "text",
+   "answerHint": "The sentence that states the rule",
+   "readings": [
+    {
+     "who": "Both models",
+     "value": "Complete Pass Tasks to rank up your GO Pass to earn the following rewards.",
+     "quote": "Complete Pass Tasks to rank up your GO Pass to earn the following rewards.",
+     "url": "https://leekduck.com/events/go-pass-december-2026/"
+    }
+   ],
+   "value": "Complete Pass Tasks to rank up your GO Pass to earn the following rewards.",
+   "section": "events",
+   "firstSeen": "2026-11-25"
+  },
+  {
+   "id": "events:253206fc.rule.87f225:e3e35638e6ec",
+   "kind": "auto-read",
+   "held": false,
+   "origin": {
+    "id": "page:go-pass-december-2026",
+    "title": "GO Pass: December",
+    "note": "The event's own page, read by two models"
+   },
+   "field": "Special rule · Tier 4 – Rank 75",
+   "order": 11,
+   "answerFormat": "text",
+   "answerHint": "The sentence that states the rule",
+   "readings": [
+    {
+     "who": "Both models",
+     "value": "Increased XP and Stardust from hatching Eggs",
+     "quote": "Increased XP and Stardust from hatching Eggs",
+     "url": "https://leekduck.com/events/go-pass-december-2026/"
+    }
+   ],
+   "value": "Increased XP and Stardust from hatching Eggs",
+   "section": "events",
+   "firstSeen": "2026-11-25"
+  },
+  {
+   "id": "events:253206fc.rule.af4d60:71b2c191c92c",
+   "kind": "auto-read",
+   "held": false,
+   "origin": {
+    "id": "page:go-pass-december-2026",
+    "title": "GO Pass: December",
+    "note": "The event's own page, read by two models"
+   },
+   "field": "Special rule · Tier 3 – Rank 50",
+   "order": 10,
+   "answerFormat": "text",
+   "answerHint": "The sentence that states the rule",
+   "readings": [
+    {
+     "who": "Both models",
+     "value": "2× Daily Adventure Incense duration",
+     "quote": "2× Daily Adventure Incense duration",
+     "url": "https://leekduck.com/events/go-pass-december-2026/"
+    }
+   ],
+   "value": "2× Daily Adventure Incense duration",
+   "section": "events",
+   "firstSeen": "2026-11-25"
+  },
+  {
+   "id": "events:253206fc.rule.bcb26f:c08a375ca7fd",
+   "kind": "auto-read",
+   "held": false,
+   "origin": {
+    "id": "page:go-pass-december-2026",
+    "title": "GO Pass: December",
+    "note": "The event's own page, read by two models"
+   },
+   "field": "Special rule · Tier 2 – Rank 25",
+   "order": 12,
+   "answerFormat": "text",
+   "answerHint": "The sentence that states the rule",
+   "readings": [
+    {
+     "who": "Both models",
+     "value": "Open up to 50 Gifts per day",
+     "quote": "Open up to 50 Gifts per day",
+     "url": "https://leekduck.com/events/go-pass-december-2026/"
+    }
+   ],
+   "value": "Open up to 50 Gifts per day",
+   "section": "events",
+   "firstSeen": "2026-11-25"
+  },
+  {
+   "id": "events:253206fc.rule.c6621d:901afde92bd9",
+   "kind": "auto-read",
+   "held": false,
+   "origin": {
+    "id": "page:go-pass-december-2026",
+    "title": "GO Pass: December",
+    "note": "The event's own page, read by two models"
+   },
+   "field": "Special rule · The Timed Incubator",
+   "order": 13,
+   "answerFormat": "text",
+   "answerHint": "The sentence that states the rule",
+   "readings": [
+    {
+     "who": "Both models",
+     "value": "The Timed Incubator will be available on Rank 20 of GO Pass Deluxe: December!",
+     "quote": "The Timed Incubator will be available on Rank 20 of GO Pass Deluxe: December!",
+     "url": "https://leekduck.com/events/go-pass-december-2026/"
+    }
+   ],
+   "value": "The Timed Incubator will be available on Rank 20 of GO Pass Deluxe: December!",
+   "section": "events",
+   "firstSeen": "2026-11-25"
+  },
+  {
+   "id": "events:253206fc.rule.f88a26:05ad111a20be",
+   "kind": "auto-read",
+   "held": false,
+   "origin": {
+    "id": "page:go-pass-december-2026",
+    "title": "GO Pass: December",
+    "note": "The event's own page, read by two models"
+   },
+   "field": "Special rule · Major Milestone Bonuses",
+   "order": 7,
+   "answerFormat": "text",
+   "answerHint": "The sentence that states the rule",
+   "readings": [
+    {
+     "who": "Both models",
+     "value": "Reach Major Milestones on your GO Pass to unlock the following bonuses.",
+     "quote": "Reach Major Milestones on your GO Pass to unlock the following bonuses.",
+     "url": "https://leekduck.com/events/go-pass-december-2026/"
+    }
+   ],
+   "value": "Reach Major Milestones on your GO Pass to unlock the following bonuses.",
+   "section": "events",
+   "firstSeen": "2026-11-25"
   },
   {
    "id": "events:32171a14.rule.15282c:64140cee7d8b",
@@ -807,6 +1032,206 @@
    "firstSeen": "2026-11-21"
   },
   {
+   "id": "events:5542dbc1.rule.c1a139:16b0d4b30476",
+   "kind": "auto-read",
+   "held": false,
+   "origin": {
+    "id": "page:choose-your-path-daydream-destinations-2027-02-16",
+    "title": "Choose Your Path: Daydream Destinations (February 16, 2027)",
+    "note": "The event's own page, read by two models"
+   },
+   "field": "Special rule · Choose a Path",
+   "order": 5,
+   "answerFormat": "text",
+   "answerHint": "The sentence that states the rule",
+   "readings": [
+    {
+     "who": "Both models",
+     "value": "Your choice will determine your Timed Research tasks and bonuses throughout the week. Specific bonuses have not yet been announced.",
+     "quote": "Your choice will determine your Timed Research tasks and bonuses throughout the week. Specific bonuses have not yet been announced.",
+     "url": "https://leekduck.com/events/choose-your-path-daydream-destinations-2027-02-16/"
+    }
+   ],
+   "value": "Your choice will determine your Timed Research tasks and bonuses throughout the week. Specific bonuses have not yet been announced.",
+   "section": "events",
+   "firstSeen": "2026-11-25"
+  },
+  {
+   "id": "events:582af762.debut.dynamax:0888f00cf913",
+   "kind": "auto-read",
+   "held": false,
+   "origin": {
+    "id": "page:season-25-daydream-destinations",
+    "title": "Daydream Destinations",
+    "note": "The event's own page, read by two models"
+   },
+   "field": "Dynamax debuts",
+   "order": 3,
+   "answerFormat": "names",
+   "answerHint": "Names, separated by ;",
+   "readings": [
+    {
+     "who": "Both models",
+     "value": "Alolan Sandshrew; Slowpoke; Corphish",
+     "quote": "Dynamax Alolan Sandshrew, Dynamax Slowpoke, Dynamax Corphish, and more will make their way into Max Battles throughout the Season. Keep an eye out for new Dynamax Pokémon at Power Spots!",
+     "url": "https://leekduck.com/events/season-25-daydream-destinations/"
+    }
+   ],
+   "value": "Alolan Sandshrew; Slowpoke; Corphish",
+   "section": "events",
+   "firstSeen": "2026-11-25"
+  },
+  {
+   "id": "events:582af762.rule.2d9226:5a28422c5923",
+   "kind": "auto-read",
+   "held": false,
+   "origin": {
+    "id": "page:season-25-daydream-destinations",
+    "title": "Daydream Destinations",
+    "note": "The event's own page, read by two models"
+   },
+   "field": "Special rule · Community Days",
+   "order": 7,
+   "answerFormat": "text",
+   "answerHint": "The sentence that states the rule",
+   "readings": [
+    {
+     "who": "Both models",
+     "value": "Mark your calendar! Daydream Destinations will have Community Day events on the following dates.",
+     "quote": "Mark your calendar! Daydream Destinations will have Community Day events on the following dates.",
+     "url": "https://leekduck.com/events/season-25-daydream-destinations/"
+    }
+   ],
+   "value": "Mark your calendar! Daydream Destinations will have Community Day events on the following dates.",
+   "section": "events",
+   "firstSeen": "2026-11-25"
+  },
+  {
+   "id": "events:582af762.rule.3ce33b:1d5cd5ec30db",
+   "kind": "auto-read",
+   "held": false,
+   "origin": {
+    "id": "page:season-25-daydream-destinations",
+    "title": "Daydream Destinations",
+    "note": "The event's own page, read by two models"
+   },
+   "field": "Special rule · Pokémon GO Tour: Alola",
+   "order": 5,
+   "answerFormat": "text",
+   "answerHint": "The sentence that states the rule",
+   "readings": [
+    {
+     "who": "Both models",
+     "value": "Pokémon GO Tour returns in February 2027 with a trip to the Alola region!",
+     "quote": "Pokémon GO Tour returns in February 2027 with a trip to the Alola region!",
+     "url": "https://leekduck.com/events/season-25-daydream-destinations/"
+    }
+   ],
+   "value": "Pokémon GO Tour returns in February 2027 with a trip to the Alola region!",
+   "section": "events",
+   "firstSeen": "2026-11-25"
+  },
+  {
+   "id": "events:582af762.rule.4b1eb9:f82d4b8c5026",
+   "kind": "auto-read",
+   "held": false,
+   "origin": {
+    "id": "page:season-25-daydream-destinations",
+    "title": "Daydream Destinations",
+    "note": "The event's own page, read by two models"
+   },
+   "field": "Special rule · Research Breakthrough",
+   "order": 10,
+   "answerFormat": "text",
+   "answerHint": "The sentence that states the rule",
+   "readings": [
+    {
+     "who": "Both models",
+     "value": "Complete Field Research to unlock Research Breakthrough encounters with one of a variety of Season-themed Pokémon. Discover where your path leads you each week!",
+     "quote": "Complete Field Research to unlock Research Breakthrough encounters with one of a variety of Season-themed Pokémon. Discover where your path leads you each week!",
+     "url": "https://leekduck.com/events/season-25-daydream-destinations/"
+    }
+   ],
+   "value": "Complete Field Research to unlock Research Breakthrough encounters with one of a variety of Season-themed Pokémon. Discover where your path leads you each week!",
+   "section": "events",
+   "firstSeen": "2026-11-25"
+  },
+  {
+   "id": "events:582af762.rule.8a630c:6695a91878ce",
+   "kind": "auto-read",
+   "held": false,
+   "origin": {
+    "id": "page:season-25-daydream-destinations",
+    "title": "Daydream Destinations",
+    "note": "The event's own page, read by two models"
+   },
+   "field": "Special rule · GO Battle League",
+   "order": 9,
+   "answerFormat": "text",
+   "answerHint": "The sentence that states the rule",
+   "readings": [
+    {
+     "who": "Both models",
+     "value": "The GO Battle League continues during Daydream Destinations, featuring the 2027 Europe International Championships Cup, the Holiday Cup, the Love Cup, and more!",
+     "quote": "The GO Battle League continues during Daydream Destinations, featuring the 2027 Europe International Championships Cup, the Holiday Cup, the Love Cup, and more!",
+     "url": "https://leekduck.com/events/season-25-daydream-destinations/"
+    }
+   ],
+   "value": "The GO Battle League continues during Daydream Destinations, featuring the 2027 Europe International Championships Cup, the Holiday Cup, the Love Cup, and more!",
+   "section": "events",
+   "firstSeen": "2026-11-25"
+  },
+  {
+   "id": "events:582af762.rule.b14611:4923976210ef",
+   "kind": "auto-read",
+   "held": false,
+   "origin": {
+    "id": "page:season-25-daydream-destinations",
+    "title": "Daydream Destinations",
+    "note": "The event's own page, read by two models"
+   },
+   "field": "Special rule · Mega-Evolved Pokémon",
+   "order": 6,
+   "answerFormat": "text",
+   "answerHint": "The sentence that states the rule",
+   "readings": [
+    {
+     "who": "Both models",
+     "value": "Mega Froslass and Mega Drampa will be featured in Raid Day events during Daydream Destinations. Stay tuned for more details!",
+     "quote": "Mega Froslass and Mega Drampa will be featured in Raid Day events during Daydream Destinations. Stay tuned for more details!",
+     "url": "https://leekduck.com/events/season-25-daydream-destinations/"
+    }
+   ],
+   "value": "Mega Froslass and Mega Drampa will be featured in Raid Day events during Daydream Destinations. Stay tuned for more details!",
+   "section": "events",
+   "firstSeen": "2026-11-25"
+  },
+  {
+   "id": "events:582af762.rule.f3346c:7d26fb49449a",
+   "kind": "auto-read",
+   "held": false,
+   "origin": {
+    "id": "page:season-25-daydream-destinations",
+    "title": "Daydream Destinations",
+    "note": "The event's own page, read by two models"
+   },
+   "field": "Special rule · GO Pass",
+   "order": 8,
+   "answerFormat": "text",
+   "answerHint": "The sentence that states the rule",
+   "readings": [
+    {
+     "who": "Both models",
+     "value": "GO Pass, a limited-time progression track, will be available during Daydream Destinations! Complete Pass Tasks to earn GO Points to increase your rank and earn rewards.",
+     "quote": "GO Pass, a limited-time progression track, will be available during Daydream Destinations! Complete Pass Tasks to earn GO Points to increase your rank and earn rewards.",
+     "url": "https://leekduck.com/events/season-25-daydream-destinations/"
+    }
+   ],
+   "value": "GO Pass, a limited-time progression track, will be available during Daydream Destinations! Complete Pass Tasks to earn GO Points to increase your rank and earn rewards.",
+   "section": "events",
+   "firstSeen": "2026-11-25"
+  },
+  {
    "id": "events:6447d796.rule.15282c:64140cee7d8b",
    "kind": "auto-read",
    "held": false,
@@ -1182,6 +1607,106 @@
    "firstSeen": "2026-11-17"
   },
   {
+   "id": "events:84d37304.debut.pokemon:c260b7f9bc18",
+   "kind": "auto-read",
+   "held": false,
+   "origin": {
+    "id": "page:tropical-paradise-2026",
+    "title": "Tropical Paradise",
+    "note": "The event's own page, read by two models"
+   },
+   "field": "Pokémon debuts",
+   "order": 1,
+   "answerFormat": "names",
+   "answerHint": "Names, separated by ;",
+   "readings": [
+    {
+     "who": "Both models",
+     "value": "Pyukumuku",
+     "quote": "Pyukumuku, originally discovered in the Alola region, makes its Pokémon GO debut. It will be available in three-star raids and from the event GO Pass, and it can be Shiny if you’re lucky!",
+     "url": "https://leekduck.com/events/tropical-paradise-2026/"
+    }
+   ],
+   "value": "Pyukumuku",
+   "section": "events",
+   "firstSeen": "2026-11-25"
+  },
+  {
+   "id": "events:84d37304.rule.194b25:f0e615a5ede9",
+   "kind": "auto-read",
+   "held": false,
+   "origin": {
+    "id": "page:tropical-paradise-2026",
+    "title": "Tropical Paradise",
+    "note": "The event's own page, read by two models"
+   },
+   "field": "Special rule · Mega Slowbro: Super Max Level",
+   "order": 6,
+   "answerFormat": "text",
+   "answerHint": "The sentence that states the rule",
+   "readings": [
+    {
+     "who": "Both models",
+     "value": "Starting with this event, Mega Slowbro can reach Super Max Level for the first time in Pokémon GO.",
+     "quote": "Starting with this event, Mega Slowbro can reach Super Max Level for the first time in Pokémon GO.",
+     "url": "https://leekduck.com/events/tropical-paradise-2026/"
+    }
+   ],
+   "value": "Starting with this event, Mega Slowbro can reach Super Max Level for the first time in Pokémon GO.",
+   "section": "events",
+   "firstSeen": "2026-11-25"
+  },
+  {
+   "id": "events:84d37304.rule.1fd8fa:051ab65a0df5",
+   "kind": "auto-read",
+   "held": false,
+   "origin": {
+    "id": "page:tropical-paradise-2026",
+    "title": "Tropical Paradise",
+    "note": "The event's own page, read by two models"
+   },
+   "field": "Special rule · Attack Availability Update",
+   "order": 5,
+   "answerFormat": "text",
+   "answerHint": "The sentence that states the rule",
+   "readings": [
+    {
+     "who": "Both models",
+     "value": "Starting with this event, Pyukumuku can learn the Fast Attack Soak.",
+     "quote": "Starting with this event, Pyukumuku can learn the Fast Attack Soak.",
+     "url": "https://leekduck.com/events/tropical-paradise-2026/"
+    }
+   ],
+   "value": "Starting with this event, Pyukumuku can learn the Fast Attack Soak.",
+   "section": "events",
+   "firstSeen": "2026-11-25"
+  },
+  {
+   "id": "events:84d37304.rule.31ca18:7e402de2bbb8",
+   "kind": "auto-read",
+   "held": false,
+   "origin": {
+    "id": "page:tropical-paradise-2026",
+    "title": "Tropical Paradise",
+    "note": "The event's own page, read by two models"
+   },
+   "field": "Special rule · Chilling Water+",
+   "order": 7,
+   "answerFormat": "text",
+   "answerHint": "The sentence that states the rule",
+   "readings": [
+    {
+     "who": "Both models",
+     "value": "Slowbro can now use the additional Charged Attack Chilling Water+ while Mega Evolved. Its power increases with the Pokémon’s Mega Level.",
+     "quote": "Slowbro can now use the additional Charged Attack Chilling Water+ while Mega Evolved. Its power increases with the Pokémon’s Mega Level.",
+     "url": "https://leekduck.com/events/tropical-paradise-2026/"
+    }
+   ],
+   "value": "Slowbro can now use the additional Charged Attack Chilling Water+ while Mega Evolved. Its power increases with the Pokémon’s Mega Level.",
+   "section": "events",
+   "firstSeen": "2026-11-25"
+  },
+  {
    "id": "events:979624b9.microsite:4f53cda18c2b",
    "kind": "missing-microsite",
    "held": true,
@@ -1523,6 +2048,31 @@
    "firstSeen": "2026-11-14"
   },
   {
+   "id": "events:e3400440.rule.c1a139:16b0d4b30476",
+   "kind": "auto-read",
+   "held": false,
+   "origin": {
+    "id": "page:choose-your-path-daydream-destinations-2027-01-12",
+    "title": "Choose Your Path: Daydream Destinations (January 12, 2027)",
+    "note": "The event's own page, read by two models"
+   },
+   "field": "Special rule · Choose a Path",
+   "order": 5,
+   "answerFormat": "text",
+   "answerHint": "The sentence that states the rule",
+   "readings": [
+    {
+     "who": "Both models",
+     "value": "Your choice will determine your Timed Research tasks and bonuses throughout the week. Specific bonuses have not yet been announced.",
+     "quote": "Your choice will determine your Timed Research tasks and bonuses throughout the week. Specific bonuses have not yet been announced.",
+     "url": "https://leekduck.com/events/choose-your-path-daydream-destinations-2027-01-12/"
+    }
+   ],
+   "value": "Your choice will determine your Timed Research tasks and bonuses throughout the week. Specific bonuses have not yet been announced.",
+   "section": "events",
+   "firstSeen": "2026-11-25"
+  },
+  {
    "id": "events:ef532740.microsite:4f53cda18c2b",
    "kind": "missing-microsite",
    "held": true,
@@ -1537,46 +2087,6 @@
    "answerHint": "https://pokemongo.com/en/…",
    "section": "events",
    "firstSeen": "2026-11-13"
-  },
-  {
-   "id": "raids:fallback.0fe71485:075a69f7cf97",
-   "kind": "fallback-read",
-   "held": false,
-   "origin": {
-    "id": "raids:fallback:twilight-wishes-2026-cresselia-darkrai",
-    "title": "Twilight Wishes (Cresselia and Darkrai)",
-    "note": "Read by two models: the parser could not read the page"
-   },
-   "field": "Bosses read by the models",
-   "readings": [
-    {
-     "who": "Claude and GPT",
-     "value": "10 bosses read alike by both models",
-     "url": "https://leekduck.com/raids/twilight-wishes-2026-cresselia-darkrai"
-    }
-   ],
-   "section": "raids",
-   "firstSeen": "2026-11-23"
-  },
-  {
-   "id": "raids:fallback.139b84f3:e7f0ba2e318e",
-   "kind": "fallback-read",
-   "held": false,
-   "origin": {
-    "id": "raids:fallback:cresselia-darkrai-mega-banette-november-2026",
-    "title": "Cresselia, Darkrai, and Mega Banette in Raids",
-    "note": "Read by two models: the parser could not read the page"
-   },
-   "field": "Bosses read by the models",
-   "readings": [
-    {
-     "who": "Claude and GPT",
-     "value": "10 bosses read alike by both models",
-     "url": "https://leekduck.com/raids/cresselia-darkrai-mega-banette-november-2026"
-    }
-   ],
-   "section": "raids",
-   "firstSeen": "2026-11-16"
   },
   {
    "id": "raids:fallback.d4771033:9e9677eccce5",
@@ -1599,7 +2109,7 @@
    "firstSeen": "2026-11-23"
   },
   {
-   "id": "raids:tier-3:e45594283505",
+   "id": "raids:tier-3:1d974eb8625c",
    "kind": "source-disagreement",
    "held": false,
    "origin": {
@@ -1611,22 +2121,22 @@
    "readings": [
     {
      "who": "LeekDuck",
-     "value": "Alolan Marowak, Liepard, Golurk, Espeon wearing a sun scarf, Umbreon wearing a moon scarf",
+     "value": "Espeon wearing a sun scarf, Umbreon wearing a moon scarf",
      "url": "https://leekduck.com/raids/"
     },
     {
      "who": "Pokebattler",
-     "value": "Day Scarf Espeon, Golurk, Liepard, Alolan Marowak, Night Scarf Umbreon",
+     "value": "Day Scarf Espeon, Night Scarf Umbreon",
      "url": "https://www.pokebattler.com/raids"
     }
    ],
    "showing": 0,
    "answerHint": "Boss names, separated by commas",
    "section": "raids",
-   "firstSeen": "2026-11-23"
+   "firstSeen": "2026-11-25"
   },
   {
-   "id": "raids:tier-5:31b9660faf3b",
+   "id": "raids:tier-5:361d69c95ba4",
    "kind": "source-disagreement",
    "held": false,
    "origin": {
@@ -1638,19 +2148,19 @@
    "readings": [
     {
      "who": "LeekDuck",
-     "value": "Cresselia, Darkrai, Deoxys Normal, Deoxys Defense, Deoxys Attack, Deoxys Speed",
+     "value": "Deoxys Normal, Deoxys Defense, Deoxys Attack, Deoxys Speed",
      "url": "https://leekduck.com/raids/"
     },
     {
      "who": "Pokebattler",
-     "value": "Cresselia, Darkrai, Deoxys Attack, Deoxys Defense, Deoxys Normal, Deoxys Speed, Kyurem Black, Kyurem White",
+     "value": "Deoxys Attack, Deoxys Defense, Deoxys Normal, Deoxys Speed, Kyurem Black, Kyurem White",
      "url": "https://www.pokebattler.com/raids"
     }
    ],
    "showing": 0,
    "answerHint": "Boss names, separated by commas",
    "section": "raids",
-   "firstSeen": "2026-11-24"
+   "firstSeen": "2026-11-25"
   }
  ],
  "applied": [

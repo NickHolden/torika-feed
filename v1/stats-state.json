@@ -1,7 +1,7 @@
 {
  "version": 1,
- "batchId": "1795106468140",
- "uploadTime": "1795109736018",
+ "batchId": "1795567688798",
+ "uploadTime": "1795630407101",
  "gameMaster": {
   "cpMultipliers": [
    0.094,
@@ -38677,7 +38677,9 @@
      "FOUL_PLAY"
     ],
     "eliteFast": [],
-    "eliteCharged": [],
+    "eliteCharged": [
+     "KOWTOW_CLEAVE"
+    ],
     "evolutions": []
    },
    "GREATTUSK": {
