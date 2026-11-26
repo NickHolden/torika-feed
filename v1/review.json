@@ -1,6 +1,6 @@
 {
  "schema": 1,
- "built": "2026-11-25T19:39:19Z",
+ "built": "2026-11-26T19:20:08Z",
  "items": [
   {
    "id": "catalog:label:background.lc-pokelid-gunma:dbe6f116e0eb",
@@ -46,6 +46,81 @@
    "value": "Your choice will determine your Timed Research tasks and bonuses throughout the week. Specific bonuses have not yet been announced.",
    "section": "events",
    "firstSeen": "2026-11-25"
+  },
+  {
+   "id": "events:0382811f.rule.033a61:de148fed5e9f",
+   "kind": "auto-read",
+   "held": false,
+   "origin": {
+    "id": "page:pokemon-champions-celebration-event-2026",
+    "title": "Pokémon Champions Celebration Event 2026",
+    "note": "The event's own page, read by two models"
+   },
+   "field": "Special rule · Pokémon HOME and Pokémon Champions",
+   "order": 5,
+   "answerFormat": "text",
+   "answerHint": "The sentence that states the rule",
+   "readings": [
+    {
+     "who": "Both models",
+     "value": "During the collaboration event period, you can transfer a Pokémon caught in Pokémon GO to Pokémon HOME, then send that Pokémon to visit Pokémon Champions to receive a gift in your Pokémon Champions mailbox. See the Pokémon HOME news post for details.",
+     "quote": "During the collaboration event period, you can transfer a Pokémon caught in Pokémon GO to Pokémon HOME, then send that Pokémon to visit Pokémon Champions to receive a gift in your Pokémon Champions mailbox. See the Pokémon HOME news post for details.",
+     "url": "https://leekduck.com/events/pokemon-champions-celebration-event-2026/"
+    }
+   ],
+   "value": "During the collaboration event period, you can transfer a Pokémon caught in Pokémon GO to Pokémon HOME, then send that Pokémon to visit Pokémon Champions to receive a gift in your Pokémon Champions mailbox. See the Pokémon HOME news post for details.",
+   "section": "events",
+   "firstSeen": "2026-11-26"
+  },
+  {
+   "id": "events:0382811f.rule.5971f2:4677a6858614",
+   "kind": "auto-read",
+   "held": false,
+   "origin": {
+    "id": "page:pokemon-champions-celebration-event-2026",
+    "title": "Pokémon Champions Celebration Event 2026",
+    "note": "The event's own page, read by two models"
+   },
+   "field": "Special rule · Stickers",
+   "order": 7,
+   "answerFormat": "text",
+   "answerHint": "The sentence that states the rule",
+   "readings": [
+    {
+     "who": "Both models",
+     "value": "You’ll be able to get event-themed stickers by spinning PokéStops and opening Gifts.",
+     "quote": "You’ll be able to get event-themed stickers by spinning PokéStops and opening Gifts.",
+     "url": "https://leekduck.com/events/pokemon-champions-celebration-event-2026/"
+    }
+   ],
+   "value": "You’ll be able to get event-themed stickers by spinning PokéStops and opening Gifts.",
+   "section": "events",
+   "firstSeen": "2026-11-26"
+  },
+  {
+   "id": "events:0382811f.rule.a8db38:331d9570fa54",
+   "kind": "auto-read",
+   "held": false,
+   "origin": {
+    "id": "page:pokemon-champions-celebration-event-2026",
+    "title": "Pokémon Champions Celebration Event 2026",
+    "note": "The event's own page, read by two models"
+   },
+   "field": "Special rule · Special Backgrounds",
+   "order": 6,
+   "answerFormat": "text",
+   "answerHint": "The sentence that states the rule",
+   "readings": [
+    {
+     "who": "Both models",
+     "value": "Pokémon encountered from raids during the event may have a Special Background. Five-star raid bosses with the Special Background are only available for the duration of the Pokémon Champions Celebration Event.",
+     "quote": "Pokémon encountered from raids during the event may have a Special Background. Five-star raid bosses with the Special Background are only available for the duration of the Pokémon Champions Celebration Event.",
+     "url": "https://leekduck.com/events/pokemon-champions-celebration-event-2026/"
+    }
+   ],
+   "value": "Pokémon encountered from raids during the event may have a Special Background. Five-star raid bosses with the Special Background are only available for the duration of the Pokémon Champions Celebration Event.",
+   "section": "events",
+   "firstSeen": "2026-11-26"
   },
   {
    "id": "events:08a9fee0.rule.15282c:64140cee7d8b",
@@ -1898,9 +1973,9 @@
    "firstSeen": "2026-11-14"
   },
   {
-   "id": "events:b915f7e1.rule.a860be:81c9740af259",
-   "kind": "auto-read",
-   "held": false,
+   "id": "events:b915f7e1.rule.a860be:cd734c48f518",
+   "kind": "model-disagreement",
+   "held": true,
    "origin": {
     "id": "page:twilight-wishes-2026",
     "title": "Twilight Wishes",
@@ -1912,15 +1987,19 @@
    "answerHint": "The sentence that states the rule",
    "readings": [
     {
-     "who": "Both models",
+     "who": "Claude",
+     "value": "Not read",
+     "url": "https://leekduck.com/events/twilight-wishes-2026/"
+    },
+    {
+     "who": "GPT",
      "value": "Espeon wearing a sun scarf, Umbreon wearing a moon scarf, and Rockruff are featured during Twilight Wishes. All three can be Shiny if you’re lucky!",
      "quote": "Espeon wearing a sun scarf, Umbreon wearing a moon scarf, and Rockruff are featured during Twilight Wishes. All three can be Shiny if you’re lucky!",
      "url": "https://leekduck.com/events/twilight-wishes-2026/"
     }
    ],
-   "value": "Espeon wearing a sun scarf, Umbreon wearing a moon scarf, and Rockruff are featured during Twilight Wishes. All three can be Shiny if you’re lucky!",
    "section": "events",
-   "firstSeen": "2026-11-23"
+   "firstSeen": "2026-11-26"
   },
   {
    "id": "events:b915f7e1.rule.e87801:fca464bdcabe",
@@ -1946,6 +2025,56 @@
    "value": "Stars will light up the in-game skies during Twilight Wishes, with colorful decor to enjoy as you explore.",
    "section": "events",
    "firstSeen": "2026-11-14"
+  },
+  {
+   "id": "events:c9c03342.rule.4a308c:bd458555f7f9",
+   "kind": "auto-read",
+   "held": false,
+   "origin": {
+    "id": "page:gigantamax-inteleon-max-battle-day-2026",
+    "title": "Gigantamax Inteleon Max Battle Day",
+    "note": "The event's own page, read by two models"
+   },
+   "field": "Special rule · Where can I find Max Battles?",
+   "order": 6,
+   "answerFormat": "text",
+   "answerHint": "The sentence that states the rule",
+   "readings": [
+    {
+     "who": "Both models",
+     "value": "Max Battles appear at Power Spots and require teamwork. Use the Pokémon GO Map to find active battles and locations where battles may appear during the event.",
+     "quote": "Max Battles appear at Power Spots and require teamwork. Use the Pokémon GO Map to find active battles and locations where battles may appear during the event.",
+     "url": "https://leekduck.com/events/gigantamax-inteleon-max-battle-day-2026/"
+    }
+   ],
+   "value": "Max Battles appear at Power Spots and require teamwork. Use the Pokémon GO Map to find active battles and locations where battles may appear during the event.",
+   "section": "events",
+   "firstSeen": "2026-11-26"
+  },
+  {
+   "id": "events:c9c03342.rule.a860be:28bbdfed9bd7",
+   "kind": "auto-read",
+   "held": false,
+   "origin": {
+    "id": "page:gigantamax-inteleon-max-battle-day-2026",
+    "title": "Gigantamax Inteleon Max Battle Day",
+    "note": "The event's own page, read by two models"
+   },
+   "field": "Special rule · Featured Pokémon",
+   "order": 5,
+   "answerFormat": "text",
+   "answerHint": "The sentence that states the rule",
+   "readings": [
+    {
+     "who": "Both models",
+     "value": "The following Pokémon will appear in six-star Max Battles!",
+     "quote": "The following Pokémon will appear in six-star Max Battles!",
+     "url": "https://leekduck.com/events/gigantamax-inteleon-max-battle-day-2026/"
+    }
+   ],
+   "value": "The following Pokémon will appear in six-star Max Battles!",
+   "section": "events",
+   "firstSeen": "2026-11-26"
   },
   {
    "id": "events:ce5cf1a3.rule.15282c:64140cee7d8b",
@@ -2089,6 +2218,146 @@
    "firstSeen": "2026-11-13"
   },
   {
+   "id": "raids:fallback.0c90108f:4df928b805a6",
+   "kind": "fallback-read",
+   "held": false,
+   "origin": {
+    "id": "raids:fallback:ho-oh-mega-skarmory-december-2026",
+    "title": "Ho-Oh and Mega Skarmory in Raids",
+    "note": "Read by two models: the parser could not read the page"
+   },
+   "field": "Bosses read by the models",
+   "readings": [
+    {
+     "who": "Claude and GPT",
+     "value": "2 bosses read alike by both models",
+     "url": "https://leekduck.com/raids/ho-oh-mega-skarmory-december-2026"
+    }
+   ],
+   "section": "raids",
+   "firstSeen": "2026-11-26"
+  },
+  {
+   "id": "raids:fallback.49f35e6e:4fc8e292eb48",
+   "kind": "fallback-read",
+   "held": false,
+   "origin": {
+    "id": "raids:fallback:tropical-paradise-2026-regidrago",
+    "title": "Tropical Paradise 2026 (Regidrago)",
+    "note": "Read by two models: the parser could not read the page"
+   },
+   "field": "Bosses read by the models",
+   "readings": [
+    {
+     "who": "Claude and GPT",
+     "value": "7 bosses read alike by both models",
+     "url": "https://leekduck.com/raids/tropical-paradise-2026-regidrago"
+    }
+   ],
+   "section": "raids",
+   "firstSeen": "2026-11-26"
+  },
+  {
+   "id": "raids:fallback.80c8f3bb:99b85eb369ef",
+   "kind": "fallback-read",
+   "held": false,
+   "origin": {
+    "id": "raids:fallback:legendary-rotation-mega-gengar-december-2026",
+    "title": "Legendary Rotation and Mega Gengar in Raids",
+    "note": "Read by two models: the parser could not read the page"
+   },
+   "field": "Bosses read by the models",
+   "readings": [
+    {
+     "who": "Claude and GPT",
+     "value": "9 bosses read alike by both models",
+     "url": "https://leekduck.com/raids/legendary-rotation-mega-gengar-december-2026"
+    }
+   ],
+   "section": "raids",
+   "firstSeen": "2026-11-26"
+  },
+  {
+   "id": "raids:fallback.8fbe7f8a:f30070ef1a8a",
+   "kind": "fallback-read",
+   "held": false,
+   "origin": {
+    "id": "raids:fallback:pokemon-champions-celebration-event-2026-legendaries",
+    "title": "Pokémon Champions Celebration Event 2026 (Legendary Rotation)",
+    "note": "Read by two models: the parser could not read the page"
+   },
+   "field": "Bosses read by the models",
+   "readings": [
+    {
+     "who": "Claude and GPT",
+     "value": "15 bosses read alike by both models",
+     "url": "https://leekduck.com/raids/pokemon-champions-celebration-event-2026-legendaries"
+    }
+   ],
+   "section": "raids",
+   "firstSeen": "2026-11-26"
+  },
+  {
+   "id": "raids:fallback.9de196ba:07d4dd0321b9",
+   "kind": "fallback-read",
+   "held": false,
+   "origin": {
+    "id": "raids:fallback:clefable-super-mega-raid-day-2026",
+    "title": "Clefable Super Mega Raid Day",
+    "note": "Read by two models: the parser could not read the page"
+   },
+   "field": "Bosses read by the models",
+   "readings": [
+    {
+     "who": "Claude and GPT",
+     "value": "1 boss read alike by both models",
+     "url": "https://leekduck.com/raids/clefable-super-mega-raid-day-2026"
+    }
+   ],
+   "section": "raids",
+   "firstSeen": "2026-11-26"
+  },
+  {
+   "id": "raids:fallback.b396caa3:6212f566e47d",
+   "kind": "fallback-read",
+   "held": false,
+   "origin": {
+    "id": "raids:fallback:lugia-mega-glalie-december-2026",
+    "title": "Lugia and Mega Glalie in Raids",
+    "note": "Read by two models: the parser could not read the page"
+   },
+   "field": "Bosses read by the models",
+   "readings": [
+    {
+     "who": "Claude and GPT",
+     "value": "2 bosses read alike by both models",
+     "url": "https://leekduck.com/raids/lugia-mega-glalie-december-2026"
+    }
+   ],
+   "section": "raids",
+   "firstSeen": "2026-11-26"
+  },
+  {
+   "id": "raids:fallback.bfd1fdda:12d8157c5bef",
+   "kind": "fallback-read",
+   "held": false,
+   "origin": {
+    "id": "raids:fallback:therian-formes-mega-falinks-december-2026",
+    "title": "Tornadus, Thundurus, and Landorus (Therian Formes) and Mega Falinks in Raids",
+    "note": "Read by two models: the parser could not read the page"
+   },
+   "field": "Bosses read by the models",
+   "readings": [
+    {
+     "who": "Claude and GPT",
+     "value": "4 bosses read alike by both models",
+     "url": "https://leekduck.com/raids/therian-formes-mega-falinks-december-2026"
+    }
+   ],
+   "section": "raids",
+   "firstSeen": "2026-11-26"
+  },
+  {
    "id": "raids:fallback.d4771033:9e9677eccce5",
    "kind": "fallback-read",
    "held": false,
@@ -2107,6 +2376,26 @@
    ],
    "section": "raids",
    "firstSeen": "2026-11-23"
+  },
+  {
+   "id": "raids:fallback.da090b13:c47d11b139df",
+   "kind": "fallback-read",
+   "held": false,
+   "origin": {
+    "id": "raids:fallback:pokemon-champions-celebration-event-2026-regidrago",
+    "title": "Pokémon Champions Celebration Event 2026 (Regidrago)",
+    "note": "Read by two models: the parser could not read the page"
+   },
+   "field": "Bosses read by the models",
+   "readings": [
+    {
+     "who": "Claude and GPT",
+     "value": "8 bosses read alike by both models",
+     "url": "https://leekduck.com/raids/pokemon-champions-celebration-event-2026-regidrago"
+    }
+   ],
+   "section": "raids",
+   "firstSeen": "2026-11-26"
   },
   {
    "id": "raids:tier-3:1d974eb8625c",

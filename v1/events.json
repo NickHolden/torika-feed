@@ -2,151 +2,6 @@
  "source": "fork",
  "events": [
   {
-   "id": "cresselia-darkrai-in-5-star-raid-battles-november-2026",
-   "name": "Cresselia and Darkrai in 5-star Raid Battles",
-   "type": "raid-battles",
-   "types": [
-    "raid-battles"
-   ],
-   "heading": "Raid Battles",
-   "link": "https://leekduck.com/events/cresselia-darkrai-in-5-star-raid-battles-november-2026/",
-   "image": "https://cdn.leekduck.com/assets/img/events/legendary-cresselia.jpg",
-   "start": {
-    "time": "2026-11-16T06:00:00",
-    "kind": "local"
-   },
-   "end": {
-    "time": "2026-11-24T22:00:00",
-    "kind": "local"
-   },
-   "inPerson": false,
-   "venueOffset": null,
-   "bonuses": [],
-   "times": [],
-   "notes": [
-    {
-     "title": "Shiny",
-     "text": "If you’re lucky, you may encounter Shiny forms of these Pokémon."
-    },
-    {
-     "title": "Shiny",
-     "text": "Cresselia, Darkrai"
-    }
-   ],
-   "daily": null,
-   "promoCodes": [],
-   "encounters": [
-    {
-     "group": "Raids",
-     "pokemon": [
-      {
-       "slug": "cresselia",
-       "name": "Cresselia",
-       "shiny": true
-      },
-      {
-       "slug": "darkrai",
-       "name": "Darkrai",
-       "shiny": true
-      }
-     ]
-    }
-   ],
-   "research": [],
-   "sources": [
-    {
-     "name": "LeekDuck",
-     "url": "https://leekduck.com/events/cresselia-darkrai-in-5-star-raid-battles-november-2026/",
-     "read": "2026-11-25T19:39:19Z"
-    }
-   ],
-   "listed": true,
-   "description": [
-    {
-     "kind": "text",
-     "text": "Cresselia and Darkrai will be in five-star raid battles from November 16, 2026 to November 24, 2026."
-    },
-    {
-     "kind": "text",
-     "text": "Raid bosses change at 6:00 a.m. local time."
-    },
-    {
-     "kind": "heading",
-     "text": "Raid Hours"
-    },
-    {
-     "kind": "text",
-     "text": "There will also be a Raid Hour featuring Cresselia and Darkrai from 6:00 p.m. to 7:00 p.m. local time on November 18."
-    }
-   ]
-  },
-  {
-   "id": "mega-banette-in-mega-raids-november-2026",
-   "name": "Mega Banette in Mega Raids",
-   "type": "raid-battles",
-   "types": [
-    "raid-battles"
-   ],
-   "heading": "Raid Battles",
-   "link": "https://leekduck.com/events/mega-banette-in-mega-raids-november-2026/",
-   "image": "https://cdn.leekduck.com/assets/img/events/mega-default.jpg",
-   "start": {
-    "time": "2026-11-16T06:00:00",
-    "kind": "local"
-   },
-   "end": {
-    "time": "2026-11-24T22:00:00",
-    "kind": "local"
-   },
-   "inPerson": false,
-   "venueOffset": null,
-   "bonuses": [],
-   "times": [],
-   "notes": [
-    {
-     "title": "Shiny",
-     "text": "If you’re lucky, you may encounter Shiny Banette."
-    },
-    {
-     "title": "Shiny",
-     "text": "Banette, Mega Banette"
-    }
-   ],
-   "daily": null,
-   "promoCodes": [],
-   "encounters": [
-    {
-     "group": "Raids",
-     "pokemon": [
-      {
-       "slug": "banette-mega",
-       "name": "Mega Banette",
-       "shiny": true
-      }
-     ]
-    }
-   ],
-   "research": [],
-   "sources": [
-    {
-     "name": "LeekDuck",
-     "url": "https://leekduck.com/events/mega-banette-in-mega-raids-november-2026/",
-     "read": "2026-11-25T19:39:19Z"
-    }
-   ],
-   "listed": true,
-   "description": [
-    {
-     "kind": "text",
-     "text": "Mega Banette will be in Mega Raids from November 16, 2026 at 6 am to November 24, 2026 at 10 pm local time."
-    },
-    {
-     "kind": "text",
-     "text": "Raid bosses change at 6:00 a.m. local time."
-    }
-   ]
-  },
-  {
    "id": "raidhour20261125",
    "name": "Deoxys (Normal, Defense, Attack, and Speed Formes) Raid Hour",
    "type": "raid-hour",
@@ -177,7 +32,7 @@
     {
      "name": "LeekDuck",
      "url": "https://leekduck.com/events/raidhour20261125/",
-     "read": "2026-11-25T19:39:19Z"
+     "read": "2026-11-26T19:20:08Z"
     }
    ],
    "listed": true,
@@ -244,7 +99,7 @@
     {
      "name": "LeekDuck",
      "url": "https://leekduck.com/events/pokemonspotlighthour2026-11-26/",
-     "read": "2026-11-25T19:39:19Z"
+     "read": "2026-11-26T19:20:08Z"
     }
    ],
    "listed": true,
@@ -432,7 +287,7 @@
     {
      "name": "LeekDuck",
      "url": "https://leekduck.com/events/clefable-super-mega-raid-day-2026/",
-     "read": "2026-11-25T19:39:19Z"
+     "read": "2026-11-26T19:20:08Z"
     }
    ],
    "listed": true,
@@ -895,7 +750,7 @@
     {
      "name": "LeekDuck",
      "url": "https://leekduck.com/events/twilight-wishes-2026/",
-     "read": "2026-11-25T19:39:19Z"
+     "read": "2026-11-26T19:20:08Z"
     }
    ],
    "listed": true,
@@ -915,10 +770,7 @@
     "rules": [
      {
       "heading": "Featured Pokémon",
-      "value": "Espeon wearing a sun scarf, Umbreon wearing a moon scarf, and Rockruff are featured during Twilight Wishes. All three can be Shiny if you’re lucky!",
-      "status": "auto-read",
-      "quote": "Espeon wearing a sun scarf, Umbreon wearing a moon scarf, and Rockruff are featured during Twilight Wishes. All three can be Shiny if you’re lucky!",
-      "url": "https://leekduck.com/events/twilight-wishes-2026/"
+      "status": "held"
      },
      {
       "heading": "Explore with Decor",
@@ -974,7 +826,7 @@
     {
      "name": "LeekDuck",
      "url": "https://leekduck.com/events/max-mondays-2026-11-30/",
-     "read": "2026-11-25T19:39:19Z"
+     "read": "2026-11-26T19:20:08Z"
     }
    ],
    "listed": true,
@@ -1339,7 +1191,7 @@
     {
      "name": "LeekDuck",
      "url": "https://leekduck.com/events/season-24-twilight-trails/",
-     "read": "2026-11-25T19:39:19Z"
+     "read": "2026-11-26T19:20:08Z"
     }
    ],
    "listed": true,
@@ -1485,7 +1337,7 @@
     {
      "name": "LeekDuck",
      "url": "https://leekduck.com/events/go-pass-november-2026/",
-     "read": "2026-11-25T19:39:19Z"
+     "read": "2026-11-26T19:20:08Z"
     }
    ],
    "listed": true,
@@ -1606,7 +1458,7 @@
     {
      "name": "LeekDuck",
      "url": "https://leekduck.com/events/shadow-tornadus-incarnate-forme-in-shadow-raids-november-16-2026/",
-     "read": "2026-11-25T19:39:19Z"
+     "read": "2026-11-26T19:20:08Z"
     }
    ],
    "listed": true,
@@ -1683,7 +1535,7 @@
     {
      "name": "LeekDuck",
      "url": "https://leekduck.com/events/deoxys-normal-defense-attack-speed-formes-in-5-star-raid-battles-november-2026/",
-     "read": "2026-11-25T19:39:19Z"
+     "read": "2026-11-26T19:20:08Z"
     }
    ],
    "listed": true,
@@ -1757,7 +1609,7 @@
     {
      "name": "LeekDuck",
      "url": "https://leekduck.com/events/mega-metagross-in-mega-raids-november-2026/",
-     "read": "2026-11-25T19:39:19Z"
+     "read": "2026-11-26T19:20:08Z"
     }
    ],
    "listed": true,
@@ -1803,7 +1655,7 @@
     {
      "name": "LeekDuck",
      "url": "https://leekduck.com/events/raidhour20261202/",
-     "read": "2026-11-25T19:39:19Z"
+     "read": "2026-11-26T19:20:08Z"
     }
    ],
    "listed": true,
@@ -1870,7 +1722,7 @@
     {
      "name": "LeekDuck",
      "url": "https://leekduck.com/events/pokemonspotlighthour2026-12-03/",
-     "read": "2026-11-25T19:39:19Z"
+     "read": "2026-11-26T19:20:08Z"
     }
    ],
    "listed": true,
@@ -1886,15 +1738,15 @@
    ]
   },
   {
-   "id": "max-battle-day-december-2026",
-   "name": "Max Battle Day",
+   "id": "gigantamax-inteleon-max-battle-day-2026",
+   "name": "Gigantamax Inteleon Max Battle Day",
    "type": "max-battles",
    "types": [
     "max-battles"
    ],
    "heading": "Max Battles",
-   "link": "https://leekduck.com/events/max-battle-day-december-2026/",
-   "image": "https://cdn.leekduck.com/assets/img/events/events-default-img.jpg",
+   "link": "https://leekduck.com/events/gigantamax-inteleon-max-battle-day-2026/",
+   "image": "https://cdn.leekduck.com/assets/img/events/article-images/2026/2026-12-05-gigantamax-inteleon-max-battle-day-2026/gigantamax-inteleon-max-battle-day.jpg",
    "start": {
     "time": "2026-12-05T14:00:00",
     "kind": "local"
@@ -1905,9 +1757,86 @@
    },
    "inPerson": false,
    "venueOffset": null,
-   "bonuses": [],
-   "times": [],
-   "notes": [],
+   "bonuses": [
+    {
+     "title": null,
+     "description": "The following bonuses will be active during the event.",
+     "items": [
+      "Max Particle collection limit increased to 1,600",
+      "All Power Spots will host Gigantamax Battles",
+      "Power Spots will refresh more frequently",
+      "Additional Power Spots will be active",
+      "8× Max Particles from Power Spots",
+      "Up to three Special Trades for the day",
+      "From December 4 at 4:00 p.m. to December 5 at 8:00 p.m. PST (GMT −8), the daily Remote Raid limit will increase from 10 to 20"
+     ],
+     "notes": []
+    },
+    {
+     "title": null,
+     "description": "The following bonuses will be active on December 5, 2026, from 12:00 a.m. to 5:00 p.m. local time.",
+     "items": [
+      "2× Max Particles from exploring*",
+      "1/4 Adventuring distance to receive Max Particles**"
+     ],
+     "notes": [
+      "*Trainers can collect Max Particles via the Nearby menu each day by exploring. Adventure Sync can help make sure your distance counts! Keep an eye on the Nearby menu for the icon that shows when Max Particles are ready to collect.",
+      "**For these bonuses to apply, Trainers must first collect all Max Particles available in the Nearby menu."
+     ]
+    },
+    {
+     "title": "Event Ticket",
+     "description": "For US$4.99 (or the equivalent pricing tier in your local currency), you’ll be able to access event-exclusive Timed Research.\nTimed Research rewards include the following.\nYou’ll also receive the following bonus.",
+     "items": [
+      "2× XP from Max Battles"
+     ],
+     "notes": [
+      "This Timed Research will be effective on Saturday, December 5, 2026, from 2:00 p.m. to 5:00 p.m. local time.",
+      "Trainers will be able to purchase and gift tickets to any of their Pokémon GO friends that they have achieved a Friendship level of Great Friends or higher with. Please note that purchases—including those made for other Trainers—are non-refundable (subject to applicable law and the exceptions set forth in the Terms of Service). Tickets cannot be purchased with PokéCoins.",
+      "Please note that this ticket will only be available in the in-game shop until Saturday, December 5, 2026, at 5:00 p.m. local time."
+     ]
+    }
+   ],
+   "times": [
+    {
+     "label": "Bonuses",
+     "detail": null,
+     "when": [
+      {
+       "date": null,
+       "endDate": null,
+       "from": "12:00 a.m.",
+       "to": "5:00 p.m.",
+       "allDay": false,
+       "everyDay": false
+      }
+     ]
+    },
+    {
+     "label": "Event Ticket",
+     "detail": null,
+     "when": [
+      {
+       "date": null,
+       "endDate": null,
+       "from": "2:00 p.m.",
+       "to": "5:00 p.m.",
+       "allDay": false,
+       "everyDay": false
+      }
+     ]
+    }
+   ],
+   "notes": [
+    {
+     "title": "Shiny",
+     "text": "Shiny Gigantamax Inteleon will be released with the start of the event."
+    },
+    {
+     "title": "Shiny",
+     "text": "Gigantamax Inteleon"
+    }
+   ],
    "daily": null,
    "promoCodes": [],
    "encounters": [],
@@ -1915,17 +1844,39 @@
    "sources": [
     {
      "name": "LeekDuck",
-     "url": "https://leekduck.com/events/max-battle-day-december-2026/",
-     "read": "2026-11-25T19:39:19Z"
+     "url": "https://leekduck.com/events/gigantamax-inteleon-max-battle-day-2026/",
+     "read": "2026-11-26T19:20:08Z"
     }
    ],
    "listed": true,
    "description": [
     {
      "kind": "text",
-     "text": "The Max Battle Day event will take place on December 5, 2026 from 2 pm to 5 pm. Stay tuned for more details."
+     "text": "The Gigantamax Inteleon Max Battle Day event will take place on December 5, 2026 from 2 pm to 5 pm local time."
     }
-   ]
+   ],
+   "freeText": {
+    "debuts": [],
+    "attacks": [],
+    "rules": [
+     {
+      "heading": "Featured Pokémon",
+      "value": "The following Pokémon will appear in six-star Max Battles!",
+      "status": "auto-read",
+      "quote": "The following Pokémon will appear in six-star Max Battles!",
+      "url": "https://leekduck.com/events/gigantamax-inteleon-max-battle-day-2026/"
+     },
+     {
+      "heading": "Where can I find Max Battles?",
+      "value": "Max Battles appear at Power Spots and require teamwork. Use the Pokémon GO Map to find active battles and locations where battles may appear during the event.",
+      "status": "auto-read",
+      "quote": "Max Battles appear at Power Spots and require teamwork. Use the Pokémon GO Map to find active battles and locations where battles may appear during the event.",
+      "url": "https://leekduck.com/events/gigantamax-inteleon-max-battle-day-2026/"
+     }
+    ],
+    "groups": [],
+    "read": true
+   }
   },
   {
    "id": "tropical-paradise-2026",
@@ -1936,7 +1887,7 @@
    ],
    "heading": "Event",
    "link": "https://leekduck.com/events/tropical-paradise-2026/",
-   "image": "https://cdn.leekduck.com/assets/img/events/events-default-img.jpg",
+   "image": "https://cdn.leekduck.com/assets/img/events/tropical-paradise-2026.jpg",
    "start": {
     "time": "2026-12-01T10:00:00",
     "kind": "local"
@@ -1950,7 +1901,7 @@
    "bonuses": [
     {
      "title": "Tier 1 – Rank 10",
-     "description": null,
+     "description": "Reach Major Milestones on GO Pass: Tropical Paradise to unlock these bonuses.",
      "items": [
       "2× Raid XP"
      ],
@@ -1965,8 +1916,39 @@
      "notes": []
     }
    ],
-   "times": [],
+   "times": [
+    {
+     "label": "Wild",
+     "detail": null,
+     "when": [
+      {
+       "date": "December 4",
+       "endDate": "December 7",
+       "from": "10:00 a.m.",
+       "to": "8:00 p.m.",
+       "allDay": false,
+       "everyDay": false
+      }
+     ]
+    }
+   ],
    "notes": [
+    {
+     "title": "Wild",
+     "text": "The following Pokémon will appear in the wild, along with other event-themed Pokémon."
+    },
+    {
+     "title": "Wild",
+     "text": "You might even encounter Snorlax!"
+    },
+    {
+     "title": "Wild",
+     "text": "Additional Pokémon will be featured at different times during the event."
+    },
+    {
+     "title": "Wild",
+     "text": "You might even encounter Alolan Exeggutor!"
+    },
     {
      "title": "Shiny",
      "text": "Pyukumuku will be available in its Shiny variant from its debut!"
@@ -1985,67 +1967,82 @@
       {
        "slug": "slowpoke",
        "name": "Slowpoke",
-       "shiny": false
+       "shiny": true
       },
       {
        "slug": "shellder",
        "name": "Shellder",
-       "shiny": false
+       "shiny": true
       },
       {
        "slug": "wingull",
        "name": "Wingull",
-       "shiny": false
+       "shiny": true
       },
       {
        "slug": "slakoth",
        "name": "Slakoth",
-       "shiny": false
+       "shiny": true
       },
       {
        "slug": "snorlax",
        "name": "Snorlax",
-       "shiny": false
+       "shiny": true
       },
       {
        "slug": "hoppip",
        "name": "Hoppip",
-       "shiny": false
+       "shiny": true
       },
       {
        "slug": "lotad",
        "name": "Lotad",
-       "shiny": false
+       "shiny": true
       },
       {
        "slug": "shroomish",
        "name": "Shroomish",
-       "shiny": false
+       "shiny": true
       },
       {
        "slug": "exeggutor-alola",
        "name": "Alolan Exeggutor",
-       "shiny": false
+       "shiny": true
       }
      ]
     },
     {
-     "group": "Research",
+     "group": "Raids",
      "pokemon": [
       {
-       "slug": "shellder",
-       "name": "Shellder",
-       "shiny": false
+       "slug": "diglett-alola",
+       "name": "Alolan Diglett",
+       "shiny": true
       },
       {
-       "slug": "psyduck",
-       "name": "Psyduck",
-       "shiny": false
+       "slug": "frillish",
+       "name": "Frillish",
+       "shiny": true
       },
       {
-       "slug": "tentacool",
-       "name": "Tentacool",
-       "shiny": false
+       "slug": "sandygast",
+       "name": "Sandygast",
+       "shiny": true
+      },
+      {
+       "slug": "pyukumuku",
+       "name": "Pyukumuku",
+       "shiny": true
+      }
+     ]
+    },
+    {
+     "group": "Mega Raids",
+     "pokemon": [
+      {
+       "slug": "slowbro-mega",
+       "name": "Mega Slowbro",
+       "shiny": true
       }
      ]
     }
@@ -2055,7 +2052,7 @@
     {
      "name": "LeekDuck",
      "url": "https://leekduck.com/events/tropical-paradise-2026/",
-     "read": "2026-11-25T19:39:19Z"
+     "read": "2026-11-26T19:20:08Z"
     }
    ],
    "listed": true,
@@ -2151,7 +2148,7 @@
     {
      "name": "LeekDuck",
      "url": "https://leekduck.com/events/max-mondays-2026-12-07/",
-     "read": "2026-11-25T19:39:19Z"
+     "read": "2026-11-26T19:20:08Z"
     }
    ],
    "listed": true,
@@ -2217,7 +2214,7 @@
     {
      "name": "LeekDuck",
      "url": "https://leekduck.com/events/gbl-daydream-destinations_great-league-mega-edition_ultra-league-mega-edition_master-league-mega-edition-split-1/",
-     "read": "2026-11-25T19:39:19Z"
+     "read": "2026-11-26T19:20:08Z"
     }
    ],
    "listed": true,
@@ -2319,7 +2316,7 @@
     {
      "name": "LeekDuck",
      "url": "https://leekduck.com/events/mega-slowbro-in-mega-raids-december-2026/",
-     "read": "2026-11-25T19:39:19Z"
+     "read": "2026-11-26T19:20:08Z"
     }
    ],
    "listed": true,
@@ -2385,7 +2382,7 @@
     {
      "name": "LeekDuck",
      "url": "https://leekduck.com/events/regidrago-in-5-star-raid-battles-december-2026/",
-     "read": "2026-11-25T19:39:19Z"
+     "read": "2026-11-26T19:20:08Z"
     }
    ],
    "listed": true,
@@ -2439,7 +2436,7 @@
     {
      "name": "LeekDuck",
      "url": "https://leekduck.com/events/raidhour20261209/",
-     "read": "2026-11-25T19:39:19Z"
+     "read": "2026-11-26T19:20:08Z"
     }
    ],
    "listed": true,
@@ -2506,7 +2503,7 @@
     {
      "name": "LeekDuck",
      "url": "https://leekduck.com/events/pokemonspotlighthour2026-12-10/",
-     "read": "2026-11-25T19:39:19Z"
+     "read": "2026-11-26T19:20:08Z"
     }
    ],
    "listed": true,
@@ -2845,7 +2842,7 @@
     {
      "name": "LeekDuck",
      "url": "https://leekduck.com/events/december-communityday2026/",
-     "read": "2026-11-25T19:39:19Z"
+     "read": "2026-11-26T19:20:08Z"
     }
    ],
    "listed": true,
@@ -3011,15 +3008,15 @@
    }
   },
   {
-   "id": "unannounced-event-december-2026",
-   "name": "Unannounced Event",
+   "id": "pokemon-champions-celebration-event-2026",
+   "name": "Pokémon Champions Celebration Event 2026",
    "type": "event",
    "types": [
     "event"
    ],
    "heading": "Event",
-   "link": "https://leekduck.com/events/unannounced-event-december-2026/",
-   "image": "https://cdn.leekduck.com/assets/img/events/events-default-img.jpg",
+   "link": "https://leekduck.com/events/pokemon-champions-celebration-event-2026/",
+   "image": "https://cdn.leekduck.com/assets/img/events/article-images/2026/2026-12-08-pokemon-champions-celebration-event-2026/pokemon-champions-celebration-event-2026.jpg",
    "start": {
     "time": "2026-12-08T10:00:00",
     "kind": "local"
@@ -3030,27 +3027,237 @@
    },
    "inPerson": false,
    "venueOffset": null,
-   "bonuses": [],
+   "bonuses": [
+    {
+     "title": null,
+     "description": null,
+     "items": [
+      "Increased chance to encounter Kecleon at PokéStops"
+     ],
+     "notes": []
+    },
+    {
+     "title": "Tier 1 Bonus – Starting at Rank 1",
+     "description": "Reach Major Milestones on your event GO Pass to unlock the following bonuses.",
+     "items": [
+      "7× GO Transporter Energy gained per hour to send a Pokémon from Pokémon GO to Pokémon HOME"
+     ],
+     "notes": []
+    },
+    {
+     "title": "Tier 2 Bonus – Starting at Rank 10",
+     "description": null,
+     "items": [
+      "2× Candy for catching Pokémon*"
+     ],
+     "notes": [
+      "*This bonus will not stack with the December Community Day 2026 bonuses."
+     ]
+    },
+    {
+     "title": "Tier 3 Bonus – Starting at Rank 20",
+     "description": null,
+     "items": [
+      "3,000 additional XP from completing Raid Battles"
+     ],
+     "notes": []
+    },
+    {
+     "title": "Tier 3 Bonus – Starting at Rank 20",
+     "description": "Upgrade to the GO Pass Deluxe to also get the following bonus:",
+     "items": [
+      "GO Pass Deluxe: Receive up to two free Raid Passes per day from spinning Gym Photo Discs"
+     ],
+     "notes": [
+      "Keep an eye out for additional bonus tasks for this GO Pass during the event!"
+     ]
+    }
+   ],
    "times": [],
-   "notes": [],
+   "notes": [
+    {
+     "title": "Wild Encounters",
+     "text": "During the event, Trainers may encounter the following Pokémon and more in the wild."
+    },
+    {
+     "title": "Wild Encounters",
+     "text": "If you’re lucky, you might even encounter the following and others!"
+    }
+   ],
    "daily": null,
    "promoCodes": [],
-   "encounters": [],
-   "research": [],
+   "encounters": [
+    {
+     "group": "Wild Encounters",
+     "pokemon": [
+      {
+       "slug": "charmander",
+       "name": "Charmander",
+       "shiny": true
+      },
+      {
+       "slug": "starly",
+       "name": "Starly",
+       "shiny": true
+      },
+      {
+       "slug": "grookey",
+       "name": "Grookey",
+       "shiny": true
+      },
+      {
+       "slug": "absol",
+       "name": "Absol",
+       "shiny": true
+      },
+      {
+       "slug": "gible",
+       "name": "Gible",
+       "shiny": true
+      }
+     ]
+    },
+    {
+     "group": "Raids",
+     "pokemon": [
+      {
+       "slug": "bagon",
+       "name": "Bagon",
+       "shiny": true
+      },
+      {
+       "slug": "litten",
+       "name": "Litten",
+       "shiny": true
+      },
+      {
+       "slug": "frigibax",
+       "name": "Frigibax",
+       "shiny": true
+      },
+      {
+       "slug": "raichu",
+       "name": "Raichu",
+       "shiny": true
+      },
+      {
+       "slug": "garchomp",
+       "name": "Garchomp",
+       "shiny": true
+      },
+      {
+       "slug": "rillaboom",
+       "name": "Rillaboom",
+       "shiny": true
+      },
+      {
+       "slug": "latias",
+       "name": "Latias",
+       "shiny": true
+      },
+      {
+       "slug": "latios",
+       "name": "Latios",
+       "shiny": true
+      },
+      {
+       "slug": "heatran",
+       "name": "Heatran",
+       "shiny": true
+      },
+      {
+       "slug": "cobalion",
+       "name": "Cobalion",
+       "shiny": true
+      },
+      {
+       "slug": "terrakion",
+       "name": "Terrakion",
+       "shiny": true
+      },
+      {
+       "slug": "virizion",
+       "name": "Virizion",
+       "shiny": true
+      },
+      {
+       "slug": "regieleki",
+       "name": "Regieleki",
+       "shiny": true
+      },
+      {
+       "slug": "regidrago",
+       "name": "Regidrago",
+       "shiny": true
+      }
+     ]
+    }
+   ],
+   "research": [
+    {
+     "kind": "field",
+     "title": "Field Research",
+     "step": null,
+     "tasks": [
+      {
+       "text": "???",
+       "rewards": [
+        {
+         "type": "item",
+         "name": "Rare Candy ×?",
+         "quantity": 1,
+         "icon": "art/8c12268c3deec1373558268fa1ae556b.png"
+        }
+       ]
+      }
+     ],
+     "rewards": [],
+     "from": "page"
+    }
+   ],
    "sources": [
     {
      "name": "LeekDuck",
-     "url": "https://leekduck.com/events/unannounced-event-december-2026/",
-     "read": "2026-11-25T19:39:19Z"
+     "url": "https://leekduck.com/events/pokemon-champions-celebration-event-2026/",
+     "read": "2026-11-26T19:20:08Z"
     }
    ],
    "listed": true,
    "description": [
     {
      "kind": "text",
-     "text": "An event that has not been announced yet will take place from December 8 to December 14, 2026. Stay tuned for more details."
+     "text": "Celebrate Pokémon Champions in Pokémon GO with the Pokémon Champions Celebration Event! Look for event-themed wild encounters, raids featuring Pokémon with a Special Background, an event GO Pass, and gifts for sending Pokémon from Pokémon HOME to visit Pokémon Champions."
     }
-   ]
+   ],
+   "freeText": {
+    "debuts": [],
+    "attacks": [],
+    "rules": [
+     {
+      "heading": "Pokémon HOME and Pokémon Champions",
+      "value": "During the collaboration event period, you can transfer a Pokémon caught in Pokémon GO to Pokémon HOME, then send that Pokémon to visit Pokémon Champions to receive a gift in your Pokémon Champions mailbox. See the Pokémon HOME news post for details.",
+      "status": "auto-read",
+      "quote": "During the collaboration event period, you can transfer a Pokémon caught in Pokémon GO to Pokémon HOME, then send that Pokémon to visit Pokémon Champions to receive a gift in your Pokémon Champions mailbox. See the Pokémon HOME news post for details.",
+      "url": "https://leekduck.com/events/pokemon-champions-celebration-event-2026/"
+     },
+     {
+      "heading": "Special Backgrounds",
+      "value": "Pokémon encountered from raids during the event may have a Special Background. Five-star raid bosses with the Special Background are only available for the duration of the Pokémon Champions Celebration Event.",
+      "status": "auto-read",
+      "quote": "Pokémon encountered from raids during the event may have a Special Background. Five-star raid bosses with the Special Background are only available for the duration of the Pokémon Champions Celebration Event.",
+      "url": "https://leekduck.com/events/pokemon-champions-celebration-event-2026/"
+     },
+     {
+      "heading": "Stickers",
+      "value": "You’ll be able to get event-themed stickers by spinning PokéStops and opening Gifts.",
+      "status": "auto-read",
+      "quote": "You’ll be able to get event-themed stickers by spinning PokéStops and opening Gifts.",
+      "url": "https://leekduck.com/events/pokemon-champions-celebration-event-2026/"
+     }
+    ],
+    "groups": [],
+    "read": true
+   }
   },
   {
    "id": "max-mondays-2026-12-14",
@@ -3094,7 +3301,7 @@
     {
      "name": "LeekDuck",
      "url": "https://leekduck.com/events/max-mondays-2026-12-14/",
-     "read": "2026-11-25T19:39:19Z"
+     "read": "2026-11-26T19:20:08Z"
     }
    ],
    "listed": true,
@@ -3160,7 +3367,7 @@
     {
      "name": "LeekDuck",
      "url": "https://leekduck.com/events/gbl-daydream-destinations_great-league-mega-edition_mountain-cup-great-league-edition/",
-     "read": "2026-11-25T19:39:19Z"
+     "read": "2026-11-26T19:20:08Z"
     }
    ],
    "listed": true,
@@ -3246,7 +3453,7 @@
     {
      "name": "LeekDuck",
      "url": "https://leekduck.com/events/mega-gengar-in-mega-raids-december-2026/",
-     "read": "2026-11-25T19:39:19Z"
+     "read": "2026-11-26T19:20:08Z"
     }
    ],
    "listed": true,
@@ -3262,14 +3469,14 @@
    ]
   },
   {
-   "id": "unannounced-pokemon-in-5-star-raid-battles-december-2026",
-   "name": "Unannounced Pokémon in 5-star Raid Battles",
+   "id": "pokemon-champions-celebration-5-star-raid-battles-december-2026",
+   "name": "Pokémon Champions Celebration 5-star Raid Battles",
    "type": "raid-battles",
    "types": [
     "raid-battles"
    ],
    "heading": "Raid Battles",
-   "link": "https://leekduck.com/events/unannounced-pokemon-in-5-star-raid-battles-december-2026/",
+   "link": "https://leekduck.com/events/pokemon-champions-celebration-5-star-raid-battles-december-2026/",
    "image": "https://cdn.leekduck.com/assets/img/events/events-default-img.jpg",
    "start": {
     "time": "2026-12-09T06:00:00",
@@ -3283,23 +3490,82 @@
    "venueOffset": null,
    "bonuses": [],
    "times": [],
-   "notes": [],
+   "notes": [
+    {
+     "title": "Shiny",
+     "text": "If you’re lucky, you might encounter a Shiny one or one that has a Special Background!"
+    },
+    {
+     "title": "Shiny",
+     "text": "Latias, Latios, Heatran, Cobalion, Terrakion, Virizion, Regieleki, Regidrago"
+    }
+   ],
    "daily": null,
    "promoCodes": [],
-   "encounters": [],
+   "encounters": [
+    {
+     "group": "Raids",
+     "pokemon": [
+      {
+       "slug": "latias",
+       "name": "Latias",
+       "shiny": true
+      },
+      {
+       "slug": "latios",
+       "name": "Latios",
+       "shiny": true
+      },
+      {
+       "slug": "heatran",
+       "name": "Heatran",
+       "shiny": true
+      },
+      {
+       "slug": "cobalion",
+       "name": "Cobalion",
+       "shiny": true
+      },
+      {
+       "slug": "terrakion",
+       "name": "Terrakion",
+       "shiny": true
+      },
+      {
+       "slug": "virizion",
+       "name": "Virizion",
+       "shiny": true
+      },
+      {
+       "slug": "regieleki",
+       "name": "Regieleki",
+       "shiny": true
+      },
+      {
+       "slug": "regidrago",
+       "name": "Regidrago",
+       "shiny": true
+      }
+     ]
+    }
+   ],
    "research": [],
    "sources": [
     {
      "name": "LeekDuck",
-     "url": "https://leekduck.com/events/unannounced-pokemon-in-5-star-raid-battles-december-2026/",
-     "read": "2026-11-25T19:39:19Z"
+     "url": "https://leekduck.com/events/pokemon-champions-celebration-5-star-raid-battles-december-2026/",
+     "read": "2026-11-26T19:20:08Z"
     }
    ],
    "listed": true,
    "description": [
     {
      "kind": "text",
-     "text": "A five-star raid boss that has not been announced yet will be in five-star raid battles from December 9, 2026 to December 15, 2026. Stay tuned for more details."
+     "text": "As part of the Pokémon Champions Celebration Event, Latias, Latios, Heatran, Cobalion, Terrakion, Virizion, Regieleki, and Regidrago will have scheduled appearances in five-star raid battles from December 9, 2026 to December 15, 2026. They are part of the Seasonal rotation; the daily schedule has not been announced yet."
+    },
+    {
+     "kind": "text",
+     "text": "The Special Background will only be available for the duration of the Pokémon Champions Celebration Event, which ends on December 14 at 8:00 p.m. local time."
     },
     {
      "kind": "text",
@@ -3311,7 +3577,7 @@
     },
     {
      "kind": "text",
-     "text": "There will also be a Raid Hour featuring this raid boss from 6:00 p.m. to 7:00 p.m. local time on December 9."
+     "text": "There will also be a Raid Hour from 6:00 p.m. to 7:00 p.m. local time on December 9."
     }
    ]
   },
@@ -3346,7 +3612,7 @@
     {
      "name": "LeekDuck",
      "url": "https://leekduck.com/events/raidhour20261216/",
-     "read": "2026-11-25T19:39:19Z"
+     "read": "2026-11-26T19:20:08Z"
     }
    ],
    "listed": true,
@@ -3449,7 +3715,7 @@
     {
      "name": "LeekDuck",
      "url": "https://leekduck.com/events/minior-showers-geminids-2026/",
-     "read": "2026-11-25T19:39:19Z"
+     "read": "2026-11-26T19:20:08Z"
     }
    ],
    "listed": true,
@@ -3556,7 +3822,7 @@
     {
      "name": "LeekDuck",
      "url": "https://leekduck.com/events/pokemonspotlighthour2026-12-17/",
-     "read": "2026-11-25T19:39:19Z"
+     "read": "2026-11-26T19:20:08Z"
     }
    ],
    "listed": true,
@@ -3602,7 +3868,7 @@
     {
      "name": "LeekDuck",
      "url": "https://leekduck.com/events/raid-day-december-2026/",
-     "read": "2026-11-25T19:39:19Z"
+     "read": "2026-11-26T19:20:08Z"
     }
    ],
    "listed": true,
@@ -3644,7 +3910,7 @@
     {
      "name": "LeekDuck",
      "url": "https://leekduck.com/events/choose-your-path-daydream-destinations-2026-12-15/",
-     "read": "2026-11-25T19:39:19Z"
+     "read": "2026-11-26T19:20:08Z"
     }
    ],
    "listed": true,
@@ -3722,7 +3988,7 @@
     {
      "name": "LeekDuck",
      "url": "https://leekduck.com/events/max-mondays-2026-12-21/",
-     "read": "2026-11-25T19:39:19Z"
+     "read": "2026-11-26T19:20:08Z"
     }
    ],
    "listed": true,
@@ -3788,7 +4054,7 @@
     {
      "name": "LeekDuck",
      "url": "https://leekduck.com/events/gbl-daydream-destinations_ultra-league-mega-edition_holiday-cup-great-league-edition/",
-     "read": "2026-11-25T19:39:19Z"
+     "read": "2026-11-26T19:20:08Z"
     }
    ],
    "listed": true,
@@ -3874,7 +4140,7 @@
     {
      "name": "LeekDuck",
      "url": "https://leekduck.com/events/ho-oh-in-5-star-raid-battles-december-2026/",
-     "read": "2026-11-25T19:39:19Z"
+     "read": "2026-11-26T19:20:08Z"
     }
    ],
    "listed": true,
@@ -3948,7 +4214,7 @@
     {
      "name": "LeekDuck",
      "url": "https://leekduck.com/events/mega-skarmory-in-mega-raids-december-2026/",
-     "read": "2026-11-25T19:39:19Z"
+     "read": "2026-11-26T19:20:08Z"
     }
    ],
    "listed": true,
@@ -3994,7 +4260,7 @@
     {
      "name": "LeekDuck",
      "url": "https://leekduck.com/events/raidhour20261223/",
-     "read": "2026-11-25T19:39:19Z"
+     "read": "2026-11-26T19:20:08Z"
     }
    ],
    "listed": true,
@@ -4061,7 +4327,7 @@
     {
      "name": "LeekDuck",
      "url": "https://leekduck.com/events/pokemonspotlighthour2026-12-24/",
-     "read": "2026-11-25T19:39:19Z"
+     "read": "2026-11-26T19:20:08Z"
     }
    ],
    "listed": true,
@@ -4107,7 +4373,7 @@
     {
      "name": "LeekDuck",
      "url": "https://leekduck.com/events/hatch-day-december-2026/",
-     "read": "2026-11-25T19:39:19Z"
+     "read": "2026-11-26T19:20:08Z"
     }
    ],
    "listed": true,
@@ -4149,7 +4415,7 @@
     {
      "name": "LeekDuck",
      "url": "https://leekduck.com/events/winter-holiday-2026/",
-     "read": "2026-11-25T19:39:19Z"
+     "read": "2026-11-26T19:20:08Z"
     }
    ],
    "listed": true,
@@ -4202,7 +4468,7 @@
     {
      "name": "LeekDuck",
      "url": "https://leekduck.com/events/max-mondays-2026-12-28/",
-     "read": "2026-11-25T19:39:19Z"
+     "read": "2026-11-26T19:20:08Z"
     }
    ],
    "listed": true,
@@ -4268,7 +4534,7 @@
     {
      "name": "LeekDuck",
      "url": "https://leekduck.com/events/gbl-daydream-destinations_master-league-mega-edition_holiday-cup-great-league-edition/",
-     "read": "2026-11-25T19:39:19Z"
+     "read": "2026-11-26T19:20:08Z"
     }
    ],
    "listed": true,
@@ -4358,7 +4624,7 @@
     {
      "name": "LeekDuck",
      "url": "https://leekduck.com/events/lugia-in-5-star-raid-battles-december-2026/",
-     "read": "2026-11-25T19:39:19Z"
+     "read": "2026-11-26T19:20:08Z"
     }
    ],
    "listed": true,
@@ -4432,7 +4698,7 @@
     {
      "name": "LeekDuck",
      "url": "https://leekduck.com/events/mega-glalie-in-mega-raids-december-2026/",
-     "read": "2026-11-25T19:39:19Z"
+     "read": "2026-11-26T19:20:08Z"
     }
    ],
    "listed": true,
@@ -4478,7 +4744,7 @@
     {
      "name": "LeekDuck",
      "url": "https://leekduck.com/events/raidhour20261230/",
-     "read": "2026-11-25T19:39:19Z"
+     "read": "2026-11-26T19:20:08Z"
     }
    ],
    "listed": true,
@@ -4550,7 +4816,7 @@
     {
      "name": "LeekDuck",
      "url": "https://leekduck.com/events/pokemonspotlighthour2026-12-31/",
-     "read": "2026-11-25T19:39:19Z"
+     "read": "2026-11-26T19:20:08Z"
     }
    ],
    "listed": true,
@@ -4622,7 +4888,7 @@
     {
      "name": "LeekDuck",
      "url": "https://leekduck.com/events/duolingo-timed-research-2026/",
-     "read": "2026-11-25T19:39:19Z"
+     "read": "2026-11-26T19:20:08Z"
     }
    ],
    "listed": true,
@@ -4697,7 +4963,7 @@
     {
      "name": "LeekDuck",
      "url": "https://leekduck.com/events/january-communitydayclassic2027/",
-     "read": "2026-11-25T19:39:19Z"
+     "read": "2026-11-26T19:20:08Z"
     }
    ],
    "listed": true,
@@ -4739,7 +5005,7 @@
     {
      "name": "LeekDuck",
      "url": "https://leekduck.com/events/new-years-2027/",
-     "read": "2026-11-25T19:39:19Z"
+     "read": "2026-11-26T19:20:08Z"
     }
    ],
    "listed": true,
@@ -4827,7 +5093,7 @@
     {
      "name": "LeekDuck",
      "url": "https://leekduck.com/events/go-pass-december-2026/",
-     "read": "2026-11-25T19:39:19Z"
+     "read": "2026-11-26T19:20:08Z"
     }
    ],
    "listed": true,
@@ -4944,7 +5210,7 @@
     {
      "name": "LeekDuck",
      "url": "https://leekduck.com/events/gbl-daydream-destinations_great-league-mega-edition_ultra-league-mega-edition_master-league-mega-edition-split-2/",
-     "read": "2026-11-25T19:39:19Z"
+     "read": "2026-11-26T19:20:08Z"
     }
    ],
    "listed": true,
@@ -5046,7 +5312,7 @@
     {
      "name": "LeekDuck",
      "url": "https://leekduck.com/events/shadow-dialga-in-shadow-raids-december-2026/",
-     "read": "2026-11-25T19:39:19Z"
+     "read": "2026-11-26T19:20:08Z"
     }
    ],
    "listed": true,
@@ -5108,7 +5374,7 @@
     {
      "name": "LeekDuck",
      "url": "https://leekduck.com/events/mega-falinks-in-mega-raids-december-2026/",
-     "read": "2026-11-25T19:39:19Z"
+     "read": "2026-11-26T19:20:08Z"
     }
    ],
    "listed": true,
@@ -5184,7 +5450,7 @@
     {
      "name": "LeekDuck",
      "url": "https://leekduck.com/events/tornadus-thundurus-landorus-therian-formes-in-5-star-raid-battles-december-2026/",
-     "read": "2026-11-25T19:39:19Z"
+     "read": "2026-11-26T19:20:08Z"
     }
    ],
    "listed": true,
@@ -5238,7 +5504,7 @@
     {
      "name": "LeekDuck",
      "url": "https://leekduck.com/events/super-mega-raid-day-january-2027/",
-     "read": "2026-11-25T19:39:19Z"
+     "read": "2026-11-26T19:20:08Z"
     }
    ],
    "listed": true,
@@ -5280,7 +5546,7 @@
     {
      "name": "LeekDuck",
      "url": "https://leekduck.com/events/gbl-daydream-destinations_great-league-mega-edition_fighting-cup-great-league-edition/",
-     "read": "2026-11-25T19:39:19Z"
+     "read": "2026-11-26T19:20:08Z"
     }
    ],
    "listed": true,
@@ -5576,7 +5842,7 @@
     {
      "name": "LeekDuck",
      "url": "https://leekduck.com/events/pokemon-x-adidas-2026/",
-     "read": "2026-11-25T19:39:19Z"
+     "read": "2026-11-26T19:20:08Z"
     }
    ],
    "listed": true,
@@ -5644,7 +5910,7 @@
     {
      "name": "LeekDuck",
      "url": "https://leekduck.com/events/january-communityday2027/",
-     "read": "2026-11-25T19:39:19Z"
+     "read": "2026-11-26T19:20:08Z"
     }
    ],
    "listed": true,
@@ -5686,7 +5952,7 @@
     {
      "name": "LeekDuck",
      "url": "https://leekduck.com/events/choose-your-path-daydream-destinations-2027-01-12/",
-     "read": "2026-11-25T19:39:19Z"
+     "read": "2026-11-26T19:20:08Z"
     }
    ],
    "listed": true,
@@ -5751,7 +6017,7 @@
     {
      "name": "LeekDuck",
      "url": "https://leekduck.com/events/gbl-daydream-destinations_ultra-league-mega-edition_jungle-cup-great-league-edition/",
-     "read": "2026-11-25T19:39:19Z"
+     "read": "2026-11-26T19:20:08Z"
     }
    ],
    "listed": true,
@@ -5817,7 +6083,7 @@
     {
      "name": "LeekDuck",
      "url": "https://leekduck.com/events/max-battle-day-january-2027/",
-     "read": "2026-11-25T19:39:19Z"
+     "read": "2026-11-26T19:20:08Z"
     }
    ],
    "listed": true,
@@ -5859,7 +6125,7 @@
     {
      "name": "LeekDuck",
      "url": "https://leekduck.com/events/gbl-daydream-destinations_master-league-mega-edition_master-league/",
-     "read": "2026-11-25T19:39:19Z"
+     "read": "2026-11-26T19:20:08Z"
     }
    ],
    "listed": true,
@@ -5925,7 +6191,7 @@
     {
      "name": "LeekDuck",
      "url": "https://leekduck.com/events/super-mega-raid-day-january-30-2027/",
-     "read": "2026-11-25T19:39:19Z"
+     "read": "2026-11-26T19:20:08Z"
     }
    ],
    "listed": true,
@@ -5967,7 +6233,7 @@
     {
      "name": "LeekDuck",
      "url": "https://leekduck.com/events/choose-your-path-daydream-destinations-2027-01-26/",
-     "read": "2026-11-25T19:39:19Z"
+     "read": "2026-11-26T19:20:08Z"
     }
    ],
    "listed": true,
@@ -6032,7 +6298,7 @@
     {
      "name": "LeekDuck",
      "url": "https://leekduck.com/events/gbl-daydream-destinations_great-league-mega-edition_ultra-league-mega-edition_master-league-mega-edition-split-3/",
-     "read": "2026-11-25T19:39:19Z"
+     "read": "2026-11-26T19:20:08Z"
     }
    ],
    "listed": true,
@@ -6114,7 +6380,7 @@
     {
      "name": "LeekDuck",
      "url": "https://leekduck.com/events/february-communityday2027/",
-     "read": "2026-11-25T19:39:19Z"
+     "read": "2026-11-26T19:20:08Z"
     }
    ],
    "listed": true,
@@ -6156,7 +6422,7 @@
     {
      "name": "LeekDuck",
      "url": "https://leekduck.com/events/gbl-daydream-destinations_great-league-mega-edition_master-league/",
-     "read": "2026-11-25T19:39:19Z"
+     "read": "2026-11-26T19:20:08Z"
     }
    ],
    "listed": true,
@@ -6218,7 +6484,7 @@
     {
      "name": "LeekDuck",
      "url": "https://leekduck.com/events/raid-day-february-2027/",
-     "read": "2026-11-25T19:39:19Z"
+     "read": "2026-11-26T19:20:08Z"
     }
    ],
    "listed": true,
@@ -6260,7 +6526,7 @@
     {
      "name": "LeekDuck",
      "url": "https://leekduck.com/events/gbl-daydream-destinations_ultra-league-mega-edition_love-cup-great-league-edition_2027-go-euic-cup/",
-     "read": "2026-11-25T19:39:19Z"
+     "read": "2026-11-26T19:20:08Z"
     }
    ],
    "listed": true,
@@ -6355,7 +6621,7 @@
     {
      "name": "LeekDuck",
      "url": "https://leekduck.com/events/pokemon-go-tour-alola-kaohsiung-2027/",
-     "read": "2026-11-25T19:39:19Z"
+     "read": "2026-11-26T19:20:08Z"
     }
    ],
    "listed": true,
@@ -6424,7 +6690,7 @@
     {
      "name": "LeekDuck",
      "url": "https://leekduck.com/events/choose-your-path-daydream-destinations-2027-02-16/",
-     "read": "2026-11-25T19:39:19Z"
+     "read": "2026-11-26T19:20:08Z"
     }
    ],
    "listed": true,
@@ -6490,7 +6756,7 @@
     {
      "name": "LeekDuck",
      "url": "https://leekduck.com/events/pokemon-go-tour-alola-los-angeles-2027/",
-     "read": "2026-11-25T19:39:19Z"
+     "read": "2026-11-26T19:20:08Z"
     }
    ],
    "listed": true,
@@ -6559,7 +6825,7 @@
     {
      "name": "LeekDuck",
      "url": "https://leekduck.com/events/gbl-daydream-destinations_master-league-mega-edition_mega-catch-cup-great-league-edition_2027-go-euic-cup/",
-     "read": "2026-11-25T19:39:19Z"
+     "read": "2026-11-26T19:20:08Z"
     }
    ],
    "listed": true,
@@ -6669,7 +6935,7 @@
     {
      "name": "LeekDuck",
      "url": "https://leekduck.com/events/pokemon-go-tour-alola-global-2027/",
-     "read": "2026-11-25T19:39:19Z"
+     "read": "2026-11-26T19:20:08Z"
     }
    ],
    "listed": true,
@@ -6946,7 +7212,7 @@
     {
      "name": "LeekDuck",
      "url": "https://leekduck.com/events/season-25-daydream-destinations/",
-     "read": "2026-11-25T19:39:19Z"
+     "read": "2026-11-26T19:20:08Z"
     }
    ],
    "listed": true,
@@ -7054,7 +7320,7 @@
     {
      "name": "LeekDuck",
      "url": "https://leekduck.com/events/gbl-daydream-destinations_great-league-mega-edition_ultra-league-mega-edition_master-league-mega-edition_mega-catch-cup-great-league-edition/",
-     "read": "2026-11-25T19:39:19Z"
+     "read": "2026-11-26T19:20:08Z"
     }
    ],
    "listed": true,
@@ -7221,7 +7487,7 @@
     {
      "name": "LeekDuck",
      "url": "https://leekduck.com/events/minior-showers-eta-aquariids-2027/",
-     "read": "2026-11-25T19:39:19Z"
+     "read": "2026-11-26T19:20:08Z"
     }
    ],
    "listed": true,
@@ -7364,7 +7630,7 @@
     {
      "name": "LeekDuck",
      "url": "https://leekduck.com/events/minior-showers-southern-delta-aquariids-2027/",
-     "read": "2026-11-25T19:39:19Z"
+     "read": "2026-11-26T19:20:08Z"
     }
    ],
    "listed": true,
@@ -7507,7 +7773,7 @@
     {
      "name": "LeekDuck",
      "url": "https://leekduck.com/events/minior-showers-perseids-2027/",
-     "read": "2026-11-25T19:39:19Z"
+     "read": "2026-11-26T19:20:08Z"
     }
    ],
    "listed": true,
@@ -7554,6 +7820,151 @@
     "groups": [],
     "read": true
    }
+  },
+  {
+   "id": "cresselia-darkrai-in-5-star-raid-battles-november-2026",
+   "name": "Cresselia and Darkrai in 5-star Raid Battles",
+   "type": "raid-battles",
+   "types": [
+    "raid-battles"
+   ],
+   "heading": "Raid Battles",
+   "link": "https://leekduck.com/events/cresselia-darkrai-in-5-star-raid-battles-november-2026/",
+   "image": "https://cdn.leekduck.com/assets/img/events/legendary-cresselia.jpg",
+   "start": {
+    "time": "2026-11-16T06:00:00",
+    "kind": "local"
+   },
+   "end": {
+    "time": "2026-11-24T22:00:00",
+    "kind": "local"
+   },
+   "inPerson": false,
+   "venueOffset": null,
+   "bonuses": [],
+   "times": [],
+   "notes": [
+    {
+     "title": "Shiny",
+     "text": "If you’re lucky, you may encounter Shiny forms of these Pokémon."
+    },
+    {
+     "title": "Shiny",
+     "text": "Cresselia, Darkrai"
+    }
+   ],
+   "daily": null,
+   "promoCodes": [],
+   "encounters": [
+    {
+     "group": "Raids",
+     "pokemon": [
+      {
+       "slug": "cresselia",
+       "name": "Cresselia",
+       "shiny": true
+      },
+      {
+       "slug": "darkrai",
+       "name": "Darkrai",
+       "shiny": true
+      }
+     ]
+    }
+   ],
+   "research": [],
+   "sources": [
+    {
+     "name": "LeekDuck",
+     "url": "https://leekduck.com/events/cresselia-darkrai-in-5-star-raid-battles-november-2026/",
+     "read": "2026-11-25T19:39:19Z"
+    }
+   ],
+   "listed": false,
+   "description": [
+    {
+     "kind": "text",
+     "text": "Cresselia and Darkrai will be in five-star raid battles from November 16, 2026 to November 24, 2026."
+    },
+    {
+     "kind": "text",
+     "text": "Raid bosses change at 6:00 a.m. local time."
+    },
+    {
+     "kind": "heading",
+     "text": "Raid Hours"
+    },
+    {
+     "kind": "text",
+     "text": "There will also be a Raid Hour featuring Cresselia and Darkrai from 6:00 p.m. to 7:00 p.m. local time on November 18."
+    }
+   ]
+  },
+  {
+   "id": "mega-banette-in-mega-raids-november-2026",
+   "name": "Mega Banette in Mega Raids",
+   "type": "raid-battles",
+   "types": [
+    "raid-battles"
+   ],
+   "heading": "Raid Battles",
+   "link": "https://leekduck.com/events/mega-banette-in-mega-raids-november-2026/",
+   "image": "https://cdn.leekduck.com/assets/img/events/mega-default.jpg",
+   "start": {
+    "time": "2026-11-16T06:00:00",
+    "kind": "local"
+   },
+   "end": {
+    "time": "2026-11-24T22:00:00",
+    "kind": "local"
+   },
+   "inPerson": false,
+   "venueOffset": null,
+   "bonuses": [],
+   "times": [],
+   "notes": [
+    {
+     "title": "Shiny",
+     "text": "If you’re lucky, you may encounter Shiny Banette."
+    },
+    {
+     "title": "Shiny",
+     "text": "Banette, Mega Banette"
+    }
+   ],
+   "daily": null,
+   "promoCodes": [],
+   "encounters": [
+    {
+     "group": "Raids",
+     "pokemon": [
+      {
+       "slug": "banette-mega",
+       "name": "Mega Banette",
+       "shiny": true
+      }
+     ]
+    }
+   ],
+   "research": [],
+   "sources": [
+    {
+     "name": "LeekDuck",
+     "url": "https://leekduck.com/events/mega-banette-in-mega-raids-november-2026/",
+     "read": "2026-11-25T19:39:19Z"
+    }
+   ],
+   "listed": false,
+   "description": [
+    {
+     "kind": "text",
+     "text": "Mega Banette will be in Mega Raids from November 16, 2026 at 6 am to November 24, 2026 at 10 pm local time."
+    },
+    {
+     "kind": "text",
+     "text": "Raid bosses change at 6:00 a.m. local time."
+    }
+   ]
   },
   {
    "id": "dynamax-trails-2026",

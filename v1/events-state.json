@@ -9,52 +9,6 @@
   }
  },
  "pages": {
-  "cresselia-darkrai-in-5-star-raid-battles-november-2026": {
-   "readers": [
-    "Claude",
-    "GPT"
-   ],
-   "hash": "sha256-eeeacd805d3df499f571836d69aa119bf839fbb7fc27218e9e36caf0a3517ced",
-   "readings": [
-    {
-     "debuts": [],
-     "featured_attacks": [],
-     "special_rules": [],
-     "season_groups": []
-    },
-    {
-     "debuts": [],
-     "featured_attacks": [],
-     "special_rules": [],
-     "season_groups": []
-    }
-   ],
-   "seen": {},
-   "open": []
-  },
-  "mega-banette-in-mega-raids-november-2026": {
-   "readers": [
-    "Claude",
-    "GPT"
-   ],
-   "hash": "sha256-7438c022b40a701e59ad9c4853fd396e1ef0a3a8e9cf64563ed39554dd08869f",
-   "readings": [
-    {
-     "debuts": [],
-     "featured_attacks": [],
-     "special_rules": [],
-     "season_groups": []
-    },
-    {
-     "debuts": [],
-     "featured_attacks": [],
-     "special_rules": [],
-     "season_groups": []
-    }
-   ],
-   "seen": {},
-   "open": []
-  },
   "raidhour20261125": {
    "readers": [
     "Claude",
@@ -106,7 +60,7 @@
     "Claude",
     "GPT"
    ],
-   "hash": "sha256-a9e3d90c72d1ad3b79a6d8815192a521034d3782293fe57c46d612ab92b8596c",
+   "hash": "sha256-1fbe10451fcd824572c3879c3d43b185fbb919193040b199942b5b6c254f27ad",
    "readings": [
     {
      "debuts": [
@@ -338,16 +292,12 @@
     "Claude",
     "GPT"
    ],
-   "hash": "sha256-cbaf6c69341eff86a05e362419363de17b19f063142c3c779a97db4ec7985260",
+   "hash": "sha256-d816103cbed303bb87d93ce4774389d0216348831083a050e82e698e06d5f448",
    "readings": [
     {
      "debuts": [],
      "featured_attacks": [],
      "special_rules": [
-      {
-       "heading": "Featured Pokémon",
-       "quote": "Espeon wearing a sun scarf, Umbreon wearing a moon scarf, and Rockruff are featured during Twilight Wishes. All three can be Shiny if you’re lucky!"
-      },
       {
        "heading": "Explore with Decor",
        "quote": "Stars will light up the in-game skies during Twilight Wishes, with colorful decor to enjoy as you explore."
@@ -372,11 +322,11 @@
     }
    ],
    "seen": {
-    "events:b915f7e1.rule.a860be:81c9740af259": {
+    "events:b915f7e1.rule.a860be:cd734c48f518": {
      "item": {
-      "id": "events:b915f7e1.rule.a860be:81c9740af259",
-      "kind": "auto-read",
-      "held": false,
+      "id": "events:b915f7e1.rule.a860be:cd734c48f518",
+      "kind": "model-disagreement",
+      "held": true,
       "origin": {
        "id": "page:twilight-wishes-2026",
        "title": "Twilight Wishes",
@@ -388,18 +338,29 @@
       "answerHint": "The sentence that states the rule",
       "readings": [
        {
-        "who": "Both models",
+        "who": "Claude",
+        "value": "Not read",
+        "url": "https://leekduck.com/events/twilight-wishes-2026/"
+       },
+       {
+        "who": "GPT",
         "value": "Espeon wearing a sun scarf, Umbreon wearing a moon scarf, and Rockruff are featured during Twilight Wishes. All three can be Shiny if you’re lucky!",
         "quote": "Espeon wearing a sun scarf, Umbreon wearing a moon scarf, and Rockruff are featured during Twilight Wishes. All three can be Shiny if you’re lucky!",
         "url": "https://leekduck.com/events/twilight-wishes-2026/"
        }
-      ],
-      "value": "Espeon wearing a sun scarf, Umbreon wearing a moon scarf, and Rockruff are featured during Twilight Wishes. All three can be Shiny if you’re lucky!"
+      ]
      },
      "meta": {
-      "source": "events:b915f7e1.rule.a860be:81c9740af259",
-      "value": "Espeon wearing a sun scarf, Umbreon wearing a moon scarf, and Rockruff are featured during Twilight Wishes. All three can be Shiny if you’re lucky!",
-      "ja": null
+      "source": "events:b915f7e1.rule.a860be:cd734c48f518",
+      "left": {
+       "quote": null,
+       "ja": null
+      },
+      "right": {
+       "value": "Espeon wearing a sun scarf, Umbreon wearing a moon scarf, and Rockruff are featured during Twilight Wishes. All three can be Shiny if you’re lucky!",
+       "quote": "Espeon wearing a sun scarf, Umbreon wearing a moon scarf, and Rockruff are featured during Twilight Wishes. All three can be Shiny if you’re lucky!",
+       "ja": null
+      }
      }
     },
     "events:b915f7e1.rule.e87801:fca464bdcabe": {
@@ -434,7 +395,7 @@
     }
    },
    "open": [
-    "events:b915f7e1.rule.a860be:81c9740af259",
+    "events:b915f7e1.rule.a860be:cd734c48f518",
     "events:b915f7e1.rule.e87801:fca464bdcabe"
    ]
   },
@@ -1371,28 +1332,110 @@
    "seen": {},
    "open": []
   },
-  "max-battle-day-december-2026": {
+  "gigantamax-inteleon-max-battle-day-2026": {
    "readers": [
     "Claude",
     "GPT"
    ],
-   "hash": "sha256-bba10d70d3183091aa083b9afcede45c8703c61b84d4bdc97f21a474483f1695",
+   "hash": "sha256-68e5ac62241af027fce1636824dfef5874bb82c0b9647b8d2c45ab2a034b0ad9",
    "readings": [
     {
      "debuts": [],
      "featured_attacks": [],
-     "special_rules": [],
+     "special_rules": [
+      {
+       "heading": "Featured Pokémon",
+       "quote": "The following Pokémon will appear in six-star Max Battles!"
+      },
+      {
+       "heading": "Where can I find Max Battles?",
+       "quote": "Max Battles appear at Power Spots and require teamwork. Use the Pokémon GO Map to find active battles and locations where battles may appear during the event."
+      }
+     ],
      "season_groups": []
     },
     {
      "debuts": [],
      "featured_attacks": [],
-     "special_rules": [],
+     "special_rules": [
+      {
+       "heading": "Featured Pokémon",
+       "quote": "The following Pokémon will appear in six-star Max Battles!"
+      },
+      {
+       "heading": "Where can I find Max Battles?",
+       "quote": "Max Battles appear at Power Spots and require teamwork. Use the Pokémon GO Map to find active battles and locations where battles may appear during the event."
+      }
+     ],
      "season_groups": []
     }
    ],
-   "seen": {},
-   "open": []
+   "seen": {
+    "events:c9c03342.rule.a860be:28bbdfed9bd7": {
+     "item": {
+      "id": "events:c9c03342.rule.a860be:28bbdfed9bd7",
+      "kind": "auto-read",
+      "held": false,
+      "origin": {
+       "id": "page:gigantamax-inteleon-max-battle-day-2026",
+       "title": "Gigantamax Inteleon Max Battle Day",
+       "note": "The event's own page, read by two models"
+      },
+      "field": "Special rule · Featured Pokémon",
+      "order": 5,
+      "answerFormat": "text",
+      "answerHint": "The sentence that states the rule",
+      "readings": [
+       {
+        "who": "Both models",
+        "value": "The following Pokémon will appear in six-star Max Battles!",
+        "quote": "The following Pokémon will appear in six-star Max Battles!",
+        "url": "https://leekduck.com/events/gigantamax-inteleon-max-battle-day-2026/"
+       }
+      ],
+      "value": "The following Pokémon will appear in six-star Max Battles!"
+     },
+     "meta": {
+      "source": "events:c9c03342.rule.a860be:28bbdfed9bd7",
+      "value": "The following Pokémon will appear in six-star Max Battles!",
+      "ja": null
+     }
+    },
+    "events:c9c03342.rule.4a308c:bd458555f7f9": {
+     "item": {
+      "id": "events:c9c03342.rule.4a308c:bd458555f7f9",
+      "kind": "auto-read",
+      "held": false,
+      "origin": {
+       "id": "page:gigantamax-inteleon-max-battle-day-2026",
+       "title": "Gigantamax Inteleon Max Battle Day",
+       "note": "The event's own page, read by two models"
+      },
+      "field": "Special rule · Where can I find Max Battles?",
+      "order": 6,
+      "answerFormat": "text",
+      "answerHint": "The sentence that states the rule",
+      "readings": [
+       {
+        "who": "Both models",
+        "value": "Max Battles appear at Power Spots and require teamwork. Use the Pokémon GO Map to find active battles and locations where battles may appear during the event.",
+        "quote": "Max Battles appear at Power Spots and require teamwork. Use the Pokémon GO Map to find active battles and locations where battles may appear during the event.",
+        "url": "https://leekduck.com/events/gigantamax-inteleon-max-battle-day-2026/"
+       }
+      ],
+      "value": "Max Battles appear at Power Spots and require teamwork. Use the Pokémon GO Map to find active battles and locations where battles may appear during the event."
+     },
+     "meta": {
+      "source": "events:c9c03342.rule.4a308c:bd458555f7f9",
+      "value": "Max Battles appear at Power Spots and require teamwork. Use the Pokémon GO Map to find active battles and locations where battles may appear during the event.",
+      "ja": null
+     }
+    }
+   },
+   "open": [
+    "events:c9c03342.rule.a860be:28bbdfed9bd7",
+    "events:c9c03342.rule.4a308c:bd458555f7f9"
+   ]
   },
   "tropical-paradise-2026": {
    "readers": [
@@ -2395,28 +2438,149 @@
     "events:3c15fdca.rule.9d0e8f:b8e0d4e9b645"
    ]
   },
-  "unannounced-event-december-2026": {
+  "pokemon-champions-celebration-event-2026": {
    "readers": [
     "Claude",
     "GPT"
    ],
-   "hash": "sha256-981929fa79c5198bae88b3a361307c14e94c5681f27a1d69c2d8fc9693ee47c8",
+   "hash": "sha256-02f6245fb1ea3b11ad64f822dd6bb39934df650bf373d8f4cfb66030bbf69e82",
    "readings": [
     {
      "debuts": [],
      "featured_attacks": [],
-     "special_rules": [],
+     "special_rules": [
+      {
+       "heading": "Pokémon HOME and Pokémon Champions",
+       "quote": "During the collaboration event period, you can transfer a Pokémon caught in Pokémon GO to Pokémon HOME, then send that Pokémon to visit Pokémon Champions to receive a gift in your Pokémon Champions mailbox. See the Pokémon HOME news post for details."
+      },
+      {
+       "heading": "Special Backgrounds",
+       "quote": "Pokémon encountered from raids during the event may have a Special Background. Five-star raid bosses with the Special Background are only available for the duration of the Pokémon Champions Celebration Event."
+      },
+      {
+       "heading": "Stickers",
+       "quote": "You’ll be able to get event-themed stickers by spinning PokéStops and opening Gifts."
+      }
+     ],
      "season_groups": []
     },
     {
      "debuts": [],
      "featured_attacks": [],
-     "special_rules": [],
+     "special_rules": [
+      {
+       "heading": "Pokémon HOME and Pokémon Champions",
+       "quote": "During the collaboration event period, you can transfer a Pokémon caught in Pokémon GO to Pokémon HOME, then send that Pokémon to visit Pokémon Champions to receive a gift in your Pokémon Champions mailbox. See the Pokémon HOME news post for details."
+      },
+      {
+       "heading": "Special Backgrounds",
+       "quote": "Pokémon encountered from raids during the event may have a Special Background. Five-star raid bosses with the Special Background are only available for the duration of the Pokémon Champions Celebration Event."
+      },
+      {
+       "heading": "Stickers",
+       "quote": "You’ll be able to get event-themed stickers by spinning PokéStops and opening Gifts."
+      }
+     ],
      "season_groups": []
     }
    ],
-   "seen": {},
-   "open": []
+   "seen": {
+    "events:0382811f.rule.033a61:de148fed5e9f": {
+     "item": {
+      "id": "events:0382811f.rule.033a61:de148fed5e9f",
+      "kind": "auto-read",
+      "held": false,
+      "origin": {
+       "id": "page:pokemon-champions-celebration-event-2026",
+       "title": "Pokémon Champions Celebration Event 2026",
+       "note": "The event's own page, read by two models"
+      },
+      "field": "Special rule · Pokémon HOME and Pokémon Champions",
+      "order": 5,
+      "answerFormat": "text",
+      "answerHint": "The sentence that states the rule",
+      "readings": [
+       {
+        "who": "Both models",
+        "value": "During the collaboration event period, you can transfer a Pokémon caught in Pokémon GO to Pokémon HOME, then send that Pokémon to visit Pokémon Champions to receive a gift in your Pokémon Champions mailbox. See the Pokémon HOME news post for details.",
+        "quote": "During the collaboration event period, you can transfer a Pokémon caught in Pokémon GO to Pokémon HOME, then send that Pokémon to visit Pokémon Champions to receive a gift in your Pokémon Champions mailbox. See the Pokémon HOME news post for details.",
+        "url": "https://leekduck.com/events/pokemon-champions-celebration-event-2026/"
+       }
+      ],
+      "value": "During the collaboration event period, you can transfer a Pokémon caught in Pokémon GO to Pokémon HOME, then send that Pokémon to visit Pokémon Champions to receive a gift in your Pokémon Champions mailbox. See the Pokémon HOME news post for details."
+     },
+     "meta": {
+      "source": "events:0382811f.rule.033a61:de148fed5e9f",
+      "value": "During the collaboration event period, you can transfer a Pokémon caught in Pokémon GO to Pokémon HOME, then send that Pokémon to visit Pokémon Champions to receive a gift in your Pokémon Champions mailbox. See the Pokémon HOME news post for details.",
+      "ja": null
+     }
+    },
+    "events:0382811f.rule.a8db38:331d9570fa54": {
+     "item": {
+      "id": "events:0382811f.rule.a8db38:331d9570fa54",
+      "kind": "auto-read",
+      "held": false,
+      "origin": {
+       "id": "page:pokemon-champions-celebration-event-2026",
+       "title": "Pokémon Champions Celebration Event 2026",
+       "note": "The event's own page, read by two models"
+      },
+      "field": "Special rule · Special Backgrounds",
+      "order": 6,
+      "answerFormat": "text",
+      "answerHint": "The sentence that states the rule",
+      "readings": [
+       {
+        "who": "Both models",
+        "value": "Pokémon encountered from raids during the event may have a Special Background. Five-star raid bosses with the Special Background are only available for the duration of the Pokémon Champions Celebration Event.",
+        "quote": "Pokémon encountered from raids during the event may have a Special Background. Five-star raid bosses with the Special Background are only available for the duration of the Pokémon Champions Celebration Event.",
+        "url": "https://leekduck.com/events/pokemon-champions-celebration-event-2026/"
+       }
+      ],
+      "value": "Pokémon encountered from raids during the event may have a Special Background. Five-star raid bosses with the Special Background are only available for the duration of the Pokémon Champions Celebration Event."
+     },
+     "meta": {
+      "source": "events:0382811f.rule.a8db38:331d9570fa54",
+      "value": "Pokémon encountered from raids during the event may have a Special Background. Five-star raid bosses with the Special Background are only available for the duration of the Pokémon Champions Celebration Event.",
+      "ja": null
+     }
+    },
+    "events:0382811f.rule.5971f2:4677a6858614": {
+     "item": {
+      "id": "events:0382811f.rule.5971f2:4677a6858614",
+      "kind": "auto-read",
+      "held": false,
+      "origin": {
+       "id": "page:pokemon-champions-celebration-event-2026",
+       "title": "Pokémon Champions Celebration Event 2026",
+       "note": "The event's own page, read by two models"
+      },
+      "field": "Special rule · Stickers",
+      "order": 7,
+      "answerFormat": "text",
+      "answerHint": "The sentence that states the rule",
+      "readings": [
+       {
+        "who": "Both models",
+        "value": "You’ll be able to get event-themed stickers by spinning PokéStops and opening Gifts.",
+        "quote": "You’ll be able to get event-themed stickers by spinning PokéStops and opening Gifts.",
+        "url": "https://leekduck.com/events/pokemon-champions-celebration-event-2026/"
+       }
+      ],
+      "value": "You’ll be able to get event-themed stickers by spinning PokéStops and opening Gifts."
+     },
+     "meta": {
+      "source": "events:0382811f.rule.5971f2:4677a6858614",
+      "value": "You’ll be able to get event-themed stickers by spinning PokéStops and opening Gifts.",
+      "ja": null
+     }
+    }
+   },
+   "open": [
+    "events:0382811f.rule.033a61:de148fed5e9f",
+    "events:0382811f.rule.a8db38:331d9570fa54",
+    "events:0382811f.rule.5971f2:4677a6858614"
+   ]
   },
   "max-mondays-2026-12-14": {
    "readers": [
@@ -2487,12 +2651,12 @@
    "seen": {},
    "open": []
   },
-  "unannounced-pokemon-in-5-star-raid-battles-december-2026": {
+  "pokemon-champions-celebration-5-star-raid-battles-december-2026": {
    "readers": [
     "Claude",
     "GPT"
    ],
-   "hash": "sha256-f2c4b0e88536de2266b497d817ba743d31ae7b85718123b530164ec7994cada4",
+   "hash": "sha256-ac4557f6c44716eeac481be95bc2f47646ea4bc9bd5b674be663df6c00cb032a",
    "readings": [
     {
      "debuts": [],
@@ -5492,84 +5656,6 @@
   }
  },
  "parsed": {
-  "cresselia-darkrai-in-5-star-raid-battles-november-2026": {
-   "description": [
-    {
-     "kind": "text",
-     "text": "Cresselia and Darkrai will be in five-star raid battles from November 16, 2026 to November 24, 2026."
-    },
-    {
-     "kind": "text",
-     "text": "Raid bosses change at 6:00 a.m. local time."
-    },
-    {
-     "kind": "heading",
-     "text": "Raid Hours"
-    },
-    {
-     "kind": "text",
-     "text": "There will also be a Raid Hour featuring Cresselia and Darkrai from 6:00 p.m. to 7:00 p.m. local time on November 18."
-    }
-   ],
-   "research": [],
-   "pokemon": [],
-   "shiny": {
-    "notes": [
-     "If you’re lucky, you may encounter Shiny forms of these Pokémon.",
-     "Cresselia, Darkrai"
-    ],
-    "pokemon": [
-     {
-      "name": "Cresselia",
-      "written": "Cresselia",
-      "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_488_00_shiny.png",
-      "shiny": false
-     },
-     {
-      "name": "Darkrai",
-      "written": "Darkrai",
-      "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_491_00_shiny.png",
-      "shiny": false
-     }
-    ]
-   },
-   "bonuses": []
-  },
-  "mega-banette-in-mega-raids-november-2026": {
-   "description": [
-    {
-     "kind": "text",
-     "text": "Mega Banette will be in Mega Raids from November 16, 2026 at 6 am to November 24, 2026 at 10 pm local time."
-    },
-    {
-     "kind": "text",
-     "text": "Raid bosses change at 6:00 a.m. local time."
-    }
-   ],
-   "research": [],
-   "pokemon": [],
-   "shiny": {
-    "notes": [
-     "If you’re lucky, you may encounter Shiny Banette.",
-     "Banette, Mega Banette"
-    ],
-    "pokemon": [
-     {
-      "name": "Banette",
-      "written": "Banette",
-      "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_354_00_shiny.png",
-      "shiny": false
-     },
-     {
-      "name": "Mega Banette",
-      "written": "Mega Banette",
-      "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm354.fMEGA.s.icon.png",
-      "shiny": false
-     }
-    ]
-   },
-   "bonuses": []
-  },
   "raidhour20261125": {
    "description": [
     {
@@ -5988,6 +6074,42 @@
        ]
       },
       {
+       "text": "Use an Incense",
+       "rewards": [
+        {
+         "type": "encounter",
+         "name": "Bramblin",
+         "image": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm946.icon.png",
+         "shiny": false,
+         "cp": {
+          "min": 343,
+          "max": 375
+         }
+        }
+       ]
+      },
+      {
+       "text": "Win a raid",
+       "rewards": [
+        {
+         "type": "encounter",
+         "name": "Halloween Drifblim",
+         "image": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm426.cHALLOWEEN_2021_NOEVOLVE.icon.png",
+         "shiny": true
+        },
+        {
+         "type": "encounter",
+         "name": "Spooky Festival Gengar",
+         "image": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm94.cFALL_2022_NOEVOLVE.icon.png",
+         "shiny": true,
+         "cp": {
+          "min": 1175,
+          "max": 1233
+         }
+        }
+       ]
+      },
+      {
        "text": "Mega Evolve a Pokémon",
        "rewards": [
         {
@@ -6013,47 +6135,6 @@
          "name": "Sableye Mega Energy",
          "quantity": 25,
          "image": "https://cdn.leekduck.com/assets/img/mega_energy/Sableye Mega Energy.png"
-        }
-       ]
-      },
-      {
-       "text": "???",
-       "rewards": [
-        {
-         "type": "encounter",
-         "name": "Spooky Festival Gengar",
-         "image": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm94.cFALL_2022_NOEVOLVE.icon.png",
-         "shiny": true,
-         "cp": {
-          "min": 1175,
-          "max": 1233
-         }
-        }
-       ]
-      },
-      {
-       "text": "???",
-       "rewards": [
-        {
-         "type": "encounter",
-         "name": "Halloween Drifblim",
-         "image": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm426.cHALLOWEEN_2021_NOEVOLVE.icon.png",
-         "shiny": true
-        }
-       ]
-      },
-      {
-       "text": "???",
-       "rewards": [
-        {
-         "type": "encounter",
-         "name": "Bramblin",
-         "image": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm946.icon.png",
-         "shiny": false,
-         "cp": {
-          "min": 343,
-          "max": 375
-         }
         }
        ]
       }
@@ -6664,20 +6745,59 @@
    },
    "bonuses": []
   },
-  "max-battle-day-december-2026": {
+  "gigantamax-inteleon-max-battle-day-2026": {
    "description": [
     {
      "kind": "text",
-     "text": "The Max Battle Day event will take place on December 5, 2026 from 2 pm to 5 pm. Stay tuned for more details."
+     "text": "The Gigantamax Inteleon Max Battle Day event will take place on December 5, 2026 from 2 pm to 5 pm local time."
     }
    ],
    "research": [],
    "pokemon": [],
    "shiny": {
-    "notes": [],
-    "pokemon": []
+    "notes": [
+     "Shiny Gigantamax Inteleon will be released with the start of the event.",
+     "Gigantamax Inteleon"
+    ],
+    "pokemon": [
+     {
+      "name": "Gigantamax Inteleon",
+      "written": "Gigantamax Inteleon",
+      "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm818.fGIGANTAMAX.s.icon.png",
+      "shiny": false
+     }
+    ]
    },
-   "bonuses": []
+   "bonuses": [
+    {
+     "title": null,
+     "description": null,
+     "items": [
+      "Max Particle collection limit increased to 1,600",
+      "All Power Spots will host Gigantamax Battles",
+      "Power Spots will refresh more frequently",
+      "Additional Power Spots will be active",
+      "8× Max Particles from Power Spots",
+      "Up to three Special Trades for the day",
+      "From December 4 at 4:00 p.m. to December 5 at 8:00 p.m. PST (GMT −8), the daily Remote Raid limit will increase from 10 to 20"
+     ]
+    },
+    {
+     "title": null,
+     "description": null,
+     "items": [
+      "2× Max Particles from exploring*",
+      "1/4 Adventuring distance to receive Max Particles**"
+     ]
+    },
+    {
+     "title": "Event Ticket",
+     "description": null,
+     "items": [
+      "2× XP from Max Battles"
+     ]
+    }
+   ]
   },
   "tropical-paradise-2026": {
    "description": [
@@ -7400,20 +7520,112 @@
     }
    ]
   },
-  "unannounced-event-december-2026": {
+  "pokemon-champions-celebration-event-2026": {
    "description": [
     {
      "kind": "text",
-     "text": "An event that has not been announced yet will take place from December 8 to December 14, 2026. Stay tuned for more details."
+     "text": "Celebrate Pokémon Champions in Pokémon GO with the Pokémon Champions Celebration Event! Look for event-themed wild encounters, raids featuring Pokémon with a Special Background, an event GO Pass, and gifts for sending Pokémon from Pokémon HOME to visit Pokémon Champions."
     }
    ],
-   "research": [],
-   "pokemon": [],
+   "research": [
+    {
+     "kind": "field",
+     "title": "Field Research",
+     "step": null,
+     "tasks": [
+      {
+       "text": "???",
+       "rewards": [
+        {
+         "type": "item",
+         "name": "Rare Candy ×?",
+         "quantity": 1,
+         "image": "https://cdn.leekduck.com/assets/img/items/Rare Candy.png"
+        }
+       ]
+      }
+     ],
+     "rewards": []
+    }
+   ],
+   "pokemon": [
+    {
+     "group": "Wild",
+     "name": "Charmander",
+     "written": "Charmander",
+     "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_004_00.png",
+     "shiny": true
+    },
+    {
+     "group": "Wild",
+     "name": "Starly",
+     "written": "Starly",
+     "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_396_00.png",
+     "shiny": true
+    },
+    {
+     "group": "Wild",
+     "name": "Grookey",
+     "written": "Grookey",
+     "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm810.icon.png",
+     "shiny": true
+    },
+    {
+     "group": "Wild",
+     "name": "Absol",
+     "written": "Absol",
+     "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_359_00.png",
+     "shiny": true
+    },
+    {
+     "group": "Wild",
+     "name": "Gible",
+     "written": "Gible",
+     "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_443_00.png",
+     "shiny": true
+    }
+   ],
    "shiny": {
     "notes": [],
     "pokemon": []
    },
-   "bonuses": []
+   "bonuses": [
+    {
+     "title": null,
+     "description": null,
+     "items": [
+      "Increased chance to encounter Kecleon at PokéStops"
+     ]
+    },
+    {
+     "title": "Tier 1 Bonus – Starting at Rank 1",
+     "description": null,
+     "items": [
+      "7× GO Transporter Energy gained per hour to send a Pokémon from Pokémon GO to Pokémon HOME"
+     ]
+    },
+    {
+     "title": "Tier 2 Bonus – Starting at Rank 10",
+     "description": null,
+     "items": [
+      "2× Candy for catching Pokémon*"
+     ]
+    },
+    {
+     "title": "Tier 3 Bonus – Starting at Rank 20",
+     "description": null,
+     "items": [
+      "3,000 additional XP from completing Raid Battles"
+     ]
+    },
+    {
+     "title": "Tier 3 Bonus – Starting at Rank 20",
+     "description": null,
+     "items": [
+      "GO Pass Deluxe: Receive up to two free Raid Passes per day from spinning Gym Photo Discs"
+     ]
+    }
+   ]
   },
   "max-mondays-2026-12-14": {
    "description": [
@@ -7536,11 +7748,15 @@
    },
    "bonuses": []
   },
-  "unannounced-pokemon-in-5-star-raid-battles-december-2026": {
+  "pokemon-champions-celebration-5-star-raid-battles-december-2026": {
    "description": [
     {
      "kind": "text",
-     "text": "A five-star raid boss that has not been announced yet will be in five-star raid battles from December 9, 2026 to December 15, 2026. Stay tuned for more details."
+     "text": "As part of the Pokémon Champions Celebration Event, Latias, Latios, Heatran, Cobalion, Terrakion, Virizion, Regieleki, and Regidrago will have scheduled appearances in five-star raid battles from December 9, 2026 to December 15, 2026. They are part of the Seasonal rotation; the daily schedule has not been announced yet."
+    },
+    {
+     "kind": "text",
+     "text": "The Special Background will only be available for the duration of the Pokémon Champions Celebration Event, which ends on December 14 at 8:00 p.m. local time."
     },
     {
      "kind": "text",
@@ -7552,14 +7768,66 @@
     },
     {
      "kind": "text",
-     "text": "There will also be a Raid Hour featuring this raid boss from 6:00 p.m. to 7:00 p.m. local time on December 9."
+     "text": "There will also be a Raid Hour from 6:00 p.m. to 7:00 p.m. local time on December 9."
     }
    ],
    "research": [],
    "pokemon": [],
    "shiny": {
-    "notes": [],
-    "pokemon": []
+    "notes": [
+     "If you’re lucky, you might encounter a Shiny one or one that has a Special Background!",
+     "Latias, Latios, Heatran, Cobalion, Terrakion, Virizion, Regieleki, Regidrago"
+    ],
+    "pokemon": [
+     {
+      "name": "Latias",
+      "written": "Latias",
+      "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_380_00_shiny.png",
+      "shiny": false
+     },
+     {
+      "name": "Latios",
+      "written": "Latios",
+      "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_381_00_shiny.png",
+      "shiny": false
+     },
+     {
+      "name": "Heatran",
+      "written": "Heatran",
+      "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_485_00_shiny.png",
+      "shiny": false
+     },
+     {
+      "name": "Cobalion",
+      "written": "Cobalion",
+      "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_638_00_shiny.png",
+      "shiny": false
+     },
+     {
+      "name": "Terrakion",
+      "written": "Terrakion",
+      "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_639_00_shiny.png",
+      "shiny": false
+     },
+     {
+      "name": "Virizion",
+      "written": "Virizion",
+      "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_640_00_shiny.png",
+      "shiny": false
+     },
+     {
+      "name": "Regieleki",
+      "written": "Regieleki",
+      "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm894.s.icon.png",
+      "shiny": false
+     },
+     {
+      "name": "Regidrago",
+      "written": "Regidrago",
+      "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm895.s.icon.png",
+      "shiny": false
+     }
+    ]
    },
    "bonuses": []
   },
@@ -9760,6 +10028,10 @@
   "https://cdn.leekduck.com/assets/img/items/Premium Battle Pass.png": {
    "etag": "\"368cd46e0528a4f36e7bc01f28241359\"",
    "path": "art/a27f0f6cda349182c32a440f00f5e804.png"
+  },
+  "https://cdn.leekduck.com/assets/img/items/Rare Candy.png": {
+   "etag": "\"870f0c46846bd7b049eb02979cee0b9d\"",
+   "path": "art/8c12268c3deec1373558268fa1ae556b.png"
   },
   "https://cdn.leekduck.com/assets/img/items/Razz Berry.png": {
    "etag": "\"d26335ffd1d5d0318ca8e3447d6ae43e\"",

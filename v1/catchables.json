@@ -209,6 +209,23 @@
    }
   },
   {
+   "slug": "clefable",
+   "name": "Clefable",
+   "kind": "raid",
+   "level": 20,
+   "boostedLevel": 25,
+   "floor": 10,
+   "boostedFloor": 10,
+   "start": {
+    "time": "2026-11-28T14:00:00",
+    "kind": "local"
+   },
+   "end": {
+    "time": "2026-11-28T17:00:00",
+    "kind": "local"
+   }
+  },
+  {
    "slug": "larvitar-shadow",
    "name": "Shadow Larvitar",
    "kind": "raid",
@@ -2068,6 +2085,48 @@
   {
    "slug": "applin",
    "name": "Applin",
+   "kind": "research",
+   "level": 15,
+   "boostedLevel": null,
+   "floor": 10,
+   "boostedFloor": null,
+   "start": null,
+   "end": {
+    "time": "2026-11-30T20:00:00",
+    "kind": "local"
+   }
+  },
+  {
+   "slug": "bramblin",
+   "name": "Bramblin",
+   "kind": "research",
+   "level": 15,
+   "boostedLevel": null,
+   "floor": 10,
+   "boostedFloor": null,
+   "start": null,
+   "end": {
+    "time": "2026-11-30T20:00:00",
+    "kind": "local"
+   }
+  },
+  {
+   "slug": "gengar-fall-2022",
+   "name": "Spooky Festival Gengar",
+   "kind": "research",
+   "level": 15,
+   "boostedLevel": null,
+   "floor": 10,
+   "boostedFloor": null,
+   "start": null,
+   "end": {
+    "time": "2026-11-30T20:00:00",
+    "kind": "local"
+   }
+  },
+  {
+   "slug": "drifblim-halloween-2021",
+   "name": "Halloween Hat Drifblim",
    "kind": "research",
    "level": 15,
    "boostedLevel": null,

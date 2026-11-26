@@ -296,6 +296,1446 @@
    }
   },
   {
+   "id": "clefable-super-mega-raid-day-2026",
+   "title": "Clefable Super Mega Raid Day",
+   "kind": "regular",
+   "start": {
+    "time": "2026-11-28T14:00:00",
+    "kind": "local"
+   },
+   "end": {
+    "time": "2026-11-28T17:00:00",
+    "kind": "local"
+   },
+   "tiers": [
+    {
+     "tier": "super-mega-raids",
+     "label": "Super Mega Raids",
+     "note": "Mega Clefable makes its Pokémon GO debut. Clefable caught from Super Mega Raids will have Mega Level 1 unlocked, with an increased chance of encountering a Shiny one.",
+     "bosses": [
+      {
+       "slug": "clefable-mega",
+       "name": "Mega Clefable",
+       "shiny": false,
+       "types": [
+        "Fairy",
+        "Flying"
+       ],
+       "cp": {
+        "min": 1322,
+        "max": 1392
+       },
+       "boostedCp": {
+        "min": 1653,
+        "max": 1741
+       },
+       "weather": [
+        "Cloudy",
+        "Windy"
+       ],
+       "status": "auto-read"
+      }
+     ]
+    }
+   ],
+   "fallback": {
+    "status": "auto-read"
+   }
+  },
+  {
+   "id": "tropical-paradise-2026",
+   "title": "Tropical Paradise 2026",
+   "kind": "regular",
+   "start": {
+    "time": "2026-12-01T10:00:00",
+    "kind": "local"
+   },
+   "end": {
+    "time": "2026-12-02T06:00:00",
+    "kind": "local"
+   },
+   "tiers": [
+    {
+     "tier": "1",
+     "label": "1-Star Raids",
+     "note": null,
+     "bosses": [
+      {
+       "slug": "diglett-alola",
+       "name": "Alolan Diglett",
+       "shiny": true,
+       "types": [
+        "Ground",
+        "Steel"
+       ],
+       "cp": {
+        "min": 352,
+        "max": 389
+       },
+       "boostedCp": {
+        "min": 440,
+        "max": 486
+       },
+       "weather": [
+        "Sunny",
+        "Snow"
+       ]
+      },
+      {
+       "slug": "frillish",
+       "name": "Frillish",
+       "shiny": true,
+       "types": [
+        "Water",
+        "Ghost"
+       ],
+       "cp": {
+        "min": 668,
+        "max": 718
+       },
+       "boostedCp": {
+        "min": 835,
+        "max": 898
+       },
+       "weather": [
+        "Rainy",
+        "Fog"
+       ]
+      },
+      {
+       "slug": "frillish",
+       "name": "Frillish",
+       "shiny": true,
+       "types": [
+        "Water",
+        "Ghost"
+       ],
+       "cp": {
+        "min": 668,
+        "max": 718
+       },
+       "boostedCp": {
+        "min": 835,
+        "max": 898
+       },
+       "weather": [
+        "Rainy",
+        "Fog"
+       ]
+      },
+      {
+       "slug": "sandygast",
+       "name": "Sandygast",
+       "shiny": true,
+       "types": [
+        "Ghost",
+        "Ground"
+       ],
+       "cp": {
+        "min": 655,
+        "max": 705
+       },
+       "boostedCp": {
+        "min": 819,
+        "max": 881
+       },
+       "weather": [
+        "Fog",
+        "Sunny"
+       ]
+      }
+     ]
+    },
+    {
+     "tier": "3",
+     "label": "3-Star Raids",
+     "note": null,
+     "bosses": [
+      {
+       "slug": "pyukumuku",
+       "name": "Pyukumuku",
+       "shiny": true,
+       "types": [
+        "Water"
+       ],
+       "cp": {
+        "min": 729,
+        "max": 784
+       },
+       "boostedCp": {
+        "min": 912,
+        "max": 980
+       },
+       "weather": [
+        "Rainy"
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "tropical-paradise-2026-regidrago",
+   "title": "Tropical Paradise 2026 (Regidrago)",
+   "kind": "regular",
+   "start": {
+    "time": "2026-12-02T06:00:00",
+    "kind": "local"
+   },
+   "end": {
+    "time": "2026-12-07T20:00:00",
+    "kind": "local"
+   },
+   "tiers": [
+    {
+     "tier": "1",
+     "label": "1-Star Raids",
+     "note": null,
+     "bosses": [
+      {
+       "slug": "diglett-alola",
+       "name": "Alolan Diglett",
+       "shiny": false,
+       "types": [
+        "Ground",
+        "Steel"
+       ],
+       "cp": {
+        "min": 352,
+        "max": 389
+       },
+       "boostedCp": {
+        "min": 440,
+        "max": 486
+       },
+       "weather": [
+        "Sunny",
+        "Snow"
+       ],
+       "status": "auto-read"
+      },
+      {
+       "slug": "frillish",
+       "name": "Frillish",
+       "shiny": false,
+       "types": [
+        "Water",
+        "Ghost"
+       ],
+       "cp": {
+        "min": 668,
+        "max": 718
+       },
+       "boostedCp": {
+        "min": 835,
+        "max": 898
+       },
+       "weather": [
+        "Rainy",
+        "Fog"
+       ],
+       "status": "auto-read"
+      },
+      {
+       "slug": null,
+       "name": "Frillish (Female)",
+       "unmatched": true,
+       "source": "Frillish (Female)",
+       "shiny": false,
+       "types": [
+        "Water",
+        "Ghost"
+       ],
+       "cp": {
+        "min": 668,
+        "max": 718
+       },
+       "boostedCp": {
+        "min": 835,
+        "max": 898
+       },
+       "weather": [
+        "Rainy",
+        "Fog"
+       ],
+       "status": "auto-read"
+      },
+      {
+       "slug": "sandygast",
+       "name": "Sandygast",
+       "shiny": false,
+       "types": [
+        "Ghost",
+        "Ground"
+       ],
+       "cp": {
+        "min": 655,
+        "max": 705
+       },
+       "boostedCp": {
+        "min": 819,
+        "max": 881
+       },
+       "weather": [
+        "Fog",
+        "Sunny"
+       ],
+       "status": "auto-read"
+      }
+     ]
+    },
+    {
+     "tier": "3",
+     "label": "3-Star Raids",
+     "note": null,
+     "bosses": [
+      {
+       "slug": "pyukumuku",
+       "name": "Pyukumuku",
+       "shiny": false,
+       "types": [
+        "Water"
+       ],
+       "cp": {
+        "min": 729,
+        "max": 784
+       },
+       "boostedCp": {
+        "min": 912,
+        "max": 980
+       },
+       "weather": [
+        "Rainy"
+       ],
+       "status": "auto-read"
+      }
+     ]
+    },
+    {
+     "tier": "5",
+     "label": "5-Star Raids",
+     "note": "Regidrago Raid Hour on Wednesday, December 2, from 6:00 p.m. to 7:00 p.m. local time.",
+     "bosses": [
+      {
+       "slug": "regidrago",
+       "name": "Regidrago",
+       "shiny": false,
+       "types": [
+        "Dragon"
+       ],
+       "cp": {
+        "min": 1614,
+        "max": 1699
+       },
+       "boostedCp": {
+        "min": 2017,
+        "max": 2124
+       },
+       "weather": [
+        "Windy"
+       ],
+       "status": "auto-read"
+      }
+     ]
+    },
+    {
+     "tier": "mega-raids",
+     "label": "Mega Raids",
+     "note": null,
+     "bosses": [
+      {
+       "slug": "slowbro-mega",
+       "name": "Mega Slowbro",
+       "shiny": false,
+       "types": [
+        "Water",
+        "Psychic"
+       ],
+       "cp": {
+        "min": 1382,
+        "max": 1454
+       },
+       "boostedCp": {
+        "min": 1728,
+        "max": 1817
+       },
+       "weather": [
+        "Rainy",
+        "Windy"
+       ],
+       "status": "auto-read"
+      }
+     ]
+    }
+   ],
+   "fallback": {
+    "status": "auto-read"
+   }
+  },
+  {
+   "id": "pokemon-champions-celebration-event-2026-regidrago",
+   "title": "Pokémon Champions Celebration Event 2026 (Regidrago)",
+   "kind": "regular",
+   "start": {
+    "time": "2026-12-08T10:00:00",
+    "kind": "local"
+   },
+   "end": {
+    "time": "2026-12-09T06:00:00",
+    "kind": "local"
+   },
+   "tiers": [
+    {
+     "tier": "1",
+     "label": "1-Star Raids",
+     "note": "Raid Pokémon may have a Special Background during the event.",
+     "bosses": [
+      {
+       "slug": "bagon",
+       "name": "Bagon",
+       "shiny": false,
+       "types": [
+        "Dragon"
+       ],
+       "cp": {
+        "min": 612,
+        "max": 660
+       },
+       "boostedCp": {
+        "min": 765,
+        "max": 826
+       },
+       "weather": [
+        "Windy"
+       ],
+       "status": "auto-read"
+      },
+      {
+       "slug": "litten",
+       "name": "Litten",
+       "shiny": false,
+       "types": [
+        "Fire"
+       ],
+       "cp": {
+        "min": 545,
+        "max": 591
+       },
+       "boostedCp": {
+        "min": 682,
+        "max": 739
+       },
+       "weather": [
+        "Sunny"
+       ],
+       "status": "auto-read"
+      },
+      {
+       "slug": "frigibax",
+       "name": "Frigibax",
+       "shiny": false,
+       "types": [
+        "Dragon",
+        "Ice"
+       ],
+       "cp": {
+        "min": 662,
+        "max": 712
+       },
+       "boostedCp": {
+        "min": 827,
+        "max": 891
+       },
+       "weather": [
+        "Windy",
+        "Snow"
+       ],
+       "status": "auto-read"
+      }
+     ]
+    },
+    {
+     "tier": "3",
+     "label": "3-Star Raids",
+     "note": null,
+     "bosses": [
+      {
+       "slug": "raichu",
+       "name": "Raichu",
+       "shiny": false,
+       "types": [
+        "Electric"
+       ],
+       "cp": {
+        "min": 1180,
+        "max": 1247
+       },
+       "boostedCp": {
+        "min": 1476,
+        "max": 1558
+       },
+       "weather": [
+        "Rainy"
+       ],
+       "status": "auto-read"
+      },
+      {
+       "slug": "garchomp",
+       "name": "Garchomp",
+       "shiny": false,
+       "types": [
+        "Dragon",
+        "Ground"
+       ],
+       "cp": {
+        "min": 2174,
+        "max": 2264
+       },
+       "boostedCp": {
+        "min": 2718,
+        "max": 2830
+       },
+       "weather": [
+        "Windy",
+        "Sunny"
+       ],
+       "status": "auto-read"
+      },
+      {
+       "slug": "rillaboom",
+       "name": "Rillaboom",
+       "shiny": false,
+       "types": [
+        "Grass"
+       ],
+       "cp": {
+        "min": 1817,
+        "max": 1899
+       },
+       "boostedCp": {
+        "min": 2272,
+        "max": 2374
+       },
+       "weather": [
+        "Sunny"
+       ],
+       "status": "auto-read"
+      }
+     ]
+    },
+    {
+     "tier": "5",
+     "label": "5-Star Raids",
+     "note": "Regidrago is available until December 8 at 10:00 p.m. local time.",
+     "bosses": [
+      {
+       "slug": "regidrago",
+       "name": "Regidrago",
+       "shiny": false,
+       "types": [
+        "Dragon"
+       ],
+       "cp": {
+        "min": 1614,
+        "max": 1699
+       },
+       "boostedCp": {
+        "min": 2017,
+        "max": 2124
+       },
+       "weather": [
+        "Windy"
+       ],
+       "status": "auto-read"
+      }
+     ]
+    },
+    {
+     "tier": "mega-raids",
+     "label": "Mega Raids",
+     "note": "Mega Slowbro is available until December 8 at 10:00 p.m. local time.",
+     "bosses": [
+      {
+       "slug": "slowbro-mega",
+       "name": "Mega Slowbro",
+       "shiny": false,
+       "types": [
+        "Water",
+        "Psychic"
+       ],
+       "cp": {
+        "min": 1382,
+        "max": 1454
+       },
+       "boostedCp": {
+        "min": 1728,
+        "max": 1817
+       },
+       "weather": [
+        "Rainy",
+        "Windy"
+       ],
+       "status": "auto-read"
+      }
+     ]
+    }
+   ],
+   "fallback": {
+    "status": "auto-read"
+   }
+  },
+  {
+   "id": "pokemon-champions-celebration-event-2026-legendaries",
+   "title": "Pokémon Champions Celebration Event 2026 (Legendary Rotation)",
+   "kind": "regular",
+   "start": {
+    "time": "2026-12-09T06:00:00",
+    "kind": "local"
+   },
+   "end": {
+    "time": "2026-12-14T20:00:00",
+    "kind": "local"
+   },
+   "tiers": [
+    {
+     "tier": "1",
+     "label": "1-Star Raids",
+     "note": "Raid Pokémon may have a Special Background during the event.",
+     "bosses": [
+      {
+       "slug": "bagon",
+       "name": "Bagon",
+       "shiny": false,
+       "types": [
+        "Dragon"
+       ],
+       "cp": {
+        "min": 612,
+        "max": 660
+       },
+       "boostedCp": {
+        "min": 765,
+        "max": 826
+       },
+       "weather": [
+        "Windy"
+       ],
+       "status": "auto-read"
+      },
+      {
+       "slug": "litten",
+       "name": "Litten",
+       "shiny": false,
+       "types": [
+        "Fire"
+       ],
+       "cp": {
+        "min": 545,
+        "max": 591
+       },
+       "boostedCp": {
+        "min": 682,
+        "max": 739
+       },
+       "weather": [
+        "Sunny"
+       ],
+       "status": "auto-read"
+      },
+      {
+       "slug": "frigibax",
+       "name": "Frigibax",
+       "shiny": false,
+       "types": [
+        "Dragon",
+        "Ice"
+       ],
+       "cp": {
+        "min": 662,
+        "max": 712
+       },
+       "boostedCp": {
+        "min": 827,
+        "max": 891
+       },
+       "weather": [
+        "Windy",
+        "Snow"
+       ],
+       "status": "auto-read"
+      }
+     ]
+    },
+    {
+     "tier": "3",
+     "label": "3-Star Raids",
+     "note": null,
+     "bosses": [
+      {
+       "slug": "raichu",
+       "name": "Raichu",
+       "shiny": false,
+       "types": [
+        "Electric"
+       ],
+       "cp": {
+        "min": 1180,
+        "max": 1247
+       },
+       "boostedCp": {
+        "min": 1476,
+        "max": 1558
+       },
+       "weather": [
+        "Rainy"
+       ],
+       "status": "auto-read"
+      },
+      {
+       "slug": "garchomp",
+       "name": "Garchomp",
+       "shiny": false,
+       "types": [
+        "Dragon",
+        "Ground"
+       ],
+       "cp": {
+        "min": 2174,
+        "max": 2264
+       },
+       "boostedCp": {
+        "min": 2718,
+        "max": 2830
+       },
+       "weather": [
+        "Windy",
+        "Sunny"
+       ],
+       "status": "auto-read"
+      },
+      {
+       "slug": "rillaboom",
+       "name": "Rillaboom",
+       "shiny": false,
+       "types": [
+        "Grass"
+       ],
+       "cp": {
+        "min": 1817,
+        "max": 1899
+       },
+       "boostedCp": {
+        "min": 2272,
+        "max": 2374
+       },
+       "weather": [
+        "Sunny"
+       ],
+       "status": "auto-read"
+      }
+     ]
+    },
+    {
+     "tier": "5",
+     "label": "5-Star Raids",
+     "note": "These Pokémon are part of the Seasonal rotation and will have scheduled appearances from December 9 to December 15. The Special Background is only available until the event ends on December 14 at 8:00 p.m. local time.",
+     "bosses": [
+      {
+       "slug": "latias",
+       "name": "Latias",
+       "shiny": false,
+       "types": [
+        "Dragon",
+        "Psychic"
+       ],
+       "cp": {
+        "min": 1921,
+        "max": 2006
+       },
+       "boostedCp": {
+        "min": 2402,
+        "max": 2507
+       },
+       "weather": [
+        "Windy"
+       ],
+       "status": "auto-read"
+      },
+      {
+       "slug": "latios",
+       "name": "Latios",
+       "shiny": false,
+       "types": [
+        "Dragon",
+        "Psychic"
+       ],
+       "cp": {
+        "min": 2090,
+        "max": 2178
+       },
+       "boostedCp": {
+        "min": 2613,
+        "max": 2723
+       },
+       "weather": [
+        "Windy"
+       ],
+       "status": "auto-read"
+      },
+      {
+       "slug": "heatran",
+       "name": "Heatran",
+       "shiny": false,
+       "types": [
+        "Fire",
+        "Steel"
+       ],
+       "cp": {
+        "min": 2058,
+        "max": 2145
+       },
+       "boostedCp": {
+        "min": 2573,
+        "max": 2681
+       },
+       "weather": [
+        "Sunny",
+        "Snow"
+       ],
+       "status": "auto-read"
+      },
+      {
+       "slug": "cobalion",
+       "name": "Cobalion",
+       "shiny": false,
+       "types": [
+        "Steel",
+        "Fighting"
+       ],
+       "cp": {
+        "min": 1649,
+        "max": 1727
+       },
+       "boostedCp": {
+        "min": 2061,
+        "max": 2159
+       },
+       "weather": [
+        "Snow",
+        "Cloudy"
+       ],
+       "status": "auto-read"
+      },
+      {
+       "slug": "terrakion",
+       "name": "Terrakion",
+       "shiny": false,
+       "types": [
+        "Rock",
+        "Fighting"
+       ],
+       "cp": {
+        "min": 2026,
+        "max": 2113
+       },
+       "boostedCp": {
+        "min": 2533,
+        "max": 2641
+       },
+       "weather": [
+        "Partly Cloudy",
+        "Cloudy"
+       ],
+       "status": "auto-read"
+      },
+      {
+       "slug": "virizion",
+       "name": "Virizion",
+       "shiny": false,
+       "types": [
+        "Grass",
+        "Fighting"
+       ],
+       "cp": {
+        "min": 1649,
+        "max": 1727
+       },
+       "boostedCp": {
+        "min": 2061,
+        "max": 2159
+       },
+       "weather": [
+        "Sunny",
+        "Cloudy"
+       ],
+       "status": "auto-read"
+      },
+      {
+       "slug": "regieleki",
+       "name": "Regieleki",
+       "shiny": false,
+       "types": [
+        "Electric"
+       ],
+       "cp": {
+        "min": 1524,
+        "max": 1602
+       },
+       "boostedCp": {
+        "min": 1905,
+        "max": 2002
+       },
+       "weather": [
+        "Rainy"
+       ],
+       "status": "auto-read"
+      },
+      {
+       "slug": "regidrago",
+       "name": "Regidrago",
+       "shiny": false,
+       "types": [
+        "Dragon"
+       ],
+       "cp": {
+        "min": 1614,
+        "max": 1699
+       },
+       "boostedCp": {
+        "min": 2017,
+        "max": 2124
+       },
+       "weather": [
+        "Windy"
+       ],
+       "status": "auto-read"
+      }
+     ]
+    },
+    {
+     "tier": "mega-raids",
+     "label": "Mega Raids",
+     "note": null,
+     "bosses": [
+      {
+       "slug": "gengar-mega",
+       "name": "Mega Gengar",
+       "shiny": false,
+       "types": [
+        "Ghost",
+        "Poison"
+       ],
+       "cp": {
+        "min": 1566,
+        "max": 1644
+       },
+       "boostedCp": {
+        "min": 1958,
+        "max": 2055
+       },
+       "weather": [
+        "Fog",
+        "Cloudy"
+       ],
+       "status": "auto-read"
+      }
+     ]
+    }
+   ],
+   "fallback": {
+    "status": "auto-read"
+   }
+  },
+  {
+   "id": "legendary-rotation-mega-gengar-december-2026",
+   "title": "Legendary Rotation and Mega Gengar in Raids",
+   "kind": "regular",
+   "start": {
+    "time": "2026-12-14T20:00:00",
+    "kind": "local"
+   },
+   "end": {
+    "time": "2026-12-15T22:00:00",
+    "kind": "local"
+   },
+   "tiers": [
+    {
+     "tier": "5",
+     "label": "5-Star Raids",
+     "note": "These Pokémon are part of the Seasonal rotation and will have scheduled appearances until December 15.",
+     "bosses": [
+      {
+       "slug": "latias",
+       "name": "Latias",
+       "shiny": false,
+       "types": [
+        "Dragon",
+        "Psychic"
+       ],
+       "cp": {
+        "min": 1921,
+        "max": 2006
+       },
+       "boostedCp": {
+        "min": 2402,
+        "max": 2507
+       },
+       "weather": [
+        "Windy"
+       ],
+       "status": "auto-read"
+      },
+      {
+       "slug": "latios",
+       "name": "Latios",
+       "shiny": false,
+       "types": [
+        "Dragon",
+        "Psychic"
+       ],
+       "cp": {
+        "min": 2090,
+        "max": 2178
+       },
+       "boostedCp": {
+        "min": 2613,
+        "max": 2723
+       },
+       "weather": [
+        "Windy"
+       ],
+       "status": "auto-read"
+      },
+      {
+       "slug": "heatran",
+       "name": "Heatran",
+       "shiny": false,
+       "types": [
+        "Fire",
+        "Steel"
+       ],
+       "cp": {
+        "min": 2058,
+        "max": 2145
+       },
+       "boostedCp": {
+        "min": 2573,
+        "max": 2681
+       },
+       "weather": [
+        "Sunny",
+        "Snow"
+       ],
+       "status": "auto-read"
+      },
+      {
+       "slug": "cobalion",
+       "name": "Cobalion",
+       "shiny": false,
+       "types": [
+        "Steel",
+        "Fighting"
+       ],
+       "cp": {
+        "min": 1649,
+        "max": 1727
+       },
+       "boostedCp": {
+        "min": 2061,
+        "max": 2159
+       },
+       "weather": [
+        "Snow",
+        "Cloudy"
+       ],
+       "status": "auto-read"
+      },
+      {
+       "slug": "terrakion",
+       "name": "Terrakion",
+       "shiny": false,
+       "types": [
+        "Rock",
+        "Fighting"
+       ],
+       "cp": {
+        "min": 2026,
+        "max": 2113
+       },
+       "boostedCp": {
+        "min": 2533,
+        "max": 2641
+       },
+       "weather": [
+        "Partly Cloudy",
+        "Cloudy"
+       ],
+       "status": "auto-read"
+      },
+      {
+       "slug": "virizion",
+       "name": "Virizion",
+       "shiny": false,
+       "types": [
+        "Grass",
+        "Fighting"
+       ],
+       "cp": {
+        "min": 1649,
+        "max": 1727
+       },
+       "boostedCp": {
+        "min": 2061,
+        "max": 2159
+       },
+       "weather": [
+        "Sunny",
+        "Cloudy"
+       ],
+       "status": "auto-read"
+      },
+      {
+       "slug": "regieleki",
+       "name": "Regieleki",
+       "shiny": false,
+       "types": [
+        "Electric"
+       ],
+       "cp": {
+        "min": 1524,
+        "max": 1602
+       },
+       "boostedCp": {
+        "min": 1905,
+        "max": 2002
+       },
+       "weather": [
+        "Rainy"
+       ],
+       "status": "auto-read"
+      },
+      {
+       "slug": "regidrago",
+       "name": "Regidrago",
+       "shiny": false,
+       "types": [
+        "Dragon"
+       ],
+       "cp": {
+        "min": 1614,
+        "max": 1699
+       },
+       "boostedCp": {
+        "min": 2017,
+        "max": 2124
+       },
+       "weather": [
+        "Windy"
+       ],
+       "status": "auto-read"
+      }
+     ]
+    },
+    {
+     "tier": "mega-raids",
+     "label": "Mega Raids",
+     "note": null,
+     "bosses": [
+      {
+       "slug": "gengar-mega",
+       "name": "Mega Gengar",
+       "shiny": false,
+       "types": [
+        "Ghost",
+        "Poison"
+       ],
+       "cp": {
+        "min": 1566,
+        "max": 1644
+       },
+       "boostedCp": {
+        "min": 1958,
+        "max": 2055
+       },
+       "weather": [
+        "Fog",
+        "Cloudy"
+       ],
+       "status": "auto-read"
+      }
+     ]
+    }
+   ],
+   "fallback": {
+    "status": "auto-read"
+   }
+  },
+  {
+   "id": "ho-oh-mega-skarmory-december-2026",
+   "title": "Ho-Oh and Mega Skarmory in Raids",
+   "kind": "regular",
+   "start": {
+    "time": "2026-12-16T06:00:00",
+    "kind": "local"
+   },
+   "end": {
+    "time": "2026-12-22T22:00:00",
+    "kind": "local"
+   },
+   "tiers": [
+    {
+     "tier": "5",
+     "label": "5-Star Raids",
+     "note": "Ho-Oh Raid Hour on Wednesday, December 16, from 6:00 p.m. to 7:00 p.m. local time.",
+     "bosses": [
+      {
+       "slug": "ho-oh",
+       "name": "Ho-Oh",
+       "shiny": false,
+       "types": [
+        "Fire",
+        "Flying"
+       ],
+       "cp": {
+        "min": 2119,
+        "max": 2207
+       },
+       "boostedCp": {
+        "min": 2649,
+        "max": 2759
+       },
+       "weather": [
+        "Sunny",
+        "Windy"
+       ],
+       "status": "auto-read"
+      }
+     ]
+    },
+    {
+     "tier": "mega-raids",
+     "label": "Mega Raids",
+     "note": null,
+     "bosses": [
+      {
+       "slug": "skarmory-mega",
+       "name": "Mega Skarmory",
+       "shiny": false,
+       "types": [
+        "Steel",
+        "Flying"
+       ],
+       "cp": {
+        "min": 1139,
+        "max": 1204
+       },
+       "boostedCp": {
+        "min": 1424,
+        "max": 1506
+       },
+       "weather": [
+        "Snow",
+        "Windy"
+       ],
+       "status": "auto-read"
+      }
+     ]
+    }
+   ],
+   "fallback": {
+    "status": "auto-read"
+   }
+  },
+  {
+   "id": "lugia-mega-glalie-december-2026",
+   "title": "Lugia and Mega Glalie in Raids",
+   "kind": "regular",
+   "start": {
+    "time": "2026-12-23T06:00:00",
+    "kind": "local"
+   },
+   "end": {
+    "time": "2026-12-29T22:00:00",
+    "kind": "local"
+   },
+   "tiers": [
+    {
+     "tier": "5",
+     "label": "5-Star Raids",
+     "note": "Lugia Raid Hour on Wednesday, December 23, from 6:00 p.m. to 7:00 p.m. local time.",
+     "bosses": [
+      {
+       "slug": "lugia",
+       "name": "Lugia",
+       "shiny": false,
+       "types": [
+        "Psychic",
+        "Flying"
+       ],
+       "cp": {
+        "min": 2028,
+        "max": 2115
+       },
+       "boostedCp": {
+        "min": 2535,
+        "max": 2645
+       },
+       "weather": [
+        "Windy"
+       ],
+       "status": "auto-read"
+      }
+     ]
+    },
+    {
+     "tier": "mega-raids",
+     "label": "Mega Raids",
+     "note": null,
+     "bosses": [
+      {
+       "slug": "glalie-mega",
+       "name": "Mega Glalie",
+       "shiny": false,
+       "types": [
+        "Ice"
+       ],
+       "cp": {
+        "min": 1138,
+        "max": 1203
+       },
+       "boostedCp": {
+        "min": 1423,
+        "max": 1504
+       },
+       "weather": [
+        "Snow"
+       ],
+       "status": "auto-read"
+      }
+     ]
+    }
+   ],
+   "fallback": {
+    "status": "auto-read"
+   }
+  },
+  {
+   "id": "therian-formes-mega-falinks-december-2026",
+   "title": "Tornadus, Thundurus, and Landorus (Therian Formes) and Mega Falinks in Raids",
+   "kind": "regular",
+   "start": {
+    "time": "2026-12-30T06:00:00",
+    "kind": "local"
+   },
+   "end": {
+    "time": "2027-01-05T22:00:00",
+    "kind": "local"
+   },
+   "tiers": [
+    {
+     "tier": "5",
+     "label": "5-Star Raids",
+     "note": "Raid Hour on Wednesday, December 30, from 6:00 p.m. to 7:00 p.m. local time.",
+     "bosses": [
+      {
+       "slug": "tornadus-therian",
+       "name": "Tornadus Therian",
+       "shiny": false,
+       "types": [
+        "Flying"
+       ],
+       "cp": {
+        "min": 1756,
+        "max": 1837
+       },
+       "boostedCp": {
+        "min": 2196,
+        "max": 2296
+       },
+       "weather": [
+        "Windy"
+       ],
+       "status": "auto-read"
+      },
+      {
+       "slug": "thundurus-therian",
+       "name": "Thundurus Therian",
+       "shiny": false,
+       "types": [
+        "Electric",
+        "Flying"
+       ],
+       "cp": {
+        "min": 2002,
+        "max": 2091
+       },
+       "boostedCp": {
+        "min": 2503,
+        "max": 2614
+       },
+       "weather": [
+        "Rainy",
+        "Windy"
+       ],
+       "status": "auto-read"
+      },
+      {
+       "slug": "landorus-therian",
+       "name": "Landorus Therian",
+       "shiny": false,
+       "types": [
+        "Ground",
+        "Flying"
+       ],
+       "cp": {
+        "min": 2151,
+        "max": 2241
+       },
+       "boostedCp": {
+        "min": 2688,
+        "max": 2801
+       },
+       "weather": [
+        "Sunny",
+        "Windy"
+       ],
+       "status": "auto-read"
+      }
+     ]
+    },
+    {
+     "tier": "mega-raids",
+     "label": "Mega Raids",
+     "note": null,
+     "bosses": [
+      {
+       "slug": "falinks-mega",
+       "name": "Mega Falinks",
+       "shiny": false,
+       "types": [
+        "Fighting"
+       ],
+       "cp": {
+        "min": 1278,
+        "max": 1347
+       },
+       "boostedCp": {
+        "min": 1598,
+        "max": 1683
+       },
+       "weather": [
+        "Cloudy"
+       ],
+       "status": "auto-read"
+      }
+     ]
+    }
+   ],
+   "fallback": {
+    "status": "auto-read"
+   }
+  },
+  {
    "id": "shadow-tornadus-incarnate-november-december-2026",
    "title": "Shadow Tornadus (Incarnate Forme) November–December 2026",
    "kind": "shadow",
@@ -480,6 +1920,49 @@
         "max": 2389
        },
        "weather": [
+        "Windy"
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "shadow-dialga-december-2026-january-2027",
+   "title": "Shadow Dialga December 2026–January 2027",
+   "kind": "shadow",
+   "start": {
+    "time": "2026-12-02T06:00:00",
+    "kind": "local"
+   },
+   "end": {
+    "time": "2027-01-05T22:00:00",
+    "kind": "local"
+   },
+   "tiers": [
+    {
+     "tier": "5",
+     "label": "5-Star Raids",
+     "note": null,
+     "bosses": [
+      {
+       "slug": "dialga-shadow",
+       "name": "Shadow Dialga",
+       "shiny": true,
+       "types": [
+        "Steel",
+        "Dragon"
+       ],
+       "cp": {
+        "min": 2145,
+        "max": 2307
+       },
+       "boostedCp": {
+        "min": 2682,
+        "max": 2884
+       },
+       "weather": [
+        "Snow",
         "Windy"
        ]
       }
