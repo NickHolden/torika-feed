@@ -495,7 +495,7 @@
       {
        "slug": "diglett-alola",
        "name": "Alolan Diglett",
-       "shiny": false,
+       "shiny": true,
        "types": [
         "Ground",
         "Steel"
@@ -517,7 +517,7 @@
       {
        "slug": "frillish",
        "name": "Frillish",
-       "shiny": false,
+       "shiny": true,
        "types": [
         "Water",
         "Ghost"
@@ -563,7 +563,7 @@
       {
        "slug": "sandygast",
        "name": "Sandygast",
-       "shiny": false,
+       "shiny": true,
        "types": [
         "Ghost",
         "Ground"
@@ -592,7 +592,7 @@
       {
        "slug": "pyukumuku",
        "name": "Pyukumuku",
-       "shiny": false,
+       "shiny": true,
        "types": [
         "Water"
        ],

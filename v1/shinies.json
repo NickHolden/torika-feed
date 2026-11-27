@@ -1593,6 +1593,14 @@
    }
   },
   {
+   "slug": "clefable-mega",
+   "name": "Mega Clefable",
+   "released": {
+    "time": "2026-11-28T00:00:00",
+    "kind": "local"
+   }
+  },
+  {
    "slug": "vulpix-alola",
    "name": "Alolan Vulpix",
    "released": {
